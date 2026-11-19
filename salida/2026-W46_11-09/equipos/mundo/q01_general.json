@@ -1,0 +1,414 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 32589,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 32589,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 32589,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1971,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1912,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3585,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8298,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8165,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5110,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3558,
+     "label": "2026-11-15 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 20468,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 20468,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4882,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4013,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3098,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2412,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2469,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1997,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1609,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "uniqueUsers",
+  "total": 26597,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 26597,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 26597,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1663,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1672,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3266,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 6663,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 7178,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4662,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3295,
+     "label": "2026-11-15 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 15930,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 15930,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4117,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3314,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2566,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2111,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2129,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1722,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1374,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 97.94,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 97.94,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 97.94,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 121.91,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 105.48,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 131.1,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 102.82,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 94.39,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 82.33,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 56.1,
+     "label": "2026-11-15 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 105.48,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 105.48,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 106.7,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 108.53,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 121.56,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 103.78,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 113.7,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 74.74,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 78.79,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "newArticles",
+  "total": 57,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 57,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 57,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 9,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 10,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 11,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 6,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5,
+     "label": "2026-11-15 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 56,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 56,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 9,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 7,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  }
+ }
+]

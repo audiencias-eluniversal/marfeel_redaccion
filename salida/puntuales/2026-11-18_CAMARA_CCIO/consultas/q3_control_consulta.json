@@ -1,0 +1,38 @@
+{
+ "dates": {
+  "groupedBy": "daily",
+  "range": {
+   "start": "2026-11-06",
+   "end": "2026-11-18"
+  }
+ },
+ "filters": [
+  {
+   "filter": "domain",
+   "op": "eq",
+   "value": [
+    "www.eluniversal.com.co"
+   ]
+  },
+  {
+   "filter": "url",
+   "op": "eq",
+   "value": [
+    "https://www.eluniversal.com.co/regional/bolivar/2026/11/06/322-negocios-dejan-la-informalidad-en-calamar-y-la-zona-rio-asi-lo-lograron/"
+   ]
+  }
+ ],
+ "metrics": [
+  "pageViewsTotal",
+  "uniqueUsers"
+ ],
+ "order": {
+  "metric": "uniqueUsers",
+  "sort": "DESC"
+ },
+ "granularity": "none",
+ "discardOld": false,
+ "from": 0,
+ "limit": 500,
+ "groupBy": []
+}

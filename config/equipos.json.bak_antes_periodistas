@@ -1,0 +1,154 @@
+{
+  "entretenimiento": {
+    "nombre": "Entretenimiento",
+    "tagFamily": [
+      6961602867,
+      6961635296,
+      6961661940,
+      6999832350,
+      7201619325
+    ],
+    "etiquetas": [
+      "06o8i4h1_lmb",
+      "22c1x5q8_acm",
+      "26n0l8b7_dah",
+      "47j4g5d2_mcs",
+      "50n4c5v1_amc"
+    ]
+  },
+  "sucesos": {
+    "nombre": "Sucesos",
+    "tagFamily": [
+      6954401444,
+      6961710902,
+      6961607591,
+      6974700784
+    ],
+    "etiquetas": [
+      "02j2s7m0_etp",
+      "25o6b1q7_daz",
+      "34f3w2i6_lab",
+      "41u9a1z1_zbo"
+    ]
+  },
+  "locales": {
+    "nombre": "Locales",
+    "tagFamily": [
+      6962504772,
+      6999505460,
+      6993931374,
+      6961608808,
+      6999456992
+    ],
+    "etiquetas": [
+      "09j6h5g0_wmg",
+      "48v9t6r1_bfr",
+      "44u3l19f_epp",
+      "33y2v2r4_jgo",
+      "49x3n6i8_saa"
+    ]
+  },
+  "web": {
+    "nombre": "Web",
+    "tagFamily": [
+      6974820169,
+      6962143103,
+      6974778654,
+      6961731696,
+      6993956379,
+      6993910968,
+      6959720528,
+      7290226008
+    ],
+    "etiquetas": [
+      "40u7t1t7_gam",
+      "31k5g0o2_jcm",
+      "27j0y6o0_eps",
+      "32w0x5z5_jsr",
+      "455vq2q8_kpm",
+      "46k0d2v4_vch",
+      "03i4v9g6_ggg",
+      "51x4y6f3_for"
+    ],
+    "filtros_extra": [
+      {
+        "filter": "section",
+        "op": "neq",
+        "value": [
+          49937656
+        ]
+      }
+    ],
+    "nota": "Se analiza sin incluir la sección Loterias (id 49937656).",
+    "exclusion_urls": {
+      "seccion": 35503659,
+      "url_like_cualquiera": [
+        "loteria",
+        "chance"
+      ],
+      "url_like_todos": [
+        "resultado"
+      ],
+      "nota": "Excluye las URL de la sección colombia cuya ruta contiene (loteria o chance) y resultado. La API no anida OR entre filtros, por eso se lista con una consulta previa y se excluye con url neq."
+    }
+  },
+  "monetizacion": {
+    "nombre": "Monetización",
+    "tagFamily": [
+      6984803484,
+      6964930484
+    ],
+    "etiquetas": [
+      "73k6j9w1_cc2",
+      "43e1b4g6_cap"
+    ]
+  },
+  "deportes": {
+    "nombre": "Deportes",
+    "filtros_extra": [
+      {
+        "filter": "section",
+        "op": "eq",
+        "value": [
+          35503658
+        ]
+      }
+    ],
+    "nota": "Equipo definido solo por la sección deportes (id 35503658), sin tagFamily. La sección Fútbol (id 49601111) es aparte y no se incluye."
+  },
+  "editor-economia": {
+    "nombre": "Editor Economía",
+    "tagFamily": [
+      6954401445
+    ],
+    "etiquetas": [
+      "04z7w7l8_hfa"
+    ]
+  },
+  "economia": {
+    "nombre": "Economía",
+    "filtros_extra": [
+      {
+        "filter": "section",
+        "op": "eq",
+        "value": [
+          35503673
+        ]
+      }
+    ],
+    "nota": "Equipo definido solo por la sección economica (id 35503673), sin tagFamily."
+  },
+  "mundo": {
+    "nombre": "Mundo",
+    "filtros_extra": [
+      {
+        "filter": "section",
+        "op": "eq",
+        "value": [
+          35503667
+        ]
+      }
+    ],
+    "nota": "Equipo definido solo por la sección mundo (id 35503667), sin tagFamily."
+  }
+}

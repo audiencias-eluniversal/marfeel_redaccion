@@ -1,0 +1,2822 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 24945,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 24945,
+   "values": [
+    {
+     "key": "6025cb67846bc8556ff1e466a8404faa",
+     "total": 4554,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "29cc5fa5dcfeee36aad49d24398c8abf",
+     "total": 2745,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/28/el-excongresista-palenquero-pedro-adan-torres-rindio-homenaje-en-vida-a-kid-pambele/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/28/el-excongresista-palenquero-pedro-adan-torres-rindio-homenaje-en-vida-a-kid-pambele/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b2b6f18a0e44af9ef17daf2d66e4d0a0",
+     "total": 1570,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/paseo-de-la-castellana-inicia-sus-obras-de-ampliacion/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/paseo-de-la-castellana-inicia-sus-obras-de-ampliacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2ca3b817980625e2f06bf658146bdd90",
+     "total": 1003,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/historia-del-pasaje-dager-una-joya-republicana-del-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/historia-del-pasaje-dager-una-joya-republicana-del-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "48b95282cc1e51e68bbcb7a8f79ebc26",
+     "total": 977,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/28/estas-son-las-9-empresas-de-cartagena-y-bolivar-que-buscan-proveedores-y-tecnologia-en-china/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/28/estas-son-las-9-empresas-de-cartagena-y-bolivar-que-buscan-proveedores-y-tecnologia-en-china/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7827c6c53c46c2eb8860837e7f149885",
+     "total": 963,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/27/rancho-verde-lotes-campestres-desde-26-millones-listos-para-construir-tu-casa-finca/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/27/rancho-verde-lotes-campestres-desde-26-millones-listos-para-construir-tu-casa-finca/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "51a779505fe85c88be71b07b54e8f339",
+     "total": 771,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2025/09/09/festivos-en-colombia-2026-calendario-completo-de-feriados-y-fechas-especiales/",
+       "value": "https://www.eluniversal.com.co/colombia/2025/09/09/festivos-en-colombia-2026-calendario-completo-de-feriados-y-fechas-especiales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c547211dd48bbc0f7d8418861832a7a2",
+     "total": 693,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/paisa-parrilla-el-restaurante-que-trae-la-sazon-paisa-a-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/paisa-parrilla-el-restaurante-que-trae-la-sazon-paisa-a-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f659b62a4f407703f593928ac4904f8c",
+     "total": 597,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/alcaldia-de-cartagena-abre-dialogo-sobre-el-futuro-de-bazurto-y-los-mercados-publicos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/alcaldia-de-cartagena-abre-dialogo-sobre-el-futuro-de-bazurto-y-los-mercados-publicos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2bf091fbb3207b35286b29ec99809e7f",
+     "total": 594,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/09/09/llamadas-de-spam-la-senal-que-indica-que-puede-ser-una-estafa/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/09/09/llamadas-de-spam-la-senal-que-indica-que-puede-ser-una-estafa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4aeec6c17593a5a361f5f27120222cb1",
+     "total": 377,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/mas-impulso-al-tejido-empresarial-asi-llega-la-camara-de-comercio-de-cartagena-a-sus-111-anos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/mas-impulso-al-tejido-empresarial-asi-llega-la-camara-de-comercio-de-cartagena-a-sus-111-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "81d6230da11f0b9137a9813221f69982",
+     "total": 370,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/tu-perfil-de-instagram-ya-es-tu-hoja-de-vida-aunque-no-lo-sepas/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/tu-perfil-de-instagram-ya-es-tu-hoja-de-vida-aunque-no-lo-sepas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "39f74ba8aca4d0a5f412137222163c7b",
+     "total": 364,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/busca-vivienda-en-la-zona-norte-de-cartagena-verdenzza-esta-por-cerrar-su-primera-etapa/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/busca-vivienda-en-la-zona-norte-de-cartagena-verdenzza-esta-por-cerrar-su-primera-etapa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "92d287d28053737faeddddab68eff2ad",
+     "total": 344,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/30/invertir-en-la-zona-norte-de-cartagena-lo-que-debe-saber/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/30/invertir-en-la-zona-norte-de-cartagena-lo-que-debe-saber/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "af7d88e84c95167d5551f85973341a10",
+     "total": 282,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/22/disfruta-el-bando-de-la-independencia-desde-el-palco-de-el-universal-y-hotel-las-americas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/22/disfruta-el-bando-de-la-independencia-desde-el-palco-de-el-universal-y-hotel-las-americas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "41cc39796f92cfcb2f0119949d8fee79",
+     "total": 256,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/29/daniel-habif-llega-a-cartagena-con-una-invitacion-para-transformar-el-ser-y-la-vida/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/29/daniel-habif-llega-a-cartagena-con-una-invitacion-para-transformar-el-ser-y-la-vida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0dd018756e07ec82eeb7060386b884a8",
+     "total": 249,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/18/gran-malecon-del-mar-solo-falta-un-mes/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/18/gran-malecon-del-mar-solo-falta-un-mes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e7fb8343e4ced4f1911d9d923c6bde67",
+     "total": 231,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/07/claves-para-ahorrar-energia-durante-el-fenomeno-de-el-nino/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/07/claves-para-ahorrar-energia-durante-el-fenomeno-de-el-nino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "aeef81b9c3f042d5cb36c2f6615fe157",
+     "total": 222,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/salud/2026/10/30/isquemia-cerebral-aprende-a-identificar-las-senales-de-alerta-con-la-regla-corre/",
+       "value": "https://www.eluniversal.com.co/salud/2026/10/30/isquemia-cerebral-aprende-a-identificar-las-senales-de-alerta-con-la-regla-corre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "26d5dd0e0c2ee5e0926c188d205f5c3f",
+     "total": 214,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/nadie-tiene-todo-resuelto-a-los-17-como-elegir-carrera-sin-ahogarte-en-la-presion/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/nadie-tiene-todo-resuelto-a-los-17-como-elegir-carrera-sin-ahogarte-en-la-presion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5cc0120d0db4309650c7de0e8c704977",
+     "total": 181,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/no-necesitas-plata-ni-irte-a-vivir-afuera-para-estudiar-en-el-exterior-esto-es-real/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/no-necesitas-plata-ni-irte-a-vivir-afuera-para-estudiar-en-el-exterior-esto-es-real/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4bbdbc2a423fc4cf7c0d462d73c1b9f1",
+     "total": 166,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/06/16/diez-tips-infalibles-para-ahorrar-energia-en-casa-y-bajar-el-valor-de-la-factura/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/06/16/diez-tips-infalibles-para-ahorrar-energia-en-casa-y-bajar-el-valor-de-la-factura/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d9629bfd7c72deb034131786fded4f7a",
+     "total": 149,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/22/cartagena-mas-alla-de-las-murallas-los-espacios-renovados-a-traves-de-un-reportero-grafico/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/22/cartagena-mas-alla-de-las-murallas-los-espacios-renovados-a-traves-de-un-reportero-grafico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "36add8eeb33478c6b856165058356297",
+     "total": 116,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/02/06/estas-son-las-notarias-de-turno-en-cartagena-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/02/06/estas-son-las-notarias-de-turno-en-cartagena-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "424c27fd48527ec9d429186e07bb69ef",
+     "total": 114,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/guajira/2025/03/10/la-guajira-un-destino-unico-para-vivir-la-semana-santa-entre-desierto-mar-y-cultura-indigena/",
+       "value": "https://www.eluniversal.com.co/regional/guajira/2025/03/10/la-guajira-un-destino-unico-para-vivir-la-semana-santa-entre-desierto-mar-y-cultura-indigena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "66a98dcd38d47ccfdce5802957f87377",
+     "total": 113,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/guajira/2026/07/16/cuando-aprender-tambien-alimenta-la-iniciativa-que-transforma-comunidades-en-la-alta-guajira/",
+       "value": "https://www.eluniversal.com.co/regional/guajira/2026/07/16/cuando-aprender-tambien-alimenta-la-iniciativa-que-transforma-comunidades-en-la-alta-guajira/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "687ccfb54f49d0cf7c1134fcab311923",
+     "total": 111,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/salud/2026/10/22/asi-reemplazan-una-valvula-cardiaca-en-cartagena-sin-abrir-el-pecho/",
+       "value": "https://www.eluniversal.com.co/salud/2026/10/22/asi-reemplazan-una-valvula-cardiaca-en-cartagena-sin-abrir-el-pecho/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "68483fe0c72056099ba54a5a2b168584",
+     "total": 108,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/magdalena/2026/02/12/estas-son-las-notarias-de-turno-en-santa-marta-2026/",
+       "value": "https://www.eluniversal.com.co/regional/magdalena/2026/02/12/estas-son-las-notarias-de-turno-en-santa-marta-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0b82764def389e2397b788f412b85cf3",
+     "total": 104,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/bar-neo7-gastronomia-y-entretenimiento-para-disfrutar-la-ruta-90-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/bar-neo7-gastronomia-y-entretenimiento-para-disfrutar-la-ruta-90-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1b2a18933bee50897b8adeb37d76bca2",
+     "total": 97,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/06/hub-caribe-competitivo-que-es-y-como-busca-conectar-a-las-empresas-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/06/hub-caribe-competitivo-que-es-y-como-busca-conectar-a-las-empresas-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cbff00bed6bd556e29ccb30ffa47c428",
+     "total": 89,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/27/cartagena-si-emprende-convoca-a-empresarios-a-su-nuevo-club-de-negocios-para-impulsar-ventas-y-cerrar-el-ano-con-estrategia/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/27/cartagena-si-emprende-convoca-a-empresarios-a-su-nuevo-club-de-negocios-para-impulsar-ventas-y-cerrar-el-ano-con-estrategia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "53c234290f008f865062e09d0ae34a07",
+     "total": 89,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/cordoba/2026/02/13/estas-son-las-notarias-de-turno-en-monteria-2026/",
+       "value": "https://www.eluniversal.com.co/regional/cordoba/2026/02/13/estas-son-las-notarias-de-turno-en-monteria-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "999f23cfda9ceb3d86f38891eaddd650",
+     "total": 88,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/30/huc-reune-al-sector-salud-para-impulsar-iniciativas-ambientales/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/30/huc-reune-al-sector-salud-para-impulsar-iniciativas-ambientales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8bec5a157ff783d9f91485b62ce998e5",
+     "total": 86,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/ocio/2025/04/30/cuando-ocurriran-los-tres-dias-de-oscuridad-es-un-mito-o-una-advertencia-real/",
+       "value": "https://www.eluniversal.com.co/ocio/2025/04/30/cuando-ocurriran-los-tres-dias-de-oscuridad-es-un-mito-o-una-advertencia-real/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8968493277412f13eae8cd6f8cc1d5a6",
+     "total": 84,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/magdalena/2025/03/14/semana-santa-en-el-magdalena-tradicion-fe-y-aventura-en-un-solo-destino/",
+       "value": "https://www.eluniversal.com.co/regional/magdalena/2025/03/14/semana-santa-en-el-magdalena-tradicion-fe-y-aventura-en-un-solo-destino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "da37e0b5d2bf9c62dfba320ba6b7b4b5",
+     "total": 82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/08/03/pizzeria-della-chiesa-un-pedacito-de-napoles-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/08/03/pizzeria-della-chiesa-un-pedacito-de-napoles-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b1af97ffffd2a7ac7e0ec56ad283f538",
+     "total": 81,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/arme-mi-portafolio-en-una-noche-con-ia-asi-estudian-hoy-los-que-van-un-paso-adelante/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/arme-mi-portafolio-en-una-noche-con-ia-asi-estudian-hoy-los-que-van-un-paso-adelante/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f64687e36a51aaf2da2ebcffafa1d8f9",
+     "total": 81,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/cordoba/2025/03/05/cordoba-sabias-que-en-este-departamento-puedes-caminar-entre-jaguares/",
+       "value": "https://www.eluniversal.com.co/regional/cordoba/2025/03/05/cordoba-sabias-que-en-este-departamento-puedes-caminar-entre-jaguares/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f1b07e516b766d2c2a76c744f669e68",
+     "total": 80,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/18/cartagena-tiene-un-directorio-para-artistas-y-emprendedores-culturales-asi-funciona/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/18/cartagena-tiene-un-directorio-para-artistas-y-emprendedores-culturales-asi-funciona/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3b1a1aa99545090d49af35057aeed6ca",
+     "total": 72,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/06/23/como-hacer-el-traspaso-de-un-carro-en-cartagena-guia-completa/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/06/23/como-hacer-el-traspaso-de-un-carro-en-cartagena-guia-completa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "55692d00bb05c92d1aef5695037f29cf",
+     "total": 72,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/ocio/2025/10/07/como-rezar-la-treintena-a-san-jose-paso-a-paso-para-recibir-su-proteccion/",
+       "value": "https://www.eluniversal.com.co/ocio/2025/10/07/como-rezar-la-treintena-a-san-jose-paso-a-paso-para-recibir-su-proteccion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "21bca18ab31a1ace75df6fec4f127594",
+     "total": 64,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/05/27/gastronomia-de-cartagena-10-platos-tipicos-que-no-puedes-dejar-de-probar/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/05/27/gastronomia-de-cartagena-10-platos-tipicos-que-no-puedes-dejar-de-probar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6204f67e0ec82c473de005e9e2f7649d",
+     "total": 61,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/28/bicentenario-tiene-el-primer-colegio-bilingue-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/28/bicentenario-tiene-el-primer-colegio-bilingue-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "70b10bdb1882a736dcd174f6c2eaceb1",
+     "total": 58,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/09/17/festivos-colombia-2027-calendario-completo-mes-a-mes/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/09/17/festivos-colombia-2027-calendario-completo-mes-a-mes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "91a4dd0c0cc3df8f994fc2bf1b6287be",
+     "total": 57,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2025/11/24/black-friday-2025-como-comprar-seguro-en-amazon-shein-y-temu-sin-pagar-de-mas/",
+       "value": "https://www.eluniversal.com.co/colombia/2025/11/24/black-friday-2025-como-comprar-seguro-en-amazon-shein-y-temu-sin-pagar-de-mas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe927800dacc5feb07c6433a89e10a92",
+     "total": 57,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2025/12/26/asi-sera-el-nuevo-aumento-de-peajes-en-colombia-en-2026-segun-mintransporte/",
+       "value": "https://www.eluniversal.com.co/colombia/2025/12/26/asi-sera-el-nuevo-aumento-de-peajes-en-colombia-en-2026-segun-mintransporte/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bc070f0d5365fd999b2c867de2ede6f9",
+     "total": 53,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/08/07/10-reformas-y-cambios-que-marcaran-el-gobierno-de-abelardo-de-la-espriella/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/08/07/10-reformas-y-cambios-que-marcaran-el-gobierno-de-abelardo-de-la-espriella/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "112abe9c36e25b15d91cf9ff00ce19e3",
+     "total": 48,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/06/24/que-impuestos-se-pagan-al-vender-una-casa-en-colombia/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/06/24/que-impuestos-se-pagan-al-vender-una-casa-en-colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "74840299933445aeb14787f15d3e61f0",
+     "total": 46,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/03/hospital-de-canapote-medicina-integral-para-cuidar-la-vida-en-el-barrio/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/03/hospital-de-canapote-medicina-integral-para-cuidar-la-vida-en-el-barrio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "45be12cc09b8b60b24d60c073c23736f",
+     "total": 42,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/16/musical-inspirado-en-toy-story-llega-a-cartagena-fecha-precios-y-donde-comprar-boletas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/16/musical-inspirado-en-toy-story-llega-a-cartagena-fecha-precios-y-donde-comprar-boletas/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 438,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 0,
+     "51a779505fe85c88be71b07b54e8f339": 203,
+     "c547211dd48bbc0f7d8418861832a7a2": 280,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 86,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 0,
+     "39f74ba8aca4d0a5f412137222163c7b": 199,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 24,
+     "41cc39796f92cfcb2f0119949d8fee79": 3,
+     "0dd018756e07ec82eeb7060386b884a8": 52,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 66,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 19,
+     "d9629bfd7c72deb034131786fded4f7a": 27,
+     "36add8eeb33478c6b856165058356297": 2,
+     "424c27fd48527ec9d429186e07bb69ef": 19,
+     "66a98dcd38d47ccfdce5802957f87377": 18,
+     "687ccfb54f49d0cf7c1134fcab311923": 37,
+     "68483fe0c72056099ba54a5a2b168584": 10,
+     "0b82764def389e2397b788f412b85cf3": 79,
+     "1b2a18933bee50897b8adeb37d76bca2": 13,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 7,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 2,
+     "8968493277412f13eae8cd6f8cc1d5a6": 9,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 47,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 6,
+     "3f1b07e516b766d2c2a76c744f669e68": 5,
+     "3b1a1aa99545090d49af35057aeed6ca": 19,
+     "55692d00bb05c92d1aef5695037f29cf": 6,
+     "21bca18ab31a1ace75df6fec4f127594": 19,
+     "6204f67e0ec82c473de005e9e2f7649d": 15,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 5,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 9,
+     "fe927800dacc5feb07c6433a89e10a92": 11,
+     "bc070f0d5365fd999b2c867de2ede6f9": 5,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 7,
+     "74840299933445aeb14787f15d3e61f0": 7,
+     "45be12cc09b8b60b24d60c073c23736f": 8,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 3220,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 350,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 560,
+     "51a779505fe85c88be71b07b54e8f339": 117,
+     "c547211dd48bbc0f7d8418861832a7a2": 127,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 67,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 0,
+     "39f74ba8aca4d0a5f412137222163c7b": 49,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 132,
+     "41cc39796f92cfcb2f0119949d8fee79": 0,
+     "0dd018756e07ec82eeb7060386b884a8": 38,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 41,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 23,
+     "d9629bfd7c72deb034131786fded4f7a": 18,
+     "36add8eeb33478c6b856165058356297": 7,
+     "424c27fd48527ec9d429186e07bb69ef": 16,
+     "66a98dcd38d47ccfdce5802957f87377": 20,
+     "687ccfb54f49d0cf7c1134fcab311923": 18,
+     "68483fe0c72056099ba54a5a2b168584": 9,
+     "0b82764def389e2397b788f412b85cf3": 12,
+     "1b2a18933bee50897b8adeb37d76bca2": 10,
+     "cbff00bed6bd556e29ccb30ffa47c428": 79,
+     "53c234290f008f865062e09d0ae34a07": 11,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 8,
+     "8968493277412f13eae8cd6f8cc1d5a6": 9,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 29,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 11,
+     "3f1b07e516b766d2c2a76c744f669e68": 11,
+     "3b1a1aa99545090d49af35057aeed6ca": 14,
+     "55692d00bb05c92d1aef5695037f29cf": 11,
+     "21bca18ab31a1ace75df6fec4f127594": 24,
+     "6204f67e0ec82c473de005e9e2f7649d": 6,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 7,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 9,
+     "fe927800dacc5feb07c6433a89e10a92": 8,
+     "bc070f0d5365fd999b2c867de2ede6f9": 2,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 7,
+     "74840299933445aeb14787f15d3e61f0": 10,
+     "45be12cc09b8b60b24d60c073c23736f": 4,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 628,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 2560,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 106,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 566,
+     "7827c6c53c46c2eb8860837e7f149885": 143,
+     "51a779505fe85c88be71b07b54e8f339": 121,
+     "c547211dd48bbc0f7d8418861832a7a2": 81,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 79,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 235,
+     "39f74ba8aca4d0a5f412137222163c7b": 37,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 39,
+     "41cc39796f92cfcb2f0119949d8fee79": 2,
+     "0dd018756e07ec82eeb7060386b884a8": 47,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 12,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 127,
+     "5cc0120d0db4309650c7de0e8c704977": 85,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 22,
+     "d9629bfd7c72deb034131786fded4f7a": 31,
+     "36add8eeb33478c6b856165058356297": 8,
+     "424c27fd48527ec9d429186e07bb69ef": 18,
+     "66a98dcd38d47ccfdce5802957f87377": 15,
+     "687ccfb54f49d0cf7c1134fcab311923": 22,
+     "68483fe0c72056099ba54a5a2b168584": 14,
+     "0b82764def389e2397b788f412b85cf3": 3,
+     "1b2a18933bee50897b8adeb37d76bca2": 20,
+     "cbff00bed6bd556e29ccb30ffa47c428": 7,
+     "53c234290f008f865062e09d0ae34a07": 15,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 17,
+     "8968493277412f13eae8cd6f8cc1d5a6": 15,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 1,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 22,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 12,
+     "3f1b07e516b766d2c2a76c744f669e68": 6,
+     "3b1a1aa99545090d49af35057aeed6ca": 14,
+     "55692d00bb05c92d1aef5695037f29cf": 11,
+     "21bca18ab31a1ace75df6fec4f127594": 8,
+     "6204f67e0ec82c473de005e9e2f7649d": 12,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 8,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 5,
+     "fe927800dacc5feb07c6433a89e10a92": 4,
+     "bc070f0d5365fd999b2c867de2ede6f9": 2,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 5,
+     "74840299933445aeb14787f15d3e61f0": 8,
+     "45be12cc09b8b60b24d60c073c23736f": 10,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 311,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 143,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 1395,
+     "2ca3b817980625e2f06bf658146bdd90": 41,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 172,
+     "7827c6c53c46c2eb8860837e7f149885": 88,
+     "51a779505fe85c88be71b07b54e8f339": 93,
+     "c547211dd48bbc0f7d8418861832a7a2": 71,
+     "f659b62a4f407703f593928ac4904f8c": 448,
+     "2bf091fbb3207b35286b29ec99809e7f": 73,
+     "4aeec6c17593a5a361f5f27120222cb1": 264,
+     "81d6230da11f0b9137a9813221f69982": 56,
+     "39f74ba8aca4d0a5f412137222163c7b": 30,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 26,
+     "41cc39796f92cfcb2f0119949d8fee79": 222,
+     "0dd018756e07ec82eeb7060386b884a8": 42,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 41,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 25,
+     "5cc0120d0db4309650c7de0e8c704977": 37,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 29,
+     "d9629bfd7c72deb034131786fded4f7a": 14,
+     "36add8eeb33478c6b856165058356297": 9,
+     "424c27fd48527ec9d429186e07bb69ef": 19,
+     "66a98dcd38d47ccfdce5802957f87377": 17,
+     "687ccfb54f49d0cf7c1134fcab311923": 21,
+     "68483fe0c72056099ba54a5a2b168584": 15,
+     "0b82764def389e2397b788f412b85cf3": 3,
+     "1b2a18933bee50897b8adeb37d76bca2": 21,
+     "cbff00bed6bd556e29ccb30ffa47c428": 2,
+     "53c234290f008f865062e09d0ae34a07": 12,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 14,
+     "8968493277412f13eae8cd6f8cc1d5a6": 12,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 1,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 21,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 16,
+     "3f1b07e516b766d2c2a76c744f669e68": 11,
+     "3b1a1aa99545090d49af35057aeed6ca": 8,
+     "55692d00bb05c92d1aef5695037f29cf": 12,
+     "21bca18ab31a1ace75df6fec4f127594": 2,
+     "6204f67e0ec82c473de005e9e2f7649d": 9,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 7,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 9,
+     "fe927800dacc5feb07c6433a89e10a92": 5,
+     "bc070f0d5365fd999b2c867de2ede6f9": 7,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 6,
+     "74840299933445aeb14787f15d3e61f0": 8,
+     "45be12cc09b8b60b24d60c073c23736f": 6,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 172,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 27,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 122,
+     "2ca3b817980625e2f06bf658146bdd90": 28,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 97,
+     "7827c6c53c46c2eb8860837e7f149885": 76,
+     "51a779505fe85c88be71b07b54e8f339": 106,
+     "c547211dd48bbc0f7d8418861832a7a2": 52,
+     "f659b62a4f407703f593928ac4904f8c": 117,
+     "2bf091fbb3207b35286b29ec99809e7f": 125,
+     "4aeec6c17593a5a361f5f27120222cb1": 73,
+     "81d6230da11f0b9137a9813221f69982": 49,
+     "39f74ba8aca4d0a5f412137222163c7b": 23,
+     "92d287d28053737faeddddab68eff2ad": 242,
+     "af7d88e84c95167d5551f85973341a10": 25,
+     "41cc39796f92cfcb2f0119949d8fee79": 14,
+     "0dd018756e07ec82eeb7060386b884a8": 41,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 39,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 136,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 20,
+     "5cc0120d0db4309650c7de0e8c704977": 22,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 34,
+     "d9629bfd7c72deb034131786fded4f7a": 19,
+     "36add8eeb33478c6b856165058356297": 61,
+     "424c27fd48527ec9d429186e07bb69ef": 13,
+     "66a98dcd38d47ccfdce5802957f87377": 17,
+     "687ccfb54f49d0cf7c1134fcab311923": 5,
+     "68483fe0c72056099ba54a5a2b168584": 27,
+     "0b82764def389e2397b788f412b85cf3": 2,
+     "1b2a18933bee50897b8adeb37d76bca2": 13,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 16,
+     "999f23cfda9ceb3d86f38891eaddd650": 77,
+     "8bec5a157ff783d9f91485b62ce998e5": 21,
+     "8968493277412f13eae8cd6f8cc1d5a6": 14,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 2,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 18,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 12,
+     "3f1b07e516b766d2c2a76c744f669e68": 14,
+     "3b1a1aa99545090d49af35057aeed6ca": 8,
+     "55692d00bb05c92d1aef5695037f29cf": 8,
+     "21bca18ab31a1ace75df6fec4f127594": 5,
+     "6204f67e0ec82c473de005e9e2f7649d": 8,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 13,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 9,
+     "fe927800dacc5feb07c6433a89e10a92": 9,
+     "bc070f0d5365fd999b2c867de2ede6f9": 22,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 6,
+     "74840299933445aeb14787f15d3e61f0": 5,
+     "45be12cc09b8b60b24d60c073c23736f": 3,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 117,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 12,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 38,
+     "2ca3b817980625e2f06bf658146bdd90": 29,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 87,
+     "7827c6c53c46c2eb8860837e7f149885": 52,
+     "51a779505fe85c88be71b07b54e8f339": 56,
+     "c547211dd48bbc0f7d8418861832a7a2": 44,
+     "f659b62a4f407703f593928ac4904f8c": 20,
+     "2bf091fbb3207b35286b29ec99809e7f": 83,
+     "4aeec6c17593a5a361f5f27120222cb1": 24,
+     "81d6230da11f0b9137a9813221f69982": 21,
+     "39f74ba8aca4d0a5f412137222163c7b": 19,
+     "92d287d28053737faeddddab68eff2ad": 90,
+     "af7d88e84c95167d5551f85973341a10": 14,
+     "41cc39796f92cfcb2f0119949d8fee79": 13,
+     "0dd018756e07ec82eeb7060386b884a8": 24,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 16,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 14,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 24,
+     "5cc0120d0db4309650c7de0e8c704977": 25,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 20,
+     "d9629bfd7c72deb034131786fded4f7a": 18,
+     "36add8eeb33478c6b856165058356297": 28,
+     "424c27fd48527ec9d429186e07bb69ef": 16,
+     "66a98dcd38d47ccfdce5802957f87377": 12,
+     "687ccfb54f49d0cf7c1134fcab311923": 5,
+     "68483fe0c72056099ba54a5a2b168584": 19,
+     "0b82764def389e2397b788f412b85cf3": 0,
+     "1b2a18933bee50897b8adeb37d76bca2": 12,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 16,
+     "999f23cfda9ceb3d86f38891eaddd650": 5,
+     "8bec5a157ff783d9f91485b62ce998e5": 7,
+     "8968493277412f13eae8cd6f8cc1d5a6": 14,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 2,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 11,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 12,
+     "3f1b07e516b766d2c2a76c744f669e68": 14,
+     "3b1a1aa99545090d49af35057aeed6ca": 7,
+     "55692d00bb05c92d1aef5695037f29cf": 4,
+     "21bca18ab31a1ace75df6fec4f127594": 1,
+     "6204f67e0ec82c473de005e9e2f7649d": 6,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 13,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 7,
+     "fe927800dacc5feb07c6433a89e10a92": 13,
+     "bc070f0d5365fd999b2c867de2ede6f9": 13,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 12,
+     "74840299933445aeb14787f15d3e61f0": 6,
+     "45be12cc09b8b60b24d60c073c23736f": 5,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 107,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 3,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 15,
+     "2ca3b817980625e2f06bf658146bdd90": 11,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 55,
+     "7827c6c53c46c2eb8860837e7f149885": 44,
+     "51a779505fe85c88be71b07b54e8f339": 75,
+     "c547211dd48bbc0f7d8418861832a7a2": 38,
+     "f659b62a4f407703f593928ac4904f8c": 13,
+     "2bf091fbb3207b35286b29ec99809e7f": 81,
+     "4aeec6c17593a5a361f5f27120222cb1": 16,
+     "81d6230da11f0b9137a9813221f69982": 9,
+     "39f74ba8aca4d0a5f412137222163c7b": 7,
+     "92d287d28053737faeddddab68eff2ad": 12,
+     "af7d88e84c95167d5551f85973341a10": 22,
+     "41cc39796f92cfcb2f0119949d8fee79": 2,
+     "0dd018756e07ec82eeb7060386b884a8": 5,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 17,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 72,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 18,
+     "5cc0120d0db4309650c7de0e8c704977": 12,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 19,
+     "d9629bfd7c72deb034131786fded4f7a": 22,
+     "36add8eeb33478c6b856165058356297": 1,
+     "424c27fd48527ec9d429186e07bb69ef": 13,
+     "66a98dcd38d47ccfdce5802957f87377": 14,
+     "687ccfb54f49d0cf7c1134fcab311923": 3,
+     "68483fe0c72056099ba54a5a2b168584": 14,
+     "0b82764def389e2397b788f412b85cf3": 5,
+     "1b2a18933bee50897b8adeb37d76bca2": 8,
+     "cbff00bed6bd556e29ccb30ffa47c428": 1,
+     "53c234290f008f865062e09d0ae34a07": 12,
+     "999f23cfda9ceb3d86f38891eaddd650": 6,
+     "8bec5a157ff783d9f91485b62ce998e5": 17,
+     "8968493277412f13eae8cd6f8cc1d5a6": 11,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 0,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 9,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 12,
+     "3f1b07e516b766d2c2a76c744f669e68": 19,
+     "3b1a1aa99545090d49af35057aeed6ca": 2,
+     "55692d00bb05c92d1aef5695037f29cf": 21,
+     "21bca18ab31a1ace75df6fec4f127594": 5,
+     "6204f67e0ec82c473de005e9e2f7649d": 5,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 5,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 9,
+     "fe927800dacc5feb07c6433a89e10a92": 7,
+     "bc070f0d5365fd999b2c867de2ede6f9": 2,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 5,
+     "74840299933445aeb14787f15d3e61f0": 2,
+     "45be12cc09b8b60b24d60c073c23736f": 6,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 121.43,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 121.43,
+   "values": [
+    {
+     "key": "6025cb67846bc8556ff1e466a8404faa",
+     "total": 134.96,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "29cc5fa5dcfeee36aad49d24398c8abf",
+     "total": 82.74,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/28/el-excongresista-palenquero-pedro-adan-torres-rindio-homenaje-en-vida-a-kid-pambele/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/28/el-excongresista-palenquero-pedro-adan-torres-rindio-homenaje-en-vida-a-kid-pambele/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b2b6f18a0e44af9ef17daf2d66e4d0a0",
+     "total": 133.27,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/paseo-de-la-castellana-inicia-sus-obras-de-ampliacion/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/paseo-de-la-castellana-inicia-sus-obras-de-ampliacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2ca3b817980625e2f06bf658146bdd90",
+     "total": 191.37,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/historia-del-pasaje-dager-una-joya-republicana-del-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/historia-del-pasaje-dager-una-joya-republicana-del-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "48b95282cc1e51e68bbcb7a8f79ebc26",
+     "total": 117.63,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/28/estas-son-las-9-empresas-de-cartagena-y-bolivar-que-buscan-proveedores-y-tecnologia-en-china/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/28/estas-son-las-9-empresas-de-cartagena-y-bolivar-que-buscan-proveedores-y-tecnologia-en-china/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7827c6c53c46c2eb8860837e7f149885",
+     "total": 165.28,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/27/rancho-verde-lotes-campestres-desde-26-millones-listos-para-construir-tu-casa-finca/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/27/rancho-verde-lotes-campestres-desde-26-millones-listos-para-construir-tu-casa-finca/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "51a779505fe85c88be71b07b54e8f339",
+     "total": 110.35,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2025/09/09/festivos-en-colombia-2026-calendario-completo-de-feriados-y-fechas-especiales/",
+       "value": "https://www.eluniversal.com.co/colombia/2025/09/09/festivos-en-colombia-2026-calendario-completo-de-feriados-y-fechas-especiales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c547211dd48bbc0f7d8418861832a7a2",
+     "total": 159.88,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/paisa-parrilla-el-restaurante-que-trae-la-sazon-paisa-a-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/paisa-parrilla-el-restaurante-que-trae-la-sazon-paisa-a-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f659b62a4f407703f593928ac4904f8c",
+     "total": 128.84,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/alcaldia-de-cartagena-abre-dialogo-sobre-el-futuro-de-bazurto-y-los-mercados-publicos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/alcaldia-de-cartagena-abre-dialogo-sobre-el-futuro-de-bazurto-y-los-mercados-publicos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2bf091fbb3207b35286b29ec99809e7f",
+     "total": 73.52,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/09/09/llamadas-de-spam-la-senal-que-indica-que-puede-ser-una-estafa/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/09/09/llamadas-de-spam-la-senal-que-indica-que-puede-ser-una-estafa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4aeec6c17593a5a361f5f27120222cb1",
+     "total": 87.03,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/mas-impulso-al-tejido-empresarial-asi-llega-la-camara-de-comercio-de-cartagena-a-sus-111-anos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/mas-impulso-al-tejido-empresarial-asi-llega-la-camara-de-comercio-de-cartagena-a-sus-111-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "81d6230da11f0b9137a9813221f69982",
+     "total": 129.69,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/tu-perfil-de-instagram-ya-es-tu-hoja-de-vida-aunque-no-lo-sepas/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/tu-perfil-de-instagram-ya-es-tu-hoja-de-vida-aunque-no-lo-sepas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "39f74ba8aca4d0a5f412137222163c7b",
+     "total": 129.97,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/busca-vivienda-en-la-zona-norte-de-cartagena-verdenzza-esta-por-cerrar-su-primera-etapa/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/busca-vivienda-en-la-zona-norte-de-cartagena-verdenzza-esta-por-cerrar-su-primera-etapa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "92d287d28053737faeddddab68eff2ad",
+     "total": 142.1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/30/invertir-en-la-zona-norte-de-cartagena-lo-que-debe-saber/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/30/invertir-en-la-zona-norte-de-cartagena-lo-que-debe-saber/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "af7d88e84c95167d5551f85973341a10",
+     "total": 77.78,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/22/disfruta-el-bando-de-la-independencia-desde-el-palco-de-el-universal-y-hotel-las-americas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/22/disfruta-el-bando-de-la-independencia-desde-el-palco-de-el-universal-y-hotel-las-americas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "41cc39796f92cfcb2f0119949d8fee79",
+     "total": 100.68,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/29/daniel-habif-llega-a-cartagena-con-una-invitacion-para-transformar-el-ser-y-la-vida/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/29/daniel-habif-llega-a-cartagena-con-una-invitacion-para-transformar-el-ser-y-la-vida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0dd018756e07ec82eeb7060386b884a8",
+     "total": 122.18,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/18/gran-malecon-del-mar-solo-falta-un-mes/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/18/gran-malecon-del-mar-solo-falta-un-mes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e7fb8343e4ced4f1911d9d923c6bde67",
+     "total": 26.08,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/07/claves-para-ahorrar-energia-durante-el-fenomeno-de-el-nino/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/07/claves-para-ahorrar-energia-durante-el-fenomeno-de-el-nino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "aeef81b9c3f042d5cb36c2f6615fe157",
+     "total": 107.23,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/salud/2026/10/30/isquemia-cerebral-aprende-a-identificar-las-senales-de-alerta-con-la-regla-corre/",
+       "value": "https://www.eluniversal.com.co/salud/2026/10/30/isquemia-cerebral-aprende-a-identificar-las-senales-de-alerta-con-la-regla-corre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "26d5dd0e0c2ee5e0926c188d205f5c3f",
+     "total": 126.69,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/nadie-tiene-todo-resuelto-a-los-17-como-elegir-carrera-sin-ahogarte-en-la-presion/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/nadie-tiene-todo-resuelto-a-los-17-como-elegir-carrera-sin-ahogarte-en-la-presion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5cc0120d0db4309650c7de0e8c704977",
+     "total": 77.04,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/no-necesitas-plata-ni-irte-a-vivir-afuera-para-estudiar-en-el-exterior-esto-es-real/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/no-necesitas-plata-ni-irte-a-vivir-afuera-para-estudiar-en-el-exterior-esto-es-real/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4bbdbc2a423fc4cf7c0d462d73c1b9f1",
+     "total": 64.27,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/06/16/diez-tips-infalibles-para-ahorrar-energia-en-casa-y-bajar-el-valor-de-la-factura/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/06/16/diez-tips-infalibles-para-ahorrar-energia-en-casa-y-bajar-el-valor-de-la-factura/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d9629bfd7c72deb034131786fded4f7a",
+     "total": 108.52,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/22/cartagena-mas-alla-de-las-murallas-los-espacios-renovados-a-traves-de-un-reportero-grafico/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/22/cartagena-mas-alla-de-las-murallas-los-espacios-renovados-a-traves-de-un-reportero-grafico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "36add8eeb33478c6b856165058356297",
+     "total": 188.65,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/02/06/estas-son-las-notarias-de-turno-en-cartagena-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/02/06/estas-son-las-notarias-de-turno-en-cartagena-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "424c27fd48527ec9d429186e07bb69ef",
+     "total": 25.66,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/guajira/2025/03/10/la-guajira-un-destino-unico-para-vivir-la-semana-santa-entre-desierto-mar-y-cultura-indigena/",
+       "value": "https://www.eluniversal.com.co/regional/guajira/2025/03/10/la-guajira-un-destino-unico-para-vivir-la-semana-santa-entre-desierto-mar-y-cultura-indigena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "66a98dcd38d47ccfdce5802957f87377",
+     "total": 14.71,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/guajira/2026/07/16/cuando-aprender-tambien-alimenta-la-iniciativa-que-transforma-comunidades-en-la-alta-guajira/",
+       "value": "https://www.eluniversal.com.co/regional/guajira/2026/07/16/cuando-aprender-tambien-alimenta-la-iniciativa-que-transforma-comunidades-en-la-alta-guajira/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "687ccfb54f49d0cf7c1134fcab311923",
+     "total": 140.89,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/salud/2026/10/22/asi-reemplazan-una-valvula-cardiaca-en-cartagena-sin-abrir-el-pecho/",
+       "value": "https://www.eluniversal.com.co/salud/2026/10/22/asi-reemplazan-una-valvula-cardiaca-en-cartagena-sin-abrir-el-pecho/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "68483fe0c72056099ba54a5a2b168584",
+     "total": 19.19,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/magdalena/2026/02/12/estas-son-las-notarias-de-turno-en-santa-marta-2026/",
+       "value": "https://www.eluniversal.com.co/regional/magdalena/2026/02/12/estas-son-las-notarias-de-turno-en-santa-marta-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0b82764def389e2397b788f412b85cf3",
+     "total": 186.49,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/bar-neo7-gastronomia-y-entretenimiento-para-disfrutar-la-ruta-90-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/bar-neo7-gastronomia-y-entretenimiento-para-disfrutar-la-ruta-90-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1b2a18933bee50897b8adeb37d76bca2",
+     "total": 134.68,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/06/hub-caribe-competitivo-que-es-y-como-busca-conectar-a-las-empresas-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/06/hub-caribe-competitivo-que-es-y-como-busca-conectar-a-las-empresas-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cbff00bed6bd556e29ccb30ffa47c428",
+     "total": 272.54,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/27/cartagena-si-emprende-convoca-a-empresarios-a-su-nuevo-club-de-negocios-para-impulsar-ventas-y-cerrar-el-ano-con-estrategia/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/27/cartagena-si-emprende-convoca-a-empresarios-a-su-nuevo-club-de-negocios-para-impulsar-ventas-y-cerrar-el-ano-con-estrategia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "53c234290f008f865062e09d0ae34a07",
+     "total": 15.88,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/cordoba/2026/02/13/estas-son-las-notarias-de-turno-en-monteria-2026/",
+       "value": "https://www.eluniversal.com.co/regional/cordoba/2026/02/13/estas-son-las-notarias-de-turno-en-monteria-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "999f23cfda9ceb3d86f38891eaddd650",
+     "total": 92.66,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/30/huc-reune-al-sector-salud-para-impulsar-iniciativas-ambientales/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/30/huc-reune-al-sector-salud-para-impulsar-iniciativas-ambientales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8bec5a157ff783d9f91485b62ce998e5",
+     "total": 72.09,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/ocio/2025/04/30/cuando-ocurriran-los-tres-dias-de-oscuridad-es-un-mito-o-una-advertencia-real/",
+       "value": "https://www.eluniversal.com.co/ocio/2025/04/30/cuando-ocurriran-los-tres-dias-de-oscuridad-es-un-mito-o-una-advertencia-real/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8968493277412f13eae8cd6f8cc1d5a6",
+     "total": 19.2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/magdalena/2025/03/14/semana-santa-en-el-magdalena-tradicion-fe-y-aventura-en-un-solo-destino/",
+       "value": "https://www.eluniversal.com.co/regional/magdalena/2025/03/14/semana-santa-en-el-magdalena-tradicion-fe-y-aventura-en-un-solo-destino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "da37e0b5d2bf9c62dfba320ba6b7b4b5",
+     "total": 73.87,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/08/03/pizzeria-della-chiesa-un-pedacito-de-napoles-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/08/03/pizzeria-della-chiesa-un-pedacito-de-napoles-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b1af97ffffd2a7ac7e0ec56ad283f538",
+     "total": 81.57,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/arme-mi-portafolio-en-una-noche-con-ia-asi-estudian-hoy-los-que-van-un-paso-adelante/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/arme-mi-portafolio-en-una-noche-con-ia-asi-estudian-hoy-los-que-van-un-paso-adelante/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f64687e36a51aaf2da2ebcffafa1d8f9",
+     "total": 15.71,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/cordoba/2025/03/05/cordoba-sabias-que-en-este-departamento-puedes-caminar-entre-jaguares/",
+       "value": "https://www.eluniversal.com.co/regional/cordoba/2025/03/05/cordoba-sabias-que-en-este-departamento-puedes-caminar-entre-jaguares/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f1b07e516b766d2c2a76c744f669e68",
+     "total": 71.87,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/18/cartagena-tiene-un-directorio-para-artistas-y-emprendedores-culturales-asi-funciona/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/18/cartagena-tiene-un-directorio-para-artistas-y-emprendedores-culturales-asi-funciona/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3b1a1aa99545090d49af35057aeed6ca",
+     "total": 49.28,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/06/23/como-hacer-el-traspaso-de-un-carro-en-cartagena-guia-completa/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/06/23/como-hacer-el-traspaso-de-un-carro-en-cartagena-guia-completa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "55692d00bb05c92d1aef5695037f29cf",
+     "total": 112.52,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/ocio/2025/10/07/como-rezar-la-treintena-a-san-jose-paso-a-paso-para-recibir-su-proteccion/",
+       "value": "https://www.eluniversal.com.co/ocio/2025/10/07/como-rezar-la-treintena-a-san-jose-paso-a-paso-para-recibir-su-proteccion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "21bca18ab31a1ace75df6fec4f127594",
+     "total": 64.18,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/05/27/gastronomia-de-cartagena-10-platos-tipicos-que-no-puedes-dejar-de-probar/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/05/27/gastronomia-de-cartagena-10-platos-tipicos-que-no-puedes-dejar-de-probar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6204f67e0ec82c473de005e9e2f7649d",
+     "total": 160.83,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/28/bicentenario-tiene-el-primer-colegio-bilingue-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/28/bicentenario-tiene-el-primer-colegio-bilingue-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "70b10bdb1882a736dcd174f6c2eaceb1",
+     "total": 284.89,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/09/17/festivos-colombia-2027-calendario-completo-mes-a-mes/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/09/17/festivos-colombia-2027-calendario-completo-mes-a-mes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "91a4dd0c0cc3df8f994fc2bf1b6287be",
+     "total": 13.96,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2025/11/24/black-friday-2025-como-comprar-seguro-en-amazon-shein-y-temu-sin-pagar-de-mas/",
+       "value": "https://www.eluniversal.com.co/colombia/2025/11/24/black-friday-2025-como-comprar-seguro-en-amazon-shein-y-temu-sin-pagar-de-mas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe927800dacc5feb07c6433a89e10a92",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2025/12/26/asi-sera-el-nuevo-aumento-de-peajes-en-colombia-en-2026-segun-mintransporte/",
+       "value": "https://www.eluniversal.com.co/colombia/2025/12/26/asi-sera-el-nuevo-aumento-de-peajes-en-colombia-en-2026-segun-mintransporte/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bc070f0d5365fd999b2c867de2ede6f9",
+     "total": 119.42,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/08/07/10-reformas-y-cambios-que-marcaran-el-gobierno-de-abelardo-de-la-espriella/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/08/07/10-reformas-y-cambios-que-marcaran-el-gobierno-de-abelardo-de-la-espriella/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "112abe9c36e25b15d91cf9ff00ce19e3",
+     "total": 39.69,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/06/24/que-impuestos-se-pagan-al-vender-una-casa-en-colombia/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/06/24/que-impuestos-se-pagan-al-vender-una-casa-en-colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "74840299933445aeb14787f15d3e61f0",
+     "total": 516.41,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/03/hospital-de-canapote-medicina-integral-para-cuidar-la-vida-en-el-barrio/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/03/hospital-de-canapote-medicina-integral-para-cuidar-la-vida-en-el-barrio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "45be12cc09b8b60b24d60c073c23736f",
+     "total": 61.77,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/16/musical-inspirado-en-toy-story-llega-a-cartagena-fecha-precios-y-donde-comprar-boletas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/16/musical-inspirado-en-toy-story-llega-a-cartagena-fecha-precios-y-donde-comprar-boletas/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 205.45,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 0,
+     "51a779505fe85c88be71b07b54e8f339": 107.83,
+     "c547211dd48bbc0f7d8418861832a7a2": 139.61,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 81.4,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 0,
+     "39f74ba8aca4d0a5f412137222163c7b": 135.72,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 77.2,
+     "41cc39796f92cfcb2f0119949d8fee79": 44.93,
+     "0dd018756e07ec82eeb7060386b884a8": 110.65,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 22.08,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 32.71,
+     "d9629bfd7c72deb034131786fded4f7a": 78.1,
+     "36add8eeb33478c6b856165058356297": 186.86,
+     "424c27fd48527ec9d429186e07bb69ef": 33.57,
+     "66a98dcd38d47ccfdce5802957f87377": 15.22,
+     "687ccfb54f49d0cf7c1134fcab311923": 223.64,
+     "68483fe0c72056099ba54a5a2b168584": 13.8,
+     "0b82764def389e2397b788f412b85cf3": 178.59,
+     "1b2a18933bee50897b8adeb37d76bca2": 187.4,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 19.86,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 40,
+     "8968493277412f13eae8cd6f8cc1d5a6": 12.61,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 58.42,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 14.67,
+     "3f1b07e516b766d2c2a76c744f669e68": 35.57,
+     "3b1a1aa99545090d49af35057aeed6ca": 44.59,
+     "55692d00bb05c92d1aef5695037f29cf": 206.64,
+     "21bca18ab31a1ace75df6fec4f127594": 23.08,
+     "6204f67e0ec82c473de005e9e2f7649d": 250.32,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 183.15,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 12.56,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 91.62,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 22.77,
+     "74840299933445aeb14787f15d3e61f0": 62.69,
+     "45be12cc09b8b60b24d60c073c23736f": 54.81,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 132.79,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 179.98,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 162.76,
+     "51a779505fe85c88be71b07b54e8f339": 148.59,
+     "c547211dd48bbc0f7d8418861832a7a2": 167.32,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 71.62,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 0,
+     "39f74ba8aca4d0a5f412137222163c7b": 106.59,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 83.18,
+     "41cc39796f92cfcb2f0119949d8fee79": 0,
+     "0dd018756e07ec82eeb7060386b884a8": 102.42,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 25.42,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 33.44,
+     "d9629bfd7c72deb034131786fded4f7a": 135,
+     "36add8eeb33478c6b856165058356297": 248,
+     "424c27fd48527ec9d429186e07bb69ef": 21.03,
+     "66a98dcd38d47ccfdce5802957f87377": 18.67,
+     "687ccfb54f49d0cf7c1134fcab311923": 103.94,
+     "68483fe0c72056099ba54a5a2b168584": 13.72,
+     "0b82764def389e2397b788f412b85cf3": 404.48,
+     "1b2a18933bee50897b8adeb37d76bca2": 91.08,
+     "cbff00bed6bd556e29ccb30ffa47c428": 121.7,
+     "53c234290f008f865062e09d0ae34a07": 13.82,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 59.33,
+     "8968493277412f13eae8cd6f8cc1d5a6": 14.17,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 76.22,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 11.62,
+     "3f1b07e516b766d2c2a76c744f669e68": 109.29,
+     "3b1a1aa99545090d49af35057aeed6ca": 32.67,
+     "55692d00bb05c92d1aef5695037f29cf": 145.42,
+     "21bca18ab31a1ace75df6fec4f127594": 74.29,
+     "6204f67e0ec82c473de005e9e2f7649d": 187.3,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 783.02,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 14.56,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 170.57,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 25.93,
+     "74840299933445aeb14787f15d3e61f0": 39.58,
+     "45be12cc09b8b60b24d60c073c23736f": 77.22,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 158.13,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 82.91,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 180.63,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 126.91,
+     "7827c6c53c46c2eb8860837e7f149885": 190.03,
+     "51a779505fe85c88be71b07b54e8f339": 95.6,
+     "c547211dd48bbc0f7d8418861832a7a2": 179.23,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 66.44,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 133.28,
+     "39f74ba8aca4d0a5f412137222163c7b": 106.84,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 78.12,
+     "41cc39796f92cfcb2f0119949d8fee79": 163,
+     "0dd018756e07ec82eeb7060386b884a8": 191.89,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 88.2,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 122.53,
+     "5cc0120d0db4309650c7de0e8c704977": 96.71,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 53.64,
+     "d9629bfd7c72deb034131786fded4f7a": 86.68,
+     "36add8eeb33478c6b856165058356297": 110.83,
+     "424c27fd48527ec9d429186e07bb69ef": 33.71,
+     "66a98dcd38d47ccfdce5802957f87377": 19.03,
+     "687ccfb54f49d0cf7c1134fcab311923": 33.43,
+     "68483fe0c72056099ba54a5a2b168584": 21.62,
+     "0b82764def389e2397b788f412b85cf3": 14.33,
+     "1b2a18933bee50897b8adeb37d76bca2": 134.72,
+     "cbff00bed6bd556e29ccb30ffa47c428": 247.5,
+     "53c234290f008f865062e09d0ae34a07": 13.82,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 88.48,
+     "8968493277412f13eae8cd6f8cc1d5a6": 26.83,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 7,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 88.35,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 18.5,
+     "3f1b07e516b766d2c2a76c744f669e68": 54.57,
+     "3b1a1aa99545090d49af35057aeed6ca": 27.26,
+     "55692d00bb05c92d1aef5695037f29cf": 209.06,
+     "21bca18ab31a1ace75df6fec4f127594": 79.83,
+     "6204f67e0ec82c473de005e9e2f7649d": 34.22,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 40.15,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 16.4,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 56.6,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 125,
+     "74840299933445aeb14787f15d3e61f0": 412.16,
+     "45be12cc09b8b60b24d60c073c23736f": 56,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 133.03,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 76.13,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 135.64,
+     "2ca3b817980625e2f06bf658146bdd90": 269.7,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 115.26,
+     "7827c6c53c46c2eb8860837e7f149885": 166.38,
+     "51a779505fe85c88be71b07b54e8f339": 113.27,
+     "c547211dd48bbc0f7d8418861832a7a2": 154.77,
+     "f659b62a4f407703f593928ac4904f8c": 128.53,
+     "2bf091fbb3207b35286b29ec99809e7f": 86.82,
+     "4aeec6c17593a5a361f5f27120222cb1": 94.75,
+     "81d6230da11f0b9137a9813221f69982": 141.2,
+     "39f74ba8aca4d0a5f412137222163c7b": 205.49,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 83.91,
+     "41cc39796f92cfcb2f0119949d8fee79": 99.06,
+     "0dd018756e07ec82eeb7060386b884a8": 97,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 23.74,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 126.14,
+     "5cc0120d0db4309650c7de0e8c704977": 74.33,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 52.41,
+     "d9629bfd7c72deb034131786fded4f7a": 114.89,
+     "36add8eeb33478c6b856165058356297": 265.32,
+     "424c27fd48527ec9d429186e07bb69ef": 21.75,
+     "66a98dcd38d47ccfdce5802957f87377": 11.24,
+     "687ccfb54f49d0cf7c1134fcab311923": 76.64,
+     "68483fe0c72056099ba54a5a2b168584": 14.67,
+     "0b82764def389e2397b788f412b85cf3": 55.2,
+     "1b2a18933bee50897b8adeb37d76bca2": 236.35,
+     "cbff00bed6bd556e29ccb30ffa47c428": 821.36,
+     "53c234290f008f865062e09d0ae34a07": 12.33,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 65.96,
+     "8968493277412f13eae8cd6f8cc1d5a6": 13.42,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 21,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 89.41,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 21.38,
+     "3f1b07e516b766d2c2a76c744f669e68": 53.11,
+     "3b1a1aa99545090d49af35057aeed6ca": 41.13,
+     "55692d00bb05c92d1aef5695037f29cf": 76.89,
+     "21bca18ab31a1ace75df6fec4f127594": 36,
+     "6204f67e0ec82c473de005e9e2f7649d": 222.47,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 23.59,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 11.56,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 39.55,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 21,
+     "74840299933445aeb14787f15d3e61f0": 851.39,
+     "45be12cc09b8b60b24d60c073c23736f": 83.33,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 120.28,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 113.26,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 103.92,
+     "2ca3b817980625e2f06bf658146bdd90": 143.97,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 106.35,
+     "7827c6c53c46c2eb8860837e7f149885": 147.4,
+     "51a779505fe85c88be71b07b54e8f339": 88.42,
+     "c547211dd48bbc0f7d8418861832a7a2": 265.78,
+     "f659b62a4f407703f593928ac4904f8c": 141.99,
+     "2bf091fbb3207b35286b29ec99809e7f": 77.39,
+     "4aeec6c17593a5a361f5f27120222cb1": 64.22,
+     "81d6230da11f0b9137a9813221f69982": 135.31,
+     "39f74ba8aca4d0a5f412137222163c7b": 108.96,
+     "92d287d28053737faeddddab68eff2ad": 153.44,
+     "af7d88e84c95167d5551f85973341a10": 59.13,
+     "41cc39796f92cfcb2f0119949d8fee79": 7.79,
+     "0dd018756e07ec82eeb7060386b884a8": 161.32,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 21.03,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 115.44,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 112.82,
+     "5cc0120d0db4309650c7de0e8c704977": 29.87,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 105.49,
+     "d9629bfd7c72deb034131786fded4f7a": 83.62,
+     "36add8eeb33478c6b856165058356297": 175.59,
+     "424c27fd48527ec9d429186e07bb69ef": 17.88,
+     "66a98dcd38d47ccfdce5802957f87377": 12.48,
+     "687ccfb54f49d0cf7c1134fcab311923": 292.14,
+     "68483fe0c72056099ba54a5a2b168584": 24.91,
+     "0b82764def389e2397b788f412b85cf3": 17.33,
+     "1b2a18933bee50897b8adeb37d76bca2": 40.36,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 21.48,
+     "999f23cfda9ceb3d86f38891eaddd650": 99.68,
+     "8bec5a157ff783d9f91485b62ce998e5": 89.32,
+     "8968493277412f13eae8cd6f8cc1d5a6": 25.71,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 13,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 98.87,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 14.17,
+     "3f1b07e516b766d2c2a76c744f669e68": 26.82,
+     "3b1a1aa99545090d49af35057aeed6ca": 149.35,
+     "55692d00bb05c92d1aef5695037f29cf": 40.58,
+     "21bca18ab31a1ace75df6fec4f127594": 114.56,
+     "6204f67e0ec82c473de005e9e2f7649d": 14.33,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 10.04,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 14.56,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 106.68,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 19,
+     "74840299933445aeb14787f15d3e61f0": 312.17,
+     "45be12cc09b8b60b24d60c073c23736f": 48.6,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 108.58,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 54.5,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 156.26,
+     "2ca3b817980625e2f06bf658146bdd90": 117.63,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 71.71,
+     "7827c6c53c46c2eb8860837e7f149885": 141.12,
+     "51a779505fe85c88be71b07b54e8f339": 159.93,
+     "c547211dd48bbc0f7d8418861832a7a2": 119.78,
+     "f659b62a4f407703f593928ac4904f8c": 45.5,
+     "2bf091fbb3207b35286b29ec99809e7f": 70.34,
+     "4aeec6c17593a5a361f5f27120222cb1": 22.66,
+     "81d6230da11f0b9137a9813221f69982": 45.17,
+     "39f74ba8aca4d0a5f412137222163c7b": 97.25,
+     "92d287d28053737faeddddab68eff2ad": 118.48,
+     "af7d88e84c95167d5551f85973341a10": 54.86,
+     "41cc39796f92cfcb2f0119949d8fee79": 272.26,
+     "0dd018756e07ec82eeb7060386b884a8": 35.8,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 37.93,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 92.75,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 185.33,
+     "5cc0120d0db4309650c7de0e8c704977": 42.74,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 99.55,
+     "d9629bfd7c72deb034131786fded4f7a": 177.89,
+     "36add8eeb33478c6b856165058356297": 194.25,
+     "424c27fd48527ec9d429186e07bb69ef": 31.97,
+     "66a98dcd38d47ccfdce5802957f87377": 13.5,
+     "687ccfb54f49d0cf7c1134fcab311923": 5,
+     "68483fe0c72056099ba54a5a2b168584": 21.68,
+     "0b82764def389e2397b788f412b85cf3": 0,
+     "1b2a18933bee50897b8adeb37d76bca2": 51.82,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 17.12,
+     "999f23cfda9ceb3d86f38891eaddd650": 24.78,
+     "8bec5a157ff783d9f91485b62ce998e5": 21.15,
+     "8968493277412f13eae8cd6f8cc1d5a6": 21.71,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 377,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 23.58,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 13,
+     "3f1b07e516b766d2c2a76c744f669e68": 180.44,
+     "3b1a1aa99545090d49af35057aeed6ca": 42.7,
+     "55692d00bb05c92d1aef5695037f29cf": 65.14,
+     "21bca18ab31a1ace75df6fec4f127594": 18,
+     "6204f67e0ec82c473de005e9e2f7649d": 133.15,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 25.57,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 14.43,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 210.48,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 32.4,
+     "74840299933445aeb14787f15d3e61f0": 229.42,
+     "45be12cc09b8b60b24d60c073c23736f": 41.33,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 117.31,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 89.14,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 55.32,
+     "2ca3b817980625e2f06bf658146bdd90": 139.6,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 120.38,
+     "7827c6c53c46c2eb8860837e7f149885": 162.73,
+     "51a779505fe85c88be71b07b54e8f339": 56.69,
+     "c547211dd48bbc0f7d8418861832a7a2": 140.91,
+     "f659b62a4f407703f593928ac4904f8c": 141.44,
+     "2bf091fbb3207b35286b29ec99809e7f": 57.27,
+     "4aeec6c17593a5a361f5f27120222cb1": 124.27,
+     "81d6230da11f0b9137a9813221f69982": 117.27,
+     "39f74ba8aca4d0a5f412137222163c7b": 71.24,
+     "92d287d28053737faeddddab68eff2ad": 86.5,
+     "af7d88e84c95167d5551f85973341a10": 62.67,
+     "41cc39796f92cfcb2f0119949d8fee79": 5.5,
+     "0dd018756e07ec82eeb7060386b884a8": 15.14,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 13.21,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 96.31,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 85.63,
+     "5cc0120d0db4309650c7de0e8c704977": 79.57,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 52.95,
+     "d9629bfd7c72deb034131786fded4f7a": 114.69,
+     "36add8eeb33478c6b856165058356297": 47.67,
+     "424c27fd48527ec9d429186e07bb69ef": 15.32,
+     "66a98dcd38d47ccfdce5802957f87377": 11.93,
+     "687ccfb54f49d0cf7c1134fcab311923": 59,
+     "68483fe0c72056099ba54a5a2b168584": 16.24,
+     "0b82764def389e2397b788f412b85cf3": 85.38,
+     "1b2a18933bee50897b8adeb37d76bca2": 68.55,
+     "cbff00bed6bd556e29ccb30ffa47c428": 9,
+     "53c234290f008f865062e09d0ae34a07": 12.04,
+     "999f23cfda9ceb3d86f38891eaddd650": 26.44,
+     "8bec5a157ff783d9f91485b62ce998e5": 72.44,
+     "8968493277412f13eae8cd6f8cc1d5a6": 13.09,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 0,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 81.05,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 13.75,
+     "3f1b07e516b766d2c2a76c744f669e68": 18.25,
+     "3b1a1aa99545090d49af35057aeed6ca": 2.67,
+     "55692d00bb05c92d1aef5695037f29cf": 52.23,
+     "21bca18ab31a1ace75df6fec4f127594": 111.82,
+     "6204f67e0ec82c473de005e9e2f7649d": 114,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 35.1,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 14.89,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 41.5,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 30.44,
+     "74840299933445aeb14787f15d3e61f0": 139.6,
+     "45be12cc09b8b60b24d60c073c23736f": 54.93,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "socialPosts",
+  "total": 31,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 31,
+   "values": [
+    {
+     "key": "6025cb67846bc8556ff1e466a8404faa",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "29cc5fa5dcfeee36aad49d24398c8abf",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/28/el-excongresista-palenquero-pedro-adan-torres-rindio-homenaje-en-vida-a-kid-pambele/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/28/el-excongresista-palenquero-pedro-adan-torres-rindio-homenaje-en-vida-a-kid-pambele/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b2b6f18a0e44af9ef17daf2d66e4d0a0",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/paseo-de-la-castellana-inicia-sus-obras-de-ampliacion/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/paseo-de-la-castellana-inicia-sus-obras-de-ampliacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2ca3b817980625e2f06bf658146bdd90",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/historia-del-pasaje-dager-una-joya-republicana-del-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/historia-del-pasaje-dager-una-joya-republicana-del-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "48b95282cc1e51e68bbcb7a8f79ebc26",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/28/estas-son-las-9-empresas-de-cartagena-y-bolivar-que-buscan-proveedores-y-tecnologia-en-china/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/28/estas-son-las-9-empresas-de-cartagena-y-bolivar-que-buscan-proveedores-y-tecnologia-en-china/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7827c6c53c46c2eb8860837e7f149885",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/27/rancho-verde-lotes-campestres-desde-26-millones-listos-para-construir-tu-casa-finca/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/27/rancho-verde-lotes-campestres-desde-26-millones-listos-para-construir-tu-casa-finca/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "51a779505fe85c88be71b07b54e8f339",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2025/09/09/festivos-en-colombia-2026-calendario-completo-de-feriados-y-fechas-especiales/",
+       "value": "https://www.eluniversal.com.co/colombia/2025/09/09/festivos-en-colombia-2026-calendario-completo-de-feriados-y-fechas-especiales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c547211dd48bbc0f7d8418861832a7a2",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/paisa-parrilla-el-restaurante-que-trae-la-sazon-paisa-a-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/paisa-parrilla-el-restaurante-que-trae-la-sazon-paisa-a-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f659b62a4f407703f593928ac4904f8c",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/alcaldia-de-cartagena-abre-dialogo-sobre-el-futuro-de-bazurto-y-los-mercados-publicos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/alcaldia-de-cartagena-abre-dialogo-sobre-el-futuro-de-bazurto-y-los-mercados-publicos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2bf091fbb3207b35286b29ec99809e7f",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/09/09/llamadas-de-spam-la-senal-que-indica-que-puede-ser-una-estafa/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/09/09/llamadas-de-spam-la-senal-que-indica-que-puede-ser-una-estafa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4aeec6c17593a5a361f5f27120222cb1",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/mas-impulso-al-tejido-empresarial-asi-llega-la-camara-de-comercio-de-cartagena-a-sus-111-anos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/mas-impulso-al-tejido-empresarial-asi-llega-la-camara-de-comercio-de-cartagena-a-sus-111-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "81d6230da11f0b9137a9813221f69982",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/tu-perfil-de-instagram-ya-es-tu-hoja-de-vida-aunque-no-lo-sepas/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/tu-perfil-de-instagram-ya-es-tu-hoja-de-vida-aunque-no-lo-sepas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "39f74ba8aca4d0a5f412137222163c7b",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/busca-vivienda-en-la-zona-norte-de-cartagena-verdenzza-esta-por-cerrar-su-primera-etapa/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/26/busca-vivienda-en-la-zona-norte-de-cartagena-verdenzza-esta-por-cerrar-su-primera-etapa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "92d287d28053737faeddddab68eff2ad",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/30/invertir-en-la-zona-norte-de-cartagena-lo-que-debe-saber/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/30/invertir-en-la-zona-norte-de-cartagena-lo-que-debe-saber/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "af7d88e84c95167d5551f85973341a10",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/22/disfruta-el-bando-de-la-independencia-desde-el-palco-de-el-universal-y-hotel-las-americas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/22/disfruta-el-bando-de-la-independencia-desde-el-palco-de-el-universal-y-hotel-las-americas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "41cc39796f92cfcb2f0119949d8fee79",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/29/daniel-habif-llega-a-cartagena-con-una-invitacion-para-transformar-el-ser-y-la-vida/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/29/daniel-habif-llega-a-cartagena-con-una-invitacion-para-transformar-el-ser-y-la-vida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0dd018756e07ec82eeb7060386b884a8",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/18/gran-malecon-del-mar-solo-falta-un-mes/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/18/gran-malecon-del-mar-solo-falta-un-mes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e7fb8343e4ced4f1911d9d923c6bde67",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/07/claves-para-ahorrar-energia-durante-el-fenomeno-de-el-nino/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/07/claves-para-ahorrar-energia-durante-el-fenomeno-de-el-nino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "aeef81b9c3f042d5cb36c2f6615fe157",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/salud/2026/10/30/isquemia-cerebral-aprende-a-identificar-las-senales-de-alerta-con-la-regla-corre/",
+       "value": "https://www.eluniversal.com.co/salud/2026/10/30/isquemia-cerebral-aprende-a-identificar-las-senales-de-alerta-con-la-regla-corre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "26d5dd0e0c2ee5e0926c188d205f5c3f",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/nadie-tiene-todo-resuelto-a-los-17-como-elegir-carrera-sin-ahogarte-en-la-presion/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/nadie-tiene-todo-resuelto-a-los-17-como-elegir-carrera-sin-ahogarte-en-la-presion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5cc0120d0db4309650c7de0e8c704977",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/no-necesitas-plata-ni-irte-a-vivir-afuera-para-estudiar-en-el-exterior-esto-es-real/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/no-necesitas-plata-ni-irte-a-vivir-afuera-para-estudiar-en-el-exterior-esto-es-real/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4bbdbc2a423fc4cf7c0d462d73c1b9f1",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/06/16/diez-tips-infalibles-para-ahorrar-energia-en-casa-y-bajar-el-valor-de-la-factura/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/06/16/diez-tips-infalibles-para-ahorrar-energia-en-casa-y-bajar-el-valor-de-la-factura/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d9629bfd7c72deb034131786fded4f7a",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/22/cartagena-mas-alla-de-las-murallas-los-espacios-renovados-a-traves-de-un-reportero-grafico/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/22/cartagena-mas-alla-de-las-murallas-los-espacios-renovados-a-traves-de-un-reportero-grafico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "36add8eeb33478c6b856165058356297",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/02/06/estas-son-las-notarias-de-turno-en-cartagena-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/02/06/estas-son-las-notarias-de-turno-en-cartagena-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "424c27fd48527ec9d429186e07bb69ef",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/guajira/2025/03/10/la-guajira-un-destino-unico-para-vivir-la-semana-santa-entre-desierto-mar-y-cultura-indigena/",
+       "value": "https://www.eluniversal.com.co/regional/guajira/2025/03/10/la-guajira-un-destino-unico-para-vivir-la-semana-santa-entre-desierto-mar-y-cultura-indigena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "66a98dcd38d47ccfdce5802957f87377",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/guajira/2026/07/16/cuando-aprender-tambien-alimenta-la-iniciativa-que-transforma-comunidades-en-la-alta-guajira/",
+       "value": "https://www.eluniversal.com.co/regional/guajira/2026/07/16/cuando-aprender-tambien-alimenta-la-iniciativa-que-transforma-comunidades-en-la-alta-guajira/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "687ccfb54f49d0cf7c1134fcab311923",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/salud/2026/10/22/asi-reemplazan-una-valvula-cardiaca-en-cartagena-sin-abrir-el-pecho/",
+       "value": "https://www.eluniversal.com.co/salud/2026/10/22/asi-reemplazan-una-valvula-cardiaca-en-cartagena-sin-abrir-el-pecho/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "68483fe0c72056099ba54a5a2b168584",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/magdalena/2026/02/12/estas-son-las-notarias-de-turno-en-santa-marta-2026/",
+       "value": "https://www.eluniversal.com.co/regional/magdalena/2026/02/12/estas-son-las-notarias-de-turno-en-santa-marta-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0b82764def389e2397b788f412b85cf3",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/bar-neo7-gastronomia-y-entretenimiento-para-disfrutar-la-ruta-90-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/bar-neo7-gastronomia-y-entretenimiento-para-disfrutar-la-ruta-90-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1b2a18933bee50897b8adeb37d76bca2",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/06/hub-caribe-competitivo-que-es-y-como-busca-conectar-a-las-empresas-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/06/hub-caribe-competitivo-que-es-y-como-busca-conectar-a-las-empresas-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cbff00bed6bd556e29ccb30ffa47c428",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/27/cartagena-si-emprende-convoca-a-empresarios-a-su-nuevo-club-de-negocios-para-impulsar-ventas-y-cerrar-el-ano-con-estrategia/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/27/cartagena-si-emprende-convoca-a-empresarios-a-su-nuevo-club-de-negocios-para-impulsar-ventas-y-cerrar-el-ano-con-estrategia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "53c234290f008f865062e09d0ae34a07",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/cordoba/2026/02/13/estas-son-las-notarias-de-turno-en-monteria-2026/",
+       "value": "https://www.eluniversal.com.co/regional/cordoba/2026/02/13/estas-son-las-notarias-de-turno-en-monteria-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "999f23cfda9ceb3d86f38891eaddd650",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/30/huc-reune-al-sector-salud-para-impulsar-iniciativas-ambientales/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/30/huc-reune-al-sector-salud-para-impulsar-iniciativas-ambientales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8bec5a157ff783d9f91485b62ce998e5",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/ocio/2025/04/30/cuando-ocurriran-los-tres-dias-de-oscuridad-es-un-mito-o-una-advertencia-real/",
+       "value": "https://www.eluniversal.com.co/ocio/2025/04/30/cuando-ocurriran-los-tres-dias-de-oscuridad-es-un-mito-o-una-advertencia-real/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8968493277412f13eae8cd6f8cc1d5a6",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/magdalena/2025/03/14/semana-santa-en-el-magdalena-tradicion-fe-y-aventura-en-un-solo-destino/",
+       "value": "https://www.eluniversal.com.co/regional/magdalena/2025/03/14/semana-santa-en-el-magdalena-tradicion-fe-y-aventura-en-un-solo-destino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "da37e0b5d2bf9c62dfba320ba6b7b4b5",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/08/03/pizzeria-della-chiesa-un-pedacito-de-napoles-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/08/03/pizzeria-della-chiesa-un-pedacito-de-napoles-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b1af97ffffd2a7ac7e0ec56ad283f538",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/educacion/2026/10/28/arme-mi-portafolio-en-una-noche-con-ia-asi-estudian-hoy-los-que-van-un-paso-adelante/",
+       "value": "https://www.eluniversal.com.co/educacion/2026/10/28/arme-mi-portafolio-en-una-noche-con-ia-asi-estudian-hoy-los-que-van-un-paso-adelante/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f64687e36a51aaf2da2ebcffafa1d8f9",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/cordoba/2025/03/05/cordoba-sabias-que-en-este-departamento-puedes-caminar-entre-jaguares/",
+       "value": "https://www.eluniversal.com.co/regional/cordoba/2025/03/05/cordoba-sabias-que-en-este-departamento-puedes-caminar-entre-jaguares/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f1b07e516b766d2c2a76c744f669e68",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/18/cartagena-tiene-un-directorio-para-artistas-y-emprendedores-culturales-asi-funciona/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/18/cartagena-tiene-un-directorio-para-artistas-y-emprendedores-culturales-asi-funciona/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3b1a1aa99545090d49af35057aeed6ca",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/06/23/como-hacer-el-traspaso-de-un-carro-en-cartagena-guia-completa/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/06/23/como-hacer-el-traspaso-de-un-carro-en-cartagena-guia-completa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "55692d00bb05c92d1aef5695037f29cf",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/ocio/2025/10/07/como-rezar-la-treintena-a-san-jose-paso-a-paso-para-recibir-su-proteccion/",
+       "value": "https://www.eluniversal.com.co/ocio/2025/10/07/como-rezar-la-treintena-a-san-jose-paso-a-paso-para-recibir-su-proteccion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "21bca18ab31a1ace75df6fec4f127594",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/05/27/gastronomia-de-cartagena-10-platos-tipicos-que-no-puedes-dejar-de-probar/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/05/27/gastronomia-de-cartagena-10-platos-tipicos-que-no-puedes-dejar-de-probar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6204f67e0ec82c473de005e9e2f7649d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/28/bicentenario-tiene-el-primer-colegio-bilingue-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/28/bicentenario-tiene-el-primer-colegio-bilingue-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "70b10bdb1882a736dcd174f6c2eaceb1",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/09/17/festivos-colombia-2027-calendario-completo-mes-a-mes/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/09/17/festivos-colombia-2027-calendario-completo-mes-a-mes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "91a4dd0c0cc3df8f994fc2bf1b6287be",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2025/11/24/black-friday-2025-como-comprar-seguro-en-amazon-shein-y-temu-sin-pagar-de-mas/",
+       "value": "https://www.eluniversal.com.co/colombia/2025/11/24/black-friday-2025-como-comprar-seguro-en-amazon-shein-y-temu-sin-pagar-de-mas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe927800dacc5feb07c6433a89e10a92",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2025/12/26/asi-sera-el-nuevo-aumento-de-peajes-en-colombia-en-2026-segun-mintransporte/",
+       "value": "https://www.eluniversal.com.co/colombia/2025/12/26/asi-sera-el-nuevo-aumento-de-peajes-en-colombia-en-2026-segun-mintransporte/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bc070f0d5365fd999b2c867de2ede6f9",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/08/07/10-reformas-y-cambios-que-marcaran-el-gobierno-de-abelardo-de-la-espriella/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/08/07/10-reformas-y-cambios-que-marcaran-el-gobierno-de-abelardo-de-la-espriella/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "112abe9c36e25b15d91cf9ff00ce19e3",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/06/24/que-impuestos-se-pagan-al-vender-una-casa-en-colombia/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/06/24/que-impuestos-se-pagan-al-vender-una-casa-en-colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "74840299933445aeb14787f15d3e61f0",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/03/hospital-de-canapote-medicina-integral-para-cuidar-la-vida-en-el-barrio/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/03/hospital-de-canapote-medicina-integral-para-cuidar-la-vida-en-el-barrio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "45be12cc09b8b60b24d60c073c23736f",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/16/musical-inspirado-en-toy-story-llega-a-cartagena-fecha-precios-y-donde-comprar-boletas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/16/musical-inspirado-en-toy-story-llega-a-cartagena-fecha-precios-y-donde-comprar-boletas/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 0,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 0,
+     "51a779505fe85c88be71b07b54e8f339": 0,
+     "c547211dd48bbc0f7d8418861832a7a2": 1,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 0,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 0,
+     "39f74ba8aca4d0a5f412137222163c7b": 2,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 0,
+     "41cc39796f92cfcb2f0119949d8fee79": 0,
+     "0dd018756e07ec82eeb7060386b884a8": 0,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 0,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 0,
+     "d9629bfd7c72deb034131786fded4f7a": 0,
+     "36add8eeb33478c6b856165058356297": 0,
+     "424c27fd48527ec9d429186e07bb69ef": 0,
+     "66a98dcd38d47ccfdce5802957f87377": 0,
+     "687ccfb54f49d0cf7c1134fcab311923": 0,
+     "68483fe0c72056099ba54a5a2b168584": 0,
+     "0b82764def389e2397b788f412b85cf3": 1,
+     "1b2a18933bee50897b8adeb37d76bca2": 0,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 0,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 0,
+     "8968493277412f13eae8cd6f8cc1d5a6": 0,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 0,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 0,
+     "3f1b07e516b766d2c2a76c744f669e68": 0,
+     "3b1a1aa99545090d49af35057aeed6ca": 0,
+     "55692d00bb05c92d1aef5695037f29cf": 0,
+     "21bca18ab31a1ace75df6fec4f127594": 0,
+     "6204f67e0ec82c473de005e9e2f7649d": 0,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 0,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 0,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 0,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 0,
+     "74840299933445aeb14787f15d3e61f0": 0,
+     "45be12cc09b8b60b24d60c073c23736f": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 1,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 1,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 2,
+     "51a779505fe85c88be71b07b54e8f339": 0,
+     "c547211dd48bbc0f7d8418861832a7a2": 0,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 0,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 0,
+     "39f74ba8aca4d0a5f412137222163c7b": 0,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 1,
+     "41cc39796f92cfcb2f0119949d8fee79": 0,
+     "0dd018756e07ec82eeb7060386b884a8": 0,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 0,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 0,
+     "d9629bfd7c72deb034131786fded4f7a": 0,
+     "36add8eeb33478c6b856165058356297": 0,
+     "424c27fd48527ec9d429186e07bb69ef": 0,
+     "66a98dcd38d47ccfdce5802957f87377": 0,
+     "687ccfb54f49d0cf7c1134fcab311923": 0,
+     "68483fe0c72056099ba54a5a2b168584": 0,
+     "0b82764def389e2397b788f412b85cf3": 0,
+     "1b2a18933bee50897b8adeb37d76bca2": 0,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 0,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 0,
+     "8968493277412f13eae8cd6f8cc1d5a6": 0,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 0,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 0,
+     "3f1b07e516b766d2c2a76c744f669e68": 0,
+     "3b1a1aa99545090d49af35057aeed6ca": 0,
+     "55692d00bb05c92d1aef5695037f29cf": 0,
+     "21bca18ab31a1ace75df6fec4f127594": 0,
+     "6204f67e0ec82c473de005e9e2f7649d": 0,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 0,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 0,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 0,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 0,
+     "74840299933445aeb14787f15d3e61f0": 0,
+     "45be12cc09b8b60b24d60c073c23736f": 0,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 2,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 0,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 1,
+     "7827c6c53c46c2eb8860837e7f149885": 2,
+     "51a779505fe85c88be71b07b54e8f339": 0,
+     "c547211dd48bbc0f7d8418861832a7a2": 0,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 0,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 1,
+     "39f74ba8aca4d0a5f412137222163c7b": 0,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 0,
+     "41cc39796f92cfcb2f0119949d8fee79": 0,
+     "0dd018756e07ec82eeb7060386b884a8": 0,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 0,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 1,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 0,
+     "d9629bfd7c72deb034131786fded4f7a": 0,
+     "36add8eeb33478c6b856165058356297": 0,
+     "424c27fd48527ec9d429186e07bb69ef": 0,
+     "66a98dcd38d47ccfdce5802957f87377": 0,
+     "687ccfb54f49d0cf7c1134fcab311923": 0,
+     "68483fe0c72056099ba54a5a2b168584": 0,
+     "0b82764def389e2397b788f412b85cf3": 2,
+     "1b2a18933bee50897b8adeb37d76bca2": 0,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 0,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 0,
+     "8968493277412f13eae8cd6f8cc1d5a6": 0,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 0,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 0,
+     "3f1b07e516b766d2c2a76c744f669e68": 0,
+     "3b1a1aa99545090d49af35057aeed6ca": 0,
+     "55692d00bb05c92d1aef5695037f29cf": 0,
+     "21bca18ab31a1ace75df6fec4f127594": 0,
+     "6204f67e0ec82c473de005e9e2f7649d": 0,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 0,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 0,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 0,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 0,
+     "74840299933445aeb14787f15d3e61f0": 0,
+     "45be12cc09b8b60b24d60c073c23736f": 0,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 1,
+     "2ca3b817980625e2f06bf658146bdd90": 0,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 0,
+     "51a779505fe85c88be71b07b54e8f339": 0,
+     "c547211dd48bbc0f7d8418861832a7a2": 0,
+     "f659b62a4f407703f593928ac4904f8c": 2,
+     "2bf091fbb3207b35286b29ec99809e7f": 0,
+     "4aeec6c17593a5a361f5f27120222cb1": 4,
+     "81d6230da11f0b9137a9813221f69982": 1,
+     "39f74ba8aca4d0a5f412137222163c7b": 0,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 0,
+     "41cc39796f92cfcb2f0119949d8fee79": 1,
+     "0dd018756e07ec82eeb7060386b884a8": 0,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 0,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 0,
+     "d9629bfd7c72deb034131786fded4f7a": 0,
+     "36add8eeb33478c6b856165058356297": 0,
+     "424c27fd48527ec9d429186e07bb69ef": 0,
+     "66a98dcd38d47ccfdce5802957f87377": 0,
+     "687ccfb54f49d0cf7c1134fcab311923": 0,
+     "68483fe0c72056099ba54a5a2b168584": 0,
+     "0b82764def389e2397b788f412b85cf3": 0,
+     "1b2a18933bee50897b8adeb37d76bca2": 0,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 0,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 0,
+     "8968493277412f13eae8cd6f8cc1d5a6": 0,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 0,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 0,
+     "3f1b07e516b766d2c2a76c744f669e68": 0,
+     "3b1a1aa99545090d49af35057aeed6ca": 0,
+     "55692d00bb05c92d1aef5695037f29cf": 0,
+     "21bca18ab31a1ace75df6fec4f127594": 0,
+     "6204f67e0ec82c473de005e9e2f7649d": 0,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 0,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 0,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 0,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 0,
+     "74840299933445aeb14787f15d3e61f0": 0,
+     "45be12cc09b8b60b24d60c073c23736f": 0,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 0,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 0,
+     "51a779505fe85c88be71b07b54e8f339": 0,
+     "c547211dd48bbc0f7d8418861832a7a2": 0,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 0,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 0,
+     "39f74ba8aca4d0a5f412137222163c7b": 0,
+     "92d287d28053737faeddddab68eff2ad": 1,
+     "af7d88e84c95167d5551f85973341a10": 0,
+     "41cc39796f92cfcb2f0119949d8fee79": 0,
+     "0dd018756e07ec82eeb7060386b884a8": 0,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 0,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 1,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 0,
+     "d9629bfd7c72deb034131786fded4f7a": 0,
+     "36add8eeb33478c6b856165058356297": 0,
+     "424c27fd48527ec9d429186e07bb69ef": 0,
+     "66a98dcd38d47ccfdce5802957f87377": 0,
+     "687ccfb54f49d0cf7c1134fcab311923": 0,
+     "68483fe0c72056099ba54a5a2b168584": 0,
+     "0b82764def389e2397b788f412b85cf3": 0,
+     "1b2a18933bee50897b8adeb37d76bca2": 0,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 0,
+     "999f23cfda9ceb3d86f38891eaddd650": 1,
+     "8bec5a157ff783d9f91485b62ce998e5": 0,
+     "8968493277412f13eae8cd6f8cc1d5a6": 0,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 0,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 0,
+     "3f1b07e516b766d2c2a76c744f669e68": 0,
+     "3b1a1aa99545090d49af35057aeed6ca": 0,
+     "55692d00bb05c92d1aef5695037f29cf": 0,
+     "21bca18ab31a1ace75df6fec4f127594": 0,
+     "6204f67e0ec82c473de005e9e2f7649d": 0,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 0,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 0,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 0,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 0,
+     "74840299933445aeb14787f15d3e61f0": 0,
+     "45be12cc09b8b60b24d60c073c23736f": 0,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 0,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 0,
+     "51a779505fe85c88be71b07b54e8f339": 0,
+     "c547211dd48bbc0f7d8418861832a7a2": 0,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 0,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 0,
+     "39f74ba8aca4d0a5f412137222163c7b": 0,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 0,
+     "41cc39796f92cfcb2f0119949d8fee79": 0,
+     "0dd018756e07ec82eeb7060386b884a8": 0,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 0,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 0,
+     "d9629bfd7c72deb034131786fded4f7a": 0,
+     "36add8eeb33478c6b856165058356297": 0,
+     "424c27fd48527ec9d429186e07bb69ef": 0,
+     "66a98dcd38d47ccfdce5802957f87377": 0,
+     "687ccfb54f49d0cf7c1134fcab311923": 0,
+     "68483fe0c72056099ba54a5a2b168584": 0,
+     "0b82764def389e2397b788f412b85cf3": 0,
+     "1b2a18933bee50897b8adeb37d76bca2": 0,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 0,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 0,
+     "8968493277412f13eae8cd6f8cc1d5a6": 0,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 0,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 0,
+     "3f1b07e516b766d2c2a76c744f669e68": 0,
+     "3b1a1aa99545090d49af35057aeed6ca": 0,
+     "55692d00bb05c92d1aef5695037f29cf": 0,
+     "21bca18ab31a1ace75df6fec4f127594": 0,
+     "6204f67e0ec82c473de005e9e2f7649d": 0,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 0,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 0,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 0,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 0,
+     "74840299933445aeb14787f15d3e61f0": 0,
+     "45be12cc09b8b60b24d60c073c23736f": 0,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "29cc5fa5dcfeee36aad49d24398c8abf": 0,
+     "b2b6f18a0e44af9ef17daf2d66e4d0a0": 0,
+     "2ca3b817980625e2f06bf658146bdd90": 0,
+     "48b95282cc1e51e68bbcb7a8f79ebc26": 0,
+     "7827c6c53c46c2eb8860837e7f149885": 0,
+     "51a779505fe85c88be71b07b54e8f339": 0,
+     "c547211dd48bbc0f7d8418861832a7a2": 0,
+     "f659b62a4f407703f593928ac4904f8c": 0,
+     "2bf091fbb3207b35286b29ec99809e7f": 0,
+     "4aeec6c17593a5a361f5f27120222cb1": 0,
+     "81d6230da11f0b9137a9813221f69982": 0,
+     "39f74ba8aca4d0a5f412137222163c7b": 0,
+     "92d287d28053737faeddddab68eff2ad": 0,
+     "af7d88e84c95167d5551f85973341a10": 0,
+     "41cc39796f92cfcb2f0119949d8fee79": 0,
+     "0dd018756e07ec82eeb7060386b884a8": 0,
+     "e7fb8343e4ced4f1911d9d923c6bde67": 0,
+     "aeef81b9c3f042d5cb36c2f6615fe157": 0,
+     "26d5dd0e0c2ee5e0926c188d205f5c3f": 0,
+     "5cc0120d0db4309650c7de0e8c704977": 0,
+     "4bbdbc2a423fc4cf7c0d462d73c1b9f1": 0,
+     "d9629bfd7c72deb034131786fded4f7a": 0,
+     "36add8eeb33478c6b856165058356297": 0,
+     "424c27fd48527ec9d429186e07bb69ef": 0,
+     "66a98dcd38d47ccfdce5802957f87377": 0,
+     "687ccfb54f49d0cf7c1134fcab311923": 0,
+     "68483fe0c72056099ba54a5a2b168584": 0,
+     "0b82764def389e2397b788f412b85cf3": 0,
+     "1b2a18933bee50897b8adeb37d76bca2": 0,
+     "cbff00bed6bd556e29ccb30ffa47c428": 0,
+     "53c234290f008f865062e09d0ae34a07": 0,
+     "999f23cfda9ceb3d86f38891eaddd650": 0,
+     "8bec5a157ff783d9f91485b62ce998e5": 0,
+     "8968493277412f13eae8cd6f8cc1d5a6": 0,
+     "da37e0b5d2bf9c62dfba320ba6b7b4b5": 0,
+     "b1af97ffffd2a7ac7e0ec56ad283f538": 0,
+     "f64687e36a51aaf2da2ebcffafa1d8f9": 0,
+     "3f1b07e516b766d2c2a76c744f669e68": 0,
+     "3b1a1aa99545090d49af35057aeed6ca": 0,
+     "55692d00bb05c92d1aef5695037f29cf": 0,
+     "21bca18ab31a1ace75df6fec4f127594": 0,
+     "6204f67e0ec82c473de005e9e2f7649d": 0,
+     "70b10bdb1882a736dcd174f6c2eaceb1": 0,
+     "91a4dd0c0cc3df8f994fc2bf1b6287be": 0,
+     "fe927800dacc5feb07c6433a89e10a92": 0,
+     "bc070f0d5365fd999b2c867de2ede6f9": 0,
+     "112abe9c36e25b15d91cf9ff00ce19e3": 0,
+     "74840299933445aeb14787f15d3e61f0": 0,
+     "45be12cc09b8b60b24d60c073c23736f": 0,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ }
+]

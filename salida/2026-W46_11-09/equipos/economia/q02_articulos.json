@@ -1,0 +1,2822 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 10978,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 10978,
+   "values": [
+    {
+     "key": "ba1620834e5f9ca0429d7667ded91c5c",
+     "total": 2015,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/asi-abrio-el-dolar-este-lunes-9-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/asi-abrio-el-dolar-este-lunes-9-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cf33b4e849722c31c43dc78f6b55973d",
+     "total": 731,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/que-el-cierre-bancario-no-lo-deje-sin-presupuesto-en-fiestas-de-independencia-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/que-el-cierre-bancario-no-lo-deje-sin-presupuesto-en-fiestas-de-independencia-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "402da0fb83f90f4272136140b7b5d942",
+     "total": 397,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-unico-terminal-de-cartagena-con-infraestructura-para-exportar-aceite-de-palma-crudo/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-unico-terminal-de-cartagena-con-infraestructura-para-exportar-aceite-de-palma-crudo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "272e9cca7f86d80d88b63ad47663392e",
+     "total": 261,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/dane-revelo-cuanto-subio-la-inflacion-en-colombia-durante-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/dane-revelo-cuanto-subio-la-inflacion-en-colombia-durante-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b49dbd1a8eaab55954b89a8ca883e53c",
+     "total": 227,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/12/trafico-de-pasajeros-por-el-aeropuerto-de-cartagena-habra-record-en-el-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/12/trafico-de-pasajeros-por-el-aeropuerto-de-cartagena-habra-record-en-el-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "585b7a9faeb2c0bd15d84d7ae498a837",
+     "total": 183,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/06/sacos-llenos-de-medidas-para-el-sector-cafetero-llevo-minagricultura-a-cumbre-cafetera/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/06/sacos-llenos-de-medidas-para-el-sector-cafetero-llevo-minagricultura-a-cumbre-cafetera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4ddf159494b835ac5b98d04c1d927b06",
+     "total": 172,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/estos-son-los-grupos-que-le-meten-presion-a-la-canasta-familiar-de-los-cartageneros/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/estos-son-los-grupos-que-le-meten-presion-a-la-canasta-familiar-de-los-cartageneros/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3108466ebbcc7fe9df734ba26893862d",
+     "total": 146,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/crecen-exportaciones-de-bolivar-pero-continua-el-deficit-de-la-balanza-comercial/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/crecen-exportaciones-de-bolivar-pero-continua-el-deficit-de-la-balanza-comercial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "79b03dac2662f8b715f9d5405f9747d2",
+     "total": 106,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/12/indice-de-competitividad-de-ciudades-icc-2026-cartagena-en-la-posicion-11/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/12/indice-de-competitividad-de-ciudades-icc-2026-cartagena-en-la-posicion-11/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ce65f1f7a967c7deddc7972bb167df14",
+     "total": 105,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/la-reconstruccion-podria-aumentar-en-5-la-demanda-de-acero-en-colombia-tras-el-terremoto/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/la-reconstruccion-podria-aumentar-en-5-la-demanda-de-acero-en-colombia-tras-el-terremoto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e2078f602b0d791a9b1bbd183111d105",
+     "total": 101,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/15/nueva-presidenta-de-la-andi-le-apuesta-a-un-incremento-salarial-concertado-para-2027/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/15/nueva-presidenta-de-la-andi-le-apuesta-a-un-incremento-salarial-concertado-para-2027/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "529033b6e68c874603619259e8e13d37",
+     "total": 100,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/asi-abrio-el-dolar-este-martes-10-de-noviembre-de-2025/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/asi-abrio-el-dolar-este-martes-10-de-noviembre-de-2025/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "359c2d39b205b16f98f110c56cf7ed67",
+     "total": 92,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-grupo-portuario-del-caribe-colombiano-que-mas-cafe-exporta-por-sus-terminales/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-grupo-portuario-del-caribe-colombiano-que-mas-cafe-exporta-por-sus-terminales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "682f91392107fea9d28f36acf16b9679",
+     "total": 88,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/asi-abrio-el-dolar-en-colombia-este-miercoles-11-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/asi-abrio-el-dolar-en-colombia-este-miercoles-11-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d6a2a242849a5c94fe016be4ca1e77c4",
+     "total": 77,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/los-subsectores-que-sacan-la-cara-por-el-comercio-en-este-2026-segun-fenalco/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/los-subsectores-que-sacan-la-cara-por-el-comercio-en-este-2026-segun-fenalco/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b26b60e633887438be68a13b1a7546c0",
+     "total": 70,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/07/enterese-de-que-terminal-cartagenero-recibe-el-90-del-glp-que-importa-colombia/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/07/enterese-de-que-terminal-cartagenero-recibe-el-90-del-glp-que-importa-colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b2689cad9eccab30c9ec810f97eb322a",
+     "total": 70,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/el-nuevo-aeropuerto-de-cartagena-buscara-inversionistas-en-milagro-week-en-nueva-york/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/el-nuevo-aeropuerto-de-cartagena-buscara-inversionistas-en-milagro-week-en-nueva-york/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fdc31b41164486c2017e5b2a43fedcba",
+     "total": 57,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2023/11/12/resultados-de-chances-y-loterias-del-sabado-11-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/economica/2023/11/12/resultados-de-chances-y-loterias-del-sabado-11-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "54af4e42674183a326d6e1483c0cc88b",
+     "total": 49,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/12/asi-abrio-el-dolar-este-jueves-en-colombia-en-cuanto-se-cotiza/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/12/asi-abrio-el-dolar-este-jueves-en-colombia-en-cuanto-se-cotiza/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f3a64cfcb1c676ba305fb1e1e1cf1fe",
+     "total": 44,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/dolar-en-colombia-cerro-al-alza-asi-se-comporto-durante-la-jornada/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/dolar-en-colombia-cerro-al-alza-asi-se-comporto-durante-la-jornada/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "16661dd280fc3673fb650e6f68eae712",
+     "total": 30,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "707e150182562d8c40c7fbea04595ae7",
+     "total": 23,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/05/se-abre-paso-al-fracking-en-colombia-este-es-el-momento-de-los-no-convencionales-bayon/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/05/se-abre-paso-al-fracking-en-colombia-este-es-el-momento-de-los-no-convencionales-bayon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "87e0d36970aabd16f0faff87370aad51",
+     "total": 22,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2022/11/08/haga-su-vuelta-bancaria-antes-de-fiestas-de-la-independencia/",
+       "value": "https://www.eluniversal.com.co/economica/2022/11/08/haga-su-vuelta-bancaria-antes-de-fiestas-de-la-independencia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c9e2f67cf86a1a2c7173d8abfb53d9e5",
+     "total": 21,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2018/01/11/invierten-50-mil-millones-en-primera-etapa-de-nuevo-desarrollo-comercial/",
+       "value": "https://www.eluniversal.com.co/economica/2018/01/11/invierten-50-mil-millones-en-primera-etapa-de-nuevo-desarrollo-comercial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1d8a2502f88aa5f6ad98e98c53453c8d",
+     "total": 19,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/10/22/asi-estan-los-precios-del-metro-cuadrado-en-la-zona-costera-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2025/10/22/asi-estan-los-precios-del-metro-cuadrado-en-la-zona-costera-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9ee393023338354fe49c2c2e0d9e87f8",
+     "total": 19,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/02/conozca-cuantos-empleos-genera-en-promedio-cada-apertura-de-una-tienda-d1/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/02/conozca-cuantos-empleos-genera-en-promedio-cada-apertura-de-una-tienda-d1/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0cb55dfd3ee10a3b999ea743736c9337",
+     "total": 19,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/02/obras-por-impuestos-para-la-reconstruccion-como-opera-y-quienes-pueden-participar/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/02/obras-por-impuestos-para-la-reconstruccion-como-opera-y-quienes-pueden-participar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "681ab99667ad25676a206fd5471e6b8c",
+     "total": 18,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2024/01/17/como-pagar-los-impuestos-a-la-dian-estos-son-los-5-medios-disponibles/",
+       "value": "https://www.eluniversal.com.co/economica/2024/01/17/como-pagar-los-impuestos-a-la-dian-estos-son-los-5-medios-disponibles/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe3d23eb9ea80d0715f3d14732b75531",
+     "total": 17,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2012/12/18/camara-discute-puntos-fuertes-de-la-reforma-tributaria/",
+       "value": "https://www.eluniversal.com.co/economica/2012/12/18/camara-discute-puntos-fuertes-de-la-reforma-tributaria/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "153c694a4322758acbfe83162f69e394",
+     "total": 17,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/10/21/bluville-el-nuevo-icono-residencial-de-lujo-en-la-zona-norte-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2025/10/21/bluville-el-nuevo-icono-residencial-de-lujo-en-la-zona-norte-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fba4f660135129e09b6faaa854a57610",
+     "total": 17,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/20/la-mujer-conductora-de-la-vida-nacional/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/20/la-mujer-conductora-de-la-vida-nacional/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "41fdc974f09da2ec28fd4c43d07b1cc0",
+     "total": 16,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2023/05/18/que-paso-con-american-broasted-chicken-la-popular-pollera-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2023/05/18/que-paso-con-american-broasted-chicken-la-popular-pollera-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7cf917ad0954a076483cf473dc31235d",
+     "total": 16,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/13/dolar-en-colombia-abrio-al-alza-y-supero-los-3315-este-viernes/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/13/dolar-en-colombia-abrio-al-alza-y-supero-los-3315-este-viernes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "841d95531bd778bf4d84bb66f5c849f0",
+     "total": 15,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/09/03/ranking-de-las-empresas-mas-grandes-y-destacadas-de-cartagena-y-bolivar/",
+       "value": "https://www.eluniversal.com.co/economica/2025/09/03/ranking-de-las-empresas-mas-grandes-y-destacadas-de-cartagena-y-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0fd90d22ed1e8fa467b53a0780042d0f",
+     "total": 15,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/",
+       "value": "https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "59e4871911750595764ae443e1ed4e6e",
+     "total": 15,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/22/planeacion-pero-con-fines-de-economia-azul/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/22/planeacion-pero-con-fines-de-economia-azul/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a4ddc2e5146364a35404d34bf6c54c30",
+     "total": 14,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/11/20/la-primera-terminal-de-glp-refrigerado-de-colombia-estara-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2025/11/20/la-primera-terminal-de-glp-refrigerado-de-colombia-estara-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fc4afe3d0750de1bd75b2a655d895480",
+     "total": 14,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/09/11/alicia-bozzi-nueva-rectora-de-la-utb-que-se-priorice-la-educacion-como-politica-de-estado/",
+       "value": "https://www.eluniversal.com.co/economica/2026/09/11/alicia-bozzi-nueva-rectora-de-la-utb-que-se-priorice-la-educacion-como-politica-de-estado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4fbf88de997403c5160b65b663124f39",
+     "total": 14,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/21/huc-en-su-mejor-momento-historico/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/21/huc-en-su-mejor-momento-historico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "591a6e6b73cdace8f3de3dd8da8614bd",
+     "total": 14,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/23/terremoto-reconstruccion-cuesta-54-billones-19-billones-corresponden-a-la-vivienda/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/23/terremoto-reconstruccion-cuesta-54-billones-19-billones-corresponden-a-la-vivienda/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b7a735c85f7ff3ed9697cf64aba9ea66",
+     "total": 14,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/03/conoce-cuando-latam-reabre-operacion-en-la-ruta-medellin-cartagena-medellin/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/03/conoce-cuando-latam-reabre-operacion-en-la-ruta-medellin-cartagena-medellin/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "de4c26cfa33d3d013aec47b51750015a",
+     "total": 13,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2013/10/19/programe-su-ida-al-banco-en-las-festividades-novembrinas/",
+       "value": "https://www.eluniversal.com.co/economica/2013/10/19/programe-su-ida-al-banco-en-las-festividades-novembrinas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cfe517a42b89a4f27c549d5752aeac7d",
+     "total": 13,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/04/20/el-centro-comercial-mas-grande-de-cartagena-a-punto-de-primera-piedra/",
+       "value": "https://www.eluniversal.com.co/economica/2025/04/20/el-centro-comercial-mas-grande-de-cartagena-a-punto-de-primera-piedra/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "aea1dfb1a129d2590cb4fd794d027397",
+     "total": 13,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/09/11/liderazgo-con-proposito-la-vision-empresarial-de-rosmery-elles-en-fundovida/",
+       "value": "https://www.eluniversal.com.co/economica/2025/09/11/liderazgo-con-proposito-la-vision-empresarial-de-rosmery-elles-en-fundovida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7a6fb6811c0073eccb500b5bbd2ccd5a",
+     "total": 12,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/06/19/asi-nace-el-proyecto-que-impulsara-la-gran-transformacion-de-la-ruta-90-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2026/06/19/asi-nace-el-proyecto-que-impulsara-la-gran-transformacion-de-la-ruta-90-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "091b2bc64422f8a83eaef0cc8b32e2ad",
+     "total": 12,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/06/30/estas-son-las-empresas-mas-grandes-de-colombia-segun-supersociedades/",
+       "value": "https://www.eluniversal.com.co/economica/2026/06/30/estas-son-las-empresas-mas-grandes-de-colombia-segun-supersociedades/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c54e09753aac566d72a9e66527ac17d2",
+     "total": 12,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/05/conozca-cuantas-listas-de-aspirantes-a-ser-miembros-de-la-junta-de-la-ccc-se-inscribieron/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/05/conozca-cuantas-listas-de-aspirantes-a-ser-miembros-de-la-junta-de-la-ccc-se-inscribieron/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "07fc9a3c8eac4d2aae4b57a1fd5f7ff6",
+     "total": 11,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/07/07/ecopetrol-adquirio-proyecto-eolico-en-la-guajira-para-autoconsumo/",
+       "value": "https://www.eluniversal.com.co/economica/2025/07/07/ecopetrol-adquirio-proyecto-eolico-en-la-guajira-para-autoconsumo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "63b2922b4e9f86f0734bee498a60c83d",
+     "total": 11,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/13/tiquetes-aereos-nacionales-desde-51000-rutas-y-tarifas-promocionales/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/13/tiquetes-aereos-nacionales-desde-51000-rutas-y-tarifas-promocionales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6a4fe7a1698bba182b262f88c3bc5465",
+     "total": 11,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/21/reactivacion-economica-98-billones-en-proyectos-de-vivienda-propone-camacol/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/21/reactivacion-economica-98-billones-en-proyectos-de-vivienda-propone-camacol/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 1161,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 41,
+     "272e9cca7f86d80d88b63ad47663392e": 204,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 119,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 20,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 64,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 47,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 4,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 10,
+     "707e150182562d8c40c7fbea04595ae7": 7,
+     "87e0d36970aabd16f0faff87370aad51": 3,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 4,
+     "9ee393023338354fe49c2c2e0d9e87f8": 7,
+     "0cb55dfd3ee10a3b999ea743736c9337": 3,
+     "681ab99667ad25676a206fd5471e6b8c": 3,
+     "fe3d23eb9ea80d0715f3d14732b75531": 4,
+     "153c694a4322758acbfe83162f69e394": 4,
+     "fba4f660135129e09b6faaa854a57610": 2,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 3,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 3,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 1,
+     "59e4871911750595764ae443e1ed4e6e": 6,
+     "a4ddc2e5146364a35404d34bf6c54c30": 2,
+     "fc4afe3d0750de1bd75b2a655d895480": 3,
+     "4fbf88de997403c5160b65b663124f39": 5,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 2,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 8,
+     "de4c26cfa33d3d013aec47b51750015a": 1,
+     "cfe517a42b89a4f27c549d5752aeac7d": 2,
+     "aea1dfb1a129d2590cb4fd794d027397": 1,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 2,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 1,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 3,
+     "63b2922b4e9f86f0734bee498a60c83d": 2,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 747,
+     "cf33b4e849722c31c43dc78f6b55973d": 90,
+     "402da0fb83f90f4272136140b7b5d942": 282,
+     "272e9cca7f86d80d88b63ad47663392e": 40,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 56,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 66,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 74,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 85,
+     "359c2d39b205b16f98f110c56cf7ed67": 20,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 12,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 14,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 35,
+     "16661dd280fc3673fb650e6f68eae712": 8,
+     "707e150182562d8c40c7fbea04595ae7": 2,
+     "87e0d36970aabd16f0faff87370aad51": 11,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 2,
+     "9ee393023338354fe49c2c2e0d9e87f8": 3,
+     "0cb55dfd3ee10a3b999ea743736c9337": 3,
+     "681ab99667ad25676a206fd5471e6b8c": 4,
+     "fe3d23eb9ea80d0715f3d14732b75531": 5,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 5,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 1,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 6,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 3,
+     "59e4871911750595764ae443e1ed4e6e": 3,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 2,
+     "4fbf88de997403c5160b65b663124f39": 3,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 6,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 12,
+     "cfe517a42b89a4f27c549d5752aeac7d": 0,
+     "aea1dfb1a129d2590cb4fd794d027397": 1,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 3,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 4,
+     "c54e09753aac566d72a9e66527ac17d2": 2,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 7,
+     "63b2922b4e9f86f0734bee498a60c83d": 1,
+     "6a4fe7a1698bba182b262f88c3bc5465": 2,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 96,
+     "cf33b4e849722c31c43dc78f6b55973d": 435,
+     "402da0fb83f90f4272136140b7b5d942": 58,
+     "272e9cca7f86d80d88b63ad47663392e": 4,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 2,
+     "4ddf159494b835ac5b98d04c1d927b06": 161,
+     "3108466ebbcc7fe9df734ba26893862d": 21,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 13,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 15,
+     "359c2d39b205b16f98f110c56cf7ed67": 6,
+     "682f91392107fea9d28f36acf16b9679": 69,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 18,
+     "b26b60e633887438be68a13b1a7546c0": 6,
+     "b2689cad9eccab30c9ec810f97eb322a": 24,
+     "fdc31b41164486c2017e5b2a43fedcba": 27,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 8,
+     "16661dd280fc3673fb650e6f68eae712": 2,
+     "707e150182562d8c40c7fbea04595ae7": 3,
+     "87e0d36970aabd16f0faff87370aad51": 6,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 5,
+     "9ee393023338354fe49c2c2e0d9e87f8": 3,
+     "0cb55dfd3ee10a3b999ea743736c9337": 5,
+     "681ab99667ad25676a206fd5471e6b8c": 4,
+     "fe3d23eb9ea80d0715f3d14732b75531": 2,
+     "153c694a4322758acbfe83162f69e394": 3,
+     "fba4f660135129e09b6faaa854a57610": 1,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 5,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 4,
+     "59e4871911750595764ae443e1ed4e6e": 2,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 5,
+     "4fbf88de997403c5160b65b663124f39": 2,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 1,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 3,
+     "aea1dfb1a129d2590cb4fd794d027397": 4,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 2,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 4,
+     "c54e09753aac566d72a9e66527ac17d2": 9,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 3,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 8,
+     "cf33b4e849722c31c43dc78f6b55973d": 107,
+     "402da0fb83f90f4272136140b7b5d942": 2,
+     "272e9cca7f86d80d88b63ad47663392e": 4,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 36,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 4,
+     "4ddf159494b835ac5b98d04c1d927b06": 10,
+     "3108466ebbcc7fe9df734ba26893862d": 8,
+     "79b03dac2662f8b715f9d5405f9747d2": 35,
+     "ce65f1f7a967c7deddc7972bb167df14": 7,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 18,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 42,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 29,
+     "fdc31b41164486c2017e5b2a43fedcba": 9,
+     "54af4e42674183a326d6e1483c0cc88b": 40,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 1,
+     "16661dd280fc3673fb650e6f68eae712": 3,
+     "707e150182562d8c40c7fbea04595ae7": 6,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 21,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 1,
+     "9ee393023338354fe49c2c2e0d9e87f8": 3,
+     "0cb55dfd3ee10a3b999ea743736c9337": 3,
+     "681ab99667ad25676a206fd5471e6b8c": 4,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 6,
+     "fba4f660135129e09b6faaa854a57610": 3,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 2,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 1,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 1,
+     "4fbf88de997403c5160b65b663124f39": 1,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 4,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 2,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 4,
+     "aea1dfb1a129d2590cb4fd794d027397": 3,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 2,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 2,
+     "c54e09753aac566d72a9e66527ac17d2": 1,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 1,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 3,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 2,
+     "cf33b4e849722c31c43dc78f6b55973d": 82,
+     "402da0fb83f90f4272136140b7b5d942": 6,
+     "272e9cca7f86d80d88b63ad47663392e": 4,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 152,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 1,
+     "4ddf159494b835ac5b98d04c1d927b06": 1,
+     "3108466ebbcc7fe9df734ba26893862d": 16,
+     "79b03dac2662f8b715f9d5405f9747d2": 63,
+     "ce65f1f7a967c7deddc7972bb167df14": 10,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 11,
+     "b26b60e633887438be68a13b1a7546c0": 3,
+     "b2689cad9eccab30c9ec810f97eb322a": 11,
+     "fdc31b41164486c2017e5b2a43fedcba": 2,
+     "54af4e42674183a326d6e1483c0cc88b": 9,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 2,
+     "707e150182562d8c40c7fbea04595ae7": 5,
+     "87e0d36970aabd16f0faff87370aad51": 2,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 2,
+     "9ee393023338354fe49c2c2e0d9e87f8": 3,
+     "0cb55dfd3ee10a3b999ea743736c9337": 4,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 2,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 4,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 1,
+     "7cf917ad0954a076483cf473dc31235d": 13,
+     "841d95531bd778bf4d84bb66f5c849f0": 1,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 2,
+     "59e4871911750595764ae443e1ed4e6e": 1,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 2,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 2,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 1,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 1,
+     "aea1dfb1a129d2590cb4fd794d027397": 1,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 1,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 1,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 2,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 0,
+     "cf33b4e849722c31c43dc78f6b55973d": 17,
+     "402da0fb83f90f4272136140b7b5d942": 2,
+     "272e9cca7f86d80d88b63ad47663392e": 3,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 33,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 1,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 9,
+     "79b03dac2662f8b715f9d5405f9747d2": 7,
+     "ce65f1f7a967c7deddc7972bb167df14": 1,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 1,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 2,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 5,
+     "fdc31b41164486c2017e5b2a43fedcba": 1,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 4,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 0,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 1,
+     "681ab99667ad25676a206fd5471e6b8c": 3,
+     "fe3d23eb9ea80d0715f3d14732b75531": 2,
+     "153c694a4322758acbfe83162f69e394": 4,
+     "fba4f660135129e09b6faaa854a57610": 2,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 2,
+     "7cf917ad0954a076483cf473dc31235d": 3,
+     "841d95531bd778bf4d84bb66f5c849f0": 1,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 5,
+     "59e4871911750595764ae443e1ed4e6e": 0,
+     "a4ddc2e5146364a35404d34bf6c54c30": 12,
+     "fc4afe3d0750de1bd75b2a655d895480": 1,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 2,
+     "aea1dfb1a129d2590cb4fd794d027397": 0,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 0,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 3,
+     "6a4fe7a1698bba182b262f88c3bc5465": 4,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 1,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 6,
+     "272e9cca7f86d80d88b63ad47663392e": 3,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 6,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 6,
+     "79b03dac2662f8b715f9d5405f9747d2": 1,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 101,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 2,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 4,
+     "b26b60e633887438be68a13b1a7546c0": 2,
+     "b2689cad9eccab30c9ec810f97eb322a": 2,
+     "fdc31b41164486c2017e5b2a43fedcba": 0,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 1,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 5,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 2,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 0,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 2,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 4,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 2,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 3,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 2,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 1,
+     "aea1dfb1a129d2590cb4fd794d027397": 3,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 2,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 2,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-15 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 76.25,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 76.25,
+   "values": [
+    {
+     "key": "ba1620834e5f9ca0429d7667ded91c5c",
+     "total": 47.76,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/asi-abrio-el-dolar-este-lunes-9-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/asi-abrio-el-dolar-este-lunes-9-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cf33b4e849722c31c43dc78f6b55973d",
+     "total": 112.58,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/que-el-cierre-bancario-no-lo-deje-sin-presupuesto-en-fiestas-de-independencia-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/que-el-cierre-bancario-no-lo-deje-sin-presupuesto-en-fiestas-de-independencia-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "402da0fb83f90f4272136140b7b5d942",
+     "total": 117.75,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-unico-terminal-de-cartagena-con-infraestructura-para-exportar-aceite-de-palma-crudo/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-unico-terminal-de-cartagena-con-infraestructura-para-exportar-aceite-de-palma-crudo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "272e9cca7f86d80d88b63ad47663392e",
+     "total": 114.03,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/dane-revelo-cuanto-subio-la-inflacion-en-colombia-durante-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/dane-revelo-cuanto-subio-la-inflacion-en-colombia-durante-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b49dbd1a8eaab55954b89a8ca883e53c",
+     "total": 102.04,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/12/trafico-de-pasajeros-por-el-aeropuerto-de-cartagena-habra-record-en-el-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/12/trafico-de-pasajeros-por-el-aeropuerto-de-cartagena-habra-record-en-el-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "585b7a9faeb2c0bd15d84d7ae498a837",
+     "total": 46.36,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/06/sacos-llenos-de-medidas-para-el-sector-cafetero-llevo-minagricultura-a-cumbre-cafetera/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/06/sacos-llenos-de-medidas-para-el-sector-cafetero-llevo-minagricultura-a-cumbre-cafetera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4ddf159494b835ac5b98d04c1d927b06",
+     "total": 91.29,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/estos-son-los-grupos-que-le-meten-presion-a-la-canasta-familiar-de-los-cartageneros/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/estos-son-los-grupos-que-le-meten-presion-a-la-canasta-familiar-de-los-cartageneros/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3108466ebbcc7fe9df734ba26893862d",
+     "total": 118.32,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/crecen-exportaciones-de-bolivar-pero-continua-el-deficit-de-la-balanza-comercial/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/crecen-exportaciones-de-bolivar-pero-continua-el-deficit-de-la-balanza-comercial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "79b03dac2662f8b715f9d5405f9747d2",
+     "total": 119.18,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/12/indice-de-competitividad-de-ciudades-icc-2026-cartagena-en-la-posicion-11/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/12/indice-de-competitividad-de-ciudades-icc-2026-cartagena-en-la-posicion-11/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ce65f1f7a967c7deddc7972bb167df14",
+     "total": 198.21,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/la-reconstruccion-podria-aumentar-en-5-la-demanda-de-acero-en-colombia-tras-el-terremoto/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/la-reconstruccion-podria-aumentar-en-5-la-demanda-de-acero-en-colombia-tras-el-terremoto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e2078f602b0d791a9b1bbd183111d105",
+     "total": 105.15,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/15/nueva-presidenta-de-la-andi-le-apuesta-a-un-incremento-salarial-concertado-para-2027/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/15/nueva-presidenta-de-la-andi-le-apuesta-a-un-incremento-salarial-concertado-para-2027/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "529033b6e68c874603619259e8e13d37",
+     "total": 129.16,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/asi-abrio-el-dolar-este-martes-10-de-noviembre-de-2025/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/asi-abrio-el-dolar-este-martes-10-de-noviembre-de-2025/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "359c2d39b205b16f98f110c56cf7ed67",
+     "total": 194.01,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-grupo-portuario-del-caribe-colombiano-que-mas-cafe-exporta-por-sus-terminales/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-grupo-portuario-del-caribe-colombiano-que-mas-cafe-exporta-por-sus-terminales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "682f91392107fea9d28f36acf16b9679",
+     "total": 88.86,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/asi-abrio-el-dolar-en-colombia-este-miercoles-11-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/asi-abrio-el-dolar-en-colombia-este-miercoles-11-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d6a2a242849a5c94fe016be4ca1e77c4",
+     "total": 66.4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/los-subsectores-que-sacan-la-cara-por-el-comercio-en-este-2026-segun-fenalco/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/los-subsectores-que-sacan-la-cara-por-el-comercio-en-este-2026-segun-fenalco/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b26b60e633887438be68a13b1a7546c0",
+     "total": 157.39,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/07/enterese-de-que-terminal-cartagenero-recibe-el-90-del-glp-que-importa-colombia/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/07/enterese-de-que-terminal-cartagenero-recibe-el-90-del-glp-que-importa-colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b2689cad9eccab30c9ec810f97eb322a",
+     "total": 178.88,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/el-nuevo-aeropuerto-de-cartagena-buscara-inversionistas-en-milagro-week-en-nueva-york/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/el-nuevo-aeropuerto-de-cartagena-buscara-inversionistas-en-milagro-week-en-nueva-york/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fdc31b41164486c2017e5b2a43fedcba",
+     "total": 81.65,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2023/11/12/resultados-de-chances-y-loterias-del-sabado-11-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/economica/2023/11/12/resultados-de-chances-y-loterias-del-sabado-11-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "54af4e42674183a326d6e1483c0cc88b",
+     "total": 26.4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/12/asi-abrio-el-dolar-este-jueves-en-colombia-en-cuanto-se-cotiza/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/12/asi-abrio-el-dolar-este-jueves-en-colombia-en-cuanto-se-cotiza/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f3a64cfcb1c676ba305fb1e1e1cf1fe",
+     "total": 126.61,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/dolar-en-colombia-cerro-al-alza-asi-se-comporto-durante-la-jornada/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/dolar-en-colombia-cerro-al-alza-asi-se-comporto-durante-la-jornada/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "16661dd280fc3673fb650e6f68eae712",
+     "total": 39.54,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "707e150182562d8c40c7fbea04595ae7",
+     "total": 121.82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/05/se-abre-paso-al-fracking-en-colombia-este-es-el-momento-de-los-no-convencionales-bayon/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/05/se-abre-paso-al-fracking-en-colombia-este-es-el-momento-de-los-no-convencionales-bayon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "87e0d36970aabd16f0faff87370aad51",
+     "total": 131.68,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2022/11/08/haga-su-vuelta-bancaria-antes-de-fiestas-de-la-independencia/",
+       "value": "https://www.eluniversal.com.co/economica/2022/11/08/haga-su-vuelta-bancaria-antes-de-fiestas-de-la-independencia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c9e2f67cf86a1a2c7173d8abfb53d9e5",
+     "total": 49.38,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2018/01/11/invierten-50-mil-millones-en-primera-etapa-de-nuevo-desarrollo-comercial/",
+       "value": "https://www.eluniversal.com.co/economica/2018/01/11/invierten-50-mil-millones-en-primera-etapa-de-nuevo-desarrollo-comercial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1d8a2502f88aa5f6ad98e98c53453c8d",
+     "total": 9.37,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/10/22/asi-estan-los-precios-del-metro-cuadrado-en-la-zona-costera-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2025/10/22/asi-estan-los-precios-del-metro-cuadrado-en-la-zona-costera-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9ee393023338354fe49c2c2e0d9e87f8",
+     "total": 54.04,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/02/conozca-cuantos-empleos-genera-en-promedio-cada-apertura-de-una-tienda-d1/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/02/conozca-cuantos-empleos-genera-en-promedio-cada-apertura-de-una-tienda-d1/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0cb55dfd3ee10a3b999ea743736c9337",
+     "total": 68.71,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/02/obras-por-impuestos-para-la-reconstruccion-como-opera-y-quienes-pueden-participar/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/02/obras-por-impuestos-para-la-reconstruccion-como-opera-y-quienes-pueden-participar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "681ab99667ad25676a206fd5471e6b8c",
+     "total": 7.89,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2024/01/17/como-pagar-los-impuestos-a-la-dian-estos-son-los-5-medios-disponibles/",
+       "value": "https://www.eluniversal.com.co/economica/2024/01/17/como-pagar-los-impuestos-a-la-dian-estos-son-los-5-medios-disponibles/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe3d23eb9ea80d0715f3d14732b75531",
+     "total": 2.32,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2012/12/18/camara-discute-puntos-fuertes-de-la-reforma-tributaria/",
+       "value": "https://www.eluniversal.com.co/economica/2012/12/18/camara-discute-puntos-fuertes-de-la-reforma-tributaria/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "153c694a4322758acbfe83162f69e394",
+     "total": 17.71,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/10/21/bluville-el-nuevo-icono-residencial-de-lujo-en-la-zona-norte-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2025/10/21/bluville-el-nuevo-icono-residencial-de-lujo-en-la-zona-norte-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fba4f660135129e09b6faaa854a57610",
+     "total": 127.52,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/20/la-mujer-conductora-de-la-vida-nacional/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/20/la-mujer-conductora-de-la-vida-nacional/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "41fdc974f09da2ec28fd4c43d07b1cc0",
+     "total": 39.5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2023/05/18/que-paso-con-american-broasted-chicken-la-popular-pollera-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2023/05/18/que-paso-con-american-broasted-chicken-la-popular-pollera-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7cf917ad0954a076483cf473dc31235d",
+     "total": 24.21,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/13/dolar-en-colombia-abrio-al-alza-y-supero-los-3315-este-viernes/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/13/dolar-en-colombia-abrio-al-alza-y-supero-los-3315-este-viernes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "841d95531bd778bf4d84bb66f5c849f0",
+     "total": 376.63,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/09/03/ranking-de-las-empresas-mas-grandes-y-destacadas-de-cartagena-y-bolivar/",
+       "value": "https://www.eluniversal.com.co/economica/2025/09/03/ranking-de-las-empresas-mas-grandes-y-destacadas-de-cartagena-y-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0fd90d22ed1e8fa467b53a0780042d0f",
+     "total": 298.19,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/",
+       "value": "https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "59e4871911750595764ae443e1ed4e6e",
+     "total": 221.97,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/22/planeacion-pero-con-fines-de-economia-azul/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/22/planeacion-pero-con-fines-de-economia-azul/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a4ddc2e5146364a35404d34bf6c54c30",
+     "total": 323.06,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/11/20/la-primera-terminal-de-glp-refrigerado-de-colombia-estara-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2025/11/20/la-primera-terminal-de-glp-refrigerado-de-colombia-estara-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fc4afe3d0750de1bd75b2a655d895480",
+     "total": 5.53,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/09/11/alicia-bozzi-nueva-rectora-de-la-utb-que-se-priorice-la-educacion-como-politica-de-estado/",
+       "value": "https://www.eluniversal.com.co/economica/2026/09/11/alicia-bozzi-nueva-rectora-de-la-utb-que-se-priorice-la-educacion-como-politica-de-estado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4fbf88de997403c5160b65b663124f39",
+     "total": 270.64,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/21/huc-en-su-mejor-momento-historico/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/21/huc-en-su-mejor-momento-historico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "591a6e6b73cdace8f3de3dd8da8614bd",
+     "total": 67.58,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/23/terremoto-reconstruccion-cuesta-54-billones-19-billones-corresponden-a-la-vivienda/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/23/terremoto-reconstruccion-cuesta-54-billones-19-billones-corresponden-a-la-vivienda/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b7a735c85f7ff3ed9697cf64aba9ea66",
+     "total": 44.62,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/03/conoce-cuando-latam-reabre-operacion-en-la-ruta-medellin-cartagena-medellin/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/03/conoce-cuando-latam-reabre-operacion-en-la-ruta-medellin-cartagena-medellin/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "de4c26cfa33d3d013aec47b51750015a",
+     "total": 34.26,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2013/10/19/programe-su-ida-al-banco-en-las-festividades-novembrinas/",
+       "value": "https://www.eluniversal.com.co/economica/2013/10/19/programe-su-ida-al-banco-en-las-festividades-novembrinas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cfe517a42b89a4f27c549d5752aeac7d",
+     "total": 24.73,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/04/20/el-centro-comercial-mas-grande-de-cartagena-a-punto-de-primera-piedra/",
+       "value": "https://www.eluniversal.com.co/economica/2025/04/20/el-centro-comercial-mas-grande-de-cartagena-a-punto-de-primera-piedra/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "aea1dfb1a129d2590cb4fd794d027397",
+     "total": 189.68,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/09/11/liderazgo-con-proposito-la-vision-empresarial-de-rosmery-elles-en-fundovida/",
+       "value": "https://www.eluniversal.com.co/economica/2025/09/11/liderazgo-con-proposito-la-vision-empresarial-de-rosmery-elles-en-fundovida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7a6fb6811c0073eccb500b5bbd2ccd5a",
+     "total": 98.3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/06/19/asi-nace-el-proyecto-que-impulsara-la-gran-transformacion-de-la-ruta-90-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2026/06/19/asi-nace-el-proyecto-que-impulsara-la-gran-transformacion-de-la-ruta-90-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "091b2bc64422f8a83eaef0cc8b32e2ad",
+     "total": 9,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/06/30/estas-son-las-empresas-mas-grandes-de-colombia-segun-supersociedades/",
+       "value": "https://www.eluniversal.com.co/economica/2026/06/30/estas-son-las-empresas-mas-grandes-de-colombia-segun-supersociedades/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c54e09753aac566d72a9e66527ac17d2",
+     "total": 85.05,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/05/conozca-cuantas-listas-de-aspirantes-a-ser-miembros-de-la-junta-de-la-ccc-se-inscribieron/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/05/conozca-cuantas-listas-de-aspirantes-a-ser-miembros-de-la-junta-de-la-ccc-se-inscribieron/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "07fc9a3c8eac4d2aae4b57a1fd5f7ff6",
+     "total": 345.16,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/07/07/ecopetrol-adquirio-proyecto-eolico-en-la-guajira-para-autoconsumo/",
+       "value": "https://www.eluniversal.com.co/economica/2025/07/07/ecopetrol-adquirio-proyecto-eolico-en-la-guajira-para-autoconsumo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "63b2922b4e9f86f0734bee498a60c83d",
+     "total": 113.29,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/13/tiquetes-aereos-nacionales-desde-51000-rutas-y-tarifas-promocionales/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/13/tiquetes-aereos-nacionales-desde-51000-rutas-y-tarifas-promocionales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6a4fe7a1698bba182b262f88c3bc5465",
+     "total": 37.33,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/21/reactivacion-economica-98-billones-en-proyectos-de-vivienda-propone-camacol/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/21/reactivacion-economica-98-billones-en-proyectos-de-vivienda-propone-camacol/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 54.4,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 73.73,
+     "272e9cca7f86d80d88b63ad47663392e": 93.25,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 53.87,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 117.76,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 238.13,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 187.84,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 44.86,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 58.21,
+     "707e150182562d8c40c7fbea04595ae7": 209,
+     "87e0d36970aabd16f0faff87370aad51": 13.5,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 8.5,
+     "9ee393023338354fe49c2c2e0d9e87f8": 60.1,
+     "0cb55dfd3ee10a3b999ea743736c9337": 182.12,
+     "681ab99667ad25676a206fd5471e6b8c": 6.67,
+     "fe3d23eb9ea80d0715f3d14732b75531": 4,
+     "153c694a4322758acbfe83162f69e394": 14.75,
+     "fba4f660135129e09b6faaa854a57610": 37,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 59.14,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 427.83,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 403,
+     "59e4871911750595764ae443e1ed4e6e": 260.27,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 385.4,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 61.2,
+     "de4c26cfa33d3d013aec47b51750015a": 2,
+     "cfe517a42b89a4f27c549d5752aeac7d": 30.5,
+     "aea1dfb1a129d2590cb4fd794d027397": 764.25,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 68,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 509.14,
+     "63b2922b4e9f86f0734bee498a60c83d": 73.29,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 37.09,
+     "cf33b4e849722c31c43dc78f6b55973d": 132.02,
+     "402da0fb83f90f4272136140b7b5d942": 130.51,
+     "272e9cca7f86d80d88b63ad47663392e": 166.82,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 11.86,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 143.46,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 163.87,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 138.27,
+     "359c2d39b205b16f98f110c56cf7ed67": 90.78,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 121.14,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 26.36,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 125.65,
+     "16661dd280fc3673fb650e6f68eae712": 16.45,
+     "707e150182562d8c40c7fbea04595ae7": 15,
+     "87e0d36970aabd16f0faff87370aad51": 175.15,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 11.5,
+     "9ee393023338354fe49c2c2e0d9e87f8": 106.67,
+     "0cb55dfd3ee10a3b999ea743736c9337": 57,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 365.5,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 8,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 493.35,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 621.67,
+     "59e4871911750595764ae443e1ed4e6e": 297.89,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 92.17,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 19,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 38.06,
+     "cfe517a42b89a4f27c549d5752aeac7d": 0,
+     "aea1dfb1a129d2590cb4fd794d027397": 63,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 33.33,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 4,
+     "c54e09753aac566d72a9e66527ac17d2": 42.67,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 264.14,
+     "63b2922b4e9f86f0734bee498a60c83d": 210,
+     "6a4fe7a1698bba182b262f88c3bc5465": 20,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 39.43,
+     "cf33b4e849722c31c43dc78f6b55973d": 109.09,
+     "402da0fb83f90f4272136140b7b5d942": 64.9,
+     "272e9cca7f86d80d88b63ad47663392e": 71.9,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 181.8,
+     "4ddf159494b835ac5b98d04c1d927b06": 91.79,
+     "3108466ebbcc7fe9df734ba26893862d": 116.26,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 236.6,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 61.88,
+     "359c2d39b205b16f98f110c56cf7ed67": 151.77,
+     "682f91392107fea9d28f36acf16b9679": 101.99,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 27.81,
+     "b26b60e633887438be68a13b1a7546c0": 30.5,
+     "b2689cad9eccab30c9ec810f97eb322a": 101.93,
+     "fdc31b41164486c2017e5b2a43fedcba": 128.59,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 145.93,
+     "16661dd280fc3673fb650e6f68eae712": 7,
+     "707e150182562d8c40c7fbea04595ae7": 40.33,
+     "87e0d36970aabd16f0faff87370aad51": 83.78,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 6.4,
+     "9ee393023338354fe49c2c2e0d9e87f8": 5,
+     "0cb55dfd3ee10a3b999ea743736c9337": 1.8,
+     "681ab99667ad25676a206fd5471e6b8c": 10.25,
+     "fe3d23eb9ea80d0715f3d14732b75531": 8,
+     "153c694a4322758acbfe83162f69e394": 25,
+     "fba4f660135129e09b6faaa854a57610": 31,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 41.43,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 190.83,
+     "59e4871911750595764ae443e1ed4e6e": 50,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 2,
+     "4fbf88de997403c5160b65b663124f39": 125.5,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 16,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 6,
+     "aea1dfb1a129d2590cb4fd794d027397": 130.08,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 219.8,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 5.25,
+     "c54e09753aac566d72a9e66527ac17d2": 101.12,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 238.62,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 159.38,
+     "cf33b4e849722c31c43dc78f6b55973d": 114.8,
+     "402da0fb83f90f4272136140b7b5d942": 167,
+     "272e9cca7f86d80d88b63ad47663392e": 63.8,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 107.85,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 68.64,
+     "4ddf159494b835ac5b98d04c1d927b06": 63.42,
+     "3108466ebbcc7fe9df734ba26893862d": 57.64,
+     "79b03dac2662f8b715f9d5405f9747d2": 115.9,
+     "ce65f1f7a967c7deddc7972bb167df14": 287.96,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 19.67,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 68.15,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 184.4,
+     "fdc31b41164486c2017e5b2a43fedcba": 22.31,
+     "54af4e42674183a326d6e1483c0cc88b": 25.01,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 14.5,
+     "16661dd280fc3673fb650e6f68eae712": 6,
+     "707e150182562d8c40c7fbea04595ae7": 116.08,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 49.38,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 30,
+     "9ee393023338354fe49c2c2e0d9e87f8": 33.25,
+     "0cb55dfd3ee10a3b999ea743736c9337": 10,
+     "681ab99667ad25676a206fd5471e6b8c": 10.25,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 16.33,
+     "fba4f660135129e09b6faaa854a57610": 35.33,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 20.67,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 291.33,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 880,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 13.75,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 16.5,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 32.17,
+     "aea1dfb1a129d2590cb4fd794d027397": 77,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 104,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 20.5,
+     "c54e09753aac566d72a9e66527ac17d2": 20,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 88.5,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 11.83,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 24.86,
+     "cf33b4e849722c31c43dc78f6b55973d": 114.73,
+     "402da0fb83f90f4272136140b7b5d942": 127.47,
+     "272e9cca7f86d80d88b63ad47663392e": 456.22,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 102.63,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 215.33,
+     "3108466ebbcc7fe9df734ba26893862d": 46.43,
+     "79b03dac2662f8b715f9d5405f9747d2": 124.99,
+     "ce65f1f7a967c7deddc7972bb167df14": 249.09,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 122.59,
+     "b26b60e633887438be68a13b1a7546c0": 11.33,
+     "b2689cad9eccab30c9ec810f97eb322a": 241.3,
+     "fdc31b41164486c2017e5b2a43fedcba": 49,
+     "54af4e42674183a326d6e1483c0cc88b": 31.76,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 26,
+     "707e150182562d8c40c7fbea04595ae7": 14.6,
+     "87e0d36970aabd16f0faff87370aad51": 18.5,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 15,
+     "9ee393023338354fe49c2c2e0d9e87f8": 5.33,
+     "0cb55dfd3ee10a3b999ea743736c9337": 7.25,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 24.25,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 134,
+     "7cf917ad0954a076483cf473dc31235d": 25.35,
+     "841d95531bd778bf4d84bb66f5c849f0": 134.5,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 112.4,
+     "59e4871911750595764ae443e1ed4e6e": 105,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 159.29,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 18,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 48,
+     "aea1dfb1a129d2590cb4fd794d027397": 72,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 43.5,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 30,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 8,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 0,
+     "cf33b4e849722c31c43dc78f6b55973d": 63.61,
+     "402da0fb83f90f4272136140b7b5d942": 22.67,
+     "272e9cca7f86d80d88b63ad47663392e": 18.75,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 45.21,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 12,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 77.32,
+     "79b03dac2662f8b715f9d5405f9747d2": 96.07,
+     "ce65f1f7a967c7deddc7972bb167df14": 1,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 20,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 190.89,
+     "fdc31b41164486c2017e5b2a43fedcba": 26,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 91.2,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 0,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 13.33,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 17.25,
+     "fba4f660135129e09b6faaa854a57610": 111,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 15.5,
+     "7cf917ad0954a076483cf473dc31235d": 19,
+     "841d95531bd778bf4d84bb66f5c849f0": 21,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 9.6,
+     "59e4871911750595764ae443e1ed4e6e": 0,
+     "a4ddc2e5146364a35404d34bf6c54c30": 343.9,
+     "fc4afe3d0750de1bd75b2a655d895480": 40,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 21,
+     "aea1dfb1a129d2590cb4fd794d027397": 0,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 0,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 5.8,
+     "6a4fe7a1698bba182b262f88c3bc5465": 68.12,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 158.4,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 157.37,
+     "272e9cca7f86d80d88b63ad47663392e": 471.88,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 290.64,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 110.23,
+     "79b03dac2662f8b715f9d5405f9747d2": 18.5,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 105.15,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 33.5,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 32,
+     "b26b60e633887438be68a13b1a7546c0": 24.67,
+     "b2689cad9eccab30c9ec810f97eb322a": 1001.33,
+     "fdc31b41164486c2017e5b2a43fedcba": 0,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 5.8,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 0,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 0.5,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 13.75,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 34.33,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 32.33,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 17.5,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 9,
+     "aea1dfb1a129d2590cb4fd794d027397": 44,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 170,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 19.33,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-15 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "socialPosts",
+  "total": 8,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 8,
+   "values": [
+    {
+     "key": "ba1620834e5f9ca0429d7667ded91c5c",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/asi-abrio-el-dolar-este-lunes-9-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/asi-abrio-el-dolar-este-lunes-9-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cf33b4e849722c31c43dc78f6b55973d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/que-el-cierre-bancario-no-lo-deje-sin-presupuesto-en-fiestas-de-independencia-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/que-el-cierre-bancario-no-lo-deje-sin-presupuesto-en-fiestas-de-independencia-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "402da0fb83f90f4272136140b7b5d942",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-unico-terminal-de-cartagena-con-infraestructura-para-exportar-aceite-de-palma-crudo/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-unico-terminal-de-cartagena-con-infraestructura-para-exportar-aceite-de-palma-crudo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "272e9cca7f86d80d88b63ad47663392e",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/dane-revelo-cuanto-subio-la-inflacion-en-colombia-durante-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/dane-revelo-cuanto-subio-la-inflacion-en-colombia-durante-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b49dbd1a8eaab55954b89a8ca883e53c",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/12/trafico-de-pasajeros-por-el-aeropuerto-de-cartagena-habra-record-en-el-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/12/trafico-de-pasajeros-por-el-aeropuerto-de-cartagena-habra-record-en-el-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "585b7a9faeb2c0bd15d84d7ae498a837",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/06/sacos-llenos-de-medidas-para-el-sector-cafetero-llevo-minagricultura-a-cumbre-cafetera/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/06/sacos-llenos-de-medidas-para-el-sector-cafetero-llevo-minagricultura-a-cumbre-cafetera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4ddf159494b835ac5b98d04c1d927b06",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/estos-son-los-grupos-que-le-meten-presion-a-la-canasta-familiar-de-los-cartageneros/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/estos-son-los-grupos-que-le-meten-presion-a-la-canasta-familiar-de-los-cartageneros/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3108466ebbcc7fe9df734ba26893862d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/crecen-exportaciones-de-bolivar-pero-continua-el-deficit-de-la-balanza-comercial/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/crecen-exportaciones-de-bolivar-pero-continua-el-deficit-de-la-balanza-comercial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "79b03dac2662f8b715f9d5405f9747d2",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/12/indice-de-competitividad-de-ciudades-icc-2026-cartagena-en-la-posicion-11/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/12/indice-de-competitividad-de-ciudades-icc-2026-cartagena-en-la-posicion-11/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ce65f1f7a967c7deddc7972bb167df14",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/la-reconstruccion-podria-aumentar-en-5-la-demanda-de-acero-en-colombia-tras-el-terremoto/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/la-reconstruccion-podria-aumentar-en-5-la-demanda-de-acero-en-colombia-tras-el-terremoto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e2078f602b0d791a9b1bbd183111d105",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/15/nueva-presidenta-de-la-andi-le-apuesta-a-un-incremento-salarial-concertado-para-2027/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/15/nueva-presidenta-de-la-andi-le-apuesta-a-un-incremento-salarial-concertado-para-2027/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "529033b6e68c874603619259e8e13d37",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/asi-abrio-el-dolar-este-martes-10-de-noviembre-de-2025/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/asi-abrio-el-dolar-este-martes-10-de-noviembre-de-2025/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "359c2d39b205b16f98f110c56cf7ed67",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-grupo-portuario-del-caribe-colombiano-que-mas-cafe-exporta-por-sus-terminales/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/09/este-es-el-grupo-portuario-del-caribe-colombiano-que-mas-cafe-exporta-por-sus-terminales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "682f91392107fea9d28f36acf16b9679",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/asi-abrio-el-dolar-en-colombia-este-miercoles-11-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/asi-abrio-el-dolar-en-colombia-este-miercoles-11-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d6a2a242849a5c94fe016be4ca1e77c4",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/los-subsectores-que-sacan-la-cara-por-el-comercio-en-este-2026-segun-fenalco/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/los-subsectores-que-sacan-la-cara-por-el-comercio-en-este-2026-segun-fenalco/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b26b60e633887438be68a13b1a7546c0",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/07/enterese-de-que-terminal-cartagenero-recibe-el-90-del-glp-que-importa-colombia/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/07/enterese-de-que-terminal-cartagenero-recibe-el-90-del-glp-que-importa-colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b2689cad9eccab30c9ec810f97eb322a",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/11/el-nuevo-aeropuerto-de-cartagena-buscara-inversionistas-en-milagro-week-en-nueva-york/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/11/el-nuevo-aeropuerto-de-cartagena-buscara-inversionistas-en-milagro-week-en-nueva-york/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fdc31b41164486c2017e5b2a43fedcba",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2023/11/12/resultados-de-chances-y-loterias-del-sabado-11-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/economica/2023/11/12/resultados-de-chances-y-loterias-del-sabado-11-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "54af4e42674183a326d6e1483c0cc88b",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/12/asi-abrio-el-dolar-este-jueves-en-colombia-en-cuanto-se-cotiza/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/12/asi-abrio-el-dolar-este-jueves-en-colombia-en-cuanto-se-cotiza/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f3a64cfcb1c676ba305fb1e1e1cf1fe",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/10/dolar-en-colombia-cerro-al-alza-asi-se-comporto-durante-la-jornada/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/10/dolar-en-colombia-cerro-al-alza-asi-se-comporto-durante-la-jornada/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "16661dd280fc3673fb650e6f68eae712",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "707e150182562d8c40c7fbea04595ae7",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/05/se-abre-paso-al-fracking-en-colombia-este-es-el-momento-de-los-no-convencionales-bayon/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/05/se-abre-paso-al-fracking-en-colombia-este-es-el-momento-de-los-no-convencionales-bayon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "87e0d36970aabd16f0faff87370aad51",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2022/11/08/haga-su-vuelta-bancaria-antes-de-fiestas-de-la-independencia/",
+       "value": "https://www.eluniversal.com.co/economica/2022/11/08/haga-su-vuelta-bancaria-antes-de-fiestas-de-la-independencia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c9e2f67cf86a1a2c7173d8abfb53d9e5",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2018/01/11/invierten-50-mil-millones-en-primera-etapa-de-nuevo-desarrollo-comercial/",
+       "value": "https://www.eluniversal.com.co/economica/2018/01/11/invierten-50-mil-millones-en-primera-etapa-de-nuevo-desarrollo-comercial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1d8a2502f88aa5f6ad98e98c53453c8d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/10/22/asi-estan-los-precios-del-metro-cuadrado-en-la-zona-costera-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2025/10/22/asi-estan-los-precios-del-metro-cuadrado-en-la-zona-costera-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9ee393023338354fe49c2c2e0d9e87f8",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/02/conozca-cuantos-empleos-genera-en-promedio-cada-apertura-de-una-tienda-d1/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/02/conozca-cuantos-empleos-genera-en-promedio-cada-apertura-de-una-tienda-d1/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0cb55dfd3ee10a3b999ea743736c9337",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/02/obras-por-impuestos-para-la-reconstruccion-como-opera-y-quienes-pueden-participar/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/02/obras-por-impuestos-para-la-reconstruccion-como-opera-y-quienes-pueden-participar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "681ab99667ad25676a206fd5471e6b8c",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2024/01/17/como-pagar-los-impuestos-a-la-dian-estos-son-los-5-medios-disponibles/",
+       "value": "https://www.eluniversal.com.co/economica/2024/01/17/como-pagar-los-impuestos-a-la-dian-estos-son-los-5-medios-disponibles/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe3d23eb9ea80d0715f3d14732b75531",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2012/12/18/camara-discute-puntos-fuertes-de-la-reforma-tributaria/",
+       "value": "https://www.eluniversal.com.co/economica/2012/12/18/camara-discute-puntos-fuertes-de-la-reforma-tributaria/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "153c694a4322758acbfe83162f69e394",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/10/21/bluville-el-nuevo-icono-residencial-de-lujo-en-la-zona-norte-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2025/10/21/bluville-el-nuevo-icono-residencial-de-lujo-en-la-zona-norte-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fba4f660135129e09b6faaa854a57610",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/20/la-mujer-conductora-de-la-vida-nacional/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/20/la-mujer-conductora-de-la-vida-nacional/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "41fdc974f09da2ec28fd4c43d07b1cc0",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2023/05/18/que-paso-con-american-broasted-chicken-la-popular-pollera-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2023/05/18/que-paso-con-american-broasted-chicken-la-popular-pollera-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7cf917ad0954a076483cf473dc31235d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/13/dolar-en-colombia-abrio-al-alza-y-supero-los-3315-este-viernes/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/13/dolar-en-colombia-abrio-al-alza-y-supero-los-3315-este-viernes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "841d95531bd778bf4d84bb66f5c849f0",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/09/03/ranking-de-las-empresas-mas-grandes-y-destacadas-de-cartagena-y-bolivar/",
+       "value": "https://www.eluniversal.com.co/economica/2025/09/03/ranking-de-las-empresas-mas-grandes-y-destacadas-de-cartagena-y-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0fd90d22ed1e8fa467b53a0780042d0f",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/",
+       "value": "https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "59e4871911750595764ae443e1ed4e6e",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/22/planeacion-pero-con-fines-de-economia-azul/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/22/planeacion-pero-con-fines-de-economia-azul/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a4ddc2e5146364a35404d34bf6c54c30",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/11/20/la-primera-terminal-de-glp-refrigerado-de-colombia-estara-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2025/11/20/la-primera-terminal-de-glp-refrigerado-de-colombia-estara-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fc4afe3d0750de1bd75b2a655d895480",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/09/11/alicia-bozzi-nueva-rectora-de-la-utb-que-se-priorice-la-educacion-como-politica-de-estado/",
+       "value": "https://www.eluniversal.com.co/economica/2026/09/11/alicia-bozzi-nueva-rectora-de-la-utb-que-se-priorice-la-educacion-como-politica-de-estado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4fbf88de997403c5160b65b663124f39",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/21/huc-en-su-mejor-momento-historico/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/21/huc-en-su-mejor-momento-historico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "591a6e6b73cdace8f3de3dd8da8614bd",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/23/terremoto-reconstruccion-cuesta-54-billones-19-billones-corresponden-a-la-vivienda/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/23/terremoto-reconstruccion-cuesta-54-billones-19-billones-corresponden-a-la-vivienda/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b7a735c85f7ff3ed9697cf64aba9ea66",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/03/conoce-cuando-latam-reabre-operacion-en-la-ruta-medellin-cartagena-medellin/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/03/conoce-cuando-latam-reabre-operacion-en-la-ruta-medellin-cartagena-medellin/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "de4c26cfa33d3d013aec47b51750015a",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2013/10/19/programe-su-ida-al-banco-en-las-festividades-novembrinas/",
+       "value": "https://www.eluniversal.com.co/economica/2013/10/19/programe-su-ida-al-banco-en-las-festividades-novembrinas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cfe517a42b89a4f27c549d5752aeac7d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/04/20/el-centro-comercial-mas-grande-de-cartagena-a-punto-de-primera-piedra/",
+       "value": "https://www.eluniversal.com.co/economica/2025/04/20/el-centro-comercial-mas-grande-de-cartagena-a-punto-de-primera-piedra/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "aea1dfb1a129d2590cb4fd794d027397",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/09/11/liderazgo-con-proposito-la-vision-empresarial-de-rosmery-elles-en-fundovida/",
+       "value": "https://www.eluniversal.com.co/economica/2025/09/11/liderazgo-con-proposito-la-vision-empresarial-de-rosmery-elles-en-fundovida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7a6fb6811c0073eccb500b5bbd2ccd5a",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/06/19/asi-nace-el-proyecto-que-impulsara-la-gran-transformacion-de-la-ruta-90-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/economica/2026/06/19/asi-nace-el-proyecto-que-impulsara-la-gran-transformacion-de-la-ruta-90-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "091b2bc64422f8a83eaef0cc8b32e2ad",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/06/30/estas-son-las-empresas-mas-grandes-de-colombia-segun-supersociedades/",
+       "value": "https://www.eluniversal.com.co/economica/2026/06/30/estas-son-las-empresas-mas-grandes-de-colombia-segun-supersociedades/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c54e09753aac566d72a9e66527ac17d2",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/11/05/conozca-cuantas-listas-de-aspirantes-a-ser-miembros-de-la-junta-de-la-ccc-se-inscribieron/",
+       "value": "https://www.eluniversal.com.co/economica/2026/11/05/conozca-cuantas-listas-de-aspirantes-a-ser-miembros-de-la-junta-de-la-ccc-se-inscribieron/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "07fc9a3c8eac4d2aae4b57a1fd5f7ff6",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2025/07/07/ecopetrol-adquirio-proyecto-eolico-en-la-guajira-para-autoconsumo/",
+       "value": "https://www.eluniversal.com.co/economica/2025/07/07/ecopetrol-adquirio-proyecto-eolico-en-la-guajira-para-autoconsumo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "63b2922b4e9f86f0734bee498a60c83d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/13/tiquetes-aereos-nacionales-desde-51000-rutas-y-tarifas-promocionales/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/13/tiquetes-aereos-nacionales-desde-51000-rutas-y-tarifas-promocionales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6a4fe7a1698bba182b262f88c3bc5465",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/21/reactivacion-economica-98-billones-en-proyectos-de-vivienda-propone-camacol/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/21/reactivacion-economica-98-billones-en-proyectos-de-vivienda-propone-camacol/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 2,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 0,
+     "272e9cca7f86d80d88b63ad47663392e": 2,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 0,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 1,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 0,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 0,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 0,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 0,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 0,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 0,
+     "aea1dfb1a129d2590cb4fd794d027397": 0,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 0,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 0,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 0,
+     "272e9cca7f86d80d88b63ad47663392e": 0,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 0,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 1,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 0,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 0,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 0,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 0,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 0,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 0,
+     "aea1dfb1a129d2590cb4fd794d027397": 0,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 0,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 0,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 0,
+     "272e9cca7f86d80d88b63ad47663392e": 0,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 0,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 1,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 0,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 0,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 0,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 0,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 0,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 0,
+     "aea1dfb1a129d2590cb4fd794d027397": 0,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 0,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 0,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 0,
+     "272e9cca7f86d80d88b63ad47663392e": 0,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 0,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 0,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 0,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 0,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 0,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 0,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 0,
+     "aea1dfb1a129d2590cb4fd794d027397": 0,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 0,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 0,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 0,
+     "272e9cca7f86d80d88b63ad47663392e": 0,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 0,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 0,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 0,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 0,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 0,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 0,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 0,
+     "aea1dfb1a129d2590cb4fd794d027397": 0,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 0,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 0,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 0,
+     "272e9cca7f86d80d88b63ad47663392e": 0,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 0,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 0,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 0,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 0,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 0,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 0,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 0,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 0,
+     "aea1dfb1a129d2590cb4fd794d027397": 0,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 0,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "ba1620834e5f9ca0429d7667ded91c5c": 0,
+     "cf33b4e849722c31c43dc78f6b55973d": 0,
+     "402da0fb83f90f4272136140b7b5d942": 0,
+     "272e9cca7f86d80d88b63ad47663392e": 0,
+     "b49dbd1a8eaab55954b89a8ca883e53c": 0,
+     "585b7a9faeb2c0bd15d84d7ae498a837": 0,
+     "4ddf159494b835ac5b98d04c1d927b06": 0,
+     "3108466ebbcc7fe9df734ba26893862d": 0,
+     "79b03dac2662f8b715f9d5405f9747d2": 0,
+     "ce65f1f7a967c7deddc7972bb167df14": 0,
+     "e2078f602b0d791a9b1bbd183111d105": 1,
+     "529033b6e68c874603619259e8e13d37": 0,
+     "359c2d39b205b16f98f110c56cf7ed67": 0,
+     "682f91392107fea9d28f36acf16b9679": 0,
+     "d6a2a242849a5c94fe016be4ca1e77c4": 0,
+     "b26b60e633887438be68a13b1a7546c0": 0,
+     "b2689cad9eccab30c9ec810f97eb322a": 0,
+     "fdc31b41164486c2017e5b2a43fedcba": 0,
+     "54af4e42674183a326d6e1483c0cc88b": 0,
+     "3f3a64cfcb1c676ba305fb1e1e1cf1fe": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "707e150182562d8c40c7fbea04595ae7": 0,
+     "87e0d36970aabd16f0faff87370aad51": 0,
+     "c9e2f67cf86a1a2c7173d8abfb53d9e5": 0,
+     "1d8a2502f88aa5f6ad98e98c53453c8d": 0,
+     "9ee393023338354fe49c2c2e0d9e87f8": 0,
+     "0cb55dfd3ee10a3b999ea743736c9337": 0,
+     "681ab99667ad25676a206fd5471e6b8c": 0,
+     "fe3d23eb9ea80d0715f3d14732b75531": 0,
+     "153c694a4322758acbfe83162f69e394": 0,
+     "fba4f660135129e09b6faaa854a57610": 0,
+     "41fdc974f09da2ec28fd4c43d07b1cc0": 0,
+     "7cf917ad0954a076483cf473dc31235d": 0,
+     "841d95531bd778bf4d84bb66f5c849f0": 0,
+     "0fd90d22ed1e8fa467b53a0780042d0f": 0,
+     "59e4871911750595764ae443e1ed4e6e": 0,
+     "a4ddc2e5146364a35404d34bf6c54c30": 0,
+     "fc4afe3d0750de1bd75b2a655d895480": 0,
+     "4fbf88de997403c5160b65b663124f39": 0,
+     "591a6e6b73cdace8f3de3dd8da8614bd": 0,
+     "b7a735c85f7ff3ed9697cf64aba9ea66": 0,
+     "de4c26cfa33d3d013aec47b51750015a": 0,
+     "cfe517a42b89a4f27c549d5752aeac7d": 0,
+     "aea1dfb1a129d2590cb4fd794d027397": 0,
+     "7a6fb6811c0073eccb500b5bbd2ccd5a": 0,
+     "091b2bc64422f8a83eaef0cc8b32e2ad": 0,
+     "c54e09753aac566d72a9e66527ac17d2": 0,
+     "07fc9a3c8eac4d2aae4b57a1fd5f7ff6": 0,
+     "63b2922b4e9f86f0734bee498a60c83d": 0,
+     "6a4fe7a1698bba182b262f88c3bc5465": 0,
+     "label": "2026-11-15 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ }
+]

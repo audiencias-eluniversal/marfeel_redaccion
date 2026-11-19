@@ -1,0 +1,2039 @@
+[
+ {
+  "metric": "uniqueUsers",
+  "total": 182342,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 182342,
+   "values": [
+    {
+     "key": "36fa3a193d737e5ad86441e422ed5a78",
+     "total": 122918,
+     "items": [
+      {
+       "id": "social",
+       "value": "social",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "06a943c59f33a34bb5924aaf72cd2995",
+     "total": 30640,
+     "items": [
+      {
+       "id": "search",
+       "value": "search",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "7caa701b2bd5a182b80c72b9bdf88e2d",
+     "total": 9908,
+     "items": [
+      {
+       "id": "direct",
+       "value": "direct",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "a8879923668cac1bfe20354be7f0e6e5",
+     "total": 5972,
+     "items": [
+      {
+       "id": "plexus_cards",
+       "value": "plexus_cards",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "76e084771e78c194efd0e2d5b8920bea",
+     "total": 5509,
+     "items": [
+      {
+       "id": "paid",
+       "value": "paid",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "21a361d96e3e13f5f109748c2a9d2434",
+     "total": 4704,
+     "items": [
+      {
+       "id": "push",
+       "value": "push",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "5175046986ddfa0f3f0a3377e5a8051f",
+     "total": 3059,
+     "items": [
+      {
+       "id": "taboola_news",
+       "value": "taboola_news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "cd9bcdcbf9ef392bb2bce89a7c150638",
+     "total": 2948,
+     "items": [
+      {
+       "id": "referral",
+       "value": "referral",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "c4f79e15f8c6ed0715a8ea44aebc38d8",
+     "total": 2262,
+     "items": [
+      {
+       "id": "whatsapp",
+       "value": "whatsapp",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "3e670ad8d80b2aea076a0e3521116d40",
+     "total": 431,
+     "items": [
+      {
+       "id": "(not set)",
+       "value": "(not set)",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "4921c0e2d1f6005abe1f9ec2e2041909",
+     "total": 329,
+     "items": [
+      {
+       "id": "ai",
+       "value": "ai",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "6d12ecd82e935b89ce4129c5fdfab0c1",
+     "total": 205,
+     "items": [
+      {
+       "id": "ert_breaking-news",
+       "value": "ert_breaking-news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "f96d7956bff75d05a22e902e13a16f37",
+     "total": 33,
+     "items": [
+      {
+       "id": "gnews",
+       "value": "gnews",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "79bd2b6b389ee211aaf26e9ea3a1292e",
+     "total": 27,
+     "items": [
+      {
+       "id": "discover",
+       "value": "discover",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "0c83f57c786a0b4a39efab23731c7ebc",
+     "total": 3,
+     "items": [
+      {
+       "id": "email",
+       "value": "email",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "ebf78b512222fe4dcd14e7d5060a15b0",
+     "total": 2,
+     "items": [
+      {
+       "id": "display",
+       "value": "display",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "bb20ce2c0fba31f951e82c592a0194a8",
+     "total": 1,
+     "items": [
+      {
+       "id": "ilzj",
+       "value": "ilzj",
+       "type": "medium"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 4498,
+     "06a943c59f33a34bb5924aaf72cd2995": 4721,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 2138,
+     "a8879923668cac1bfe20354be7f0e6e5": 543,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1073,
+     "5175046986ddfa0f3f0a3377e5a8051f": 318,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 360,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 299,
+     "3e670ad8d80b2aea076a0e3521116d40": 98,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 42,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 26,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 2,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 2,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 17431,
+     "06a943c59f33a34bb5924aaf72cd2995": 5039,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 2864,
+     "a8879923668cac1bfe20354be7f0e6e5": 453,
+     "76e084771e78c194efd0e2d5b8920bea": 3869,
+     "21a361d96e3e13f5f109748c2a9d2434": 1640,
+     "5175046986ddfa0f3f0a3377e5a8051f": 193,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 297,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 933,
+     "3e670ad8d80b2aea076a0e3521116d40": 70,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 81,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 44,
+     "f96d7956bff75d05a22e902e13a16f37": 8,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 12,
+     "0c83f57c786a0b4a39efab23731c7ebc": 1,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 13775,
+     "06a943c59f33a34bb5924aaf72cd2995": 4106,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 2822,
+     "a8879923668cac1bfe20354be7f0e6e5": 486,
+     "76e084771e78c194efd0e2d5b8920bea": 1580,
+     "21a361d96e3e13f5f109748c2a9d2434": 1149,
+     "5175046986ddfa0f3f0a3377e5a8051f": 365,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 369,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 415,
+     "3e670ad8d80b2aea076a0e3521116d40": 59,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 61,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 23,
+     "f96d7956bff75d05a22e902e13a16f37": 7,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 9,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 26008,
+     "06a943c59f33a34bb5924aaf72cd2995": 4096,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 3094,
+     "a8879923668cac1bfe20354be7f0e6e5": 1213,
+     "76e084771e78c194efd0e2d5b8920bea": 3,
+     "21a361d96e3e13f5f109748c2a9d2434": 1261,
+     "5175046986ddfa0f3f0a3377e5a8051f": 866,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 375,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 533,
+     "3e670ad8d80b2aea076a0e3521116d40": 63,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 56,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 32,
+     "f96d7956bff75d05a22e902e13a16f37": 2,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 4,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 24215,
+     "06a943c59f33a34bb5924aaf72cd2995": 6854,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 2897,
+     "a8879923668cac1bfe20354be7f0e6e5": 1482,
+     "76e084771e78c194efd0e2d5b8920bea": 2,
+     "21a361d96e3e13f5f109748c2a9d2434": 1102,
+     "5175046986ddfa0f3f0a3377e5a8051f": 690,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 751,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 386,
+     "3e670ad8d80b2aea076a0e3521116d40": 62,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 32,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 52,
+     "f96d7956bff75d05a22e902e13a16f37": 19,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 2,
+     "0c83f57c786a0b4a39efab23731c7ebc": 1,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 32346,
+     "06a943c59f33a34bb5924aaf72cd2995": 4928,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 2063,
+     "a8879923668cac1bfe20354be7f0e6e5": 1263,
+     "76e084771e78c194efd0e2d5b8920bea": 72,
+     "21a361d96e3e13f5f109748c2a9d2434": 603,
+     "5175046986ddfa0f3f0a3377e5a8051f": 573,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 595,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 462,
+     "3e670ad8d80b2aea076a0e3521116d40": 52,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 36,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 15,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 2,
+     "0c83f57c786a0b4a39efab23731c7ebc": 1,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 1,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 16513,
+     "06a943c59f33a34bb5924aaf72cd2995": 3116,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 1710,
+     "a8879923668cac1bfe20354be7f0e6e5": 985,
+     "76e084771e78c194efd0e2d5b8920bea": 5,
+     "21a361d96e3e13f5f109748c2a9d2434": 995,
+     "5175046986ddfa0f3f0a3377e5a8051f": 815,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 437,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 269,
+     "3e670ad8d80b2aea076a0e3521116d40": 79,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 31,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 39,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 2,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 128577,
+   "values": [
+    {
+     "key": "36fa3a193d737e5ad86441e422ed5a78",
+     "total": 75193,
+     "items": [
+      {
+       "id": "social",
+       "value": "social",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "06a943c59f33a34bb5924aaf72cd2995",
+     "total": 30523,
+     "items": [
+      {
+       "id": "search",
+       "value": "search",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "7caa701b2bd5a182b80c72b9bdf88e2d",
+     "total": 10233,
+     "items": [
+      {
+       "id": "direct",
+       "value": "direct",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "a8879923668cac1bfe20354be7f0e6e5",
+     "total": 5872,
+     "items": [
+      {
+       "id": "plexus_cards",
+       "value": "plexus_cards",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "76e084771e78c194efd0e2d5b8920bea",
+     "total": 0,
+     "items": [
+      {
+       "id": "paid",
+       "value": "paid",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "21a361d96e3e13f5f109748c2a9d2434",
+     "total": 4756,
+     "items": [
+      {
+       "id": "push",
+       "value": "push",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "5175046986ddfa0f3f0a3377e5a8051f",
+     "total": 1301,
+     "items": [
+      {
+       "id": "taboola_news",
+       "value": "taboola_news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "cd9bcdcbf9ef392bb2bce89a7c150638",
+     "total": 2367,
+     "items": [
+      {
+       "id": "referral",
+       "value": "referral",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "c4f79e15f8c6ed0715a8ea44aebc38d8",
+     "total": 2217,
+     "items": [
+      {
+       "id": "whatsapp",
+       "value": "whatsapp",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "3e670ad8d80b2aea076a0e3521116d40",
+     "total": 717,
+     "items": [
+      {
+       "id": "(not set)",
+       "value": "(not set)",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "4921c0e2d1f6005abe1f9ec2e2041909",
+     "total": 247,
+     "items": [
+      {
+       "id": "ai",
+       "value": "ai",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "6d12ecd82e935b89ce4129c5fdfab0c1",
+     "total": 105,
+     "items": [
+      {
+       "id": "ert_breaking-news",
+       "value": "ert_breaking-news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "f96d7956bff75d05a22e902e13a16f37",
+     "total": 39,
+     "items": [
+      {
+       "id": "gnews",
+       "value": "gnews",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "79bd2b6b389ee211aaf26e9ea3a1292e",
+     "total": 45,
+     "items": [
+      {
+       "id": "discover",
+       "value": "discover",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "0c83f57c786a0b4a39efab23731c7ebc",
+     "total": 2,
+     "items": [
+      {
+       "id": "email",
+       "value": "email",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "ebf78b512222fe4dcd14e7d5060a15b0",
+     "total": 5,
+     "items": [
+      {
+       "id": "display",
+       "value": "display",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "bb20ce2c0fba31f951e82c592a0194a8",
+     "total": 0,
+     "items": [
+      {
+       "id": "ilzj",
+       "value": "ilzj",
+       "type": "medium"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 7203,
+     "06a943c59f33a34bb5924aaf72cd2995": 4783,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 2897,
+     "a8879923668cac1bfe20354be7f0e6e5": 286,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1220,
+     "5175046986ddfa0f3f0a3377e5a8051f": 343,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 370,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 482,
+     "3e670ad8d80b2aea076a0e3521116d40": 95,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 48,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 21,
+     "f96d7956bff75d05a22e902e13a16f37": 2,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 0,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 18097,
+     "06a943c59f33a34bb5924aaf72cd2995": 3774,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 2904,
+     "a8879923668cac1bfe20354be7f0e6e5": 502,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1370,
+     "5175046986ddfa0f3f0a3377e5a8051f": 189,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 286,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 580,
+     "3e670ad8d80b2aea076a0e3521116d40": 28,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 36,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 30,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 2,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 5,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 9065,
+     "06a943c59f33a34bb5924aaf72cd2995": 3621,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 2372,
+     "a8879923668cac1bfe20354be7f0e6e5": 746,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 859,
+     "5175046986ddfa0f3f0a3377e5a8051f": 241,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 270,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 273,
+     "3e670ad8d80b2aea076a0e3521116d40": 275,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 31,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 21,
+     "f96d7956bff75d05a22e902e13a16f37": 12,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 3,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 2,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 18400,
+     "06a943c59f33a34bb5924aaf72cd2995": 5567,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 3348,
+     "a8879923668cac1bfe20354be7f0e6e5": 1322,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1540,
+     "5175046986ddfa0f3f0a3377e5a8051f": 168,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 468,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 861,
+     "3e670ad8d80b2aea076a0e3521116d40": 57,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 40,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 21,
+     "f96d7956bff75d05a22e902e13a16f37": 16,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 2,
+     "0c83f57c786a0b4a39efab23731c7ebc": 1,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 2,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 10615,
+     "06a943c59f33a34bb5924aaf72cd2995": 6191,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 2528,
+     "a8879923668cac1bfe20354be7f0e6e5": 1738,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1099,
+     "5175046986ddfa0f3f0a3377e5a8051f": 144,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 538,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 281,
+     "3e670ad8d80b2aea076a0e3521116d40": 152,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 24,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 14,
+     "f96d7956bff75d05a22e902e13a16f37": 9,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 29,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 2,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 11914,
+     "06a943c59f33a34bb5924aaf72cd2995": 5271,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 1925,
+     "a8879923668cac1bfe20354be7f0e6e5": 973,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 737,
+     "5175046986ddfa0f3f0a3377e5a8051f": 156,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 311,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 377,
+     "3e670ad8d80b2aea076a0e3521116d40": 49,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 31,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 20,
+     "f96d7956bff75d05a22e902e13a16f37": 2,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 10,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 2,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 6080,
+     "06a943c59f33a34bb5924aaf72cd2995": 3737,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 1934,
+     "a8879923668cac1bfe20354be7f0e6e5": 689,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 843,
+     "5175046986ddfa0f3f0a3377e5a8051f": 198,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 310,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 288,
+     "3e670ad8d80b2aea076a0e3521116d40": 147,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 42,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 8,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 0,
+     "0c83f57c786a0b4a39efab23731c7ebc": 1,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "pageViewsTotal",
+  "total": 301891,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 301891,
+   "values": [
+    {
+     "key": "36fa3a193d737e5ad86441e422ed5a78",
+     "total": 181003,
+     "items": [
+      {
+       "id": "social",
+       "value": "social",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "06a943c59f33a34bb5924aaf72cd2995",
+     "total": 41407,
+     "items": [
+      {
+       "id": "search",
+       "value": "search",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "7caa701b2bd5a182b80c72b9bdf88e2d",
+     "total": 34225,
+     "items": [
+      {
+       "id": "direct",
+       "value": "direct",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "a8879923668cac1bfe20354be7f0e6e5",
+     "total": 8737,
+     "items": [
+      {
+       "id": "plexus_cards",
+       "value": "plexus_cards",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "76e084771e78c194efd0e2d5b8920bea",
+     "total": 7046,
+     "items": [
+      {
+       "id": "paid",
+       "value": "paid",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "21a361d96e3e13f5f109748c2a9d2434",
+     "total": 12531,
+     "items": [
+      {
+       "id": "push",
+       "value": "push",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "5175046986ddfa0f3f0a3377e5a8051f",
+     "total": 5181,
+     "items": [
+      {
+       "id": "taboola_news",
+       "value": "taboola_news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "cd9bcdcbf9ef392bb2bce89a7c150638",
+     "total": 4432,
+     "items": [
+      {
+       "id": "referral",
+       "value": "referral",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "c4f79e15f8c6ed0715a8ea44aebc38d8",
+     "total": 5521,
+     "items": [
+      {
+       "id": "whatsapp",
+       "value": "whatsapp",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "3e670ad8d80b2aea076a0e3521116d40",
+     "total": 694,
+     "items": [
+      {
+       "id": "(not set)",
+       "value": "(not set)",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "4921c0e2d1f6005abe1f9ec2e2041909",
+     "total": 461,
+     "items": [
+      {
+       "id": "ai",
+       "value": "ai",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "6d12ecd82e935b89ce4129c5fdfab0c1",
+     "total": 331,
+     "items": [
+      {
+       "id": "ert_breaking-news",
+       "value": "ert_breaking-news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "f96d7956bff75d05a22e902e13a16f37",
+     "total": 51,
+     "items": [
+      {
+       "id": "gnews",
+       "value": "gnews",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "79bd2b6b389ee211aaf26e9ea3a1292e",
+     "total": 44,
+     "items": [
+      {
+       "id": "discover",
+       "value": "discover",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "0c83f57c786a0b4a39efab23731c7ebc",
+     "total": 3,
+     "items": [
+      {
+       "id": "email",
+       "value": "email",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "ebf78b512222fe4dcd14e7d5060a15b0",
+     "total": 16,
+     "items": [
+      {
+       "id": "display",
+       "value": "display",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "bb20ce2c0fba31f951e82c592a0194a8",
+     "total": 1,
+     "items": [
+      {
+       "id": "ilzj",
+       "value": "ilzj",
+       "type": "medium"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 5871,
+     "06a943c59f33a34bb5924aaf72cd2995": 5788,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 4117,
+     "a8879923668cac1bfe20354be7f0e6e5": 705,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1698,
+     "5175046986ddfa0f3f0a3377e5a8051f": 396,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 486,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 502,
+     "3e670ad8d80b2aea076a0e3521116d40": 146,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 63,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 29,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 2,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 2,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 21416,
+     "06a943c59f33a34bb5924aaf72cd2995": 6052,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 5592,
+     "a8879923668cac1bfe20354be7f0e6e5": 572,
+     "76e084771e78c194efd0e2d5b8920bea": 4941,
+     "21a361d96e3e13f5f109748c2a9d2434": 2806,
+     "5175046986ddfa0f3f0a3377e5a8051f": 250,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 445,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 1462,
+     "3e670ad8d80b2aea076a0e3521116d40": 107,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 106,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 63,
+     "f96d7956bff75d05a22e902e13a16f37": 12,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 13,
+     "0c83f57c786a0b4a39efab23731c7ebc": 1,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 3,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 17681,
+     "06a943c59f33a34bb5924aaf72cd2995": 4927,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 5269,
+     "a8879923668cac1bfe20354be7f0e6e5": 613,
+     "76e084771e78c194efd0e2d5b8920bea": 1996,
+     "21a361d96e3e13f5f109748c2a9d2434": 1831,
+     "5175046986ddfa0f3f0a3377e5a8051f": 469,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 555,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 650,
+     "3e670ad8d80b2aea076a0e3521116d40": 73,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 75,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 37,
+     "f96d7956bff75d05a22e902e13a16f37": 8,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 12,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 3,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 35661,
+     "06a943c59f33a34bb5924aaf72cd2995": 5346,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 6241,
+     "a8879923668cac1bfe20354be7f0e6e5": 1569,
+     "76e084771e78c194efd0e2d5b8920bea": 3,
+     "21a361d96e3e13f5f109748c2a9d2434": 2042,
+     "5175046986ddfa0f3f0a3377e5a8051f": 1241,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 576,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 1005,
+     "3e670ad8d80b2aea076a0e3521116d40": 104,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 83,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 41,
+     "f96d7956bff75d05a22e902e13a16f37": 5,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 5,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 5,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 33040,
+     "06a943c59f33a34bb5924aaf72cd2995": 9157,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 5788,
+     "a8879923668cac1bfe20354be7f0e6e5": 2125,
+     "76e084771e78c194efd0e2d5b8920bea": 2,
+     "21a361d96e3e13f5f109748c2a9d2434": 1802,
+     "5175046986ddfa0f3f0a3377e5a8051f": 973,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 966,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 682,
+     "3e670ad8d80b2aea076a0e3521116d40": 77,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 45,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 73,
+     "f96d7956bff75d05a22e902e13a16f37": 23,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 3,
+     "0c83f57c786a0b4a39efab23731c7ebc": 1,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 44299,
+     "06a943c59f33a34bb5924aaf72cd2995": 6262,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 3934,
+     "a8879923668cac1bfe20354be7f0e6e5": 1735,
+     "76e084771e78c194efd0e2d5b8920bea": 103,
+     "21a361d96e3e13f5f109748c2a9d2434": 838,
+     "5175046986ddfa0f3f0a3377e5a8051f": 749,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 752,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 772,
+     "3e670ad8d80b2aea076a0e3521116d40": 72,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 46,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 23,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 4,
+     "0c83f57c786a0b4a39efab23731c7ebc": 1,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 1,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 23338,
+     "06a943c59f33a34bb5924aaf72cd2995": 3897,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 3300,
+     "a8879923668cac1bfe20354be7f0e6e5": 1420,
+     "76e084771e78c194efd0e2d5b8920bea": 7,
+     "21a361d96e3e13f5f109748c2a9d2434": 1519,
+     "5175046986ddfa0f3f0a3377e5a8051f": 1103,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 654,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 448,
+     "3e670ad8d80b2aea076a0e3521116d40": 115,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 43,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 65,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 5,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 215650,
+   "values": [
+    {
+     "key": "36fa3a193d737e5ad86441e422ed5a78",
+     "total": 107298,
+     "items": [
+      {
+       "id": "social",
+       "value": "social",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "06a943c59f33a34bb5924aaf72cd2995",
+     "total": 41113,
+     "items": [
+      {
+       "id": "search",
+       "value": "search",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "7caa701b2bd5a182b80c72b9bdf88e2d",
+     "total": 33240,
+     "items": [
+      {
+       "id": "direct",
+       "value": "direct",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "a8879923668cac1bfe20354be7f0e6e5",
+     "total": 8228,
+     "items": [
+      {
+       "id": "plexus_cards",
+       "value": "plexus_cards",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "76e084771e78c194efd0e2d5b8920bea",
+     "total": 0,
+     "items": [
+      {
+       "id": "paid",
+       "value": "paid",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "21a361d96e3e13f5f109748c2a9d2434",
+     "total": 12371,
+     "items": [
+      {
+       "id": "push",
+       "value": "push",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "5175046986ddfa0f3f0a3377e5a8051f",
+     "total": 1833,
+     "items": [
+      {
+       "id": "taboola_news",
+       "value": "taboola_news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "cd9bcdcbf9ef392bb2bce89a7c150638",
+     "total": 3631,
+     "items": [
+      {
+       "id": "referral",
+       "value": "referral",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "c4f79e15f8c6ed0715a8ea44aebc38d8",
+     "total": 5072,
+     "items": [
+      {
+       "id": "whatsapp",
+       "value": "whatsapp",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "3e670ad8d80b2aea076a0e3521116d40",
+     "total": 1216,
+     "items": [
+      {
+       "id": "(not set)",
+       "value": "(not set)",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "4921c0e2d1f6005abe1f9ec2e2041909",
+     "total": 350,
+     "items": [
+      {
+       "id": "ai",
+       "value": "ai",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "6d12ecd82e935b89ce4129c5fdfab0c1",
+     "total": 164,
+     "items": [
+      {
+       "id": "ert_breaking-news",
+       "value": "ert_breaking-news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "f96d7956bff75d05a22e902e13a16f37",
+     "total": 51,
+     "items": [
+      {
+       "id": "gnews",
+       "value": "gnews",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "79bd2b6b389ee211aaf26e9ea3a1292e",
+     "total": 69,
+     "items": [
+      {
+       "id": "discover",
+       "value": "discover",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "0c83f57c786a0b4a39efab23731c7ebc",
+     "total": 3,
+     "items": [
+      {
+       "id": "email",
+       "value": "email",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "ebf78b512222fe4dcd14e7d5060a15b0",
+     "total": 26,
+     "items": [
+      {
+       "id": "display",
+       "value": "display",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "bb20ce2c0fba31f951e82c592a0194a8",
+     "total": 0,
+     "items": [
+      {
+       "id": "ilzj",
+       "value": "ilzj",
+       "type": "medium"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 9183,
+     "06a943c59f33a34bb5924aaf72cd2995": 6071,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 5547,
+     "a8879923668cac1bfe20354be7f0e6e5": 351,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1962,
+     "5175046986ddfa0f3f0a3377e5a8051f": 420,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 512,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 804,
+     "3e670ad8d80b2aea076a0e3521116d40": 143,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 65,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 23,
+     "f96d7956bff75d05a22e902e13a16f37": 2,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 0,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 23516,
+     "06a943c59f33a34bb5924aaf72cd2995": 4618,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 5336,
+     "a8879923668cac1bfe20354be7f0e6e5": 612,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 2252,
+     "5175046986ddfa0f3f0a3377e5a8051f": 262,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 407,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 893,
+     "3e670ad8d80b2aea076a0e3521116d40": 54,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 49,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 39,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 3,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 5,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 11620,
+     "06a943c59f33a34bb5924aaf72cd2995": 4559,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 4139,
+     "a8879923668cac1bfe20354be7f0e6e5": 876,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1342,
+     "5175046986ddfa0f3f0a3377e5a8051f": 323,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 373,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 431,
+     "3e670ad8d80b2aea076a0e3521116d40": 438,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 38,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 27,
+     "f96d7956bff75d05a22e902e13a16f37": 12,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 3,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 8,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 25050,
+     "06a943c59f33a34bb5924aaf72cd2995": 7083,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 6307,
+     "a8879923668cac1bfe20354be7f0e6e5": 1800,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 2705,
+     "5175046986ddfa0f3f0a3377e5a8051f": 210,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 702,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 1494,
+     "3e670ad8d80b2aea076a0e3521116d40": 88,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 56,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 25,
+     "f96d7956bff75d05a22e902e13a16f37": 24,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 3,
+     "0c83f57c786a0b4a39efab23731c7ebc": 1,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 3,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 14450,
+     "06a943c59f33a34bb5924aaf72cd2995": 7767,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 4449,
+     "a8879923668cac1bfe20354be7f0e6e5": 2318,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1795,
+     "5175046986ddfa0f3f0a3377e5a8051f": 172,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 759,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 447,
+     "3e670ad8d80b2aea076a0e3521116d40": 209,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 27,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 17,
+     "f96d7956bff75d05a22e902e13a16f37": 9,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 47,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 5,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 15495,
+     "06a943c59f33a34bb5924aaf72cd2995": 6499,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 3693,
+     "a8879923668cac1bfe20354be7f0e6e5": 1352,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1115,
+     "5175046986ddfa0f3f0a3377e5a8051f": 185,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 426,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 592,
+     "3e670ad8d80b2aea076a0e3521116d40": 74,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 44,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 23,
+     "f96d7956bff75d05a22e902e13a16f37": 2,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 13,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 3,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 8214,
+     "06a943c59f33a34bb5924aaf72cd2995": 4530,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 3777,
+     "a8879923668cac1bfe20354be7f0e6e5": 926,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 1202,
+     "5175046986ddfa0f3f0a3377e5a8051f": 261,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 457,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 411,
+     "3e670ad8d80b2aea076a0e3521116d40": 210,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 71,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 10,
+     "f96d7956bff75d05a22e902e13a16f37": 1,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 0,
+     "0c83f57c786a0b4a39efab23731c7ebc": 2,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 1,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 103.61,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 103.61,
+   "values": [
+    {
+     "key": "36fa3a193d737e5ad86441e422ed5a78",
+     "total": 96.7,
+     "items": [
+      {
+       "id": "social",
+       "value": "social",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "06a943c59f33a34bb5924aaf72cd2995",
+     "total": 90.35,
+     "items": [
+      {
+       "id": "search",
+       "value": "search",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "7caa701b2bd5a182b80c72b9bdf88e2d",
+     "total": 153.45,
+     "items": [
+      {
+       "id": "direct",
+       "value": "direct",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "a8879923668cac1bfe20354be7f0e6e5",
+     "total": 127.52,
+     "items": [
+      {
+       "id": "plexus_cards",
+       "value": "plexus_cards",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "76e084771e78c194efd0e2d5b8920bea",
+     "total": 48.27,
+     "items": [
+      {
+       "id": "paid",
+       "value": "paid",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "21a361d96e3e13f5f109748c2a9d2434",
+     "total": 100.59,
+     "items": [
+      {
+       "id": "push",
+       "value": "push",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "5175046986ddfa0f3f0a3377e5a8051f",
+     "total": 102.06,
+     "items": [
+      {
+       "id": "taboola_news",
+       "value": "taboola_news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "cd9bcdcbf9ef392bb2bce89a7c150638",
+     "total": 142.4,
+     "items": [
+      {
+       "id": "referral",
+       "value": "referral",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "c4f79e15f8c6ed0715a8ea44aebc38d8",
+     "total": 117.3,
+     "items": [
+      {
+       "id": "whatsapp",
+       "value": "whatsapp",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "3e670ad8d80b2aea076a0e3521116d40",
+     "total": 104.08,
+     "items": [
+      {
+       "id": "(not set)",
+       "value": "(not set)",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "4921c0e2d1f6005abe1f9ec2e2041909",
+     "total": 103.69,
+     "items": [
+      {
+       "id": "ai",
+       "value": "ai",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "6d12ecd82e935b89ce4129c5fdfab0c1",
+     "total": 82.11,
+     "items": [
+      {
+       "id": "ert_breaking-news",
+       "value": "ert_breaking-news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "f96d7956bff75d05a22e902e13a16f37",
+     "total": 107.9,
+     "items": [
+      {
+       "id": "gnews",
+       "value": "gnews",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "79bd2b6b389ee211aaf26e9ea3a1292e",
+     "total": 81.19,
+     "items": [
+      {
+       "id": "discover",
+       "value": "discover",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "0c83f57c786a0b4a39efab23731c7ebc",
+     "total": 164.86,
+     "items": [
+      {
+       "id": "email",
+       "value": "email",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "ebf78b512222fe4dcd14e7d5060a15b0",
+     "total": 98.54,
+     "items": [
+      {
+       "id": "display",
+       "value": "display",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "bb20ce2c0fba31f951e82c592a0194a8",
+     "total": 15,
+     "items": [
+      {
+       "id": "ilzj",
+       "value": "ilzj",
+       "type": "medium"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 92.55,
+     "06a943c59f33a34bb5924aaf72cd2995": 86.44,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 128.5,
+     "a8879923668cac1bfe20354be7f0e6e5": 122.28,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 84.73,
+     "5175046986ddfa0f3f0a3377e5a8051f": 70.89,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 140.27,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 89.21,
+     "3e670ad8d80b2aea076a0e3521116d40": 111.48,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 108.94,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 73.43,
+     "f96d7956bff75d05a22e902e13a16f37": 18,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 15.5,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 144.4,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 101.67,
+     "06a943c59f33a34bb5924aaf72cd2995": 100.2,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 153.62,
+     "a8879923668cac1bfe20354be7f0e6e5": 138.9,
+     "76e084771e78c194efd0e2d5b8920bea": 51.83,
+     "21a361d96e3e13f5f109748c2a9d2434": 102.36,
+     "5175046986ddfa0f3f0a3377e5a8051f": 90.41,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 146.67,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 124.82,
+     "3e670ad8d80b2aea076a0e3521116d40": 125.55,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 105.31,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 71.05,
+     "f96d7956bff75d05a22e902e13a16f37": 147.12,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 92.09,
+     "0c83f57c786a0b4a39efab23731c7ebc": 189,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 76.8,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 89.93,
+     "06a943c59f33a34bb5924aaf72cd2995": 95.44,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 158.13,
+     "a8879923668cac1bfe20354be7f0e6e5": 110.85,
+     "76e084771e78c194efd0e2d5b8920bea": 36.95,
+     "21a361d96e3e13f5f109748c2a9d2434": 102.76,
+     "5175046986ddfa0f3f0a3377e5a8051f": 82.25,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 146.29,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 98.23,
+     "3e670ad8d80b2aea076a0e3521116d40": 82.14,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 75.57,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 86.68,
+     "f96d7956bff75d05a22e902e13a16f37": 160.05,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 70.62,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 53.25,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 94.46,
+     "06a943c59f33a34bb5924aaf72cd2995": 92.63,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 165.7,
+     "a8879923668cac1bfe20354be7f0e6e5": 126.55,
+     "76e084771e78c194efd0e2d5b8920bea": 23.33,
+     "21a361d96e3e13f5f109748c2a9d2434": 118.51,
+     "5175046986ddfa0f3f0a3377e5a8051f": 105.21,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 154.51,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 142.45,
+     "3e670ad8d80b2aea076a0e3521116d40": 92.04,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 122.49,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 58.57,
+     "f96d7956bff75d05a22e902e13a16f37": 130.2,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 22.44,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 44.4,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 102.43,
+     "06a943c59f33a34bb5924aaf72cd2995": 88.89,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 163.42,
+     "a8879923668cac1bfe20354be7f0e6e5": 137.61,
+     "76e084771e78c194efd0e2d5b8920bea": 112,
+     "21a361d96e3e13f5f109748c2a9d2434": 102.06,
+     "5175046986ddfa0f3f0a3377e5a8051f": 92.24,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 166.05,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 115.86,
+     "3e670ad8d80b2aea076a0e3521116d40": 128.21,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 46.64,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 39.95,
+     "f96d7956bff75d05a22e902e13a16f37": 65.45,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 23.5,
+     "0c83f57c786a0b4a39efab23731c7ebc": 104,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 0,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 85.14,
+     "06a943c59f33a34bb5924aaf72cd2995": 75.62,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 132.58,
+     "a8879923668cac1bfe20354be7f0e6e5": 123.65,
+     "76e084771e78c194efd0e2d5b8920bea": 94.32,
+     "21a361d96e3e13f5f109748c2a9d2434": 77.62,
+     "5175046986ddfa0f3f0a3377e5a8051f": 90.66,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 105.54,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 101.66,
+     "3e670ad8d80b2aea076a0e3521116d40": 101.59,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 119.42,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 209.11,
+     "f96d7956bff75d05a22e902e13a16f37": 34.5,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 12.8,
+     "0c83f57c786a0b4a39efab23731c7ebc": 232,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 143,
+     "bb20ce2c0fba31f951e82c592a0194a8": 15,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 115.06,
+     "06a943c59f33a34bb5924aaf72cd2995": 97.01,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 158.75,
+     "a8879923668cac1bfe20354be7f0e6e5": 123.01,
+     "76e084771e78c194efd0e2d5b8920bea": 35.86,
+     "21a361d96e3e13f5f109748c2a9d2434": 97.6,
+     "5175046986ddfa0f3f0a3377e5a8051f": 135.95,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 131.77,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 120.52,
+     "3e670ad8d80b2aea076a0e3521116d40": 83,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 128.52,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 107.51,
+     "f96d7956bff75d05a22e902e13a16f37": 20,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 223.38,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 269,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 108.73,
+   "values": [
+    {
+     "key": "36fa3a193d737e5ad86441e422ed5a78",
+     "total": 99.24,
+     "items": [
+      {
+       "id": "social",
+       "value": "social",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "06a943c59f33a34bb5924aaf72cd2995",
+     "total": 89.35,
+     "items": [
+      {
+       "id": "search",
+       "value": "search",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "7caa701b2bd5a182b80c72b9bdf88e2d",
+     "total": 157.73,
+     "items": [
+      {
+       "id": "direct",
+       "value": "direct",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "a8879923668cac1bfe20354be7f0e6e5",
+     "total": 115.84,
+     "items": [
+      {
+       "id": "plexus_cards",
+       "value": "plexus_cards",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "76e084771e78c194efd0e2d5b8920bea",
+     "total": 0,
+     "items": [
+      {
+       "id": "paid",
+       "value": "paid",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "21a361d96e3e13f5f109748c2a9d2434",
+     "total": 97.09,
+     "items": [
+      {
+       "id": "push",
+       "value": "push",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "5175046986ddfa0f3f0a3377e5a8051f",
+     "total": 75.22,
+     "items": [
+      {
+       "id": "taboola_news",
+       "value": "taboola_news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "cd9bcdcbf9ef392bb2bce89a7c150638",
+     "total": 138,
+     "items": [
+      {
+       "id": "referral",
+       "value": "referral",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "c4f79e15f8c6ed0715a8ea44aebc38d8",
+     "total": 106.31,
+     "items": [
+      {
+       "id": "whatsapp",
+       "value": "whatsapp",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "3e670ad8d80b2aea076a0e3521116d40",
+     "total": 113.5,
+     "items": [
+      {
+       "id": "(not set)",
+       "value": "(not set)",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "4921c0e2d1f6005abe1f9ec2e2041909",
+     "total": 124.61,
+     "items": [
+      {
+       "id": "ai",
+       "value": "ai",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "6d12ecd82e935b89ce4129c5fdfab0c1",
+     "total": 118.8,
+     "items": [
+      {
+       "id": "ert_breaking-news",
+       "value": "ert_breaking-news",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "f96d7956bff75d05a22e902e13a16f37",
+     "total": 102.56,
+     "items": [
+      {
+       "id": "gnews",
+       "value": "gnews",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "79bd2b6b389ee211aaf26e9ea3a1292e",
+     "total": 52.82,
+     "items": [
+      {
+       "id": "discover",
+       "value": "discover",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "0c83f57c786a0b4a39efab23731c7ebc",
+     "total": 260.25,
+     "items": [
+      {
+       "id": "email",
+       "value": "email",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "ebf78b512222fe4dcd14e7d5060a15b0",
+     "total": 150.56,
+     "items": [
+      {
+       "id": "display",
+       "value": "display",
+       "type": "medium"
+      }
+     ]
+    },
+    {
+     "key": "bb20ce2c0fba31f951e82c592a0194a8",
+     "total": 0,
+     "items": [
+      {
+       "id": "ilzj",
+       "value": "ilzj",
+       "type": "medium"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 93.84,
+     "06a943c59f33a34bb5924aaf72cd2995": 89.1,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 169.56,
+     "a8879923668cac1bfe20354be7f0e6e5": 93.92,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 93.12,
+     "5175046986ddfa0f3f0a3377e5a8051f": 69.25,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 127.06,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 103.4,
+     "3e670ad8d80b2aea076a0e3521116d40": 78.14,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 164.38,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 67,
+     "f96d7956bff75d05a22e902e13a16f37": 10.25,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 0,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 330,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 94.98,
+     "06a943c59f33a34bb5924aaf72cd2995": 97.4,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 168.32,
+     "a8879923668cac1bfe20354be7f0e6e5": 106.08,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 106.62,
+     "5175046986ddfa0f3f0a3377e5a8051f": 104.02,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 160.83,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 117.22,
+     "3e670ad8d80b2aea076a0e3521116d40": 69.61,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 122.19,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 89.48,
+     "f96d7956bff75d05a22e902e13a16f37": 721,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 40.5,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 71,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 105.93,
+     "06a943c59f33a34bb5924aaf72cd2995": 101.43,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 165.51,
+     "a8879923668cac1bfe20354be7f0e6e5": 114.68,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 89.18,
+     "5175046986ddfa0f3f0a3377e5a8051f": 65.35,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 143.75,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 93.29,
+     "3e670ad8d80b2aea076a0e3521116d40": 138.8,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 61.95,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 236.84,
+     "f96d7956bff75d05a22e902e13a16f37": 194.04,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 24,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 169.53,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 109.6,
+     "06a943c59f33a34bb5924aaf72cd2995": 96.17,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 163.6,
+     "a8879923668cac1bfe20354be7f0e6e5": 132.33,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 109.77,
+     "5175046986ddfa0f3f0a3377e5a8051f": 85.24,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 132.72,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 112.32,
+     "3e670ad8d80b2aea076a0e3521116d40": 89.02,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 144.9,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 190.76,
+     "f96d7956bff75d05a22e902e13a16f37": 44.44,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 14.8,
+     "0c83f57c786a0b4a39efab23731c7ebc": 509,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 33.2,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 98.95,
+     "06a943c59f33a34bb5924aaf72cd2995": 91.02,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 153.63,
+     "a8879923668cac1bfe20354be7f0e6e5": 117.15,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 93.35,
+     "5175046986ddfa0f3f0a3377e5a8051f": 62.16,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 149.31,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 87.75,
+     "3e670ad8d80b2aea076a0e3521116d40": 108.94,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 121.51,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 88.79,
+     "f96d7956bff75d05a22e902e13a16f37": 70.05,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 55.61,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 239.4,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 89.32,
+     "06a943c59f33a34bb5924aaf72cd2995": 72.51,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 138.68,
+     "a8879923668cac1bfe20354be7f0e6e5": 103.48,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 86.97,
+     "5175046986ddfa0f3f0a3377e5a8051f": 58.02,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 122.51,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 91.23,
+     "3e670ad8d80b2aea076a0e3521116d40": 76.36,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 205.16,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 43.15,
+     "f96d7956bff75d05a22e902e13a16f37": 34,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 62.24,
+     "0c83f57c786a0b4a39efab23731c7ebc": 0,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 90.38,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "36fa3a193d737e5ad86441e422ed5a78": 94.9,
+     "06a943c59f33a34bb5924aaf72cd2995": 77.91,
+     "7caa701b2bd5a182b80c72b9bdf88e2d": 127.95,
+     "a8879923668cac1bfe20354be7f0e6e5": 113,
+     "76e084771e78c194efd0e2d5b8920bea": 0,
+     "21a361d96e3e13f5f109748c2a9d2434": 79.15,
+     "5175046986ddfa0f3f0a3377e5a8051f": 79.07,
+     "cd9bcdcbf9ef392bb2bce89a7c150638": 127.06,
+     "c4f79e15f8c6ed0715a8ea44aebc38d8": 119.16,
+     "3e670ad8d80b2aea076a0e3521116d40": 115.74,
+     "4921c0e2d1f6005abe1f9ec2e2041909": 37.93,
+     "6d12ecd82e935b89ce4129c5fdfab0c1": 59.7,
+     "f96d7956bff75d05a22e902e13a16f37": 15,
+     "79bd2b6b389ee211aaf26e9ea3a1292e": 0,
+     "0c83f57c786a0b4a39efab23731c7ebc": 177.33,
+     "ebf78b512222fe4dcd14e7d5060a15b0": 237,
+     "bb20ce2c0fba31f951e82c592a0194a8": 0,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  }
+ }
+]

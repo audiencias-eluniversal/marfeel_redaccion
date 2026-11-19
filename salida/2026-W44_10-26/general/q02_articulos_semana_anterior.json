@@ -1,0 +1,2822 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 1481635,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 1481635,
+   "values": [
+    {
+     "key": "e493bbefb9fe53df7b01809843242f33",
+     "total": 176003,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co",
+       "value": "https://www.eluniversal.com.co",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "777a8cbf45701c3893da6c69d8a4d144",
+     "total": 55599,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "960340f7ec8130cb2d0f41ed6d0c7c9f",
+     "total": 52530,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/",
+       "value": "https://www.eluniversal.com.co/sucesos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b31d5eb7c6bbe212ad6996b74af50aff",
+     "total": 23409,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/26/se-va-el-agua-en-estos-barrios-de-cartagena-este-martes-27-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/26/se-va-el-agua-en-estos-barrios-de-cartagena-este-martes-27-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "64c0dafc665c3e9edb842914adcf8869",
+     "total": 23301,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/conductor-revelo-las-causas-del-accidente-de-la-agrupacion-de-kbeto-hijo-de-poncho-zuleta/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/conductor-revelo-las-causas-del-accidente-de-la-agrupacion-de-kbeto-hijo-de-poncho-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "93894d1b8614a8d4dd5532b604f6c091",
+     "total": 22582,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/29/revelan-el-papel-del-hijo-de-ivan-rene-valenciano-en-la-banda-la-roja-en-medellin/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/29/revelan-el-papel-del-hijo-de-ivan-rene-valenciano-en-la-banda-la-roja-en-medellin/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2d3e6d94145206fd6b274a3ad62aa93e",
+     "total": 22179,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/27/hijo-e-hijastro-de-ivan-rene-valenciano-fueron-capturados-en-operativo-de-de-la-espriella/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/27/hijo-e-hijastro-de-ivan-rene-valenciano-fueron-capturados-en-operativo-de-de-la-espriella/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9a93ecbd70b776cd9682207c22b79be6",
+     "total": 20620,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d0f742829c98d26edbf6ec45192945c7",
+     "total": 19941,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "15d9c3d29a6b7d9b9bf6045a7575264c",
+     "total": 15803,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0addc7b3957c65205b9bdd364c69d2ed",
+     "total": 15259,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "28bf3960cf124b712b6f913239570250",
+     "total": 13824,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9593d6c26e037e8b8b37e155877f0817",
+     "total": 13579,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/lo-capturan-con-170-kilos-de-carne-de-cerdo-sin-las-minimas-condiciones-de-higiene-y-conservacion/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/lo-capturan-con-170-kilos-de-carne-de-cerdo-sin-las-minimas-condiciones-de-higiene-y-conservacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1043427b1f31cb19ff66e686907b4c1a",
+     "total": 13428,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-30-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-30-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f77b5d197eb882518457c3369f820e90",
+     "total": 12987,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/23/nina-de-12-anos-perdio-dos-dedos-en-colegio-de-cartagena-su-familia-exige-respuestas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/23/nina-de-12-anos-perdio-dos-dedos-en-colegio-de-cartagena-su-familia-exige-respuestas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8da0cf537849680980e90bdac8b10c13",
+     "total": 12765,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/27/barrios-de-cartagena-que-no-tendran-agua-el-28-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/27/barrios-de-cartagena-que-no-tendran-agua-el-28-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "37264a456dc707d8a94740b9c63ccccb",
+     "total": 12569,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/tragedia-volqueta-arrollo-una-moto-electrica-y-2-ninas-fueron-las-victimas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/tragedia-volqueta-arrollo-una-moto-electrica-y-2-ninas-fueron-las-victimas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "803b1fce4d6cb343aaac09f7ff9b9258",
+     "total": 11602,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/31/corte-de-luz-en-cartagena-este-es-el-sector-sin-servicio-el-domingo-1-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/31/corte-de-luz-en-cartagena-este-es-el-sector-sin-servicio-el-domingo-1-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "eca87735730c515035bf3e6219f99114",
+     "total": 11187,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "680a56d08689a266ae5ccf827573f5ef",
+     "total": 11092,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/26/reconocio-los-resultados-asi-reacciono-de-la-espriella-a-la-victoria-de-lula-da-silva/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/26/reconocio-los-resultados-asi-reacciono-de-la-espriella-a-la-victoria-de-lula-da-silva/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "152ff50920b1c84cdf88ee9788795a9f",
+     "total": 10999,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/28/aguas-de-cartagena-reporta-dano-en-tuberia-estos-son-los-barrios-sin-agua/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/28/aguas-de-cartagena-reporta-dano-en-tuberia-estos-son-los-barrios-sin-agua/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "feff91fb384c0be25911e8b67456d9e0",
+     "total": 10281,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0c789eced1ad6caa4db9c42c176a8203",
+     "total": 10157,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/25/guus-franke-los-negocios-la-fortuna-y-las-controversias-del-esposo-de-ariadna-gutierrez/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/25/guus-franke-los-negocios-la-fortuna-y-las-controversias-del-esposo-de-ariadna-gutierrez/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ab354fc7464b4561029cb357b09454da",
+     "total": 9819,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/deportes/",
+       "value": "https://www.eluniversal.com.co/deportes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5435a556ff5f7f0e2ea9c887483d6320",
+     "total": 9639,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/kbeto-zuleta-perdio-una-pierna-y-permanece-en-uci-tras-el-accidente-de-su-agrupacion/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/kbeto-zuleta-perdio-una-pierna-y-permanece-en-uci-tras-el-accidente-de-su-agrupacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f428fdb8bdab0b1eb6799497a127e8d2",
+     "total": 8649,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/colegio-de-cartagena-ocupo-el-primer-lugar-de-la-region-caribe-en-saber-11-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/colegio-de-cartagena-ocupo-el-primer-lugar-de-la-region-caribe-en-saber-11-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "16661dd280fc3673fb650e6f68eae712",
+     "total": 8576,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b52da9305ad8ed1379cb31a4c6781931",
+     "total": 7906,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ee0e73d83674fcf76e4c0c8c78c3ab1d",
+     "total": 7132,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/30/encuestas-encienden-las-alarmas-republicanas-democratas-apuntan-a-una-mayoria-historica/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/30/encuestas-encienden-las-alarmas-republicanas-democratas-apuntan-a-una-mayoria-historica/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "29e8e4277cf5762df4019a425c7226ee",
+     "total": 7132,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1ef9a9935b08853c0dc9a87906a294e1",
+     "total": 6944,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "55ff2d5ff3940bd20f1c42fb06eeb148",
+     "total": 6832,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/detectan-conexion-irregular-en-armenia-lavadero-de-carros-consumia-900-mil-litros-al-mes/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/detectan-conexion-irregular-en-armenia-lavadero-de-carros-consumia-900-mil-litros-al-mes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e788a14103d414f574f2f15e845fb0ca",
+     "total": 6586,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/atlantico/2026/10/31/se-va-la-luz-este-domingo-1-de-noviembre-estos-sectores-de-barranquilla-y-puerto-colombia/",
+       "value": "https://www.eluniversal.com.co/regional/atlantico/2026/10/31/se-va-la-luz-este-domingo-1-de-noviembre-estos-sectores-de-barranquilla-y-puerto-colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6eb327b9e23f7d4a0109a2826fcca71c",
+     "total": 6581,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/27/que-se-sabe-de-la-salud-de-kbeto-zuleta-su-hermana-rompio-el-silencio-sobre-su-estado/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/27/que-se-sabe-de-la-salud-de-kbeto-zuleta-su-hermana-rompio-el-silencio-sobre-su-estado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a9a8d153c2d44906a3934ea5882ff8ca",
+     "total": 6462,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/30/estos-son-los-sectores-de-cartagena-que-no-tendran-luz-el-sabado-31-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/30/estos-son-los-sectores-de-cartagena-que-no-tendran-luz-el-sabado-31-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "615485d6323beee3ed38cb12825ea536",
+     "total": 6175,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e309e7760c271eb13400eef49d6f21c7",
+     "total": 6024,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/27/madre-de-nina-que-perdio-dos-dedos-en-colegio-relata-la-angustiante-atencion-que-recibio/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/27/madre-de-nina-que-perdio-dos-dedos-en-colegio-relata-la-angustiante-atencion-que-recibio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bbcbcaeebb4f595ecb11d3dc010c4712",
+     "total": 5654,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "edd7e6492954cf48b667b749aadd00bd",
+     "total": 5345,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/",
+       "value": "https://www.eluniversal.com.co/farandula/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f92222594f29369ecfe3b7cd8a521f2b",
+     "total": 5191,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/",
+       "value": "https://www.eluniversal.com.co/colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c85053d114338e2d90748f87027043a0",
+     "total": 5133,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "448f84657a334645b3e3c88b01bcbe15",
+     "total": 5043,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "be1ff73ee72ed7d608a900a3b4eda84a",
+     "total": 4987,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/29/capturan-a-jorge-luis-alfonso-lopez-hijo-de-la-gata-en-clinica-de-barranquilla/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/29/capturan-a-jorge-luis-alfonso-lopez-hijo-de-la-gata-en-clinica-de-barranquilla/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7b2ec8b3ab76e98f20c2558db30c2cc9",
+     "total": 4974,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e5913bad9cc87e0ebebcb3f890637cd4",
+     "total": 4964,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/26/cortes-de-luz-en-cartagena-el-martes-27-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/26/cortes-de-luz-en-cartagena-el-martes-27-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e08a177343fde940a151817c4a579dda",
+     "total": 4891,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/28/estos-son-los-barrios-de-cartagena-que-estaran-sin-luz-el-29-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/28/estos-son-los-barrios-de-cartagena-que-estaran-sin-luz-el-29-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f5b9bbbc891973a740e8f11e54683a9a",
+     "total": 4859,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f296c9739924bc9fe34332eb7eba5e6",
+     "total": 4811,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/27/la-cancion-de-mr-black-para-las-fiestas-2026-pone-a-bailar-a-habitante-de-calle/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/27/la-cancion-de-mr-black-para-las-fiestas-2026-pone-a-bailar-a-habitante-de-calle/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d660096f673d3366275bf4b4fcc661db",
+     "total": 4745,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6025cb67846bc8556ff1e466a8404faa",
+     "total": 4554,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "e493bbefb9fe53df7b01809843242f33": 29160,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 8769,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 14599,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 0,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 2586,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 8022,
+     "8da0cf537849680980e90bdac8b10c13": 0,
+     "37264a456dc707d8a94740b9c63ccccb": 0,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 2524,
+     "152ff50920b1c84cdf88ee9788795a9f": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 5335,
+     "0c789eced1ad6caa4db9c42c176a8203": 8035,
+     "ab354fc7464b4561029cb357b09454da": 1877,
+     "5435a556ff5f7f0e2ea9c887483d6320": 7830,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 0,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 2603,
+     "edd7e6492954cf48b667b749aadd00bd": 991,
+     "f92222594f29369ecfe3b7cd8a521f2b": 906,
+     "c85053d114338e2d90748f87027043a0": 4836,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 2685,
+     "e08a177343fde940a151817c4a579dda": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 0,
+     "d660096f673d3366275bf4b4fcc661db": 4665,
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 28562,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 8239,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 8473,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 16466,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 2480,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 2701,
+     "8da0cf537849680980e90bdac8b10c13": 6853,
+     "37264a456dc707d8a94740b9c63ccccb": 2339,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 4777,
+     "152ff50920b1c84cdf88ee9788795a9f": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 4623,
+     "0c789eced1ad6caa4db9c42c176a8203": 1134,
+     "ab354fc7464b4561029cb357b09454da": 1666,
+     "5435a556ff5f7f0e2ea9c887483d6320": 1426,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 940,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 2097,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 2494,
+     "edd7e6492954cf48b667b749aadd00bd": 921,
+     "f92222594f29369ecfe3b7cd8a521f2b": 864,
+     "c85053d114338e2d90748f87027043a0": 161,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 2176,
+     "e08a177343fde940a151817c4a579dda": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 1330,
+     "d660096f673d3366275bf4b4fcc661db": 39,
+     "6025cb67846bc8556ff1e466a8404faa": 3220,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 26383,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 7577,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 250,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 3936,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 2437,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 10071,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 1190,
+     "8da0cf537849680980e90bdac8b10c13": 5741,
+     "37264a456dc707d8a94740b9c63ccccb": 8261,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 8724,
+     "680a56d08689a266ae5ccf827573f5ef": 3012,
+     "152ff50920b1c84cdf88ee9788795a9f": 6504,
+     "feff91fb384c0be25911e8b67456d9e0": 217,
+     "0c789eced1ad6caa4db9c42c176a8203": 487,
+     "ab354fc7464b4561029cb357b09454da": 1709,
+     "5435a556ff5f7f0e2ea9c887483d6320": 196,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 3461,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 5307,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 2611,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 126,
+     "edd7e6492954cf48b667b749aadd00bd": 914,
+     "f92222594f29369ecfe3b7cd8a521f2b": 810,
+     "c85053d114338e2d90748f87027043a0": 78,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 64,
+     "e08a177343fde940a151817c4a579dda": 2226,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 2084,
+     "d660096f673d3366275bf4b4fcc661db": 16,
+     "6025cb67846bc8556ff1e466a8404faa": 628,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 27503,
+     "777a8cbf45701c3893da6c69d8a4d144": 4080,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 7905,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 53,
+     "64c0dafc665c3e9edb842914adcf8869": 10900,
+     "93894d1b8614a8d4dd5532b604f6c091": 10403,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 959,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 2469,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 3285,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 7173,
+     "f77b5d197eb882518457c3369f820e90": 574,
+     "8da0cf537849680980e90bdac8b10c13": 95,
+     "37264a456dc707d8a94740b9c63ccccb": 1511,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 1630,
+     "680a56d08689a266ae5ccf827573f5ef": 420,
+     "152ff50920b1c84cdf88ee9788795a9f": 3497,
+     "feff91fb384c0be25911e8b67456d9e0": 61,
+     "0c789eced1ad6caa4db9c42c176a8203": 287,
+     "ab354fc7464b4561029cb357b09454da": 1457,
+     "5435a556ff5f7f0e2ea9c887483d6320": 97,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 5716,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 2719,
+     "1ef9a9935b08853c0dc9a87906a294e1": 801,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 2085,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 271,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 994,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 200,
+     "edd7e6492954cf48b667b749aadd00bd": 807,
+     "f92222594f29369ecfe3b7cd8a521f2b": 750,
+     "c85053d114338e2d90748f87027043a0": 33,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 4568,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 4169,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 18,
+     "e08a177343fde940a151817c4a579dda": 2410,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 883,
+     "d660096f673d3366275bf4b4fcc661db": 9,
+     "6025cb67846bc8556ff1e466a8404faa": 311,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 27197,
+     "777a8cbf45701c3893da6c69d8a4d144": 34786,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 7791,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 14,
+     "64c0dafc665c3e9edb842914adcf8869": 6308,
+     "93894d1b8614a8d4dd5532b604f6c091": 6936,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 536,
+     "9a93ecbd70b776cd9682207c22b79be6": 7383,
+     "d0f742829c98d26edbf6ec45192945c7": 7151,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 2425,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 287,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 5827,
+     "f77b5d197eb882518457c3369f820e90": 231,
+     "8da0cf537849680980e90bdac8b10c13": 48,
+     "37264a456dc707d8a94740b9c63ccccb": 211,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 473,
+     "680a56d08689a266ae5ccf827573f5ef": 139,
+     "152ff50920b1c84cdf88ee9788795a9f": 812,
+     "feff91fb384c0be25911e8b67456d9e0": 21,
+     "0c789eced1ad6caa4db9c42c176a8203": 104,
+     "ab354fc7464b4561029cb357b09454da": 1216,
+     "5435a556ff5f7f0e2ea9c887483d6320": 44,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 2297,
+     "16661dd280fc3673fb650e6f68eae712": 1004,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 535,
+     "29e8e4277cf5762df4019a425c7226ee": 593,
+     "1ef9a9935b08853c0dc9a87906a294e1": 3337,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 3628,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 33,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 4239,
+     "615485d6323beee3ed38cb12825ea536": 5059,
+     "e309e7760c271eb13400eef49d6f21c7": 192,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 110,
+     "edd7e6492954cf48b667b749aadd00bd": 821,
+     "f92222594f29369ecfe3b7cd8a521f2b": 705,
+     "c85053d114338e2d90748f87027043a0": 14,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 305,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 530,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 8,
+     "e08a177343fde940a151817c4a579dda": 209,
+     "f5b9bbbc891973a740e8f11e54683a9a": 4529,
+     "3f296c9739924bc9fe34332eb7eba5e6": 302,
+     "d660096f673d3366275bf4b4fcc661db": 12,
+     "6025cb67846bc8556ff1e466a8404faa": 172,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 18657,
+     "777a8cbf45701c3893da6c69d8a4d144": 12779,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 5734,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 15,
+     "64c0dafc665c3e9edb842914adcf8869": 4596,
+     "93894d1b8614a8d4dd5532b604f6c091": 3282,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 176,
+     "9a93ecbd70b776cd9682207c22b79be6": 9800,
+     "d0f742829c98d26edbf6ec45192945c7": 11216,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 1760,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 112,
+     "9593d6c26e037e8b8b37e155877f0817": 9063,
+     "1043427b1f31cb19ff66e686907b4c1a": 286,
+     "f77b5d197eb882518457c3369f820e90": 157,
+     "8da0cf537849680980e90bdac8b10c13": 18,
+     "37264a456dc707d8a94740b9c63ccccb": 165,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 6495,
+     "eca87735730c515035bf3e6219f99114": 233,
+     "680a56d08689a266ae5ccf827573f5ef": 130,
+     "152ff50920b1c84cdf88ee9788795a9f": 102,
+     "feff91fb384c0be25911e8b67456d9e0": 16,
+     "0c789eced1ad6caa4db9c42c176a8203": 75,
+     "ab354fc7464b4561029cb357b09454da": 921,
+     "5435a556ff5f7f0e2ea9c887483d6320": 39,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 439,
+     "16661dd280fc3673fb650e6f68eae712": 4262,
+     "b52da9305ad8ed1379cb31a4c6781931": 4531,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 6520,
+     "29e8e4277cf5762df4019a425c7226ee": 279,
+     "1ef9a9935b08853c0dc9a87906a294e1": 2369,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 1029,
+     "e788a14103d414f574f2f15e845fb0ca": 635,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 26,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 2168,
+     "615485d6323beee3ed38cb12825ea536": 707,
+     "e309e7760c271eb13400eef49d6f21c7": 100,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 92,
+     "edd7e6492954cf48b667b749aadd00bd": 499,
+     "f92222594f29369ecfe3b7cd8a521f2b": 566,
+     "c85053d114338e2d90748f87027043a0": 5,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 83,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 165,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 10,
+     "e08a177343fde940a151817c4a579dda": 34,
+     "f5b9bbbc891973a740e8f11e54683a9a": 200,
+     "3f296c9739924bc9fe34332eb7eba5e6": 160,
+     "d660096f673d3366275bf4b4fcc661db": 1,
+     "6025cb67846bc8556ff1e466a8404faa": 117,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 18741,
+     "777a8cbf45701c3893da6c69d8a4d144": 3988,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 6531,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 10,
+     "64c0dafc665c3e9edb842914adcf8869": 1509,
+     "93894d1b8614a8d4dd5532b604f6c091": 1976,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 115,
+     "9a93ecbd70b776cd9682207c22b79be6": 3467,
+     "d0f742829c98d26edbf6ec45192945c7": 1616,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 1654,
+     "0addc7b3957c65205b9bdd364c69d2ed": 15259,
+     "28bf3960cf124b712b6f913239570250": 80,
+     "9593d6c26e037e8b8b37e155877f0817": 4525,
+     "1043427b1f31cb19ff66e686907b4c1a": 156,
+     "f77b5d197eb882518457c3369f820e90": 115,
+     "8da0cf537849680980e90bdac8b10c13": 18,
+     "37264a456dc707d8a94740b9c63ccccb": 87,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 5121,
+     "eca87735730c515035bf3e6219f99114": 130,
+     "680a56d08689a266ae5ccf827573f5ef": 95,
+     "152ff50920b1c84cdf88ee9788795a9f": 85,
+     "feff91fb384c0be25911e8b67456d9e0": 9,
+     "0c789eced1ad6caa4db9c42c176a8203": 40,
+     "ab354fc7464b4561029cb357b09454da": 979,
+     "5435a556ff5f7f0e2ea9c887483d6320": 12,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 198,
+     "16661dd280fc3673fb650e6f68eae712": 3315,
+     "b52da9305ad8ed1379cb31a4c6781931": 3379,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 77,
+     "29e8e4277cf5762df4019a425c7226ee": 87,
+     "1ef9a9935b08853c0dc9a87906a294e1": 441,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 92,
+     "e788a14103d414f574f2f15e845fb0ca": 5953,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 7,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 58,
+     "615485d6323beee3ed38cb12825ea536": 411,
+     "e309e7760c271eb13400eef49d6f21c7": 32,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 34,
+     "edd7e6492954cf48b667b749aadd00bd": 392,
+     "f92222594f29369ecfe3b7cd8a521f2b": 592,
+     "c85053d114338e2d90748f87027043a0": 6,
+     "448f84657a334645b3e3c88b01bcbe15": 5043,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 31,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 112,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 4,
+     "e08a177343fde940a151817c4a579dda": 15,
+     "f5b9bbbc891973a740e8f11e54683a9a": 131,
+     "3f296c9739924bc9fe34332eb7eba5e6": 52,
+     "d660096f673d3366275bf4b4fcc661db": 3,
+     "6025cb67846bc8556ff1e466a8404faa": 107,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 98.15,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 98.15,
+   "values": [
+    {
+     "key": "e493bbefb9fe53df7b01809843242f33",
+     "total": 127.61,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co",
+       "value": "https://www.eluniversal.com.co",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "777a8cbf45701c3893da6c69d8a4d144",
+     "total": 70.21,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "960340f7ec8130cb2d0f41ed6d0c7c9f",
+     "total": 85.28,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/",
+       "value": "https://www.eluniversal.com.co/sucesos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b31d5eb7c6bbe212ad6996b74af50aff",
+     "total": 50.27,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/26/se-va-el-agua-en-estos-barrios-de-cartagena-este-martes-27-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/26/se-va-el-agua-en-estos-barrios-de-cartagena-este-martes-27-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "64c0dafc665c3e9edb842914adcf8869",
+     "total": 105.43,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/conductor-revelo-las-causas-del-accidente-de-la-agrupacion-de-kbeto-hijo-de-poncho-zuleta/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/conductor-revelo-las-causas-del-accidente-de-la-agrupacion-de-kbeto-hijo-de-poncho-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "93894d1b8614a8d4dd5532b604f6c091",
+     "total": 118.67,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/29/revelan-el-papel-del-hijo-de-ivan-rene-valenciano-en-la-banda-la-roja-en-medellin/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/29/revelan-el-papel-del-hijo-de-ivan-rene-valenciano-en-la-banda-la-roja-en-medellin/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2d3e6d94145206fd6b274a3ad62aa93e",
+     "total": 101.77,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/27/hijo-e-hijastro-de-ivan-rene-valenciano-fueron-capturados-en-operativo-de-de-la-espriella/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/27/hijo-e-hijastro-de-ivan-rene-valenciano-fueron-capturados-en-operativo-de-de-la-espriella/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9a93ecbd70b776cd9682207c22b79be6",
+     "total": 123.57,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d0f742829c98d26edbf6ec45192945c7",
+     "total": 188.42,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "15d9c3d29a6b7d9b9bf6045a7575264c",
+     "total": 91.3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0addc7b3957c65205b9bdd364c69d2ed",
+     "total": 83.71,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "28bf3960cf124b712b6f913239570250",
+     "total": 109.03,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9593d6c26e037e8b8b37e155877f0817",
+     "total": 60.12,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/lo-capturan-con-170-kilos-de-carne-de-cerdo-sin-las-minimas-condiciones-de-higiene-y-conservacion/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/lo-capturan-con-170-kilos-de-carne-de-cerdo-sin-las-minimas-condiciones-de-higiene-y-conservacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1043427b1f31cb19ff66e686907b4c1a",
+     "total": 77.66,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-30-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-30-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f77b5d197eb882518457c3369f820e90",
+     "total": 92.36,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/23/nina-de-12-anos-perdio-dos-dedos-en-colegio-de-cartagena-su-familia-exige-respuestas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/23/nina-de-12-anos-perdio-dos-dedos-en-colegio-de-cartagena-su-familia-exige-respuestas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8da0cf537849680980e90bdac8b10c13",
+     "total": 50.94,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/27/barrios-de-cartagena-que-no-tendran-agua-el-28-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/27/barrios-de-cartagena-que-no-tendran-agua-el-28-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "37264a456dc707d8a94740b9c63ccccb",
+     "total": 79.24,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/tragedia-volqueta-arrollo-una-moto-electrica-y-2-ninas-fueron-las-victimas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/tragedia-volqueta-arrollo-una-moto-electrica-y-2-ninas-fueron-las-victimas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "803b1fce4d6cb343aaac09f7ff9b9258",
+     "total": 49.49,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/31/corte-de-luz-en-cartagena-este-es-el-sector-sin-servicio-el-domingo-1-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/31/corte-de-luz-en-cartagena-este-es-el-sector-sin-servicio-el-domingo-1-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "eca87735730c515035bf3e6219f99114",
+     "total": 109.25,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "680a56d08689a266ae5ccf827573f5ef",
+     "total": 77.04,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/26/reconocio-los-resultados-asi-reacciono-de-la-espriella-a-la-victoria-de-lula-da-silva/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/26/reconocio-los-resultados-asi-reacciono-de-la-espriella-a-la-victoria-de-lula-da-silva/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "152ff50920b1c84cdf88ee9788795a9f",
+     "total": 60.79,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/28/aguas-de-cartagena-reporta-dano-en-tuberia-estos-son-los-barrios-sin-agua/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/28/aguas-de-cartagena-reporta-dano-en-tuberia-estos-son-los-barrios-sin-agua/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "feff91fb384c0be25911e8b67456d9e0",
+     "total": 79.46,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0c789eced1ad6caa4db9c42c176a8203",
+     "total": 143.26,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/25/guus-franke-los-negocios-la-fortuna-y-las-controversias-del-esposo-de-ariadna-gutierrez/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/25/guus-franke-los-negocios-la-fortuna-y-las-controversias-del-esposo-de-ariadna-gutierrez/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ab354fc7464b4561029cb357b09454da",
+     "total": 90.43,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/deportes/",
+       "value": "https://www.eluniversal.com.co/deportes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5435a556ff5f7f0e2ea9c887483d6320",
+     "total": 103.01,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/kbeto-zuleta-perdio-una-pierna-y-permanece-en-uci-tras-el-accidente-de-su-agrupacion/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/kbeto-zuleta-perdio-una-pierna-y-permanece-en-uci-tras-el-accidente-de-su-agrupacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f428fdb8bdab0b1eb6799497a127e8d2",
+     "total": 86.29,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/colegio-de-cartagena-ocupo-el-primer-lugar-de-la-region-caribe-en-saber-11-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/colegio-de-cartagena-ocupo-el-primer-lugar-de-la-region-caribe-en-saber-11-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "16661dd280fc3673fb650e6f68eae712",
+     "total": 55.41,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b52da9305ad8ed1379cb31a4c6781931",
+     "total": 78.86,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ee0e73d83674fcf76e4c0c8c78c3ab1d",
+     "total": 79.61,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/30/encuestas-encienden-las-alarmas-republicanas-democratas-apuntan-a-una-mayoria-historica/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/30/encuestas-encienden-las-alarmas-republicanas-democratas-apuntan-a-una-mayoria-historica/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "29e8e4277cf5762df4019a425c7226ee",
+     "total": 130.49,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1ef9a9935b08853c0dc9a87906a294e1",
+     "total": 86.52,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "55ff2d5ff3940bd20f1c42fb06eeb148",
+     "total": 61.8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/detectan-conexion-irregular-en-armenia-lavadero-de-carros-consumia-900-mil-litros-al-mes/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/detectan-conexion-irregular-en-armenia-lavadero-de-carros-consumia-900-mil-litros-al-mes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e788a14103d414f574f2f15e845fb0ca",
+     "total": 64.15,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/atlantico/2026/10/31/se-va-la-luz-este-domingo-1-de-noviembre-estos-sectores-de-barranquilla-y-puerto-colombia/",
+       "value": "https://www.eluniversal.com.co/regional/atlantico/2026/10/31/se-va-la-luz-este-domingo-1-de-noviembre-estos-sectores-de-barranquilla-y-puerto-colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6eb327b9e23f7d4a0109a2826fcca71c",
+     "total": 118.93,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/27/que-se-sabe-de-la-salud-de-kbeto-zuleta-su-hermana-rompio-el-silencio-sobre-su-estado/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/27/que-se-sabe-de-la-salud-de-kbeto-zuleta-su-hermana-rompio-el-silencio-sobre-su-estado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a9a8d153c2d44906a3934ea5882ff8ca",
+     "total": 55.69,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/30/estos-son-los-sectores-de-cartagena-que-no-tendran-luz-el-sabado-31-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/30/estos-son-los-sectores-de-cartagena-que-no-tendran-luz-el-sabado-31-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "615485d6323beee3ed38cb12825ea536",
+     "total": 188.12,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e309e7760c271eb13400eef49d6f21c7",
+     "total": 171.83,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/27/madre-de-nina-que-perdio-dos-dedos-en-colegio-relata-la-angustiante-atencion-que-recibio/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/27/madre-de-nina-que-perdio-dos-dedos-en-colegio-relata-la-angustiante-atencion-que-recibio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bbcbcaeebb4f595ecb11d3dc010c4712",
+     "total": 116.95,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "edd7e6492954cf48b667b749aadd00bd",
+     "total": 93.26,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/",
+       "value": "https://www.eluniversal.com.co/farandula/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f92222594f29369ecfe3b7cd8a521f2b",
+     "total": 76.73,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/",
+       "value": "https://www.eluniversal.com.co/colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c85053d114338e2d90748f87027043a0",
+     "total": 121.53,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "448f84657a334645b3e3c88b01bcbe15",
+     "total": 47.75,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "be1ff73ee72ed7d608a900a3b4eda84a",
+     "total": 109.11,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/29/capturan-a-jorge-luis-alfonso-lopez-hijo-de-la-gata-en-clinica-de-barranquilla/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/29/capturan-a-jorge-luis-alfonso-lopez-hijo-de-la-gata-en-clinica-de-barranquilla/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7b2ec8b3ab76e98f20c2558db30c2cc9",
+     "total": 117.08,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e5913bad9cc87e0ebebcb3f890637cd4",
+     "total": 51.39,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/26/cortes-de-luz-en-cartagena-el-martes-27-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/26/cortes-de-luz-en-cartagena-el-martes-27-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e08a177343fde940a151817c4a579dda",
+     "total": 72.28,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/28/estos-son-los-barrios-de-cartagena-que-estaran-sin-luz-el-29-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/28/estos-son-los-barrios-de-cartagena-que-estaran-sin-luz-el-29-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f5b9bbbc891973a740e8f11e54683a9a",
+     "total": 147.51,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f296c9739924bc9fe34332eb7eba5e6",
+     "total": 57.09,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/27/la-cancion-de-mr-black-para-las-fiestas-2026-pone-a-bailar-a-habitante-de-calle/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/27/la-cancion-de-mr-black-para-las-fiestas-2026-pone-a-bailar-a-habitante-de-calle/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d660096f673d3366275bf4b4fcc661db",
+     "total": 56.1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6025cb67846bc8556ff1e466a8404faa",
+     "total": 134.96,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "e493bbefb9fe53df7b01809843242f33": 134.29,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 83.1,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 51.54,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 0,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 114.47,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 88.98,
+     "8da0cf537849680980e90bdac8b10c13": 0,
+     "37264a456dc707d8a94740b9c63ccccb": 0,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 99.28,
+     "152ff50920b1c84cdf88ee9788795a9f": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 83.58,
+     "0c789eced1ad6caa4db9c42c176a8203": 148.18,
+     "ab354fc7464b4561029cb357b09454da": 97.54,
+     "5435a556ff5f7f0e2ea9c887483d6320": 105.07,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 0,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 115.94,
+     "edd7e6492954cf48b667b749aadd00bd": 99.58,
+     "f92222594f29369ecfe3b7cd8a521f2b": 97.74,
+     "c85053d114338e2d90748f87027043a0": 122.96,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 50.16,
+     "e08a177343fde940a151817c4a579dda": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 0,
+     "d660096f673d3366275bf4b4fcc661db": 54.18,
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 135.34,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 91.26,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 48.22,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 102.24,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 91.24,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 99.72,
+     "8da0cf537849680980e90bdac8b10c13": 49.73,
+     "37264a456dc707d8a94740b9c63ccccb": 65.58,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 71.69,
+     "152ff50920b1c84cdf88ee9788795a9f": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 75.64,
+     "0c789eced1ad6caa4db9c42c176a8203": 126.14,
+     "ab354fc7464b4561029cb357b09454da": 87.71,
+     "5435a556ff5f7f0e2ea9c887483d6320": 97.83,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 177.29,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 189.49,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 122.21,
+     "edd7e6492954cf48b667b749aadd00bd": 102.02,
+     "f92222594f29369ecfe3b7cd8a521f2b": 58.06,
+     "c85053d114338e2d90748f87027043a0": 107.24,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 53.5,
+     "e08a177343fde940a151817c4a579dda": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 62.7,
+     "d660096f673d3366275bf4b4fcc661db": 209.68,
+     "6025cb67846bc8556ff1e466a8404faa": 132.79,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 135.88,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 91.77,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 47.89,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 100.7,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 90.26,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 111.67,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 95.97,
+     "8da0cf537849680980e90bdac8b10c13": 52.73,
+     "37264a456dc707d8a94740b9c63ccccb": 83.46,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 112.54,
+     "680a56d08689a266ae5ccf827573f5ef": 66.08,
+     "152ff50920b1c84cdf88ee9788795a9f": 65.32,
+     "feff91fb384c0be25911e8b67456d9e0": 68.15,
+     "0c789eced1ad6caa4db9c42c176a8203": 129,
+     "ab354fc7464b4561029cb357b09454da": 92.55,
+     "5435a556ff5f7f0e2ea9c887483d6320": 78.33,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 131.97,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 108.57,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 174.1,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 102.57,
+     "edd7e6492954cf48b667b749aadd00bd": 91.97,
+     "f92222594f29369ecfe3b7cd8a521f2b": 70.56,
+     "c85053d114338e2d90748f87027043a0": 59.84,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 34.12,
+     "e08a177343fde940a151817c4a579dda": 76.56,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 57.67,
+     "d660096f673d3366275bf4b4fcc661db": 38.54,
+     "6025cb67846bc8556ff1e466a8404faa": 158.13,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 125.22,
+     "777a8cbf45701c3893da6c69d8a4d144": 70.21,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 84.63,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 24.64,
+     "64c0dafc665c3e9edb842914adcf8869": 122.81,
+     "93894d1b8614a8d4dd5532b604f6c091": 126.12,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 93.79,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 83.8,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 106.26,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 83.02,
+     "f77b5d197eb882518457c3369f820e90": 101.24,
+     "8da0cf537849680980e90bdac8b10c13": 38.99,
+     "37264a456dc707d8a94740b9c63ccccb": 80.67,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 100.69,
+     "680a56d08689a266ae5ccf827573f5ef": 77.12,
+     "152ff50920b1c84cdf88ee9788795a9f": 54.16,
+     "feff91fb384c0be25911e8b67456d9e0": 79.79,
+     "0c789eced1ad6caa4db9c42c176a8203": 119.65,
+     "ab354fc7464b4561029cb357b09454da": 79.61,
+     "5435a556ff5f7f0e2ea9c887483d6320": 77.56,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 85.93,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 130.4,
+     "1ef9a9935b08853c0dc9a87906a294e1": 90.9,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 72.17,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 144.3,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 142.64,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 97.63,
+     "edd7e6492954cf48b667b749aadd00bd": 88.25,
+     "f92222594f29369ecfe3b7cd8a521f2b": 81.2,
+     "c85053d114338e2d90748f87027043a0": 79.05,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 107.78,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 117.38,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 37.77,
+     "e08a177343fde940a151817c4a579dda": 70.05,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 49.8,
+     "d660096f673d3366275bf4b4fcc661db": 245.63,
+     "6025cb67846bc8556ff1e466a8404faa": 133.03,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 127.81,
+     "777a8cbf45701c3893da6c69d8a4d144": 71.24,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 87.98,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 98.72,
+     "64c0dafc665c3e9edb842914adcf8869": 91.79,
+     "93894d1b8614a8d4dd5532b604f6c091": 112.75,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 112.96,
+     "9a93ecbd70b776cd9682207c22b79be6": 149.3,
+     "d0f742829c98d26edbf6ec45192945c7": 203.88,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 92.76,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 61.07,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 73.33,
+     "f77b5d197eb882518457c3369f820e90": 74.35,
+     "8da0cf537849680980e90bdac8b10c13": 38.6,
+     "37264a456dc707d8a94740b9c63ccccb": 74.41,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 82.2,
+     "680a56d08689a266ae5ccf827573f5ef": 82.25,
+     "152ff50920b1c84cdf88ee9788795a9f": 50.5,
+     "feff91fb384c0be25911e8b67456d9e0": 38.18,
+     "0c789eced1ad6caa4db9c42c176a8203": 90.92,
+     "ab354fc7464b4561029cb357b09454da": 93.4,
+     "5435a556ff5f7f0e2ea9c887483d6320": 71,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 89.54,
+     "16661dd280fc3673fb650e6f68eae712": 62.65,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 94.74,
+     "29e8e4277cf5762df4019a425c7226ee": 128.65,
+     "1ef9a9935b08853c0dc9a87906a294e1": 87.88,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 56.58,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 119.52,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 58.53,
+     "615485d6323beee3ed38cb12825ea536": 202.33,
+     "e309e7760c271eb13400eef49d6f21c7": 131.01,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 81.36,
+     "edd7e6492954cf48b667b749aadd00bd": 93.15,
+     "f92222594f29369ecfe3b7cd8a521f2b": 81.78,
+     "c85053d114338e2d90748f87027043a0": 161.21,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 129.21,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 134.18,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 1.12,
+     "e08a177343fde940a151817c4a579dda": 55.51,
+     "f5b9bbbc891973a740e8f11e54683a9a": 152.86,
+     "3f296c9739924bc9fe34332eb7eba5e6": 55.57,
+     "d660096f673d3366275bf4b4fcc661db": 116.1,
+     "6025cb67846bc8556ff1e466a8404faa": 120.28,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 117.62,
+     "777a8cbf45701c3893da6c69d8a4d144": 66.76,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 82.22,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 23.68,
+     "64c0dafc665c3e9edb842914adcf8869": 86.34,
+     "93894d1b8614a8d4dd5532b604f6c091": 109.45,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 89.79,
+     "9a93ecbd70b776cd9682207c22b79be6": 105.11,
+     "d0f742829c98d26edbf6ec45192945c7": 178.8,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 78.77,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 87.25,
+     "9593d6c26e037e8b8b37e155877f0817": 60.76,
+     "1043427b1f31cb19ff66e686907b4c1a": 50.18,
+     "f77b5d197eb882518457c3369f820e90": 98.36,
+     "8da0cf537849680980e90bdac8b10c13": 21.32,
+     "37264a456dc707d8a94740b9c63ccccb": 57.69,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 51.38,
+     "eca87735730c515035bf3e6219f99114": 106.4,
+     "680a56d08689a266ae5ccf827573f5ef": 81.68,
+     "152ff50920b1c84cdf88ee9788795a9f": 68.16,
+     "feff91fb384c0be25911e8b67456d9e0": 18.69,
+     "0c789eced1ad6caa4db9c42c176a8203": 83.12,
+     "ab354fc7464b4561029cb357b09454da": 84.9,
+     "5435a556ff5f7f0e2ea9c887483d6320": 62.67,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 81.75,
+     "16661dd280fc3673fb650e6f68eae712": 56.59,
+     "b52da9305ad8ed1379cb31a4c6781931": 81.66,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 78.63,
+     "29e8e4277cf5762df4019a425c7226ee": 111.49,
+     "1ef9a9935b08853c0dc9a87906a294e1": 84.85,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 57.47,
+     "e788a14103d414f574f2f15e845fb0ca": 61.06,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 141.59,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 50.34,
+     "615485d6323beee3ed38cb12825ea536": 125.36,
+     "e309e7760c271eb13400eef49d6f21c7": 146.61,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 96.04,
+     "edd7e6492954cf48b667b749aadd00bd": 83.57,
+     "f92222594f29369ecfe3b7cd8a521f2b": 71.56,
+     "c85053d114338e2d90748f87027043a0": 8,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 129.49,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 80.11,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 48.64,
+     "e08a177343fde940a151817c4a579dda": 52.47,
+     "f5b9bbbc891973a740e8f11e54683a9a": 64.52,
+     "3f296c9739924bc9fe34332eb7eba5e6": 53.2,
+     "d660096f673d3366275bf4b4fcc661db": 74,
+     "6025cb67846bc8556ff1e466a8404faa": 108.58,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 105.08,
+     "777a8cbf45701c3893da6c69d8a4d144": 71.89,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 73.13,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 20.61,
+     "64c0dafc665c3e9edb842914adcf8869": 90.64,
+     "93894d1b8614a8d4dd5532b604f6c091": 115.12,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 98.84,
+     "9a93ecbd70b776cd9682207c22b79be6": 120.34,
+     "d0f742829c98d26edbf6ec45192945c7": 186.99,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 76.47,
+     "0addc7b3957c65205b9bdd364c69d2ed": 83.71,
+     "28bf3960cf124b712b6f913239570250": 73.13,
+     "9593d6c26e037e8b8b37e155877f0817": 58.8,
+     "1043427b1f31cb19ff66e686907b4c1a": 29.58,
+     "f77b5d197eb882518457c3369f820e90": 101.65,
+     "8da0cf537849680980e90bdac8b10c13": 27.28,
+     "37264a456dc707d8a94740b9c63ccccb": 58.41,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 47.06,
+     "eca87735730c515035bf3e6219f99114": 93.38,
+     "680a56d08689a266ae5ccf827573f5ef": 65.77,
+     "152ff50920b1c84cdf88ee9788795a9f": 52.46,
+     "feff91fb384c0be25911e8b67456d9e0": 58.71,
+     "0c789eced1ad6caa4db9c42c176a8203": 153.82,
+     "ab354fc7464b4561029cb357b09454da": 94.43,
+     "5435a556ff5f7f0e2ea9c887483d6320": 87.47,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 70.87,
+     "16661dd280fc3673fb650e6f68eae712": 51.7,
+     "b52da9305ad8ed1379cb31a4c6781931": 75.03,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 58.61,
+     "29e8e4277cf5762df4019a425c7226ee": 150.69,
+     "1ef9a9935b08853c0dc9a87906a294e1": 77.27,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 69.08,
+     "e788a14103d414f574f2f15e845fb0ca": 64.48,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 120.75,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 38.17,
+     "615485d6323beee3ed38cb12825ea536": 99.56,
+     "e309e7760c271eb13400eef49d6f21c7": 80.78,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 127.51,
+     "edd7e6492954cf48b667b749aadd00bd": 81.54,
+     "f92222594f29369ecfe3b7cd8a521f2b": 71.85,
+     "c85053d114338e2d90748f87027043a0": 48.7,
+     "448f84657a334645b3e3c88b01bcbe15": 47.75,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 61.24,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 74.37,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 48.83,
+     "e08a177343fde940a151817c4a579dda": 33.21,
+     "f5b9bbbc891973a740e8f11e54683a9a": 64.8,
+     "3f296c9739924bc9fe34332eb7eba5e6": 29.95,
+     "d660096f673d3366275bf4b4fcc661db": 13.6,
+     "6025cb67846bc8556ff1e466a8404faa": 117.31,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "socialPosts",
+  "total": 1046,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 1046,
+   "values": [
+    {
+     "key": "e493bbefb9fe53df7b01809843242f33",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co",
+       "value": "https://www.eluniversal.com.co",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "777a8cbf45701c3893da6c69d8a4d144",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "960340f7ec8130cb2d0f41ed6d0c7c9f",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/",
+       "value": "https://www.eluniversal.com.co/sucesos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b31d5eb7c6bbe212ad6996b74af50aff",
+     "total": 7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/26/se-va-el-agua-en-estos-barrios-de-cartagena-este-martes-27-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/26/se-va-el-agua-en-estos-barrios-de-cartagena-este-martes-27-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "64c0dafc665c3e9edb842914adcf8869",
+     "total": 8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/conductor-revelo-las-causas-del-accidente-de-la-agrupacion-de-kbeto-hijo-de-poncho-zuleta/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/conductor-revelo-las-causas-del-accidente-de-la-agrupacion-de-kbeto-hijo-de-poncho-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "93894d1b8614a8d4dd5532b604f6c091",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/29/revelan-el-papel-del-hijo-de-ivan-rene-valenciano-en-la-banda-la-roja-en-medellin/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/29/revelan-el-papel-del-hijo-de-ivan-rene-valenciano-en-la-banda-la-roja-en-medellin/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2d3e6d94145206fd6b274a3ad62aa93e",
+     "total": 11,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/27/hijo-e-hijastro-de-ivan-rene-valenciano-fueron-capturados-en-operativo-de-de-la-espriella/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/27/hijo-e-hijastro-de-ivan-rene-valenciano-fueron-capturados-en-operativo-de-de-la-espriella/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9a93ecbd70b776cd9682207c22b79be6",
+     "total": 7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d0f742829c98d26edbf6ec45192945c7",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "15d9c3d29a6b7d9b9bf6045a7575264c",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0addc7b3957c65205b9bdd364c69d2ed",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "28bf3960cf124b712b6f913239570250",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9593d6c26e037e8b8b37e155877f0817",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/lo-capturan-con-170-kilos-de-carne-de-cerdo-sin-las-minimas-condiciones-de-higiene-y-conservacion/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/lo-capturan-con-170-kilos-de-carne-de-cerdo-sin-las-minimas-condiciones-de-higiene-y-conservacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1043427b1f31cb19ff66e686907b4c1a",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-30-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-30-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f77b5d197eb882518457c3369f820e90",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/23/nina-de-12-anos-perdio-dos-dedos-en-colegio-de-cartagena-su-familia-exige-respuestas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/23/nina-de-12-anos-perdio-dos-dedos-en-colegio-de-cartagena-su-familia-exige-respuestas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8da0cf537849680980e90bdac8b10c13",
+     "total": 7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/27/barrios-de-cartagena-que-no-tendran-agua-el-28-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/27/barrios-de-cartagena-que-no-tendran-agua-el-28-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "37264a456dc707d8a94740b9c63ccccb",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/tragedia-volqueta-arrollo-una-moto-electrica-y-2-ninas-fueron-las-victimas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/tragedia-volqueta-arrollo-una-moto-electrica-y-2-ninas-fueron-las-victimas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "803b1fce4d6cb343aaac09f7ff9b9258",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/31/corte-de-luz-en-cartagena-este-es-el-sector-sin-servicio-el-domingo-1-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/31/corte-de-luz-en-cartagena-este-es-el-sector-sin-servicio-el-domingo-1-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "eca87735730c515035bf3e6219f99114",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "680a56d08689a266ae5ccf827573f5ef",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/26/reconocio-los-resultados-asi-reacciono-de-la-espriella-a-la-victoria-de-lula-da-silva/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/26/reconocio-los-resultados-asi-reacciono-de-la-espriella-a-la-victoria-de-lula-da-silva/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "152ff50920b1c84cdf88ee9788795a9f",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/28/aguas-de-cartagena-reporta-dano-en-tuberia-estos-son-los-barrios-sin-agua/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/28/aguas-de-cartagena-reporta-dano-en-tuberia-estos-son-los-barrios-sin-agua/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "feff91fb384c0be25911e8b67456d9e0",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0c789eced1ad6caa4db9c42c176a8203",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/25/guus-franke-los-negocios-la-fortuna-y-las-controversias-del-esposo-de-ariadna-gutierrez/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/25/guus-franke-los-negocios-la-fortuna-y-las-controversias-del-esposo-de-ariadna-gutierrez/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ab354fc7464b4561029cb357b09454da",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/deportes/",
+       "value": "https://www.eluniversal.com.co/deportes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5435a556ff5f7f0e2ea9c887483d6320",
+     "total": 8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/kbeto-zuleta-perdio-una-pierna-y-permanece-en-uci-tras-el-accidente-de-su-agrupacion/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/kbeto-zuleta-perdio-una-pierna-y-permanece-en-uci-tras-el-accidente-de-su-agrupacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f428fdb8bdab0b1eb6799497a127e8d2",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/colegio-de-cartagena-ocupo-el-primer-lugar-de-la-region-caribe-en-saber-11-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/colegio-de-cartagena-ocupo-el-primer-lugar-de-la-region-caribe-en-saber-11-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "16661dd280fc3673fb650e6f68eae712",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "value": "https://www.eluniversal.com.co/economica/2026/10/30/salario-minimo-2027-fenalco-volvera-a-la-mesa-de-concertacion-y-anticipo-el-incremento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b52da9305ad8ed1379cb31a4c6781931",
+     "total": 7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ee0e73d83674fcf76e4c0c8c78c3ab1d",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/30/encuestas-encienden-las-alarmas-republicanas-democratas-apuntan-a-una-mayoria-historica/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/30/encuestas-encienden-las-alarmas-republicanas-democratas-apuntan-a-una-mayoria-historica/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "29e8e4277cf5762df4019a425c7226ee",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1ef9a9935b08853c0dc9a87906a294e1",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "55ff2d5ff3940bd20f1c42fb06eeb148",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/29/detectan-conexion-irregular-en-armenia-lavadero-de-carros-consumia-900-mil-litros-al-mes/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/29/detectan-conexion-irregular-en-armenia-lavadero-de-carros-consumia-900-mil-litros-al-mes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e788a14103d414f574f2f15e845fb0ca",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/atlantico/2026/10/31/se-va-la-luz-este-domingo-1-de-noviembre-estos-sectores-de-barranquilla-y-puerto-colombia/",
+       "value": "https://www.eluniversal.com.co/regional/atlantico/2026/10/31/se-va-la-luz-este-domingo-1-de-noviembre-estos-sectores-de-barranquilla-y-puerto-colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6eb327b9e23f7d4a0109a2826fcca71c",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/27/que-se-sabe-de-la-salud-de-kbeto-zuleta-su-hermana-rompio-el-silencio-sobre-su-estado/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/27/que-se-sabe-de-la-salud-de-kbeto-zuleta-su-hermana-rompio-el-silencio-sobre-su-estado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a9a8d153c2d44906a3934ea5882ff8ca",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/30/estos-son-los-sectores-de-cartagena-que-no-tendran-luz-el-sabado-31-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/30/estos-son-los-sectores-de-cartagena-que-no-tendran-luz-el-sabado-31-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "615485d6323beee3ed38cb12825ea536",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e309e7760c271eb13400eef49d6f21c7",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/27/madre-de-nina-que-perdio-dos-dedos-en-colegio-relata-la-angustiante-atencion-que-recibio/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/27/madre-de-nina-que-perdio-dos-dedos-en-colegio-relata-la-angustiante-atencion-que-recibio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bbcbcaeebb4f595ecb11d3dc010c4712",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "edd7e6492954cf48b667b749aadd00bd",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/",
+       "value": "https://www.eluniversal.com.co/farandula/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f92222594f29369ecfe3b7cd8a521f2b",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/",
+       "value": "https://www.eluniversal.com.co/colombia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c85053d114338e2d90748f87027043a0",
+     "total": 8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "448f84657a334645b3e3c88b01bcbe15",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "be1ff73ee72ed7d608a900a3b4eda84a",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/10/29/capturan-a-jorge-luis-alfonso-lopez-hijo-de-la-gata-en-clinica-de-barranquilla/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/10/29/capturan-a-jorge-luis-alfonso-lopez-hijo-de-la-gata-en-clinica-de-barranquilla/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7b2ec8b3ab76e98f20c2558db30c2cc9",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e5913bad9cc87e0ebebcb3f890637cd4",
+     "total": 7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/26/cortes-de-luz-en-cartagena-el-martes-27-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/26/cortes-de-luz-en-cartagena-el-martes-27-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e08a177343fde940a151817c4a579dda",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/28/estos-son-los-barrios-de-cartagena-que-estaran-sin-luz-el-29-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/28/estos-son-los-barrios-de-cartagena-que-estaran-sin-luz-el-29-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f5b9bbbc891973a740e8f11e54683a9a",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f296c9739924bc9fe34332eb7eba5e6",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/27/la-cancion-de-mr-black-para-las-fiestas-2026-pone-a-bailar-a-habitante-de-calle/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/27/la-cancion-de-mr-black-para-las-fiestas-2026-pone-a-bailar-a-habitante-de-calle/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d660096f673d3366275bf4b4fcc661db",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6025cb67846bc8556ff1e466a8404faa",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/informe-empresarial/2026/10/29/pasaje-dager-la-nueva-joya-comercial-del-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "e493bbefb9fe53df7b01809843242f33": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 0,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 5,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 0,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 2,
+     "8da0cf537849680980e90bdac8b10c13": 0,
+     "37264a456dc707d8a94740b9c63ccccb": 0,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 4,
+     "152ff50920b1c84cdf88ee9788795a9f": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 2,
+     "0c789eced1ad6caa4db9c42c176a8203": 2,
+     "ab354fc7464b4561029cb357b09454da": 0,
+     "5435a556ff5f7f0e2ea9c887483d6320": 8,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 0,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 1,
+     "edd7e6492954cf48b667b749aadd00bd": 0,
+     "f92222594f29369ecfe3b7cd8a521f2b": 0,
+     "c85053d114338e2d90748f87027043a0": 8,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 4,
+     "e08a177343fde940a151817c4a579dda": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 0,
+     "d660096f673d3366275bf4b4fcc661db": 2,
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 0,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 2,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 11,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 0,
+     "8da0cf537849680980e90bdac8b10c13": 5,
+     "37264a456dc707d8a94740b9c63ccccb": 1,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 0,
+     "152ff50920b1c84cdf88ee9788795a9f": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 1,
+     "0c789eced1ad6caa4db9c42c176a8203": 0,
+     "ab354fc7464b4561029cb357b09454da": 0,
+     "5435a556ff5f7f0e2ea9c887483d6320": 0,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 1,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 2,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 1,
+     "edd7e6492954cf48b667b749aadd00bd": 0,
+     "f92222594f29369ecfe3b7cd8a521f2b": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 3,
+     "e08a177343fde940a151817c4a579dda": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 1,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "6025cb67846bc8556ff1e466a8404faa": 1,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 0,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 0,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 0,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 5,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 0,
+     "8da0cf537849680980e90bdac8b10c13": 2,
+     "37264a456dc707d8a94740b9c63ccccb": 4,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 4,
+     "680a56d08689a266ae5ccf827573f5ef": 0,
+     "152ff50920b1c84cdf88ee9788795a9f": 4,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "0c789eced1ad6caa4db9c42c176a8203": 0,
+     "ab354fc7464b4561029cb357b09454da": 0,
+     "5435a556ff5f7f0e2ea9c887483d6320": 0,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 1,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 1,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 1,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "edd7e6492954cf48b667b749aadd00bd": 0,
+     "f92222594f29369ecfe3b7cd8a521f2b": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 0,
+     "e08a177343fde940a151817c4a579dda": 2,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 1,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 0,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 0,
+     "64c0dafc665c3e9edb842914adcf8869": 6,
+     "93894d1b8614a8d4dd5532b604f6c091": 4,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 0,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 1,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 3,
+     "f77b5d197eb882518457c3369f820e90": 0,
+     "8da0cf537849680980e90bdac8b10c13": 0,
+     "37264a456dc707d8a94740b9c63ccccb": 0,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 0,
+     "152ff50920b1c84cdf88ee9788795a9f": 1,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "0c789eced1ad6caa4db9c42c176a8203": 0,
+     "ab354fc7464b4561029cb357b09454da": 0,
+     "5435a556ff5f7f0e2ea9c887483d6320": 0,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 2,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 3,
+     "1ef9a9935b08853c0dc9a87906a294e1": 1,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 1,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 0,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "edd7e6492954cf48b667b749aadd00bd": 0,
+     "f92222594f29369ecfe3b7cd8a521f2b": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 1,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 3,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 0,
+     "e08a177343fde940a151817c4a579dda": 3,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 5,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 0,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 0,
+     "64c0dafc665c3e9edb842914adcf8869": 2,
+     "93894d1b8614a8d4dd5532b604f6c091": 2,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 0,
+     "9a93ecbd70b776cd9682207c22b79be6": 4,
+     "d0f742829c98d26edbf6ec45192945c7": 2,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 2,
+     "f77b5d197eb882518457c3369f820e90": 0,
+     "8da0cf537849680980e90bdac8b10c13": 0,
+     "37264a456dc707d8a94740b9c63ccccb": 0,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 0,
+     "152ff50920b1c84cdf88ee9788795a9f": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "0c789eced1ad6caa4db9c42c176a8203": 0,
+     "ab354fc7464b4561029cb357b09454da": 0,
+     "5435a556ff5f7f0e2ea9c887483d6320": 0,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 1,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 2,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 0,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 0,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 3,
+     "615485d6323beee3ed38cb12825ea536": 4,
+     "e309e7760c271eb13400eef49d6f21c7": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "edd7e6492954cf48b667b749aadd00bd": 0,
+     "f92222594f29369ecfe3b7cd8a521f2b": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 0,
+     "e08a177343fde940a151817c4a579dda": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 4,
+     "3f296c9739924bc9fe34332eb7eba5e6": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 0,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 0,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 0,
+     "9a93ecbd70b776cd9682207c22b79be6": 3,
+     "d0f742829c98d26edbf6ec45192945c7": 2,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "9593d6c26e037e8b8b37e155877f0817": 1,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 0,
+     "8da0cf537849680980e90bdac8b10c13": 0,
+     "37264a456dc707d8a94740b9c63ccccb": 0,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 2,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 0,
+     "152ff50920b1c84cdf88ee9788795a9f": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "0c789eced1ad6caa4db9c42c176a8203": 0,
+     "ab354fc7464b4561029cb357b09454da": 0,
+     "5435a556ff5f7f0e2ea9c887483d6320": 0,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 3,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 2,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 1,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 0,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 1,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "edd7e6492954cf48b667b749aadd00bd": 0,
+     "f92222594f29369ecfe3b7cd8a521f2b": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 0,
+     "e08a177343fde940a151817c4a579dda": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "e493bbefb9fe53df7b01809843242f33": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "960340f7ec8130cb2d0f41ed6d0c7c9f": 0,
+     "b31d5eb7c6bbe212ad6996b74af50aff": 0,
+     "64c0dafc665c3e9edb842914adcf8869": 0,
+     "93894d1b8614a8d4dd5532b604f6c091": 0,
+     "2d3e6d94145206fd6b274a3ad62aa93e": 0,
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "15d9c3d29a6b7d9b9bf6045a7575264c": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 3,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "9593d6c26e037e8b8b37e155877f0817": 0,
+     "1043427b1f31cb19ff66e686907b4c1a": 0,
+     "f77b5d197eb882518457c3369f820e90": 0,
+     "8da0cf537849680980e90bdac8b10c13": 0,
+     "37264a456dc707d8a94740b9c63ccccb": 0,
+     "803b1fce4d6cb343aaac09f7ff9b9258": 2,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "680a56d08689a266ae5ccf827573f5ef": 0,
+     "152ff50920b1c84cdf88ee9788795a9f": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "0c789eced1ad6caa4db9c42c176a8203": 0,
+     "ab354fc7464b4561029cb357b09454da": 0,
+     "5435a556ff5f7f0e2ea9c887483d6320": 0,
+     "f428fdb8bdab0b1eb6799497a127e8d2": 0,
+     "16661dd280fc3673fb650e6f68eae712": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 4,
+     "ee0e73d83674fcf76e4c0c8c78c3ab1d": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "55ff2d5ff3940bd20f1c42fb06eeb148": 0,
+     "e788a14103d414f574f2f15e845fb0ca": 1,
+     "6eb327b9e23f7d4a0109a2826fcca71c": 0,
+     "a9a8d153c2d44906a3934ea5882ff8ca": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "e309e7760c271eb13400eef49d6f21c7": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "edd7e6492954cf48b667b749aadd00bd": 0,
+     "f92222594f29369ecfe3b7cd8a521f2b": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 2,
+     "be1ff73ee72ed7d608a900a3b4eda84a": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "e5913bad9cc87e0ebebcb3f890637cd4": 0,
+     "e08a177343fde940a151817c4a579dda": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "3f296c9739924bc9fe34332eb7eba5e6": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "6025cb67846bc8556ff1e466a8404faa": 0,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ }
+]

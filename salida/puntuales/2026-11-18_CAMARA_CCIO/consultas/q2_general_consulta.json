@@ -1,0 +1,52 @@
+{
+ "dates": {
+  "groupedBy": "daily",
+  "range": {
+   "start": "2026-05-10",
+   "end": "2026-11-18"
+  }
+ },
+ "filters": [
+  {
+   "filter": "domain",
+   "op": "eq",
+   "value": [
+    "www.eluniversal.com.co"
+   ]
+  },
+  {
+   "filter": "url",
+   "op": "eq",
+   "value": [
+    "https://www.eluniversal.com.co/opinion/editorial/2026/05/10/tejiendo-progreso-en-bolivar/",
+    "https://www.eluniversal.com.co/cartagena/2026/05/11/la-camara-de-comercio-y-el-universal-consolidan-una-alianza-para-contar-el-progreso-que-se-construye-en-bolivar/",
+    "https://www.eluniversal.com.co/regional/bolivar/2026/05/15/del-transporte-fluvial-al-comercio-asi-transformaron-su-vida-los-bongueros-de-soplaviento/",
+    "https://www.eluniversal.com.co/regional/bolivar/2026/05/20/microempresarios-de-maria-la-baja-se-capacitaron-en-economia-circular-y-sostenibilidad/",
+    "https://www.eluniversal.com.co/cartagena/2026/05/22/628-mipymes-del-sector-turistico-de-colombia-se-volvieron-mas-sostenibles-asi-lo-lograron/",
+    "https://www.eluniversal.com.co/educacion/2026/06/05/conflictos-en-el-colegio-asi-puede-resolverlos-con-la-mediacion-escolar/",
+    "https://www.eluniversal.com.co/cartagena/2026/06/12/los-secretos-del-marketing-gastronomico-que-cambiaron-la-historia-de-estos-bares-y-restaurantes-en-cartagena/",
+    "https://www.eluniversal.com.co/cartagena/2026/06/20/la-camara-de-comercio-de-cartagena-lanza-anfe-una-academia-para-formar-el-talento-que-necesitan-las-empresas/",
+    "https://www.eluniversal.com.co/cartagena/2026/06/26/expocaribe-2026-el-plan-perfecto-de-fin-de-semana-en-cartagena-es-gratis-y-para-toda-la-familia/",
+    "https://www.eluniversal.com.co/economica/2026/07/10/como-comenzar-a-exportar-productos-desde-bolivar-guia-para-emprendedores/",
+    "https://www.eluniversal.com.co/cartagena/2026/07/17/conoces-el-diagnostico-unico-empresarial-asi-puede-transformar-tu-negocio/",
+    "https://www.eluniversal.com.co/cartagena/2026/08/25/mi-barrio-en-datos-la-herramienta-que-debes-conocer-si-quieres-abrir-un-negocio-en-cartagena/",
+    "https://www.eluniversal.com.co/cartagena/2026/08/15/asociaciones-circulares-la-apuesta-que-transforma-el-oficio-de-reciclar-en-cartagena/",
+    "https://www.eluniversal.com.co/cartagena/2026/08/18/necesita-credito-para-su-negocio-aun-hay-recursos-de-mi-empresa-avanza/",
+    "https://www.eluniversal.com.co/cartagena/2026/08/27/camara-de-comercio-de-cartagena-e-ixel-moda-fortalecen-a-40-emprendimientos-del-sistema-moda/"
+   ]
+  }
+ ],
+ "metrics": [
+  "pageViewsTotal",
+  "uniqueUsers"
+ ],
+ "order": {
+  "metric": "uniqueUsers",
+  "sort": "DESC"
+ },
+ "granularity": "none",
+ "discardOld": false,
+ "from": 0,
+ "limit": 500,
+ "groupBy": []
+}

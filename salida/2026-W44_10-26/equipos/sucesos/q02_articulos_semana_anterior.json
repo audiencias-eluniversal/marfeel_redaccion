@@ -1,0 +1,2822 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 268966,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 268966,
+   "values": [
+    {
+     "key": "9a93ecbd70b776cd9682207c22b79be6",
+     "total": 20620,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0addc7b3957c65205b9bdd364c69d2ed",
+     "total": 15259,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "28bf3960cf124b712b6f913239570250",
+     "total": 13824,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "eca87735730c515035bf3e6219f99114",
+     "total": 11187,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "feff91fb384c0be25911e8b67456d9e0",
+     "total": 10281,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b52da9305ad8ed1379cb31a4c6781931",
+     "total": 7906,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "29e8e4277cf5762df4019a425c7226ee",
+     "total": 7132,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "615485d6323beee3ed38cb12825ea536",
+     "total": 6175,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bbcbcaeebb4f595ecb11d3dc010c4712",
+     "total": 5654,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c85053d114338e2d90748f87027043a0",
+     "total": 5133,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7b2ec8b3ab76e98f20c2558db30c2cc9",
+     "total": 4974,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f5b9bbbc891973a740e8f11e54683a9a",
+     "total": 4859,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d660096f673d3366275bf4b4fcc661db",
+     "total": 4745,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8ce9165ba57ef9acd74ec5b59dc38a7e",
+     "total": 4480,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/yeison-sampayo-contreras-el-motociclista-que-murio-en-un-fuerte-accidente-cerca-de-el-rodeo/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/yeison-sampayo-contreras-el-motociclista-que-murio-en-un-fuerte-accidente-cerca-de-el-rodeo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "956e2be9c979b4d7d0af5d9696ab4037",
+     "total": 4116,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/video-asi-fue-la-caravana-de-halloween-donde-murio-zahira-gonzalez-de-15-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/video-asi-fue-la-caravana-de-halloween-donde-murio-zahira-gonzalez-de-15-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0a2bafa71786b4597689094e2ec9d653",
+     "total": 4018,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-moto-en-el-que-murio-laura-marcela-van-104-victimas-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-moto-en-el-que-murio-laura-marcela-van-104-victimas-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5558a5782a105656f533a8b85afac2de",
+     "total": 3933,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/emergencia-en-portal-de-san-felipe-en-pie-del-cerro-controlan-conato-de-incendio/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/emergencia-en-portal-de-san-felipe-en-pie-del-cerro-controlan-conato-de-incendio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "85e6bc94c0d5f73094868a1817be6eca",
+     "total": 3932,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/panico-entre-estudiantes-del-colegio-departamental-por-ataque-de-sicarios-contra-mototaxista/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/panico-entre-estudiantes-del-colegio-departamental-por-ataque-de-sicarios-contra-mototaxista/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0851c952b557408b16b463108767f5d1",
+     "total": 3752,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/evelyn-julieth-tapias-dejo-a-su-hija-en-el-colegio-y-de-regreso-un-sicario-acabo-con-su-vida/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/evelyn-julieth-tapias-dejo-a-su-hija-en-el-colegio-y-de-regreso-un-sicario-acabo-con-su-vida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "63636e9e3e7ce9ee8302b0d314c8da55",
+     "total": 3444,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-fue-el-ataque-en-el-que-le-quitaron-la-vida-a-luis-julio-silgado-un-nino-resulto-herido/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-fue-el-ataque-en-el-que-le-quitaron-la-vida-a-luis-julio-silgado-un-nino-resulto-herido/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b623fe34d7e743f899f823973e9c5f44",
+     "total": 3369,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/25/tilcia-altamar-pena-la-pastora-evangelica-hallada-sin-vida-en-su-vivienda/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/25/tilcia-altamar-pena-la-pastora-evangelica-hallada-sin-vida-en-su-vivienda/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "77fc4723c5c6f84dfc79ef97a6c6bb7d",
+     "total": 3313,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/a-los-amigos-robinson-y-edwin-les-quitaron-la-vida-en-el-estadero-la-pesebrera/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/a-los-amigos-robinson-y-edwin-les-quitaron-la-vida-en-el-estadero-la-pesebrera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d79fdfda2eede43a7a8289b40d98f39b",
+     "total": 3236,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-el-que-murio-daniela-escorcia-estudiante-de-la-universidad-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-el-que-murio-daniela-escorcia-estudiante-de-la-universidad-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4c5f1419223d8efbe8657e3405e7c67d",
+     "total": 3218,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/integrante-de-la-agrupacion-del-hijo-de-poncho-zuleta-cuenta-como-se-salvo-del-mortal-accidente/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/integrante-de-la-agrupacion-del-hijo-de-poncho-zuleta-cuenta-como-se-salvo-del-mortal-accidente/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "811d4ffd63a737617bb9fb3211264188",
+     "total": 3211,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/revelan-que-provoco-el-incendio-en-un-apartamento-de-conjunto-residencial-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/revelan-que-provoco-el-incendio-en-un-apartamento-de-conjunto-residencial-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "64780bf02b2dc87a89b51e29d7305839",
+     "total": 3095,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/video-polemica-por-violenta-rina-en-el-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/video-polemica-por-violenta-rina-en-el-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "204d3278b789a4f220df1e4f67b556ec",
+     "total": 3071,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/gustavo-diaz-choco-en-la-moto-que-le-presto-su-tio-y-perdio-la-vida-en-bayunca/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/gustavo-diaz-choco-en-la-moto-que-le-presto-su-tio-y-perdio-la-vida-en-bayunca/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "10cdf0410a02b4298d228b7cfe6d31a8",
+     "total": 2931,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/jose-pino-salio-para-conocer-a-una-mujer-y-aparecio-sin-vida-en-el-canal-del-dique/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/jose-pino-salio-para-conocer-a-una-mujer-y-aparecio-sin-vida-en-el-canal-del-dique/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "158e9eb8ecb0ff548407c7ac7cafbe01",
+     "total": 2830,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/cayeron-los-come-yuca-en-clemencia-fiscalia-revelo-su-modus-operandi/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/cayeron-los-come-yuca-en-clemencia-fiscalia-revelo-su-modus-operandi/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "628d0c765ac341d790df9d7303d147a9",
+     "total": 2582,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/6-muertos-dejo-masacre-en-colombia-comunidad-se-canso-de-las-extorsiones-y-tomo-justicia/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/6-muertos-dejo-masacre-en-colombia-comunidad-se-canso-de-las-extorsiones-y-tomo-justicia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ed5cf9864e1eea42a389bc7709c610f2",
+     "total": 2533,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/en-hechos-aislados-sicarios-en-motos-acabaron-con-la-vida-de-2-hombres-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/en-hechos-aislados-sicarios-en-motos-acabaron-con-la-vida-de-2-hombres-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7047e03b3cebde76c24b9d9399653f6b",
+     "total": 2300,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-emergencia-en-bus-de-transcaribe-se-incendio-en-la-pedro-de-heredia-frente-a-bazurto/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-emergencia-en-bus-de-transcaribe-se-incendio-en-la-pedro-de-heredia-frente-a-bazurto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cead22996ce91a76e87af50eca87f6e6",
+     "total": 2282,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/por-alcohol-policia-revela-detalles-de-ataque-frente-al-colegio-departamental/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/por-alcohol-policia-revela-detalles-de-ataque-frente-al-colegio-departamental/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4293d62384cc7433145d454aec77383d",
+     "total": 2254,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/sicarios-le-quitaron-la-vida-al-killita-cerca-de-su-casa-en-el-zapatero-tenia-18-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/sicarios-le-quitaron-la-vida-al-killita-cerca-de-su-casa-en-el-zapatero-tenia-18-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9c835a9e5debde1f4a8eac893855e143",
+     "total": 2220,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/desde-marialabaja-hacia-san-andres-asi-fue-el-terrible-plan-criminal-que-afecto-a-14-personas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/desde-marialabaja-hacia-san-andres-asi-fue-el-terrible-plan-criminal-que-afecto-a-14-personas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "583b4201af4c3447241f2205586807a4",
+     "total": 2220,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/ni-la-muerte-los-separo-pareja-de-esposos-murio-en-choque-de-moto-con-una-volqueta/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/ni-la-muerte-los-separo-pareja-de-esposos-murio-en-choque-de-moto-con-una-volqueta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "96373c926c079f061332cd5ffc318359",
+     "total": 2041,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/confirman-que-las-2-ninas-fallecidas-al-ser-arrolladas-por-una-volqueta-eran-hermanas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/confirman-que-las-2-ninas-fallecidas-al-ser-arrolladas-por-una-volqueta-eran-hermanas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d39bf22a22ed03dfdd63c197804c7489",
+     "total": 1999,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/lo-buscaban-desde-2017-capturaron-a-alias-yair-en-la-esperanza/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/lo-buscaban-desde-2017-capturaron-a-alias-yair-en-la-esperanza/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7f95de5b025a5db48f3d089277c7c175",
+     "total": 1930,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-asi-fue-el-ataque-en-la-esperanza-donde-murio-luis-julio-silgado-y-quedo-herido-un-nino/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-asi-fue-el-ataque-en-la-esperanza-donde-murio-luis-julio-silgado-y-quedo-herido-un-nino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a5e4db0c81f527824b25a00e87402ba3",
+     "total": 1913,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/un-rayo-cayo-en-una-casa-y-la-quemo-por-completo-en-bolivar-hay-un-herido/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/un-rayo-cayo-en-una-casa-y-la-quemo-por-completo-en-bolivar-hay-un-herido/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7af7bbecccda91410e99d7df46ab1928",
+     "total": 1901,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/fotos-asi-fue-el-fuerte-incendio-en-una-pension-de-estudiantes-en-los-corales/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/fotos-asi-fue-el-fuerte-incendio-en-una-pension-de-estudiantes-en-los-corales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5a38fc68df61eed3ea6305d66c7ee732",
+     "total": 1862,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/jose-arbey-diaz-el-turista-que-murio-tras-ser-impactado-por-una-lancha/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/jose-arbey-diaz-el-turista-que-murio-tras-ser-impactado-por-una-lancha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5d6c288f4f24d470b789b23d4b785a32",
+     "total": 1839,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/hombre-fallecio-tras-ser-arrollado-por-una-buseta-en-la-variante-cerca-a-villagrande/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/hombre-fallecio-tras-ser-arrollado-por-una-buseta-en-la-variante-cerca-a-villagrande/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "acd34680f3f609f0f1764c52a66246b4",
+     "total": 1821,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/cucho-hernandez-el-banderillero-que-murio-corneado-por-un-toro-en-corraleja-de-bolivar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/cucho-hernandez-el-banderillero-que-murio-corneado-por-un-toro-en-corraleja-de-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0f95b23674ee9092797914e852493f65",
+     "total": 1796,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/25/estos-son-los-municipios-de-bolivar-que-no-tendran-luz-el-lunes-26-de-octubre/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/25/estos-son-los-municipios-de-bolivar-que-no-tendran-luz-el-lunes-26-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2b370fd7c828047d1c2a82bf739ba4c4",
+     "total": 1771,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/un-rumor-de-vecinos-le-costo-la-vida-a-jeison-gomez-su-familia-pide-justicia/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/un-rumor-de-vecinos-le-costo-la-vida-a-jeison-gomez-su-familia-pide-justicia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5f1ffc46241453588df2dcf7628cbbea",
+     "total": 1667,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/crimen-en-la-carcel-revelan-detalles-de-la-visita-conyugal-donde-murio-mujer-bolivarense/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/crimen-en-la-carcel-revelan-detalles-de-la-visita-conyugal-donde-murio-mujer-bolivarense/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5c734ac263a5ea7c54e14e3431294d98",
+     "total": 1656,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/por-que-se-incendio-bus-de-transcaribe-en-la-pedro-de-heredia-esto-dice-la-empresa/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/por-que-se-incendio-bus-de-transcaribe-en-la-pedro-de-heredia-esto-dice-la-empresa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "988ae472c3adb7fc6554217ffc68b124",
+     "total": 1652,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/otro-incendio-en-cartagena-4-heridos-dejo-explosion-en-un-restaurante-en-el-prado/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/otro-incendio-en-cartagena-4-heridos-dejo-explosion-en-un-restaurante-en-el-prado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ca0f1f5a24bbc0f496c969879843cef5",
+     "total": 1616,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/violento-ataque-en-el-reposo-un-menor-y-un-presunto-sicario-estan-heridos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/violento-ataque-en-el-reposo-un-menor-y-un-presunto-sicario-estan-heridos/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 5335,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 2603,
+     "c85053d114338e2d90748f87027043a0": 4836,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 4665,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 3469,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 0,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 2725,
+     "b623fe34d7e743f899f823973e9c5f44": 2072,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 2714,
+     "d79fdfda2eede43a7a8289b40d98f39b": 1869,
+     "4c5f1419223d8efbe8657e3405e7c67d": 2960,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 1841,
+     "204d3278b789a4f220df1e4f67b556ec": 0,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 0,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 0,
+     "ed5cf9864e1eea42a389bc7709c610f2": 2318,
+     "7047e03b3cebde76c24b9d9399653f6b": 0,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 392,
+     "7f95de5b025a5db48f3d089277c7c175": 0,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 1715,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 1632,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 0,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 4623,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 2494,
+     "c85053d114338e2d90748f87027043a0": 161,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 39,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 336,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 2882,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 650,
+     "b623fe34d7e743f899f823973e9c5f44": 242,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 481,
+     "d79fdfda2eede43a7a8289b40d98f39b": 711,
+     "4c5f1419223d8efbe8657e3405e7c67d": 196,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 940,
+     "204d3278b789a4f220df1e4f67b556ec": 0,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 2149,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 2207,
+     "ed5cf9864e1eea42a389bc7709c610f2": 116,
+     "7047e03b3cebde76c24b9d9399653f6b": 2120,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 1421,
+     "7f95de5b025a5db48f3d089277c7c175": 1472,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 121,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 64,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 1483,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 10071,
+     "eca87735730c515035bf3e6219f99114": 8724,
+     "feff91fb384c0be25911e8b67456d9e0": 217,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 3461,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 126,
+     "c85053d114338e2d90748f87027043a0": 78,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 16,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 74,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 437,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 40,
+     "b623fe34d7e743f899f823973e9c5f44": 152,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 78,
+     "d79fdfda2eede43a7a8289b40d98f39b": 148,
+     "4c5f1419223d8efbe8657e3405e7c67d": 30,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 209,
+     "204d3278b789a4f220df1e4f67b556ec": 1978,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 528,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 295,
+     "ed5cf9864e1eea42a389bc7709c610f2": 43,
+     "7047e03b3cebde76c24b9d9399653f6b": 101,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 1826,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 1711,
+     "d39bf22a22ed03dfdd63c197804c7489": 140,
+     "7f95de5b025a5db48f3d089277c7c175": 303,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 16,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 22,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 1330,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 137,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 3285,
+     "eca87735730c515035bf3e6219f99114": 1630,
+     "feff91fb384c0be25911e8b67456d9e0": 61,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 2719,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 200,
+     "c85053d114338e2d90748f87027043a0": 33,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 4169,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 9,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 3241,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 52,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 3565,
+     "0851c952b557408b16b463108767f5d1": 104,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 14,
+     "b623fe34d7e743f899f823973e9c5f44": 365,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 25,
+     "d79fdfda2eede43a7a8289b40d98f39b": 44,
+     "4c5f1419223d8efbe8657e3405e7c67d": 19,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 64,
+     "204d3278b789a4f220df1e4f67b556ec": 832,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 174,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 47,
+     "ed5cf9864e1eea42a389bc7709c610f2": 24,
+     "7047e03b3cebde76c24b9d9399653f6b": 34,
+     "cead22996ce91a76e87af50eca87f6e6": 1817,
+     "4293d62384cc7433145d454aec77383d": 308,
+     "9c835a9e5debde1f4a8eac893855e143": 1761,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 281,
+     "d39bf22a22ed03dfdd63c197804c7489": 33,
+     "7f95de5b025a5db48f3d089277c7c175": 94,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 5,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 20,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 244,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 15,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 7383,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 287,
+     "eca87735730c515035bf3e6219f99114": 473,
+     "feff91fb384c0be25911e8b67456d9e0": 21,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 593,
+     "615485d6323beee3ed38cb12825ea536": 5059,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 110,
+     "c85053d114338e2d90748f87027043a0": 14,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 530,
+     "f5b9bbbc891973a740e8f11e54683a9a": 4529,
+     "d660096f673d3366275bf4b4fcc661db": 12,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 875,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 32,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 280,
+     "0851c952b557408b16b463108767f5d1": 147,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 9,
+     "b623fe34d7e743f899f823973e9c5f44": 447,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 6,
+     "d79fdfda2eede43a7a8289b40d98f39b": 47,
+     "4c5f1419223d8efbe8657e3405e7c67d": 10,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 20,
+     "204d3278b789a4f220df1e4f67b556ec": 154,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 54,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 2206,
+     "628d0c765ac341d790df9d7303d147a9": 16,
+     "ed5cf9864e1eea42a389bc7709c610f2": 24,
+     "7047e03b3cebde76c24b9d9399653f6b": 29,
+     "cead22996ce91a76e87af50eca87f6e6": 399,
+     "4293d62384cc7433145d454aec77383d": 77,
+     "9c835a9e5debde1f4a8eac893855e143": 373,
+     "583b4201af4c3447241f2205586807a4": 1684,
+     "96373c926c079f061332cd5ffc318359": 33,
+     "d39bf22a22ed03dfdd63c197804c7489": 7,
+     "7f95de5b025a5db48f3d089277c7c175": 43,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 0,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 1190,
+     "0f95b23674ee9092797914e852493f65": 18,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 68,
+     "5f1ffc46241453588df2dcf7628cbbea": 1092,
+     "5c734ac263a5ea7c54e14e3431294d98": 16,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 9800,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 112,
+     "eca87735730c515035bf3e6219f99114": 233,
+     "feff91fb384c0be25911e8b67456d9e0": 16,
+     "b52da9305ad8ed1379cb31a4c6781931": 4531,
+     "29e8e4277cf5762df4019a425c7226ee": 279,
+     "615485d6323beee3ed38cb12825ea536": 707,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 92,
+     "c85053d114338e2d90748f87027043a0": 5,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 165,
+     "f5b9bbbc891973a740e8f11e54683a9a": 200,
+     "d660096f673d3366275bf4b4fcc661db": 1,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 234,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 39,
+     "5558a5782a105656f533a8b85afac2de": 3553,
+     "85e6bc94c0d5f73094868a1817be6eca": 57,
+     "0851c952b557408b16b463108767f5d1": 96,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 6,
+     "b623fe34d7e743f899f823973e9c5f44": 66,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 5,
+     "d79fdfda2eede43a7a8289b40d98f39b": 32,
+     "4c5f1419223d8efbe8657e3405e7c67d": 1,
+     "811d4ffd63a737617bb9fb3211264188": 2597,
+     "64780bf02b2dc87a89b51e29d7305839": 12,
+     "204d3278b789a4f220df1e4f67b556ec": 58,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 16,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 500,
+     "628d0c765ac341d790df9d7303d147a9": 10,
+     "ed5cf9864e1eea42a389bc7709c610f2": 5,
+     "7047e03b3cebde76c24b9d9399653f6b": 15,
+     "cead22996ce91a76e87af50eca87f6e6": 50,
+     "4293d62384cc7433145d454aec77383d": 37,
+     "9c835a9e5debde1f4a8eac893855e143": 67,
+     "583b4201af4c3447241f2205586807a4": 465,
+     "96373c926c079f061332cd5ffc318359": 10,
+     "d39bf22a22ed03dfdd63c197804c7489": 1,
+     "7f95de5b025a5db48f3d089277c7c175": 11,
+     "a5e4db0c81f527824b25a00e87402ba3": 1617,
+     "7af7bbecccda91410e99d7df46ab1928": 1099,
+     "5a38fc68df61eed3ea6305d66c7ee732": 4,
+     "5d6c288f4f24d470b789b23d4b785a32": 1349,
+     "acd34680f3f609f0f1764c52a66246b4": 465,
+     "0f95b23674ee9092797914e852493f65": 18,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 92,
+     "5f1ffc46241453588df2dcf7628cbbea": 430,
+     "5c734ac263a5ea7c54e14e3431294d98": 3,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 1382,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 3467,
+     "0addc7b3957c65205b9bdd364c69d2ed": 15259,
+     "28bf3960cf124b712b6f913239570250": 80,
+     "eca87735730c515035bf3e6219f99114": 130,
+     "feff91fb384c0be25911e8b67456d9e0": 9,
+     "b52da9305ad8ed1379cb31a4c6781931": 3379,
+     "29e8e4277cf5762df4019a425c7226ee": 87,
+     "615485d6323beee3ed38cb12825ea536": 411,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 34,
+     "c85053d114338e2d90748f87027043a0": 6,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 112,
+     "f5b9bbbc891973a740e8f11e54683a9a": 131,
+     "d660096f673d3366275bf4b4fcc661db": 3,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 132,
+     "956e2be9c979b4d7d0af5d9696ab4037": 4116,
+     "0a2bafa71786b4597689094e2ec9d653": 16,
+     "5558a5782a105656f533a8b85afac2de": 380,
+     "85e6bc94c0d5f73094868a1817be6eca": 30,
+     "0851c952b557408b16b463108767f5d1": 89,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 2,
+     "b623fe34d7e743f899f823973e9c5f44": 27,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 4,
+     "d79fdfda2eede43a7a8289b40d98f39b": 386,
+     "4c5f1419223d8efbe8657e3405e7c67d": 2,
+     "811d4ffd63a737617bb9fb3211264188": 614,
+     "64780bf02b2dc87a89b51e29d7305839": 10,
+     "204d3278b789a4f220df1e4f67b556ec": 51,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 11,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 125,
+     "628d0c765ac341d790df9d7303d147a9": 7,
+     "ed5cf9864e1eea42a389bc7709c610f2": 3,
+     "7047e03b3cebde76c24b9d9399653f6b": 1,
+     "cead22996ce91a76e87af50eca87f6e6": 18,
+     "4293d62384cc7433145d454aec77383d": 6,
+     "9c835a9e5debde1f4a8eac893855e143": 19,
+     "583b4201af4c3447241f2205586807a4": 72,
+     "96373c926c079f061332cd5ffc318359": 7,
+     "d39bf22a22ed03dfdd63c197804c7489": 6,
+     "7f95de5b025a5db48f3d089277c7c175": 7,
+     "a5e4db0c81f527824b25a00e87402ba3": 296,
+     "7af7bbecccda91410e99d7df46ab1928": 803,
+     "5a38fc68df61eed3ea6305d66c7ee732": 1,
+     "5d6c288f4f24d470b789b23d4b785a32": 490,
+     "acd34680f3f609f0f1764c52a66246b4": 166,
+     "0f95b23674ee9092797914e852493f65": 22,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 37,
+     "5f1ffc46241453588df2dcf7628cbbea": 146,
+     "5c734ac263a5ea7c54e14e3431294d98": 2,
+     "988ae472c3adb7fc6554217ffc68b124": 1652,
+     "ca0f1f5a24bbc0f496c969879843cef5": 236,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 110.31,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 110.31,
+   "values": [
+    {
+     "key": "9a93ecbd70b776cd9682207c22b79be6",
+     "total": 123.57,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0addc7b3957c65205b9bdd364c69d2ed",
+     "total": 83.71,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "28bf3960cf124b712b6f913239570250",
+     "total": 109.03,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "eca87735730c515035bf3e6219f99114",
+     "total": 109.25,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "feff91fb384c0be25911e8b67456d9e0",
+     "total": 79.46,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b52da9305ad8ed1379cb31a4c6781931",
+     "total": 78.86,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "29e8e4277cf5762df4019a425c7226ee",
+     "total": 130.49,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "615485d6323beee3ed38cb12825ea536",
+     "total": 188.12,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bbcbcaeebb4f595ecb11d3dc010c4712",
+     "total": 116.95,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c85053d114338e2d90748f87027043a0",
+     "total": 121.53,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7b2ec8b3ab76e98f20c2558db30c2cc9",
+     "total": 117.08,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f5b9bbbc891973a740e8f11e54683a9a",
+     "total": 147.51,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d660096f673d3366275bf4b4fcc661db",
+     "total": 56.1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8ce9165ba57ef9acd74ec5b59dc38a7e",
+     "total": 106.09,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/yeison-sampayo-contreras-el-motociclista-que-murio-en-un-fuerte-accidente-cerca-de-el-rodeo/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/yeison-sampayo-contreras-el-motociclista-que-murio-en-un-fuerte-accidente-cerca-de-el-rodeo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "956e2be9c979b4d7d0af5d9696ab4037",
+     "total": 81.86,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/video-asi-fue-la-caravana-de-halloween-donde-murio-zahira-gonzalez-de-15-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/video-asi-fue-la-caravana-de-halloween-donde-murio-zahira-gonzalez-de-15-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0a2bafa71786b4597689094e2ec9d653",
+     "total": 111.21,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-moto-en-el-que-murio-laura-marcela-van-104-victimas-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-moto-en-el-que-murio-laura-marcela-van-104-victimas-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5558a5782a105656f533a8b85afac2de",
+     "total": 85.37,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/emergencia-en-portal-de-san-felipe-en-pie-del-cerro-controlan-conato-de-incendio/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/emergencia-en-portal-de-san-felipe-en-pie-del-cerro-controlan-conato-de-incendio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "85e6bc94c0d5f73094868a1817be6eca",
+     "total": 106.48,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/panico-entre-estudiantes-del-colegio-departamental-por-ataque-de-sicarios-contra-mototaxista/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/panico-entre-estudiantes-del-colegio-departamental-por-ataque-de-sicarios-contra-mototaxista/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0851c952b557408b16b463108767f5d1",
+     "total": 109.53,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/evelyn-julieth-tapias-dejo-a-su-hija-en-el-colegio-y-de-regreso-un-sicario-acabo-con-su-vida/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/evelyn-julieth-tapias-dejo-a-su-hija-en-el-colegio-y-de-regreso-un-sicario-acabo-con-su-vida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "63636e9e3e7ce9ee8302b0d314c8da55",
+     "total": 118.64,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-fue-el-ataque-en-el-que-le-quitaron-la-vida-a-luis-julio-silgado-un-nino-resulto-herido/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-fue-el-ataque-en-el-que-le-quitaron-la-vida-a-luis-julio-silgado-un-nino-resulto-herido/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b623fe34d7e743f899f823973e9c5f44",
+     "total": 99.14,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/25/tilcia-altamar-pena-la-pastora-evangelica-hallada-sin-vida-en-su-vivienda/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/25/tilcia-altamar-pena-la-pastora-evangelica-hallada-sin-vida-en-su-vivienda/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "77fc4723c5c6f84dfc79ef97a6c6bb7d",
+     "total": 65.52,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/a-los-amigos-robinson-y-edwin-les-quitaron-la-vida-en-el-estadero-la-pesebrera/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/a-los-amigos-robinson-y-edwin-les-quitaron-la-vida-en-el-estadero-la-pesebrera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d79fdfda2eede43a7a8289b40d98f39b",
+     "total": 133.7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-el-que-murio-daniela-escorcia-estudiante-de-la-universidad-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-el-que-murio-daniela-escorcia-estudiante-de-la-universidad-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4c5f1419223d8efbe8657e3405e7c67d",
+     "total": 139.97,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/integrante-de-la-agrupacion-del-hijo-de-poncho-zuleta-cuenta-como-se-salvo-del-mortal-accidente/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/integrante-de-la-agrupacion-del-hijo-de-poncho-zuleta-cuenta-como-se-salvo-del-mortal-accidente/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "811d4ffd63a737617bb9fb3211264188",
+     "total": 100.6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/revelan-que-provoco-el-incendio-en-un-apartamento-de-conjunto-residencial-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/revelan-que-provoco-el-incendio-en-un-apartamento-de-conjunto-residencial-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "64780bf02b2dc87a89b51e29d7305839",
+     "total": 105.75,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/video-polemica-por-violenta-rina-en-el-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/video-polemica-por-violenta-rina-en-el-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "204d3278b789a4f220df1e4f67b556ec",
+     "total": 115.16,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/gustavo-diaz-choco-en-la-moto-que-le-presto-su-tio-y-perdio-la-vida-en-bayunca/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/gustavo-diaz-choco-en-la-moto-que-le-presto-su-tio-y-perdio-la-vida-en-bayunca/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "10cdf0410a02b4298d228b7cfe6d31a8",
+     "total": 109.28,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/jose-pino-salio-para-conocer-a-una-mujer-y-aparecio-sin-vida-en-el-canal-del-dique/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/jose-pino-salio-para-conocer-a-una-mujer-y-aparecio-sin-vida-en-el-canal-del-dique/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "158e9eb8ecb0ff548407c7ac7cafbe01",
+     "total": 102.13,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/cayeron-los-come-yuca-en-clemencia-fiscalia-revelo-su-modus-operandi/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/cayeron-los-come-yuca-en-clemencia-fiscalia-revelo-su-modus-operandi/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "628d0c765ac341d790df9d7303d147a9",
+     "total": 139.43,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/6-muertos-dejo-masacre-en-colombia-comunidad-se-canso-de-las-extorsiones-y-tomo-justicia/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/6-muertos-dejo-masacre-en-colombia-comunidad-se-canso-de-las-extorsiones-y-tomo-justicia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ed5cf9864e1eea42a389bc7709c610f2",
+     "total": 113.56,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/en-hechos-aislados-sicarios-en-motos-acabaron-con-la-vida-de-2-hombres-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/en-hechos-aislados-sicarios-en-motos-acabaron-con-la-vida-de-2-hombres-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7047e03b3cebde76c24b9d9399653f6b",
+     "total": 118.38,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-emergencia-en-bus-de-transcaribe-se-incendio-en-la-pedro-de-heredia-frente-a-bazurto/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-emergencia-en-bus-de-transcaribe-se-incendio-en-la-pedro-de-heredia-frente-a-bazurto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cead22996ce91a76e87af50eca87f6e6",
+     "total": 129.69,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/por-alcohol-policia-revela-detalles-de-ataque-frente-al-colegio-departamental/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/por-alcohol-policia-revela-detalles-de-ataque-frente-al-colegio-departamental/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4293d62384cc7433145d454aec77383d",
+     "total": 119.88,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/sicarios-le-quitaron-la-vida-al-killita-cerca-de-su-casa-en-el-zapatero-tenia-18-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/sicarios-le-quitaron-la-vida-al-killita-cerca-de-su-casa-en-el-zapatero-tenia-18-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9c835a9e5debde1f4a8eac893855e143",
+     "total": 134.54,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/desde-marialabaja-hacia-san-andres-asi-fue-el-terrible-plan-criminal-que-afecto-a-14-personas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/desde-marialabaja-hacia-san-andres-asi-fue-el-terrible-plan-criminal-que-afecto-a-14-personas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "583b4201af4c3447241f2205586807a4",
+     "total": 84.5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/ni-la-muerte-los-separo-pareja-de-esposos-murio-en-choque-de-moto-con-una-volqueta/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/ni-la-muerte-los-separo-pareja-de-esposos-murio-en-choque-de-moto-con-una-volqueta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "96373c926c079f061332cd5ffc318359",
+     "total": 116.52,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/confirman-que-las-2-ninas-fallecidas-al-ser-arrolladas-por-una-volqueta-eran-hermanas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/confirman-que-las-2-ninas-fallecidas-al-ser-arrolladas-por-una-volqueta-eran-hermanas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d39bf22a22ed03dfdd63c197804c7489",
+     "total": 77.32,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/lo-buscaban-desde-2017-capturaron-a-alias-yair-en-la-esperanza/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/lo-buscaban-desde-2017-capturaron-a-alias-yair-en-la-esperanza/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7f95de5b025a5db48f3d089277c7c175",
+     "total": 133.67,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-asi-fue-el-ataque-en-la-esperanza-donde-murio-luis-julio-silgado-y-quedo-herido-un-nino/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-asi-fue-el-ataque-en-la-esperanza-donde-murio-luis-julio-silgado-y-quedo-herido-un-nino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a5e4db0c81f527824b25a00e87402ba3",
+     "total": 77.98,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/un-rayo-cayo-en-una-casa-y-la-quemo-por-completo-en-bolivar-hay-un-herido/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/un-rayo-cayo-en-una-casa-y-la-quemo-por-completo-en-bolivar-hay-un-herido/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7af7bbecccda91410e99d7df46ab1928",
+     "total": 107.89,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/fotos-asi-fue-el-fuerte-incendio-en-una-pension-de-estudiantes-en-los-corales/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/fotos-asi-fue-el-fuerte-incendio-en-una-pension-de-estudiantes-en-los-corales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5a38fc68df61eed3ea6305d66c7ee732",
+     "total": 102.53,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/jose-arbey-diaz-el-turista-que-murio-tras-ser-impactado-por-una-lancha/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/jose-arbey-diaz-el-turista-que-murio-tras-ser-impactado-por-una-lancha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5d6c288f4f24d470b789b23d4b785a32",
+     "total": 85.46,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/hombre-fallecio-tras-ser-arrollado-por-una-buseta-en-la-variante-cerca-a-villagrande/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/hombre-fallecio-tras-ser-arrollado-por-una-buseta-en-la-variante-cerca-a-villagrande/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "acd34680f3f609f0f1764c52a66246b4",
+     "total": 102.57,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/cucho-hernandez-el-banderillero-que-murio-corneado-por-un-toro-en-corraleja-de-bolivar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/cucho-hernandez-el-banderillero-que-murio-corneado-por-un-toro-en-corraleja-de-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0f95b23674ee9092797914e852493f65",
+     "total": 49.64,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/25/estos-son-los-municipios-de-bolivar-que-no-tendran-luz-el-lunes-26-de-octubre/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/25/estos-son-los-municipios-de-bolivar-que-no-tendran-luz-el-lunes-26-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2b370fd7c828047d1c2a82bf739ba4c4",
+     "total": 103.63,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/un-rumor-de-vecinos-le-costo-la-vida-a-jeison-gomez-su-familia-pide-justicia/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/un-rumor-de-vecinos-le-costo-la-vida-a-jeison-gomez-su-familia-pide-justicia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5f1ffc46241453588df2dcf7628cbbea",
+     "total": 166.91,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/crimen-en-la-carcel-revelan-detalles-de-la-visita-conyugal-donde-murio-mujer-bolivarense/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/crimen-en-la-carcel-revelan-detalles-de-la-visita-conyugal-donde-murio-mujer-bolivarense/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5c734ac263a5ea7c54e14e3431294d98",
+     "total": 154.83,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/por-que-se-incendio-bus-de-transcaribe-en-la-pedro-de-heredia-esto-dice-la-empresa/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/por-que-se-incendio-bus-de-transcaribe-en-la-pedro-de-heredia-esto-dice-la-empresa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "988ae472c3adb7fc6554217ffc68b124",
+     "total": 129.01,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/otro-incendio-en-cartagena-4-heridos-dejo-explosion-en-un-restaurante-en-el-prado/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/otro-incendio-en-cartagena-4-heridos-dejo-explosion-en-un-restaurante-en-el-prado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ca0f1f5a24bbc0f496c969879843cef5",
+     "total": 108.28,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/violento-ataque-en-el-reposo-un-menor-y-un-presunto-sicario-estan-heridos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/violento-ataque-en-el-reposo-un-menor-y-un-presunto-sicario-estan-heridos/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 83.58,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 115.94,
+     "c85053d114338e2d90748f87027043a0": 122.96,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 54.18,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 114.14,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 0,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 120.26,
+     "b623fe34d7e743f899f823973e9c5f44": 112.97,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 65.06,
+     "d79fdfda2eede43a7a8289b40d98f39b": 146.73,
+     "4c5f1419223d8efbe8657e3405e7c67d": 141.91,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 120.89,
+     "204d3278b789a4f220df1e4f67b556ec": 0,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 0,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 0,
+     "ed5cf9864e1eea42a389bc7709c610f2": 115.34,
+     "7047e03b3cebde76c24b9d9399653f6b": 0,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 68.61,
+     "7f95de5b025a5db48f3d089277c7c175": 0,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 104.51,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 52.15,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 0,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 75.64,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 122.21,
+     "c85053d114338e2d90748f87027043a0": 107.24,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 209.68,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 89.98,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 111.04,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 115.92,
+     "b623fe34d7e743f899f823973e9c5f44": 109.63,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 63.56,
+     "d79fdfda2eede43a7a8289b40d98f39b": 121.23,
+     "4c5f1419223d8efbe8657e3405e7c67d": 116.67,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 90.66,
+     "204d3278b789a4f220df1e4f67b556ec": 0,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 107.95,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 144.84,
+     "ed5cf9864e1eea42a389bc7709c610f2": 113.38,
+     "7047e03b3cebde76c24b9d9399653f6b": 122.02,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 78.4,
+     "7f95de5b025a5db48f3d089277c7c175": 139.66,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 84.54,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 40.42,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 155.84,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 111.67,
+     "eca87735730c515035bf3e6219f99114": 112.54,
+     "feff91fb384c0be25911e8b67456d9e0": 68.15,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 131.97,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 102.57,
+     "c85053d114338e2d90748f87027043a0": 59.84,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 38.54,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 81.13,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 105.96,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 43.85,
+     "b623fe34d7e743f899f823973e9c5f44": 77.87,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 108.01,
+     "d79fdfda2eede43a7a8289b40d98f39b": 139.9,
+     "4c5f1419223d8efbe8657e3405e7c67d": 113.37,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 57.94,
+     "204d3278b789a4f220df1e4f67b556ec": 121.51,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 119.31,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 112.24,
+     "ed5cf9864e1eea42a389bc7709c610f2": 86.71,
+     "7047e03b3cebde76c24b9d9399653f6b": 66.86,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 121.86,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 118.16,
+     "d39bf22a22ed03dfdd63c197804c7489": 91.44,
+     "7f95de5b025a5db48f3d089277c7c175": 115.08,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 54.07,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 15.43,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 105.45,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 145.2,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 106.26,
+     "eca87735730c515035bf3e6219f99114": 100.69,
+     "feff91fb384c0be25911e8b67456d9e0": 79.79,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 130.4,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 97.63,
+     "c85053d114338e2d90748f87027043a0": 79.05,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 117.38,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 245.63,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 113.58,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 107.79,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 107.78,
+     "0851c952b557408b16b463108767f5d1": 97.19,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 173.3,
+     "b623fe34d7e743f899f823973e9c5f44": 66.36,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 41.25,
+     "d79fdfda2eede43a7a8289b40d98f39b": 134.55,
+     "4c5f1419223d8efbe8657e3405e7c67d": 141.28,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 58.28,
+     "204d3278b789a4f220df1e4f67b556ec": 107.28,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 101.62,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 67.93,
+     "ed5cf9864e1eea42a389bc7709c610f2": 27.29,
+     "7047e03b3cebde76c24b9d9399653f6b": 57.35,
+     "cead22996ce91a76e87af50eca87f6e6": 124.52,
+     "4293d62384cc7433145d454aec77383d": 121.09,
+     "9c835a9e5debde1f4a8eac893855e143": 138.32,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 107.43,
+     "d39bf22a22ed03dfdd63c197804c7489": 52.53,
+     "7f95de5b025a5db48f3d089277c7c175": 125.7,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 14.67,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 10.03,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 111.75,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 223.23,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 149.3,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 61.07,
+     "eca87735730c515035bf3e6219f99114": 82.2,
+     "feff91fb384c0be25911e8b67456d9e0": 38.18,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 128.65,
+     "615485d6323beee3ed38cb12825ea536": 202.33,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 81.36,
+     "c85053d114338e2d90748f87027043a0": 161.21,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 134.18,
+     "f5b9bbbc891973a740e8f11e54683a9a": 152.86,
+     "d660096f673d3366275bf4b4fcc661db": 116.1,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 90.42,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 113.26,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 94.77,
+     "0851c952b557408b16b463108767f5d1": 98.94,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 54.57,
+     "b623fe34d7e743f899f823973e9c5f44": 69.14,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 62.42,
+     "d79fdfda2eede43a7a8289b40d98f39b": 78.59,
+     "4c5f1419223d8efbe8657e3405e7c67d": 24.55,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 63.71,
+     "204d3278b789a4f220df1e4f67b556ec": 69.8,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 88.66,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 105.64,
+     "628d0c765ac341d790df9d7303d147a9": 15.36,
+     "ed5cf9864e1eea42a389bc7709c610f2": 44.82,
+     "7047e03b3cebde76c24b9d9399653f6b": 71.24,
+     "cead22996ce91a76e87af50eca87f6e6": 162.35,
+     "4293d62384cc7433145d454aec77383d": 87.1,
+     "9c835a9e5debde1f4a8eac893855e143": 124.42,
+     "583b4201af4c3447241f2205586807a4": 81.33,
+     "96373c926c079f061332cd5ffc318359": 140.65,
+     "d39bf22a22ed03dfdd63c197804c7489": 130.8,
+     "7f95de5b025a5db48f3d089277c7c175": 100.33,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 0,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 107.04,
+     "0f95b23674ee9092797914e852493f65": 11.44,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 79.81,
+     "5f1ffc46241453588df2dcf7628cbbea": 163.18,
+     "5c734ac263a5ea7c54e14e3431294d98": 68.36,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 105.11,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 87.25,
+     "eca87735730c515035bf3e6219f99114": 106.4,
+     "feff91fb384c0be25911e8b67456d9e0": 18.69,
+     "b52da9305ad8ed1379cb31a4c6781931": 81.66,
+     "29e8e4277cf5762df4019a425c7226ee": 111.49,
+     "615485d6323beee3ed38cb12825ea536": 125.36,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 96.04,
+     "c85053d114338e2d90748f87027043a0": 8,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 80.11,
+     "f5b9bbbc891973a740e8f11e54683a9a": 64.52,
+     "d660096f673d3366275bf4b4fcc661db": 74,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 67.73,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 114.65,
+     "5558a5782a105656f533a8b85afac2de": 84.55,
+     "85e6bc94c0d5f73094868a1817be6eca": 81.18,
+     "0851c952b557408b16b463108767f5d1": 112.96,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 35,
+     "b623fe34d7e743f899f823973e9c5f44": 71.59,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 12.62,
+     "d79fdfda2eede43a7a8289b40d98f39b": 63.12,
+     "4c5f1419223d8efbe8657e3405e7c67d": 0,
+     "811d4ffd63a737617bb9fb3211264188": 101.24,
+     "64780bf02b2dc87a89b51e29d7305839": 75.91,
+     "204d3278b789a4f220df1e4f67b556ec": 134.86,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 117.16,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 90.97,
+     "628d0c765ac341d790df9d7303d147a9": 18.18,
+     "ed5cf9864e1eea42a389bc7709c610f2": 12.57,
+     "7047e03b3cebde76c24b9d9399653f6b": 38,
+     "cead22996ce91a76e87af50eca87f6e6": 69.65,
+     "4293d62384cc7433145d454aec77383d": 81.09,
+     "9c835a9e5debde1f4a8eac893855e143": 89.19,
+     "583b4201af4c3447241f2205586807a4": 97.15,
+     "96373c926c079f061332cd5ffc318359": 38.8,
+     "d39bf22a22ed03dfdd63c197804c7489": 0,
+     "7f95de5b025a5db48f3d089277c7c175": 45.79,
+     "a5e4db0c81f527824b25a00e87402ba3": 76.59,
+     "7af7bbecccda91410e99d7df46ab1928": 113.58,
+     "5a38fc68df61eed3ea6305d66c7ee732": 9.75,
+     "5d6c288f4f24d470b789b23d4b785a32": 89.79,
+     "acd34680f3f609f0f1764c52a66246b4": 94.09,
+     "0f95b23674ee9092797914e852493f65": 17.41,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 79.6,
+     "5f1ffc46241453588df2dcf7628cbbea": 178.69,
+     "5c734ac263a5ea7c54e14e3431294d98": 49.25,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 113.04,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 120.34,
+     "0addc7b3957c65205b9bdd364c69d2ed": 83.71,
+     "28bf3960cf124b712b6f913239570250": 73.13,
+     "eca87735730c515035bf3e6219f99114": 93.38,
+     "feff91fb384c0be25911e8b67456d9e0": 58.71,
+     "b52da9305ad8ed1379cb31a4c6781931": 75.03,
+     "29e8e4277cf5762df4019a425c7226ee": 150.69,
+     "615485d6323beee3ed38cb12825ea536": 99.56,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 127.51,
+     "c85053d114338e2d90748f87027043a0": 48.7,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 74.37,
+     "f5b9bbbc891973a740e8f11e54683a9a": 64.8,
+     "d660096f673d3366275bf4b4fcc661db": 13.6,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 86.45,
+     "956e2be9c979b4d7d0af5d9696ab4037": 81.86,
+     "0a2bafa71786b4597689094e2ec9d653": 36.62,
+     "5558a5782a105656f533a8b85afac2de": 94.27,
+     "85e6bc94c0d5f73094868a1817be6eca": 94.29,
+     "0851c952b557408b16b463108767f5d1": 109.37,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 16.2,
+     "b623fe34d7e743f899f823973e9c5f44": 62.11,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 8,
+     "d79fdfda2eede43a7a8289b40d98f39b": 104.33,
+     "4c5f1419223d8efbe8657e3405e7c67d": 2.5,
+     "811d4ffd63a737617bb9fb3211264188": 97.97,
+     "64780bf02b2dc87a89b51e29d7305839": 61.68,
+     "204d3278b789a4f220df1e4f67b556ec": 117.65,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 84.11,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 84.89,
+     "628d0c765ac341d790df9d7303d147a9": 15.43,
+     "ed5cf9864e1eea42a389bc7709c610f2": 2.75,
+     "7047e03b3cebde76c24b9d9399653f6b": 15,
+     "cead22996ce91a76e87af50eca87f6e6": 64.61,
+     "4293d62384cc7433145d454aec77383d": 63.31,
+     "9c835a9e5debde1f4a8eac893855e143": 118.07,
+     "583b4201af4c3447241f2205586807a4": 75.24,
+     "96373c926c079f061332cd5ffc318359": 26.92,
+     "d39bf22a22ed03dfdd63c197804c7489": 118.67,
+     "7f95de5b025a5db48f3d089277c7c175": 126.8,
+     "a5e4db0c81f527824b25a00e87402ba3": 85.83,
+     "7af7bbecccda91410e99d7df46ab1928": 100.33,
+     "5a38fc68df61eed3ea6305d66c7ee732": 12,
+     "5d6c288f4f24d470b789b23d4b785a32": 73.32,
+     "acd34680f3f609f0f1764c52a66246b4": 95.29,
+     "0f95b23674ee9092797914e852493f65": 10.92,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 91.42,
+     "5f1ffc46241453588df2dcf7628cbbea": 161.55,
+     "5c734ac263a5ea7c54e14e3431294d98": 1,
+     "988ae472c3adb7fc6554217ffc68b124": 129.01,
+     "ca0f1f5a24bbc0f496c969879843cef5": 79.48,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "socialPosts",
+  "total": 200,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 200,
+   "values": [
+    {
+     "key": "9a93ecbd70b776cd9682207c22b79be6",
+     "total": 7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/donde-comenzo-el-fuego-bomberos-dio-detalles-del-incendio-que-arraso-a-el-gigante-del-hogar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0addc7b3957c65205b9bdd364c69d2ed",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/no-me-hiciste-caso-dolor-por-muerte-de-menor-de-15-anos-en-una-caravana-de-halloween/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "28bf3960cf124b712b6f913239570250",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/murio-turista-antioqueno-en-accidente-maritimo-en-baru-yeferson-alvarez-tenia-18-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "eca87735730c515035bf3e6219f99114",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/policia-revelo-el-terrible-motivo-por-el-cual-capturo-a-2-mujeres-en-bocagrande-y-el-laguito/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "feff91fb384c0be25911e8b67456d9e0",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/nueva-masacre-en-colombia-le-quitaron-la-vida-a-6-personas-en-una-trocha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b52da9305ad8ed1379cb31a4c6781931",
+     "total": 7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/video-pastora-cristiana-y-sus-nietos-de-5-y-6-anos-murieron-en-incendio-en-su-casa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "29e8e4277cf5762df4019a425c7226ee",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/cayo-el-responsable-del-brutal-ataque-donde-murieron-2-policias-en-el-sur-de-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "615485d6323beee3ed38cb12825ea536",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/en-cenizas-asi-quedo-el-gigante-del-hogar-tras-fuerte-incendio-frente-a-la-plazuela/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bbcbcaeebb4f595ecb11d3dc010c4712",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-ocurrio-el-tragico-accidente-del-hijo-de-poncho-zuleta-donde-perdieron-la-vida-4-personas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c85053d114338e2d90748f87027043a0",
+     "total": 8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/2-muertos-dejo-accidente-de-bus-donde-iba-la-agrupacion-de-kbeto-zuleta-hijo-de-poncho-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7b2ec8b3ab76e98f20c2558db30c2cc9",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/asi-fue-el-fuerte-choque-de-motos-acuaticas-en-el-que-murio-el-dj-yeferson-alvarez-en-cholon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f5b9bbbc891973a740e8f11e54683a9a",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/fuerte-incendio-arraso-con-3-almacenes-frente-al-centro-comercial-la-plazuela-el-fuego-persiste/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d660096f673d3366275bf4b4fcc661db",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/25/este-es-el-sector-de-cartagena-que-no-tendra-luz-el-lunes-26-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8ce9165ba57ef9acd74ec5b59dc38a7e",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/yeison-sampayo-contreras-el-motociclista-que-murio-en-un-fuerte-accidente-cerca-de-el-rodeo/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/yeison-sampayo-contreras-el-motociclista-que-murio-en-un-fuerte-accidente-cerca-de-el-rodeo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "956e2be9c979b4d7d0af5d9696ab4037",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/video-asi-fue-la-caravana-de-halloween-donde-murio-zahira-gonzalez-de-15-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/video-asi-fue-la-caravana-de-halloween-donde-murio-zahira-gonzalez-de-15-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0a2bafa71786b4597689094e2ec9d653",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-moto-en-el-que-murio-laura-marcela-van-104-victimas-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-moto-en-el-que-murio-laura-marcela-van-104-victimas-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5558a5782a105656f533a8b85afac2de",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/emergencia-en-portal-de-san-felipe-en-pie-del-cerro-controlan-conato-de-incendio/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/emergencia-en-portal-de-san-felipe-en-pie-del-cerro-controlan-conato-de-incendio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "85e6bc94c0d5f73094868a1817be6eca",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/panico-entre-estudiantes-del-colegio-departamental-por-ataque-de-sicarios-contra-mototaxista/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/panico-entre-estudiantes-del-colegio-departamental-por-ataque-de-sicarios-contra-mototaxista/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0851c952b557408b16b463108767f5d1",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/evelyn-julieth-tapias-dejo-a-su-hija-en-el-colegio-y-de-regreso-un-sicario-acabo-con-su-vida/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/evelyn-julieth-tapias-dejo-a-su-hija-en-el-colegio-y-de-regreso-un-sicario-acabo-con-su-vida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "63636e9e3e7ce9ee8302b0d314c8da55",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-fue-el-ataque-en-el-que-le-quitaron-la-vida-a-luis-julio-silgado-un-nino-resulto-herido/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/asi-fue-el-ataque-en-el-que-le-quitaron-la-vida-a-luis-julio-silgado-un-nino-resulto-herido/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b623fe34d7e743f899f823973e9c5f44",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/25/tilcia-altamar-pena-la-pastora-evangelica-hallada-sin-vida-en-su-vivienda/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/25/tilcia-altamar-pena-la-pastora-evangelica-hallada-sin-vida-en-su-vivienda/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "77fc4723c5c6f84dfc79ef97a6c6bb7d",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/a-los-amigos-robinson-y-edwin-les-quitaron-la-vida-en-el-estadero-la-pesebrera/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/a-los-amigos-robinson-y-edwin-les-quitaron-la-vida-en-el-estadero-la-pesebrera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d79fdfda2eede43a7a8289b40d98f39b",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-el-que-murio-daniela-escorcia-estudiante-de-la-universidad-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/25/asi-fue-el-accidente-en-el-que-murio-daniela-escorcia-estudiante-de-la-universidad-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4c5f1419223d8efbe8657e3405e7c67d",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/integrante-de-la-agrupacion-del-hijo-de-poncho-zuleta-cuenta-como-se-salvo-del-mortal-accidente/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/integrante-de-la-agrupacion-del-hijo-de-poncho-zuleta-cuenta-como-se-salvo-del-mortal-accidente/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "811d4ffd63a737617bb9fb3211264188",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/revelan-que-provoco-el-incendio-en-un-apartamento-de-conjunto-residencial-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/revelan-que-provoco-el-incendio-en-un-apartamento-de-conjunto-residencial-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "64780bf02b2dc87a89b51e29d7305839",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/video-polemica-por-violenta-rina-en-el-centro-historico-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/video-polemica-por-violenta-rina-en-el-centro-historico-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "204d3278b789a4f220df1e4f67b556ec",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/gustavo-diaz-choco-en-la-moto-que-le-presto-su-tio-y-perdio-la-vida-en-bayunca/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/gustavo-diaz-choco-en-la-moto-que-le-presto-su-tio-y-perdio-la-vida-en-bayunca/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "10cdf0410a02b4298d228b7cfe6d31a8",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/jose-pino-salio-para-conocer-a-una-mujer-y-aparecio-sin-vida-en-el-canal-del-dique/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/jose-pino-salio-para-conocer-a-una-mujer-y-aparecio-sin-vida-en-el-canal-del-dique/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "158e9eb8ecb0ff548407c7ac7cafbe01",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/cayeron-los-come-yuca-en-clemencia-fiscalia-revelo-su-modus-operandi/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/cayeron-los-come-yuca-en-clemencia-fiscalia-revelo-su-modus-operandi/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "628d0c765ac341d790df9d7303d147a9",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/6-muertos-dejo-masacre-en-colombia-comunidad-se-canso-de-las-extorsiones-y-tomo-justicia/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/6-muertos-dejo-masacre-en-colombia-comunidad-se-canso-de-las-extorsiones-y-tomo-justicia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ed5cf9864e1eea42a389bc7709c610f2",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/en-hechos-aislados-sicarios-en-motos-acabaron-con-la-vida-de-2-hombres-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/en-hechos-aislados-sicarios-en-motos-acabaron-con-la-vida-de-2-hombres-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7047e03b3cebde76c24b9d9399653f6b",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-emergencia-en-bus-de-transcaribe-se-incendio-en-la-pedro-de-heredia-frente-a-bazurto/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-emergencia-en-bus-de-transcaribe-se-incendio-en-la-pedro-de-heredia-frente-a-bazurto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cead22996ce91a76e87af50eca87f6e6",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/por-alcohol-policia-revela-detalles-de-ataque-frente-al-colegio-departamental/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/por-alcohol-policia-revela-detalles-de-ataque-frente-al-colegio-departamental/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4293d62384cc7433145d454aec77383d",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/sicarios-le-quitaron-la-vida-al-killita-cerca-de-su-casa-en-el-zapatero-tenia-18-anos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/sicarios-le-quitaron-la-vida-al-killita-cerca-de-su-casa-en-el-zapatero-tenia-18-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9c835a9e5debde1f4a8eac893855e143",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/29/desde-marialabaja-hacia-san-andres-asi-fue-el-terrible-plan-criminal-que-afecto-a-14-personas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/29/desde-marialabaja-hacia-san-andres-asi-fue-el-terrible-plan-criminal-que-afecto-a-14-personas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "583b4201af4c3447241f2205586807a4",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/ni-la-muerte-los-separo-pareja-de-esposos-murio-en-choque-de-moto-con-una-volqueta/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/ni-la-muerte-los-separo-pareja-de-esposos-murio-en-choque-de-moto-con-una-volqueta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "96373c926c079f061332cd5ffc318359",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/confirman-que-las-2-ninas-fallecidas-al-ser-arrolladas-por-una-volqueta-eran-hermanas/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/confirman-que-las-2-ninas-fallecidas-al-ser-arrolladas-por-una-volqueta-eran-hermanas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d39bf22a22ed03dfdd63c197804c7489",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/lo-buscaban-desde-2017-capturaron-a-alias-yair-en-la-esperanza/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/lo-buscaban-desde-2017-capturaron-a-alias-yair-en-la-esperanza/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7f95de5b025a5db48f3d089277c7c175",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-asi-fue-el-ataque-en-la-esperanza-donde-murio-luis-julio-silgado-y-quedo-herido-un-nino/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/video-asi-fue-el-ataque-en-la-esperanza-donde-murio-luis-julio-silgado-y-quedo-herido-un-nino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a5e4db0c81f527824b25a00e87402ba3",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/un-rayo-cayo-en-una-casa-y-la-quemo-por-completo-en-bolivar-hay-un-herido/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/un-rayo-cayo-en-una-casa-y-la-quemo-por-completo-en-bolivar-hay-un-herido/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7af7bbecccda91410e99d7df46ab1928",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/fotos-asi-fue-el-fuerte-incendio-en-una-pension-de-estudiantes-en-los-corales/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/fotos-asi-fue-el-fuerte-incendio-en-una-pension-de-estudiantes-en-los-corales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5a38fc68df61eed3ea6305d66c7ee732",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/26/jose-arbey-diaz-el-turista-que-murio-tras-ser-impactado-por-una-lancha/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/26/jose-arbey-diaz-el-turista-que-murio-tras-ser-impactado-por-una-lancha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5d6c288f4f24d470b789b23d4b785a32",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/hombre-fallecio-tras-ser-arrollado-por-una-buseta-en-la-variante-cerca-a-villagrande/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/hombre-fallecio-tras-ser-arrollado-por-una-buseta-en-la-variante-cerca-a-villagrande/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "acd34680f3f609f0f1764c52a66246b4",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/cucho-hernandez-el-banderillero-que-murio-corneado-por-un-toro-en-corraleja-de-bolivar/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/cucho-hernandez-el-banderillero-que-murio-corneado-por-un-toro-en-corraleja-de-bolivar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0f95b23674ee9092797914e852493f65",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/25/estos-son-los-municipios-de-bolivar-que-no-tendran-luz-el-lunes-26-de-octubre/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/25/estos-son-los-municipios-de-bolivar-que-no-tendran-luz-el-lunes-26-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2b370fd7c828047d1c2a82bf739ba4c4",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/28/un-rumor-de-vecinos-le-costo-la-vida-a-jeison-gomez-su-familia-pide-justicia/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/28/un-rumor-de-vecinos-le-costo-la-vida-a-jeison-gomez-su-familia-pide-justicia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5f1ffc46241453588df2dcf7628cbbea",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/30/crimen-en-la-carcel-revelan-detalles-de-la-visita-conyugal-donde-murio-mujer-bolivarense/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/30/crimen-en-la-carcel-revelan-detalles-de-la-visita-conyugal-donde-murio-mujer-bolivarense/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5c734ac263a5ea7c54e14e3431294d98",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/27/por-que-se-incendio-bus-de-transcaribe-en-la-pedro-de-heredia-esto-dice-la-empresa/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/27/por-que-se-incendio-bus-de-transcaribe-en-la-pedro-de-heredia-esto-dice-la-empresa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "988ae472c3adb7fc6554217ffc68b124",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/11/01/otro-incendio-en-cartagena-4-heridos-dejo-explosion-en-un-restaurante-en-el-prado/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/11/01/otro-incendio-en-cartagena-4-heridos-dejo-explosion-en-un-restaurante-en-el-prado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ca0f1f5a24bbc0f496c969879843cef5",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sucesos/2026/10/31/violento-ataque-en-el-reposo-un-menor-y-un-presunto-sicario-estan-heridos/",
+       "value": "https://www.eluniversal.com.co/sucesos/2026/10/31/violento-ataque-en-el-reposo-un-menor-y-un-presunto-sicario-estan-heridos/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 2,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 1,
+     "c85053d114338e2d90748f87027043a0": 8,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 2,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 2,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 0,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 2,
+     "b623fe34d7e743f899f823973e9c5f44": 1,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 2,
+     "d79fdfda2eede43a7a8289b40d98f39b": 2,
+     "4c5f1419223d8efbe8657e3405e7c67d": 3,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 3,
+     "204d3278b789a4f220df1e4f67b556ec": 0,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 0,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 0,
+     "ed5cf9864e1eea42a389bc7709c610f2": 1,
+     "7047e03b3cebde76c24b9d9399653f6b": 0,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 1,
+     "7f95de5b025a5db48f3d089277c7c175": 0,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 3,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 1,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 0,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 1,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 1,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 0,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 3,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 0,
+     "b623fe34d7e743f899f823973e9c5f44": 0,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 1,
+     "d79fdfda2eede43a7a8289b40d98f39b": 1,
+     "4c5f1419223d8efbe8657e3405e7c67d": 0,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 0,
+     "204d3278b789a4f220df1e4f67b556ec": 0,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 3,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 3,
+     "ed5cf9864e1eea42a389bc7709c610f2": 0,
+     "7047e03b3cebde76c24b9d9399653f6b": 4,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 0,
+     "7f95de5b025a5db48f3d089277c7c175": 4,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 0,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 0,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 1,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 5,
+     "eca87735730c515035bf3e6219f99114": 4,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 1,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 0,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 1,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 0,
+     "b623fe34d7e743f899f823973e9c5f44": 0,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 0,
+     "d79fdfda2eede43a7a8289b40d98f39b": 0,
+     "4c5f1419223d8efbe8657e3405e7c67d": 0,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 0,
+     "204d3278b789a4f220df1e4f67b556ec": 5,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 0,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 0,
+     "ed5cf9864e1eea42a389bc7709c610f2": 0,
+     "7047e03b3cebde76c24b9d9399653f6b": 0,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 1,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 3,
+     "d39bf22a22ed03dfdd63c197804c7489": 0,
+     "7f95de5b025a5db48f3d089277c7c175": 0,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 0,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 0,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 1,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 0,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 1,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 3,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 3,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 4,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 0,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 3,
+     "0851c952b557408b16b463108767f5d1": 0,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 0,
+     "b623fe34d7e743f899f823973e9c5f44": 0,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 0,
+     "d79fdfda2eede43a7a8289b40d98f39b": 0,
+     "4c5f1419223d8efbe8657e3405e7c67d": 0,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 0,
+     "204d3278b789a4f220df1e4f67b556ec": 1,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 0,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 0,
+     "ed5cf9864e1eea42a389bc7709c610f2": 0,
+     "7047e03b3cebde76c24b9d9399653f6b": 0,
+     "cead22996ce91a76e87af50eca87f6e6": 1,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 1,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 0,
+     "7f95de5b025a5db48f3d089277c7c175": 0,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 0,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 0,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 0,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 4,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 0,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "615485d6323beee3ed38cb12825ea536": 4,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 4,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 0,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 0,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 0,
+     "b623fe34d7e743f899f823973e9c5f44": 0,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 0,
+     "d79fdfda2eede43a7a8289b40d98f39b": 0,
+     "4c5f1419223d8efbe8657e3405e7c67d": 0,
+     "811d4ffd63a737617bb9fb3211264188": 0,
+     "64780bf02b2dc87a89b51e29d7305839": 0,
+     "204d3278b789a4f220df1e4f67b556ec": 0,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 0,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 1,
+     "628d0c765ac341d790df9d7303d147a9": 0,
+     "ed5cf9864e1eea42a389bc7709c610f2": 0,
+     "7047e03b3cebde76c24b9d9399653f6b": 0,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 1,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 0,
+     "7f95de5b025a5db48f3d089277c7c175": 0,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 0,
+     "5a38fc68df61eed3ea6305d66c7ee732": 0,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 2,
+     "0f95b23674ee9092797914e852493f65": 0,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 1,
+     "5c734ac263a5ea7c54e14e3431294d98": 0,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 3,
+     "0addc7b3957c65205b9bdd364c69d2ed": 0,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 3,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 0,
+     "0a2bafa71786b4597689094e2ec9d653": 0,
+     "5558a5782a105656f533a8b85afac2de": 1,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 0,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 0,
+     "b623fe34d7e743f899f823973e9c5f44": 0,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 0,
+     "d79fdfda2eede43a7a8289b40d98f39b": 0,
+     "4c5f1419223d8efbe8657e3405e7c67d": 0,
+     "811d4ffd63a737617bb9fb3211264188": 2,
+     "64780bf02b2dc87a89b51e29d7305839": 0,
+     "204d3278b789a4f220df1e4f67b556ec": 0,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 0,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 0,
+     "ed5cf9864e1eea42a389bc7709c610f2": 0,
+     "7047e03b3cebde76c24b9d9399653f6b": 0,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 0,
+     "7f95de5b025a5db48f3d089277c7c175": 0,
+     "a5e4db0c81f527824b25a00e87402ba3": 1,
+     "7af7bbecccda91410e99d7df46ab1928": 1,
+     "5a38fc68df61eed3ea6305d66c7ee732": 0,
+     "5d6c288f4f24d470b789b23d4b785a32": 3,
+     "acd34680f3f609f0f1764c52a66246b4": 1,
+     "0f95b23674ee9092797914e852493f65": 0,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 0,
+     "988ae472c3adb7fc6554217ffc68b124": 0,
+     "ca0f1f5a24bbc0f496c969879843cef5": 2,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "9a93ecbd70b776cd9682207c22b79be6": 0,
+     "0addc7b3957c65205b9bdd364c69d2ed": 3,
+     "28bf3960cf124b712b6f913239570250": 0,
+     "eca87735730c515035bf3e6219f99114": 0,
+     "feff91fb384c0be25911e8b67456d9e0": 0,
+     "b52da9305ad8ed1379cb31a4c6781931": 4,
+     "29e8e4277cf5762df4019a425c7226ee": 0,
+     "615485d6323beee3ed38cb12825ea536": 0,
+     "bbcbcaeebb4f595ecb11d3dc010c4712": 0,
+     "c85053d114338e2d90748f87027043a0": 0,
+     "7b2ec8b3ab76e98f20c2558db30c2cc9": 0,
+     "f5b9bbbc891973a740e8f11e54683a9a": 0,
+     "d660096f673d3366275bf4b4fcc661db": 0,
+     "8ce9165ba57ef9acd74ec5b59dc38a7e": 0,
+     "956e2be9c979b4d7d0af5d9696ab4037": 3,
+     "0a2bafa71786b4597689094e2ec9d653": 0,
+     "5558a5782a105656f533a8b85afac2de": 0,
+     "85e6bc94c0d5f73094868a1817be6eca": 0,
+     "0851c952b557408b16b463108767f5d1": 0,
+     "63636e9e3e7ce9ee8302b0d314c8da55": 0,
+     "b623fe34d7e743f899f823973e9c5f44": 0,
+     "77fc4723c5c6f84dfc79ef97a6c6bb7d": 0,
+     "d79fdfda2eede43a7a8289b40d98f39b": 0,
+     "4c5f1419223d8efbe8657e3405e7c67d": 0,
+     "811d4ffd63a737617bb9fb3211264188": 1,
+     "64780bf02b2dc87a89b51e29d7305839": 0,
+     "204d3278b789a4f220df1e4f67b556ec": 0,
+     "10cdf0410a02b4298d228b7cfe6d31a8": 0,
+     "158e9eb8ecb0ff548407c7ac7cafbe01": 0,
+     "628d0c765ac341d790df9d7303d147a9": 0,
+     "ed5cf9864e1eea42a389bc7709c610f2": 0,
+     "7047e03b3cebde76c24b9d9399653f6b": 0,
+     "cead22996ce91a76e87af50eca87f6e6": 0,
+     "4293d62384cc7433145d454aec77383d": 0,
+     "9c835a9e5debde1f4a8eac893855e143": 0,
+     "583b4201af4c3447241f2205586807a4": 0,
+     "96373c926c079f061332cd5ffc318359": 0,
+     "d39bf22a22ed03dfdd63c197804c7489": 0,
+     "7f95de5b025a5db48f3d089277c7c175": 0,
+     "a5e4db0c81f527824b25a00e87402ba3": 0,
+     "7af7bbecccda91410e99d7df46ab1928": 1,
+     "5a38fc68df61eed3ea6305d66c7ee732": 0,
+     "5d6c288f4f24d470b789b23d4b785a32": 0,
+     "acd34680f3f609f0f1764c52a66246b4": 0,
+     "0f95b23674ee9092797914e852493f65": 0,
+     "2b370fd7c828047d1c2a82bf739ba4c4": 0,
+     "5f1ffc46241453588df2dcf7628cbbea": 0,
+     "5c734ac263a5ea7c54e14e3431294d98": 0,
+     "988ae472c3adb7fc6554217ffc68b124": 2,
+     "ca0f1f5a24bbc0f496c969879843cef5": 0,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ }
+]

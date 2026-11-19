@@ -1,0 +1,5603 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 1341237,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 1341237,
+   "values": [
+    {
+     "key": "218a781130e25af066c8a9850ece6dc5",
+     "total": 513756,
+     "items": [
+      {
+       "id": "35503660",
+       "value": "sucesos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "696915404419d25514c2732772514134",
+     "total": 272133,
+     "items": [
+      {
+       "id": "35503659",
+       "value": "colombia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff6c6aaeff351704969ec7d218bd0772",
+     "total": 177029,
+     "items": [
+      {
+       "id": "35503661",
+       "value": "cartagena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff403366a36471a41506c54cbbe74edd",
+     "total": 105928,
+     "items": [
+      {
+       "id": "35503679",
+       "value": "farandula",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "eff87492a36df9473424d187c8666c3b",
+     "total": 91645,
+     "items": [
+      {
+       "id": "35503664",
+       "value": "regional",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f2ae0dc71dacf42c7934821ec47f9405",
+     "total": 65988,
+     "items": [
+      {
+       "id": "35503658",
+       "value": "deportes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "8f099565cbcfdaa8ac877987c5f3dcd9",
+     "total": 50883,
+     "items": [
+      {
+       "id": "49601245",
+       "value": "Atlántico",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "56aa799b185d2054e26474053104a35a",
+     "total": 38499,
+     "items": [
+      {
+       "id": "49937656",
+       "value": "Loterias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "2dbe68355828eed7bade19cd83730d09",
+     "total": 38310,
+     "items": [
+      {
+       "id": "49959017",
+       "value": "Chances",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "1f794ef3160f6647a23478f16b42fa65",
+     "total": 21383,
+     "items": [
+      {
+       "id": "49601150",
+       "value": "Bolívar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b1a7ac9069bbc9b90da2ba3f5f0bae7d",
+     "total": 20468,
+     "items": [
+      {
+       "id": "35503667",
+       "value": "mundo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "68480ba034a89bf883aeb9a138b82eac",
+     "total": 7754,
+     "items": [
+      {
+       "id": "35503672",
+       "value": "opinion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5aee18df6dedd25a82d6a70d8d65170c",
+     "total": 7036,
+     "items": [
+      {
+       "id": "35503673",
+       "value": "economica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "479be7ff4482512239f074c2d9c89a84",
+     "total": 6357,
+     "items": [
+      {
+       "id": "49601163",
+       "value": "Columna",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6d1e5e2f8433d593dd819634a0b11935",
+     "total": 5961,
+     "items": [
+      {
+       "id": "35503690",
+       "value": "politica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3faafb4ac81c1c312db962ff936e2e3b",
+     "total": 4653,
+     "items": [
+      {
+       "id": "35503669",
+       "value": "sociales",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "769172d6e76fbe0fba04372591f0276e",
+     "total": 4349,
+     "items": [
+      {
+       "id": "35503678",
+       "value": "cultural",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "832ed3378efc89367e2769bba5a9e6c1",
+     "total": 4205,
+     "items": [
+      {
+       "id": "35503666",
+       "value": "salud",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "694801346a7c8762850c3e0e3d5ff237",
+     "total": 3718,
+     "items": [
+      {
+       "id": "49601354",
+       "value": "Informe Empresarial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f0749ebe0ca601416dbb407c3bcb0bcd",
+     "total": 2653,
+     "items": [
+      {
+       "id": "35503670",
+       "value": "suplementos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7722a88546c701b53f0bd9664f3e5658",
+     "total": 2430,
+     "items": [
+      {
+       "id": "49616488",
+       "value": "Guajira",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "4b3d7d562ac2d6f30164a49751cfd115",
+     "total": 1968,
+     "items": [
+      {
+       "id": "49601330",
+       "value": "Facetas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "06b426a0231c85ee49ccbb041d6efa5c",
+     "total": 1643,
+     "items": [
+      {
+       "id": "49615296",
+       "value": "Magdalena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5b378f8014a15411b664d6576913c39c",
+     "total": 1600,
+     "items": [
+      {
+       "id": "49601224",
+       "value": "Córdoba",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ddb1aa7c0e75feeb8dcf89e40ad5d54e",
+     "total": 1475,
+     "items": [
+      {
+       "id": "49615511",
+       "value": "Cesar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "930fc173d84e570ee6bae0b6873270e2",
+     "total": 1313,
+     "items": [
+      {
+       "id": "49676629",
+       "value": "San andres",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "801b348b9d5c52913e449573fd5b0d27",
+     "total": 1311,
+     "items": [
+      {
+       "id": "35503665",
+       "value": "multimedia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "93cb381d359a4213489e8c91d1c4cf8a",
+     "total": 1292,
+     "items": [
+      {
+       "id": "35503683",
+       "value": "tecnologia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "fddf14c2d9f4466537c9555771bd9f60",
+     "total": 1142,
+     "items": [
+      {
+       "id": "35503663",
+       "value": "educacion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "242094d3878bd053ead87e9a5465dde7",
+     "total": 1002,
+     "items": [
+      {
+       "id": "49601111",
+       "value": "Fútbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3aeb458f58da31075c5d2b946876159e",
+     "total": 897,
+     "items": [
+      {
+       "id": "48981712",
+       "value": "Editorial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "c3d0032d58055dddda9f10391e781633",
+     "total": 805,
+     "items": [
+      {
+       "id": "49614807",
+       "value": "Galerias de fotos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "803cf764de885d11c1c25e452477114c",
+     "total": 763,
+     "items": [
+      {
+       "id": "35503705",
+       "value": "ciencia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "0cf582ba1fb42704a2d813bfdb71222c",
+     "total": 743,
+     "items": [
+      {
+       "id": "35503717",
+       "value": "viernes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "814bd7dcb894d01a3592112e11ef19c1",
+     "total": 693,
+     "items": [
+      {
+       "id": "50040224",
+       "value": "Ocio",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ad0d07ec76d5e25552d44e7a956b8626",
+     "total": 585,
+     "items": [
+      {
+       "id": "35503686",
+       "value": "especial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7284ae375d014608f6d4617c838f8ee9",
+     "total": 481,
+     "items": [
+      {
+       "id": "35503701",
+       "value": "ambiente",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "547071140b030040824bc166037f0c7a",
+     "total": 455,
+     "items": [
+      {
+       "id": "49630118",
+       "value": "Dominical",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "83ba04fe1e6fb3985332141ad5a1db01",
+     "total": 429,
+     "items": [
+      {
+       "id": "49601363",
+       "value": "Sucre",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "43088488dd181e30cf33f033a48f6e34",
+     "total": 368,
+     "items": [
+      {
+       "id": "59038108",
+       "value": "Foto del dia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "82823bb41f15f8bb7e8818c30144c0d3",
+     "total": 268,
+     "items": [
+      {
+       "id": "48983738",
+       "value": "Turismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd8b11fc0f13266340a0f2cc2a03ba7e",
+     "total": 248,
+     "items": [
+      {
+       "id": "49613831",
+       "value": "Video",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b013d2011796d3d0702aa700e2175d51",
+     "total": 243,
+     "items": [
+      {
+       "id": "49613746",
+       "value": "Gente y TV",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd80d4cdb2f4f49e4f55ab9be079a5f6",
+     "total": 178,
+     "items": [
+      {
+       "id": "49630333",
+       "value": "Nueva",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "130d05f1c452235344b0ab1f0143c52d",
+     "total": 168,
+     "items": [
+      {
+       "id": "49630110",
+       "value": "Palante chamos y chamas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "9a3e84e4b806edc0c05d80f186148d31",
+     "total": 156,
+     "items": [
+      {
+       "id": "35504182",
+       "value": "autos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "63a9e8c9bd6d607e2f8c1f0477c92768",
+     "total": 136,
+     "items": [
+      {
+       "id": "35504057",
+       "value": "tendencias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6f685cd602f25976cbbb95152b9623b6",
+     "total": 134,
+     "items": [
+      {
+       "id": "48981715",
+       "value": "Ciclismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "686698f1856b7c1d15a9730d382767bf",
+     "total": 108,
+     "items": [
+      {
+       "id": "49613959",
+       "value": "Béisbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5bd2d51fcbf706216fea95c251a6e3c5",
+     "total": 82,
+     "items": [
+      {
+       "id": "49601296",
+       "value": "Independencia de Cartagena",
+       "type": "section"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "218a781130e25af066c8a9850ece6dc5": 196401,
+     "696915404419d25514c2732772514134": 10542,
+     "ff6c6aaeff351704969ec7d218bd0772": 27323,
+     "ff403366a36471a41506c54cbbe74edd": 12546,
+     "eff87492a36df9473424d187c8666c3b": 19570,
+     "f2ae0dc71dacf42c7934821ec47f9405": 6410,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 14185,
+     "56aa799b185d2054e26474053104a35a": 4675,
+     "2dbe68355828eed7bade19cd83730d09": 4634,
+     "1f794ef3160f6647a23478f16b42fa65": 3840,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 4882,
+     "68480ba034a89bf883aeb9a138b82eac": 1574,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1263,
+     "479be7ff4482512239f074c2d9c89a84": 1195,
+     "6d1e5e2f8433d593dd819634a0b11935": 801,
+     "3faafb4ac81c1c312db962ff936e2e3b": 668,
+     "769172d6e76fbe0fba04372591f0276e": 695,
+     "832ed3378efc89367e2769bba5a9e6c1": 952,
+     "694801346a7c8762850c3e0e3d5ff237": 328,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 352,
+     "7722a88546c701b53f0bd9664f3e5658": 291,
+     "4b3d7d562ac2d6f30164a49751cfd115": 269,
+     "06b426a0231c85ee49ccbb041d6efa5c": 239,
+     "5b378f8014a15411b664d6576913c39c": 214,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 209,
+     "930fc173d84e570ee6bae0b6873270e2": 198,
+     "801b348b9d5c52913e449573fd5b0d27": 192,
+     "93cb381d359a4213489e8c91d1c4cf8a": 146,
+     "fddf14c2d9f4466537c9555771bd9f60": 177,
+     "242094d3878bd053ead87e9a5465dde7": 173,
+     "3aeb458f58da31075c5d2b946876159e": 295,
+     "c3d0032d58055dddda9f10391e781633": 117,
+     "803cf764de885d11c1c25e452477114c": 86,
+     "0cf582ba1fb42704a2d813bfdb71222c": 136,
+     "814bd7dcb894d01a3592112e11ef19c1": 80,
+     "ad0d07ec76d5e25552d44e7a956b8626": 69,
+     "7284ae375d014608f6d4617c838f8ee9": 79,
+     "547071140b030040824bc166037f0c7a": 67,
+     "83ba04fe1e6fb3985332141ad5a1db01": 74,
+     "43088488dd181e30cf33f033a48f6e34": 64,
+     "82823bb41f15f8bb7e8818c30144c0d3": 47,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 36,
+     "b013d2011796d3d0702aa700e2175d51": 32,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 13,
+     "130d05f1c452235344b0ab1f0143c52d": 24,
+     "9a3e84e4b806edc0c05d80f186148d31": 18,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 17,
+     "6f685cd602f25976cbbb95152b9623b6": 20,
+     "686698f1856b7c1d15a9730d382767bf": 16,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 11,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 91890,
+     "696915404419d25514c2732772514134": 35462,
+     "ff6c6aaeff351704969ec7d218bd0772": 31081,
+     "ff403366a36471a41506c54cbbe74edd": 14554,
+     "eff87492a36df9473424d187c8666c3b": 15256,
+     "f2ae0dc71dacf42c7934821ec47f9405": 13029,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 7593,
+     "56aa799b185d2054e26474053104a35a": 6321,
+     "2dbe68355828eed7bade19cd83730d09": 6296,
+     "1f794ef3160f6647a23478f16b42fa65": 5893,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 4013,
+     "68480ba034a89bf883aeb9a138b82eac": 881,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1104,
+     "479be7ff4482512239f074c2d9c89a84": 691,
+     "6d1e5e2f8433d593dd819634a0b11935": 861,
+     "3faafb4ac81c1c312db962ff936e2e3b": 680,
+     "769172d6e76fbe0fba04372591f0276e": 612,
+     "832ed3378efc89367e2769bba5a9e6c1": 374,
+     "694801346a7c8762850c3e0e3d5ff237": 305,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 359,
+     "7722a88546c701b53f0bd9664f3e5658": 497,
+     "4b3d7d562ac2d6f30164a49751cfd115": 253,
+     "06b426a0231c85ee49ccbb041d6efa5c": 235,
+     "5b378f8014a15411b664d6576913c39c": 258,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 195,
+     "930fc173d84e570ee6bae0b6873270e2": 175,
+     "801b348b9d5c52913e449573fd5b0d27": 201,
+     "93cb381d359a4213489e8c91d1c4cf8a": 146,
+     "fddf14c2d9f4466537c9555771bd9f60": 187,
+     "242094d3878bd053ead87e9a5465dde7": 138,
+     "3aeb458f58da31075c5d2b946876159e": 107,
+     "c3d0032d58055dddda9f10391e781633": 124,
+     "803cf764de885d11c1c25e452477114c": 74,
+     "0cf582ba1fb42704a2d813bfdb71222c": 108,
+     "814bd7dcb894d01a3592112e11ef19c1": 113,
+     "ad0d07ec76d5e25552d44e7a956b8626": 76,
+     "7284ae375d014608f6d4617c838f8ee9": 60,
+     "547071140b030040824bc166037f0c7a": 70,
+     "83ba04fe1e6fb3985332141ad5a1db01": 50,
+     "43088488dd181e30cf33f033a48f6e34": 71,
+     "82823bb41f15f8bb7e8818c30144c0d3": 56,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 38,
+     "b013d2011796d3d0702aa700e2175d51": 34,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 29,
+     "130d05f1c452235344b0ab1f0143c52d": 24,
+     "9a3e84e4b806edc0c05d80f186148d31": 10,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 13,
+     "6f685cd602f25976cbbb95152b9623b6": 20,
+     "686698f1856b7c1d15a9730d382767bf": 10,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 8,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 61203,
+     "696915404419d25514c2732772514134": 29733,
+     "ff6c6aaeff351704969ec7d218bd0772": 39338,
+     "ff403366a36471a41506c54cbbe74edd": 21806,
+     "eff87492a36df9473424d187c8666c3b": 8183,
+     "f2ae0dc71dacf42c7934821ec47f9405": 11328,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 650,
+     "56aa799b185d2054e26474053104a35a": 4743,
+     "2dbe68355828eed7bade19cd83730d09": 4702,
+     "1f794ef3160f6647a23478f16b42fa65": 2496,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 3098,
+     "68480ba034a89bf883aeb9a138b82eac": 1047,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1152,
+     "479be7ff4482512239f074c2d9c89a84": 851,
+     "6d1e5e2f8433d593dd819634a0b11935": 803,
+     "3faafb4ac81c1c312db962ff936e2e3b": 592,
+     "769172d6e76fbe0fba04372591f0276e": 563,
+     "832ed3378efc89367e2769bba5a9e6c1": 429,
+     "694801346a7c8762850c3e0e3d5ff237": 720,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 331,
+     "7722a88546c701b53f0bd9664f3e5658": 637,
+     "4b3d7d562ac2d6f30164a49751cfd115": 240,
+     "06b426a0231c85ee49ccbb041d6efa5c": 218,
+     "5b378f8014a15411b664d6576913c39c": 235,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 186,
+     "930fc173d84e570ee6bae0b6873270e2": 213,
+     "801b348b9d5c52913e449573fd5b0d27": 186,
+     "93cb381d359a4213489e8c91d1c4cf8a": 133,
+     "fddf14c2d9f4466537c9555771bd9f60": 173,
+     "242094d3878bd053ead87e9a5465dde7": 135,
+     "3aeb458f58da31075c5d2b946876159e": 115,
+     "c3d0032d58055dddda9f10391e781633": 129,
+     "803cf764de885d11c1c25e452477114c": 58,
+     "0cf582ba1fb42704a2d813bfdb71222c": 94,
+     "814bd7dcb894d01a3592112e11ef19c1": 113,
+     "ad0d07ec76d5e25552d44e7a956b8626": 51,
+     "7284ae375d014608f6d4617c838f8ee9": 67,
+     "547071140b030040824bc166037f0c7a": 72,
+     "83ba04fe1e6fb3985332141ad5a1db01": 73,
+     "43088488dd181e30cf33f033a48f6e34": 51,
+     "82823bb41f15f8bb7e8818c30144c0d3": 30,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 35,
+     "b013d2011796d3d0702aa700e2175d51": 32,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 22,
+     "130d05f1c452235344b0ab1f0143c52d": 21,
+     "9a3e84e4b806edc0c05d80f186148d31": 14,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 16,
+     "6f685cd602f25976cbbb95152b9623b6": 17,
+     "686698f1856b7c1d15a9730d382767bf": 24,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 17,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 36996,
+     "696915404419d25514c2732772514134": 51974,
+     "ff6c6aaeff351704969ec7d218bd0772": 27823,
+     "ff403366a36471a41506c54cbbe74edd": 16628,
+     "eff87492a36df9473424d187c8666c3b": 8057,
+     "f2ae0dc71dacf42c7934821ec47f9405": 7645,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 589,
+     "56aa799b185d2054e26474053104a35a": 7123,
+     "2dbe68355828eed7bade19cd83730d09": 7103,
+     "1f794ef3160f6647a23478f16b42fa65": 4317,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2412,
+     "68480ba034a89bf883aeb9a138b82eac": 1116,
+     "5aee18df6dedd25a82d6a70d8d65170c": 878,
+     "479be7ff4482512239f074c2d9c89a84": 903,
+     "6d1e5e2f8433d593dd819634a0b11935": 931,
+     "3faafb4ac81c1c312db962ff936e2e3b": 771,
+     "769172d6e76fbe0fba04372591f0276e": 893,
+     "832ed3378efc89367e2769bba5a9e6c1": 464,
+     "694801346a7c8762850c3e0e3d5ff237": 1257,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 383,
+     "7722a88546c701b53f0bd9664f3e5658": 262,
+     "4b3d7d562ac2d6f30164a49751cfd115": 294,
+     "06b426a0231c85ee49ccbb041d6efa5c": 243,
+     "5b378f8014a15411b664d6576913c39c": 229,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 235,
+     "930fc173d84e570ee6bae0b6873270e2": 235,
+     "801b348b9d5c52913e449573fd5b0d27": 217,
+     "93cb381d359a4213489e8c91d1c4cf8a": 138,
+     "fddf14c2d9f4466537c9555771bd9f60": 189,
+     "242094d3878bd053ead87e9a5465dde7": 131,
+     "3aeb458f58da31075c5d2b946876159e": 113,
+     "c3d0032d58055dddda9f10391e781633": 129,
+     "803cf764de885d11c1c25e452477114c": 86,
+     "0cf582ba1fb42704a2d813bfdb71222c": 109,
+     "814bd7dcb894d01a3592112e11ef19c1": 106,
+     "ad0d07ec76d5e25552d44e7a956b8626": 101,
+     "7284ae375d014608f6d4617c838f8ee9": 58,
+     "547071140b030040824bc166037f0c7a": 59,
+     "83ba04fe1e6fb3985332141ad5a1db01": 58,
+     "43088488dd181e30cf33f033a48f6e34": 62,
+     "82823bb41f15f8bb7e8818c30144c0d3": 23,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 47,
+     "b013d2011796d3d0702aa700e2175d51": 39,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 25,
+     "130d05f1c452235344b0ab1f0143c52d": 29,
+     "9a3e84e4b806edc0c05d80f186148d31": 16,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 25,
+     "6f685cd602f25976cbbb95152b9623b6": 19,
+     "686698f1856b7c1d15a9730d382767bf": 19,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 17,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 36522,
+     "696915404419d25514c2732772514134": 47795,
+     "ff6c6aaeff351704969ec7d218bd0772": 23383,
+     "ff403366a36471a41506c54cbbe74edd": 13897,
+     "eff87492a36df9473424d187c8666c3b": 6679,
+     "f2ae0dc71dacf42c7934821ec47f9405": 12480,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 1193,
+     "56aa799b185d2054e26474053104a35a": 4262,
+     "2dbe68355828eed7bade19cd83730d09": 4249,
+     "1f794ef3160f6647a23478f16b42fa65": 1928,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2469,
+     "68480ba034a89bf883aeb9a138b82eac": 1241,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1029,
+     "479be7ff4482512239f074c2d9c89a84": 1087,
+     "6d1e5e2f8433d593dd819634a0b11935": 1233,
+     "3faafb4ac81c1c312db962ff936e2e3b": 656,
+     "769172d6e76fbe0fba04372591f0276e": 591,
+     "832ed3378efc89367e2769bba5a9e6c1": 873,
+     "694801346a7c8762850c3e0e3d5ff237": 449,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 405,
+     "7722a88546c701b53f0bd9664f3e5658": 241,
+     "4b3d7d562ac2d6f30164a49751cfd115": 299,
+     "06b426a0231c85ee49ccbb041d6efa5c": 250,
+     "5b378f8014a15411b664d6576913c39c": 238,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 237,
+     "930fc173d84e570ee6bae0b6873270e2": 132,
+     "801b348b9d5c52913e449573fd5b0d27": 187,
+     "93cb381d359a4213489e8c91d1c4cf8a": 281,
+     "fddf14c2d9f4466537c9555771bd9f60": 127,
+     "242094d3878bd053ead87e9a5465dde7": 161,
+     "3aeb458f58da31075c5d2b946876159e": 109,
+     "c3d0032d58055dddda9f10391e781633": 102,
+     "803cf764de885d11c1c25e452477114c": 222,
+     "0cf582ba1fb42704a2d813bfdb71222c": 137,
+     "814bd7dcb894d01a3592112e11ef19c1": 88,
+     "ad0d07ec76d5e25552d44e7a956b8626": 123,
+     "7284ae375d014608f6d4617c838f8ee9": 98,
+     "547071140b030040824bc166037f0c7a": 62,
+     "83ba04fe1e6fb3985332141ad5a1db01": 61,
+     "43088488dd181e30cf33f033a48f6e34": 37,
+     "82823bb41f15f8bb7e8818c30144c0d3": 46,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 35,
+     "b013d2011796d3d0702aa700e2175d51": 31,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 30,
+     "130d05f1c452235344b0ab1f0143c52d": 30,
+     "9a3e84e4b806edc0c05d80f186148d31": 35,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 21,
+     "6f685cd602f25976cbbb95152b9623b6": 12,
+     "686698f1856b7c1d15a9730d382767bf": 12,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 13,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 37337,
+     "696915404419d25514c2732772514134": 61616,
+     "ff6c6aaeff351704969ec7d218bd0772": 13487,
+     "ff403366a36471a41506c54cbbe74edd": 14512,
+     "eff87492a36df9473424d187c8666c3b": 10495,
+     "f2ae0dc71dacf42c7934821ec47f9405": 8949,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 7030,
+     "56aa799b185d2054e26474053104a35a": 5924,
+     "2dbe68355828eed7bade19cd83730d09": 5898,
+     "1f794ef3160f6647a23478f16b42fa65": 684,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 1997,
+     "68480ba034a89bf883aeb9a138b82eac": 999,
+     "5aee18df6dedd25a82d6a70d8d65170c": 854,
+     "479be7ff4482512239f074c2d9c89a84": 856,
+     "6d1e5e2f8433d593dd819634a0b11935": 673,
+     "3faafb4ac81c1c312db962ff936e2e3b": 641,
+     "769172d6e76fbe0fba04372591f0276e": 521,
+     "832ed3378efc89367e2769bba5a9e6c1": 761,
+     "694801346a7c8762850c3e0e3d5ff237": 338,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 449,
+     "7722a88546c701b53f0bd9664f3e5658": 277,
+     "4b3d7d562ac2d6f30164a49751cfd115": 327,
+     "06b426a0231c85ee49ccbb041d6efa5c": 224,
+     "5b378f8014a15411b664d6576913c39c": 192,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 218,
+     "930fc173d84e570ee6bae0b6873270e2": 210,
+     "801b348b9d5c52913e449573fd5b0d27": 169,
+     "93cb381d359a4213489e8c91d1c4cf8a": 213,
+     "fddf14c2d9f4466537c9555771bd9f60": 154,
+     "242094d3878bd053ead87e9a5465dde7": 135,
+     "3aeb458f58da31075c5d2b946876159e": 81,
+     "c3d0032d58055dddda9f10391e781633": 90,
+     "803cf764de885d11c1c25e452477114c": 174,
+     "0cf582ba1fb42704a2d813bfdb71222c": 113,
+     "814bd7dcb894d01a3592112e11ef19c1": 101,
+     "ad0d07ec76d5e25552d44e7a956b8626": 132,
+     "7284ae375d014608f6d4617c838f8ee9": 86,
+     "547071140b030040824bc166037f0c7a": 75,
+     "83ba04fe1e6fb3985332141ad5a1db01": 54,
+     "43088488dd181e30cf33f033a48f6e34": 45,
+     "82823bb41f15f8bb7e8818c30144c0d3": 39,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 34,
+     "b013d2011796d3d0702aa700e2175d51": 41,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 29,
+     "130d05f1c452235344b0ab1f0143c52d": 23,
+     "9a3e84e4b806edc0c05d80f186148d31": 46,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 33,
+     "6f685cd602f25976cbbb95152b9623b6": 23,
+     "686698f1856b7c1d15a9730d382767bf": 9,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 8,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 55028,
+     "696915404419d25514c2732772514134": 35693,
+     "ff6c6aaeff351704969ec7d218bd0772": 15032,
+     "ff403366a36471a41506c54cbbe74edd": 12180,
+     "eff87492a36df9473424d187c8666c3b": 23412,
+     "f2ae0dc71dacf42c7934821ec47f9405": 5922,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 19666,
+     "56aa799b185d2054e26474053104a35a": 5476,
+     "2dbe68355828eed7bade19cd83730d09": 5453,
+     "1f794ef3160f6647a23478f16b42fa65": 2233,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 1609,
+     "68480ba034a89bf883aeb9a138b82eac": 900,
+     "5aee18df6dedd25a82d6a70d8d65170c": 762,
+     "479be7ff4482512239f074c2d9c89a84": 778,
+     "6d1e5e2f8433d593dd819634a0b11935": 663,
+     "3faafb4ac81c1c312db962ff936e2e3b": 647,
+     "769172d6e76fbe0fba04372591f0276e": 477,
+     "832ed3378efc89367e2769bba5a9e6c1": 355,
+     "694801346a7c8762850c3e0e3d5ff237": 322,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 375,
+     "7722a88546c701b53f0bd9664f3e5658": 225,
+     "4b3d7d562ac2d6f30164a49751cfd115": 287,
+     "06b426a0231c85ee49ccbb041d6efa5c": 234,
+     "5b378f8014a15411b664d6576913c39c": 235,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 195,
+     "930fc173d84e570ee6bae0b6873270e2": 150,
+     "801b348b9d5c52913e449573fd5b0d27": 161,
+     "93cb381d359a4213489e8c91d1c4cf8a": 235,
+     "fddf14c2d9f4466537c9555771bd9f60": 135,
+     "242094d3878bd053ead87e9a5465dde7": 129,
+     "3aeb458f58da31075c5d2b946876159e": 77,
+     "c3d0032d58055dddda9f10391e781633": 115,
+     "803cf764de885d11c1c25e452477114c": 63,
+     "0cf582ba1fb42704a2d813bfdb71222c": 46,
+     "814bd7dcb894d01a3592112e11ef19c1": 93,
+     "ad0d07ec76d5e25552d44e7a956b8626": 33,
+     "7284ae375d014608f6d4617c838f8ee9": 34,
+     "547071140b030040824bc166037f0c7a": 50,
+     "83ba04fe1e6fb3985332141ad5a1db01": 59,
+     "43088488dd181e30cf33f033a48f6e34": 38,
+     "82823bb41f15f8bb7e8818c30144c0d3": 27,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 24,
+     "b013d2011796d3d0702aa700e2175d51": 34,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 30,
+     "130d05f1c452235344b0ab1f0143c52d": 17,
+     "9a3e84e4b806edc0c05d80f186148d31": 17,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 11,
+     "6f685cd602f25976cbbb95152b9623b6": 23,
+     "686698f1856b7c1d15a9730d382767bf": 18,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 8,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 1179493,
+   "values": [
+    {
+     "key": "218a781130e25af066c8a9850ece6dc5",
+     "total": 329410,
+     "items": [
+      {
+       "id": "35503660",
+       "value": "sucesos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "696915404419d25514c2732772514134",
+     "total": 138805,
+     "items": [
+      {
+       "id": "35503659",
+       "value": "colombia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff6c6aaeff351704969ec7d218bd0772",
+     "total": 252125,
+     "items": [
+      {
+       "id": "35503661",
+       "value": "cartagena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff403366a36471a41506c54cbbe74edd",
+     "total": 225014,
+     "items": [
+      {
+       "id": "35503679",
+       "value": "farandula",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "eff87492a36df9473424d187c8666c3b",
+     "total": 57930,
+     "items": [
+      {
+       "id": "35503664",
+       "value": "regional",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f2ae0dc71dacf42c7934821ec47f9405",
+     "total": 46936,
+     "items": [
+      {
+       "id": "35503658",
+       "value": "deportes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "8f099565cbcfdaa8ac877987c5f3dcd9",
+     "total": 17427,
+     "items": [
+      {
+       "id": "49601245",
+       "value": "Atlántico",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "56aa799b185d2054e26474053104a35a",
+     "total": 37059,
+     "items": [
+      {
+       "id": "49937656",
+       "value": "Loterias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "2dbe68355828eed7bade19cd83730d09",
+     "total": 36892,
+     "items": [
+      {
+       "id": "49959017",
+       "value": "Chances",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "1f794ef3160f6647a23478f16b42fa65",
+     "total": 23253,
+     "items": [
+      {
+       "id": "49601150",
+       "value": "Bolívar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b1a7ac9069bbc9b90da2ba3f5f0bae7d",
+     "total": 29539,
+     "items": [
+      {
+       "id": "35503667",
+       "value": "mundo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "68480ba034a89bf883aeb9a138b82eac",
+     "total": 8312,
+     "items": [
+      {
+       "id": "35503672",
+       "value": "opinion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5aee18df6dedd25a82d6a70d8d65170c",
+     "total": 17740,
+     "items": [
+      {
+       "id": "35503673",
+       "value": "economica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "479be7ff4482512239f074c2d9c89a84",
+     "total": 7224,
+     "items": [
+      {
+       "id": "49601163",
+       "value": "Columna",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6d1e5e2f8433d593dd819634a0b11935",
+     "total": 8184,
+     "items": [
+      {
+       "id": "35503690",
+       "value": "politica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3faafb4ac81c1c312db962ff936e2e3b",
+     "total": 4893,
+     "items": [
+      {
+       "id": "35503669",
+       "value": "sociales",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "769172d6e76fbe0fba04372591f0276e",
+     "total": 4932,
+     "items": [
+      {
+       "id": "35503678",
+       "value": "cultural",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "832ed3378efc89367e2769bba5a9e6c1",
+     "total": 4443,
+     "items": [
+      {
+       "id": "35503666",
+       "value": "salud",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "694801346a7c8762850c3e0e3d5ff237",
+     "total": 7261,
+     "items": [
+      {
+       "id": "49601354",
+       "value": "Informe Empresarial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f0749ebe0ca601416dbb407c3bcb0bcd",
+     "total": 2813,
+     "items": [
+      {
+       "id": "35503670",
+       "value": "suplementos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7722a88546c701b53f0bd9664f3e5658",
+     "total": 1722,
+     "items": [
+      {
+       "id": "49616488",
+       "value": "Guajira",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "4b3d7d562ac2d6f30164a49751cfd115",
+     "total": 2134,
+     "items": [
+      {
+       "id": "49601330",
+       "value": "Facetas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "06b426a0231c85ee49ccbb041d6efa5c",
+     "total": 1487,
+     "items": [
+      {
+       "id": "49615296",
+       "value": "Magdalena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5b378f8014a15411b664d6576913c39c",
+     "total": 1650,
+     "items": [
+      {
+       "id": "49601224",
+       "value": "Córdoba",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ddb1aa7c0e75feeb8dcf89e40ad5d54e",
+     "total": 1328,
+     "items": [
+      {
+       "id": "49615511",
+       "value": "Cesar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "930fc173d84e570ee6bae0b6873270e2",
+     "total": 1302,
+     "items": [
+      {
+       "id": "49676629",
+       "value": "San andres",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "801b348b9d5c52913e449573fd5b0d27",
+     "total": 1690,
+     "items": [
+      {
+       "id": "35503665",
+       "value": "multimedia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "93cb381d359a4213489e8c91d1c4cf8a",
+     "total": 1500,
+     "items": [
+      {
+       "id": "35503683",
+       "value": "tecnologia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "fddf14c2d9f4466537c9555771bd9f60",
+     "total": 1713,
+     "items": [
+      {
+       "id": "35503663",
+       "value": "educacion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "242094d3878bd053ead87e9a5465dde7",
+     "total": 1336,
+     "items": [
+      {
+       "id": "49601111",
+       "value": "Fútbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3aeb458f58da31075c5d2b946876159e",
+     "total": 693,
+     "items": [
+      {
+       "id": "48981712",
+       "value": "Editorial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "c3d0032d58055dddda9f10391e781633",
+     "total": 1016,
+     "items": [
+      {
+       "id": "49614807",
+       "value": "Galerias de fotos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "803cf764de885d11c1c25e452477114c",
+     "total": 663,
+     "items": [
+      {
+       "id": "35503705",
+       "value": "ciencia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "0cf582ba1fb42704a2d813bfdb71222c",
+     "total": 1013,
+     "items": [
+      {
+       "id": "35503717",
+       "value": "viernes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "814bd7dcb894d01a3592112e11ef19c1",
+     "total": 571,
+     "items": [
+      {
+       "id": "50040224",
+       "value": "Ocio",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ad0d07ec76d5e25552d44e7a956b8626",
+     "total": 438,
+     "items": [
+      {
+       "id": "35503686",
+       "value": "especial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7284ae375d014608f6d4617c838f8ee9",
+     "total": 556,
+     "items": [
+      {
+       "id": "35503701",
+       "value": "ambiente",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "547071140b030040824bc166037f0c7a",
+     "total": 463,
+     "items": [
+      {
+       "id": "49630118",
+       "value": "Dominical",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "83ba04fe1e6fb3985332141ad5a1db01",
+     "total": 515,
+     "items": [
+      {
+       "id": "49601363",
+       "value": "Sucre",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "43088488dd181e30cf33f033a48f6e34",
+     "total": 259,
+     "items": [
+      {
+       "id": "59038108",
+       "value": "Foto del dia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "82823bb41f15f8bb7e8818c30144c0d3",
+     "total": 257,
+     "items": [
+      {
+       "id": "48983738",
+       "value": "Turismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd8b11fc0f13266340a0f2cc2a03ba7e",
+     "total": 381,
+     "items": [
+      {
+       "id": "49613831",
+       "value": "Video",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b013d2011796d3d0702aa700e2175d51",
+     "total": 277,
+     "items": [
+      {
+       "id": "49613746",
+       "value": "Gente y TV",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd80d4cdb2f4f49e4f55ab9be079a5f6",
+     "total": 187,
+     "items": [
+      {
+       "id": "49630333",
+       "value": "Nueva",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "130d05f1c452235344b0ab1f0143c52d",
+     "total": 175,
+     "items": [
+      {
+       "id": "49630110",
+       "value": "Palante chamos y chamas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "9a3e84e4b806edc0c05d80f186148d31",
+     "total": 124,
+     "items": [
+      {
+       "id": "35504182",
+       "value": "autos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "63a9e8c9bd6d607e2f8c1f0477c92768",
+     "total": 83,
+     "items": [
+      {
+       "id": "35504057",
+       "value": "tendencias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6f685cd602f25976cbbb95152b9623b6",
+     "total": 255,
+     "items": [
+      {
+       "id": "48981715",
+       "value": "Ciclismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "686698f1856b7c1d15a9730d382767bf",
+     "total": 182,
+     "items": [
+      {
+       "id": "49613959",
+       "value": "Béisbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5bd2d51fcbf706216fea95c251a6e3c5",
+     "total": 48,
+     "items": [
+      {
+       "id": "49601296",
+       "value": "Independencia de Cartagena",
+       "type": "section"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "218a781130e25af066c8a9850ece6dc5": 47787,
+     "696915404419d25514c2732772514134": 14403,
+     "ff6c6aaeff351704969ec7d218bd0772": 50988,
+     "ff403366a36471a41506c54cbbe74edd": 32468,
+     "eff87492a36df9473424d187c8666c3b": 9474,
+     "f2ae0dc71dacf42c7934821ec47f9405": 8177,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 2687,
+     "56aa799b185d2054e26474053104a35a": 4903,
+     "2dbe68355828eed7bade19cd83730d09": 4882,
+     "1f794ef3160f6647a23478f16b42fa65": 2306,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2717,
+     "68480ba034a89bf883aeb9a138b82eac": 1322,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1412,
+     "479be7ff4482512239f074c2d9c89a84": 1147,
+     "6d1e5e2f8433d593dd819634a0b11935": 878,
+     "3faafb4ac81c1c312db962ff936e2e3b": 913,
+     "769172d6e76fbe0fba04372591f0276e": 680,
+     "832ed3378efc89367e2769bba5a9e6c1": 397,
+     "694801346a7c8762850c3e0e3d5ff237": 630,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 363,
+     "7722a88546c701b53f0bd9664f3e5658": 286,
+     "4b3d7d562ac2d6f30164a49751cfd115": 265,
+     "06b426a0231c85ee49ccbb041d6efa5c": 174,
+     "5b378f8014a15411b664d6576913c39c": 142,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 98,
+     "930fc173d84e570ee6bae0b6873270e2": 177,
+     "801b348b9d5c52913e449573fd5b0d27": 209,
+     "93cb381d359a4213489e8c91d1c4cf8a": 145,
+     "fddf14c2d9f4466537c9555771bd9f60": 95,
+     "242094d3878bd053ead87e9a5465dde7": 161,
+     "3aeb458f58da31075c5d2b946876159e": 113,
+     "c3d0032d58055dddda9f10391e781633": 129,
+     "803cf764de885d11c1c25e452477114c": 71,
+     "0cf582ba1fb42704a2d813bfdb71222c": 135,
+     "814bd7dcb894d01a3592112e11ef19c1": 61,
+     "ad0d07ec76d5e25552d44e7a956b8626": 54,
+     "7284ae375d014608f6d4617c838f8ee9": 57,
+     "547071140b030040824bc166037f0c7a": 69,
+     "83ba04fe1e6fb3985332141ad5a1db01": 76,
+     "43088488dd181e30cf33f033a48f6e34": 45,
+     "82823bb41f15f8bb7e8818c30144c0d3": 27,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 50,
+     "b013d2011796d3d0702aa700e2175d51": 37,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 22,
+     "130d05f1c452235344b0ab1f0143c52d": 23,
+     "9a3e84e4b806edc0c05d80f186148d31": 15,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 15,
+     "6f685cd602f25976cbbb95152b9623b6": 25,
+     "686698f1856b7c1d15a9730d382767bf": 21,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 5,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 38302,
+     "696915404419d25514c2732772514134": 32489,
+     "ff6c6aaeff351704969ec7d218bd0772": 43199,
+     "ff403366a36471a41506c54cbbe74edd": 18953,
+     "eff87492a36df9473424d187c8666c3b": 6616,
+     "f2ae0dc71dacf42c7934821ec47f9405": 6881,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 926,
+     "56aa799b185d2054e26474053104a35a": 4376,
+     "2dbe68355828eed7bade19cd83730d09": 4351,
+     "1f794ef3160f6647a23478f16b42fa65": 2473,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 3329,
+     "68480ba034a89bf883aeb9a138b82eac": 982,
+     "5aee18df6dedd25a82d6a70d8d65170c": 2722,
+     "479be7ff4482512239f074c2d9c89a84": 800,
+     "6d1e5e2f8433d593dd819634a0b11935": 1034,
+     "3faafb4ac81c1c312db962ff936e2e3b": 795,
+     "769172d6e76fbe0fba04372591f0276e": 958,
+     "832ed3378efc89367e2769bba5a9e6c1": 432,
+     "694801346a7c8762850c3e0e3d5ff237": 4082,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 393,
+     "7722a88546c701b53f0bd9664f3e5658": 249,
+     "4b3d7d562ac2d6f30164a49751cfd115": 294,
+     "06b426a0231c85ee49ccbb041d6efa5c": 175,
+     "5b378f8014a15411b664d6576913c39c": 255,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 215,
+     "930fc173d84e570ee6bae0b6873270e2": 132,
+     "801b348b9d5c52913e449573fd5b0d27": 282,
+     "93cb381d359a4213489e8c91d1c4cf8a": 199,
+     "fddf14c2d9f4466537c9555771bd9f60": 165,
+     "242094d3878bd053ead87e9a5465dde7": 177,
+     "3aeb458f58da31075c5d2b946876159e": 123,
+     "c3d0032d58055dddda9f10391e781633": 167,
+     "803cf764de885d11c1c25e452477114c": 121,
+     "0cf582ba1fb42704a2d813bfdb71222c": 125,
+     "814bd7dcb894d01a3592112e11ef19c1": 59,
+     "ad0d07ec76d5e25552d44e7a956b8626": 93,
+     "7284ae375d014608f6d4617c838f8ee9": 109,
+     "547071140b030040824bc166037f0c7a": 64,
+     "83ba04fe1e6fb3985332141ad5a1db01": 106,
+     "43088488dd181e30cf33f033a48f6e34": 41,
+     "82823bb41f15f8bb7e8818c30144c0d3": 30,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 62,
+     "b013d2011796d3d0702aa700e2175d51": 37,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 32,
+     "130d05f1c452235344b0ab1f0143c52d": 28,
+     "9a3e84e4b806edc0c05d80f186148d31": 19,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 12,
+     "6f685cd602f25976cbbb95152b9623b6": 31,
+     "686698f1856b7c1d15a9730d382767bf": 25,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 8,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 52229,
+     "696915404419d25514c2732772514134": 17631,
+     "ff6c6aaeff351704969ec7d218bd0772": 36964,
+     "ff403366a36471a41506c54cbbe74edd": 21494,
+     "eff87492a36df9473424d187c8666c3b": 4577,
+     "f2ae0dc71dacf42c7934821ec47f9405": 8543,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 577,
+     "56aa799b185d2054e26474053104a35a": 4658,
+     "2dbe68355828eed7bade19cd83730d09": 4631,
+     "1f794ef3160f6647a23478f16b42fa65": 2367,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 4254,
+     "68480ba034a89bf883aeb9a138b82eac": 1322,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1303,
+     "479be7ff4482512239f074c2d9c89a84": 1178,
+     "6d1e5e2f8433d593dd819634a0b11935": 891,
+     "3faafb4ac81c1c312db962ff936e2e3b": 767,
+     "769172d6e76fbe0fba04372591f0276e": 730,
+     "832ed3378efc89367e2769bba5a9e6c1": 381,
+     "694801346a7c8762850c3e0e3d5ff237": 995,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 446,
+     "7722a88546c701b53f0bd9664f3e5658": 246,
+     "4b3d7d562ac2d6f30164a49751cfd115": 365,
+     "06b426a0231c85ee49ccbb041d6efa5c": 220,
+     "5b378f8014a15411b664d6576913c39c": 218,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 194,
+     "930fc173d84e570ee6bae0b6873270e2": 214,
+     "801b348b9d5c52913e449573fd5b0d27": 239,
+     "93cb381d359a4213489e8c91d1c4cf8a": 440,
+     "fddf14c2d9f4466537c9555771bd9f60": 569,
+     "242094d3878bd053ead87e9a5465dde7": 243,
+     "3aeb458f58da31075c5d2b946876159e": 70,
+     "c3d0032d58055dddda9f10391e781633": 152,
+     "803cf764de885d11c1c25e452477114c": 107,
+     "0cf582ba1fb42704a2d813bfdb71222c": 101,
+     "814bd7dcb894d01a3592112e11ef19c1": 81,
+     "ad0d07ec76d5e25552d44e7a956b8626": 58,
+     "7284ae375d014608f6d4617c838f8ee9": 69,
+     "547071140b030040824bc166037f0c7a": 52,
+     "83ba04fe1e6fb3985332141ad5a1db01": 53,
+     "43088488dd181e30cf33f033a48f6e34": 45,
+     "82823bb41f15f8bb7e8818c30144c0d3": 38,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 47,
+     "b013d2011796d3d0702aa700e2175d51": 39,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 32,
+     "130d05f1c452235344b0ab1f0143c52d": 18,
+     "9a3e84e4b806edc0c05d80f186148d31": 12,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 14,
+     "6f685cd602f25976cbbb95152b9623b6": 63,
+     "686698f1856b7c1d15a9730d382767bf": 22,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 8,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 44468,
+     "696915404419d25514c2732772514134": 29035,
+     "ff6c6aaeff351704969ec7d218bd0772": 42831,
+     "ff403366a36471a41506c54cbbe74edd": 30321,
+     "eff87492a36df9473424d187c8666c3b": 7663,
+     "f2ae0dc71dacf42c7934821ec47f9405": 7642,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 792,
+     "56aa799b185d2054e26474053104a35a": 5643,
+     "2dbe68355828eed7bade19cd83730d09": 5622,
+     "1f794ef3160f6647a23478f16b42fa65": 4320,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 3409,
+     "68480ba034a89bf883aeb9a138b82eac": 974,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1486,
+     "479be7ff4482512239f074c2d9c89a84": 787,
+     "6d1e5e2f8433d593dd819634a0b11935": 2766,
+     "3faafb4ac81c1c312db962ff936e2e3b": 707,
+     "769172d6e76fbe0fba04372591f0276e": 673,
+     "832ed3378efc89367e2769bba5a9e6c1": 629,
+     "694801346a7c8762850c3e0e3d5ff237": 607,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 494,
+     "7722a88546c701b53f0bd9664f3e5658": 279,
+     "4b3d7d562ac2d6f30164a49751cfd115": 373,
+     "06b426a0231c85ee49ccbb041d6efa5c": 232,
+     "5b378f8014a15411b664d6576913c39c": 313,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 194,
+     "930fc173d84e570ee6bae0b6873270e2": 202,
+     "801b348b9d5c52913e449573fd5b0d27": 299,
+     "93cb381d359a4213489e8c91d1c4cf8a": 284,
+     "fddf14c2d9f4466537c9555771bd9f60": 325,
+     "242094d3878bd053ead87e9a5465dde7": 267,
+     "3aeb458f58da31075c5d2b946876159e": 100,
+     "c3d0032d58055dddda9f10391e781633": 168,
+     "803cf764de885d11c1c25e452477114c": 146,
+     "0cf582ba1fb42704a2d813bfdb71222c": 105,
+     "814bd7dcb894d01a3592112e11ef19c1": 98,
+     "ad0d07ec76d5e25552d44e7a956b8626": 68,
+     "7284ae375d014608f6d4617c838f8ee9": 144,
+     "547071140b030040824bc166037f0c7a": 79,
+     "83ba04fe1e6fb3985332141ad5a1db01": 129,
+     "43088488dd181e30cf33f033a48f6e34": 56,
+     "82823bb41f15f8bb7e8818c30144c0d3": 53,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 66,
+     "b013d2011796d3d0702aa700e2175d51": 49,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 34,
+     "130d05f1c452235344b0ab1f0143c52d": 27,
+     "9a3e84e4b806edc0c05d80f186148d31": 24,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 5,
+     "6f685cd602f25976cbbb95152b9623b6": 48,
+     "686698f1856b7c1d15a9730d382767bf": 51,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 4,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 46435,
+     "696915404419d25514c2732772514134": 17897,
+     "ff6c6aaeff351704969ec7d218bd0772": 37154,
+     "ff403366a36471a41506c54cbbe74edd": 63882,
+     "eff87492a36df9473424d187c8666c3b": 8815,
+     "f2ae0dc71dacf42c7934821ec47f9405": 4453,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 2053,
+     "56aa799b185d2054e26474053104a35a": 6223,
+     "2dbe68355828eed7bade19cd83730d09": 6202,
+     "1f794ef3160f6647a23478f16b42fa65": 5095,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 4364,
+     "68480ba034a89bf883aeb9a138b82eac": 1136,
+     "5aee18df6dedd25a82d6a70d8d65170c": 2036,
+     "479be7ff4482512239f074c2d9c89a84": 985,
+     "6d1e5e2f8433d593dd819634a0b11935": 1211,
+     "3faafb4ac81c1c312db962ff936e2e3b": 623,
+     "769172d6e76fbe0fba04372591f0276e": 600,
+     "832ed3378efc89367e2769bba5a9e6c1": 620,
+     "694801346a7c8762850c3e0e3d5ff237": 412,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 397,
+     "7722a88546c701b53f0bd9664f3e5658": 230,
+     "4b3d7d562ac2d6f30164a49751cfd115": 295,
+     "06b426a0231c85ee49ccbb041d6efa5c": 221,
+     "5b378f8014a15411b664d6576913c39c": 268,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 190,
+     "930fc173d84e570ee6bae0b6873270e2": 186,
+     "801b348b9d5c52913e449573fd5b0d27": 218,
+     "93cb381d359a4213489e8c91d1c4cf8a": 159,
+     "fddf14c2d9f4466537c9555771bd9f60": 233,
+     "242094d3878bd053ead87e9a5465dde7": 160,
+     "3aeb458f58da31075c5d2b946876159e": 109,
+     "c3d0032d58055dddda9f10391e781633": 123,
+     "803cf764de885d11c1c25e452477114c": 76,
+     "0cf582ba1fb42704a2d813bfdb71222c": 314,
+     "814bd7dcb894d01a3592112e11ef19c1": 104,
+     "ad0d07ec76d5e25552d44e7a956b8626": 57,
+     "7284ae375d014608f6d4617c838f8ee9": 69,
+     "547071140b030040824bc166037f0c7a": 70,
+     "83ba04fe1e6fb3985332141ad5a1db01": 58,
+     "43088488dd181e30cf33f033a48f6e34": 28,
+     "82823bb41f15f8bb7e8818c30144c0d3": 44,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 52,
+     "b013d2011796d3d0702aa700e2175d51": 55,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 24,
+     "130d05f1c452235344b0ab1f0143c52d": 23,
+     "9a3e84e4b806edc0c05d80f186148d31": 20,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 21,
+     "6f685cd602f25976cbbb95152b9623b6": 31,
+     "686698f1856b7c1d15a9730d382767bf": 29,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 9,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 48250,
+     "696915404419d25514c2732772514134": 10523,
+     "ff6c6aaeff351704969ec7d218bd0772": 21656,
+     "ff403366a36471a41506c54cbbe74edd": 40170,
+     "eff87492a36df9473424d187c8666c3b": 7095,
+     "f2ae0dc71dacf42c7934821ec47f9405": 6335,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 1763,
+     "56aa799b185d2054e26474053104a35a": 7026,
+     "2dbe68355828eed7bade19cd83730d09": 6999,
+     "1f794ef3160f6647a23478f16b42fa65": 3164,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 9047,
+     "68480ba034a89bf883aeb9a138b82eac": 1180,
+     "5aee18df6dedd25a82d6a70d8d65170c": 4902,
+     "479be7ff4482512239f074c2d9c89a84": 1105,
+     "6d1e5e2f8433d593dd819634a0b11935": 731,
+     "3faafb4ac81c1c312db962ff936e2e3b": 509,
+     "769172d6e76fbe0fba04372591f0276e": 586,
+     "832ed3378efc89367e2769bba5a9e6c1": 440,
+     "694801346a7c8762850c3e0e3d5ff237": 292,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 388,
+     "7722a88546c701b53f0bd9664f3e5658": 223,
+     "4b3d7d562ac2d6f30164a49751cfd115": 292,
+     "06b426a0231c85ee49ccbb041d6efa5c": 247,
+     "5b378f8014a15411b664d6576913c39c": 231,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 207,
+     "930fc173d84e570ee6bae0b6873270e2": 233,
+     "801b348b9d5c52913e449573fd5b0d27": 209,
+     "93cb381d359a4213489e8c91d1c4cf8a": 124,
+     "fddf14c2d9f4466537c9555771bd9f60": 205,
+     "242094d3878bd053ead87e9a5465dde7": 169,
+     "3aeb458f58da31075c5d2b946876159e": 41,
+     "c3d0032d58055dddda9f10391e781633": 134,
+     "803cf764de885d11c1c25e452477114c": 67,
+     "0cf582ba1fb42704a2d813bfdb71222c": 143,
+     "814bd7dcb894d01a3592112e11ef19c1": 77,
+     "ad0d07ec76d5e25552d44e7a956b8626": 59,
+     "7284ae375d014608f6d4617c838f8ee9": 56,
+     "547071140b030040824bc166037f0c7a": 71,
+     "83ba04fe1e6fb3985332141ad5a1db01": 44,
+     "43088488dd181e30cf33f033a48f6e34": 18,
+     "82823bb41f15f8bb7e8818c30144c0d3": 23,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 39,
+     "b013d2011796d3d0702aa700e2175d51": 29,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 14,
+     "130d05f1c452235344b0ab1f0143c52d": 32,
+     "9a3e84e4b806edc0c05d80f186148d31": 14,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 7,
+     "6f685cd602f25976cbbb95152b9623b6": 23,
+     "686698f1856b7c1d15a9730d382767bf": 17,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 9,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 53303,
+     "696915404419d25514c2732772514134": 17053,
+     "ff6c6aaeff351704969ec7d218bd0772": 19269,
+     "ff403366a36471a41506c54cbbe74edd": 17179,
+     "eff87492a36df9473424d187c8666c3b": 13709,
+     "f2ae0dc71dacf42c7934821ec47f9405": 4926,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 8636,
+     "56aa799b185d2054e26474053104a35a": 4248,
+     "2dbe68355828eed7bade19cd83730d09": 4223,
+     "1f794ef3160f6647a23478f16b42fa65": 3537,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2427,
+     "68480ba034a89bf883aeb9a138b82eac": 1397,
+     "5aee18df6dedd25a82d6a70d8d65170c": 3888,
+     "479be7ff4482512239f074c2d9c89a84": 1223,
+     "6d1e5e2f8433d593dd819634a0b11935": 674,
+     "3faafb4ac81c1c312db962ff936e2e3b": 584,
+     "769172d6e76fbe0fba04372591f0276e": 708,
+     "832ed3378efc89367e2769bba5a9e6c1": 1545,
+     "694801346a7c8762850c3e0e3d5ff237": 245,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 335,
+     "7722a88546c701b53f0bd9664f3e5658": 209,
+     "4b3d7d562ac2d6f30164a49751cfd115": 252,
+     "06b426a0231c85ee49ccbb041d6efa5c": 218,
+     "5b378f8014a15411b664d6576913c39c": 223,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 230,
+     "930fc173d84e570ee6bae0b6873270e2": 158,
+     "801b348b9d5c52913e449573fd5b0d27": 237,
+     "93cb381d359a4213489e8c91d1c4cf8a": 150,
+     "fddf14c2d9f4466537c9555771bd9f60": 121,
+     "242094d3878bd053ead87e9a5465dde7": 159,
+     "3aeb458f58da31075c5d2b946876159e": 137,
+     "c3d0032d58055dddda9f10391e781633": 144,
+     "803cf764de885d11c1c25e452477114c": 75,
+     "0cf582ba1fb42704a2d813bfdb71222c": 91,
+     "814bd7dcb894d01a3592112e11ef19c1": 92,
+     "ad0d07ec76d5e25552d44e7a956b8626": 49,
+     "7284ae375d014608f6d4617c838f8ee9": 52,
+     "547071140b030040824bc166037f0c7a": 59,
+     "83ba04fe1e6fb3985332141ad5a1db01": 49,
+     "43088488dd181e30cf33f033a48f6e34": 26,
+     "82823bb41f15f8bb7e8818c30144c0d3": 42,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 67,
+     "b013d2011796d3d0702aa700e2175d51": 32,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 29,
+     "130d05f1c452235344b0ab1f0143c52d": 24,
+     "9a3e84e4b806edc0c05d80f186148d31": 20,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 9,
+     "6f685cd602f25976cbbb95152b9623b6": 34,
+     "686698f1856b7c1d15a9730d382767bf": 18,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 5,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "uniqueUsers",
+  "total": 680563,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 680563,
+   "values": [
+    {
+     "key": "218a781130e25af066c8a9850ece6dc5",
+     "total": 258888,
+     "items": [
+      {
+       "id": "35503660",
+       "value": "sucesos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "696915404419d25514c2732772514134",
+     "total": 169595,
+     "items": [
+      {
+       "id": "35503659",
+       "value": "colombia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff6c6aaeff351704969ec7d218bd0772",
+     "total": 101176,
+     "items": [
+      {
+       "id": "35503661",
+       "value": "cartagena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff403366a36471a41506c54cbbe74edd",
+     "total": 74374,
+     "items": [
+      {
+       "id": "35503679",
+       "value": "farandula",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "eff87492a36df9473424d187c8666c3b",
+     "total": 57178,
+     "items": [
+      {
+       "id": "35503664",
+       "value": "regional",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f2ae0dc71dacf42c7934821ec47f9405",
+     "total": 42546,
+     "items": [
+      {
+       "id": "35503658",
+       "value": "deportes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "8f099565cbcfdaa8ac877987c5f3dcd9",
+     "total": 37764,
+     "items": [
+      {
+       "id": "49601245",
+       "value": "Atlántico",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "56aa799b185d2054e26474053104a35a",
+     "total": 23222,
+     "items": [
+      {
+       "id": "49937656",
+       "value": "Loterias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "2dbe68355828eed7bade19cd83730d09",
+     "total": 23124,
+     "items": [
+      {
+       "id": "49959017",
+       "value": "Chances",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "1f794ef3160f6647a23478f16b42fa65",
+     "total": 12706,
+     "items": [
+      {
+       "id": "49601150",
+       "value": "Bolívar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b1a7ac9069bbc9b90da2ba3f5f0bae7d",
+     "total": 15930,
+     "items": [
+      {
+       "id": "35503667",
+       "value": "mundo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "68480ba034a89bf883aeb9a138b82eac",
+     "total": 4968,
+     "items": [
+      {
+       "id": "35503672",
+       "value": "opinion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5aee18df6dedd25a82d6a70d8d65170c",
+     "total": 5921,
+     "items": [
+      {
+       "id": "35503673",
+       "value": "economica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "479be7ff4482512239f074c2d9c89a84",
+     "total": 4105,
+     "items": [
+      {
+       "id": "49601163",
+       "value": "Columna",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6d1e5e2f8433d593dd819634a0b11935",
+     "total": 3809,
+     "items": [
+      {
+       "id": "35503690",
+       "value": "politica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3faafb4ac81c1c312db962ff936e2e3b",
+     "total": 2789,
+     "items": [
+      {
+       "id": "35503669",
+       "value": "sociales",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "769172d6e76fbe0fba04372591f0276e",
+     "total": 3871,
+     "items": [
+      {
+       "id": "35503678",
+       "value": "cultural",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "832ed3378efc89367e2769bba5a9e6c1",
+     "total": 3882,
+     "items": [
+      {
+       "id": "35503666",
+       "value": "salud",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "694801346a7c8762850c3e0e3d5ff237",
+     "total": 2947,
+     "items": [
+      {
+       "id": "49601354",
+       "value": "Informe Empresarial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f0749ebe0ca601416dbb407c3bcb0bcd",
+     "total": 2300,
+     "items": [
+      {
+       "id": "35503670",
+       "value": "suplementos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7722a88546c701b53f0bd9664f3e5658",
+     "total": 653,
+     "items": [
+      {
+       "id": "49616488",
+       "value": "Guajira",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "4b3d7d562ac2d6f30164a49751cfd115",
+     "total": 1720,
+     "items": [
+      {
+       "id": "49601330",
+       "value": "Facetas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "06b426a0231c85ee49ccbb041d6efa5c",
+     "total": 138,
+     "items": [
+      {
+       "id": "49615296",
+       "value": "Magdalena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5b378f8014a15411b664d6576913c39c",
+     "total": 473,
+     "items": [
+      {
+       "id": "49601224",
+       "value": "Córdoba",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ddb1aa7c0e75feeb8dcf89e40ad5d54e",
+     "total": 107,
+     "items": [
+      {
+       "id": "49615511",
+       "value": "Cesar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "930fc173d84e570ee6bae0b6873270e2",
+     "total": 121,
+     "items": [
+      {
+       "id": "49676629",
+       "value": "San andres",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "801b348b9d5c52913e449573fd5b0d27",
+     "total": 1219,
+     "items": [
+      {
+       "id": "35503665",
+       "value": "multimedia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "93cb381d359a4213489e8c91d1c4cf8a",
+     "total": 1247,
+     "items": [
+      {
+       "id": "35503683",
+       "value": "tecnologia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "fddf14c2d9f4466537c9555771bd9f60",
+     "total": 1037,
+     "items": [
+      {
+       "id": "35503663",
+       "value": "educacion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "242094d3878bd053ead87e9a5465dde7",
+     "total": 989,
+     "items": [
+      {
+       "id": "49601111",
+       "value": "Fútbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3aeb458f58da31075c5d2b946876159e",
+     "total": 612,
+     "items": [
+      {
+       "id": "48981712",
+       "value": "Editorial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "c3d0032d58055dddda9f10391e781633",
+     "total": 748,
+     "items": [
+      {
+       "id": "49614807",
+       "value": "Galerias de fotos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "803cf764de885d11c1c25e452477114c",
+     "total": 735,
+     "items": [
+      {
+       "id": "35503705",
+       "value": "ciencia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "0cf582ba1fb42704a2d813bfdb71222c",
+     "total": 664,
+     "items": [
+      {
+       "id": "35503717",
+       "value": "viernes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "814bd7dcb894d01a3592112e11ef19c1",
+     "total": 631,
+     "items": [
+      {
+       "id": "50040224",
+       "value": "Ocio",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ad0d07ec76d5e25552d44e7a956b8626",
+     "total": 566,
+     "items": [
+      {
+       "id": "35503686",
+       "value": "especial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7284ae375d014608f6d4617c838f8ee9",
+     "total": 471,
+     "items": [
+      {
+       "id": "35503701",
+       "value": "ambiente",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "547071140b030040824bc166037f0c7a",
+     "total": 378,
+     "items": [
+      {
+       "id": "49630118",
+       "value": "Dominical",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "83ba04fe1e6fb3985332141ad5a1db01",
+     "total": 390,
+     "items": [
+      {
+       "id": "49601363",
+       "value": "Sucre",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "43088488dd181e30cf33f033a48f6e34",
+     "total": 316,
+     "items": [
+      {
+       "id": "59038108",
+       "value": "Foto del dia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "82823bb41f15f8bb7e8818c30144c0d3",
+     "total": 258,
+     "items": [
+      {
+       "id": "48983738",
+       "value": "Turismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd8b11fc0f13266340a0f2cc2a03ba7e",
+     "total": 231,
+     "items": [
+      {
+       "id": "49613831",
+       "value": "Video",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b013d2011796d3d0702aa700e2175d51",
+     "total": 222,
+     "items": [
+      {
+       "id": "49613746",
+       "value": "Gente y TV",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd80d4cdb2f4f49e4f55ab9be079a5f6",
+     "total": 158,
+     "items": [
+      {
+       "id": "49630333",
+       "value": "Nueva",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "130d05f1c452235344b0ab1f0143c52d",
+     "total": 163,
+     "items": [
+      {
+       "id": "49630110",
+       "value": "Palante chamos y chamas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "9a3e84e4b806edc0c05d80f186148d31",
+     "total": 150,
+     "items": [
+      {
+       "id": "35504182",
+       "value": "autos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "63a9e8c9bd6d607e2f8c1f0477c92768",
+     "total": 114,
+     "items": [
+      {
+       "id": "35504057",
+       "value": "tendencias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6f685cd602f25976cbbb95152b9623b6",
+     "total": 133,
+     "items": [
+      {
+       "id": "48981715",
+       "value": "Ciclismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "686698f1856b7c1d15a9730d382767bf",
+     "total": 102,
+     "items": [
+      {
+       "id": "49613959",
+       "value": "Béisbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5bd2d51fcbf706216fea95c251a6e3c5",
+     "total": 71,
+     "items": [
+      {
+       "id": "49601296",
+       "value": "Independencia de Cartagena",
+       "type": "section"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "218a781130e25af066c8a9850ece6dc5": 114468,
+     "696915404419d25514c2732772514134": 8107,
+     "ff6c6aaeff351704969ec7d218bd0772": 19284,
+     "ff403366a36471a41506c54cbbe74edd": 9632,
+     "eff87492a36df9473424d187c8666c3b": 14676,
+     "f2ae0dc71dacf42c7934821ec47f9405": 5007,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 11430,
+     "56aa799b185d2054e26474053104a35a": 3413,
+     "2dbe68355828eed7bade19cd83730d09": 3391,
+     "1f794ef3160f6647a23478f16b42fa65": 2835,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 4117,
+     "68480ba034a89bf883aeb9a138b82eac": 1064,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1071,
+     "479be7ff4482512239f074c2d9c89a84": 792,
+     "6d1e5e2f8433d593dd819634a0b11935": 503,
+     "3faafb4ac81c1c312db962ff936e2e3b": 440,
+     "769172d6e76fbe0fba04372591f0276e": 648,
+     "832ed3378efc89367e2769bba5a9e6c1": 819,
+     "694801346a7c8762850c3e0e3d5ff237": 274,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 312,
+     "7722a88546c701b53f0bd9664f3e5658": 17,
+     "4b3d7d562ac2d6f30164a49751cfd115": 241,
+     "06b426a0231c85ee49ccbb041d6efa5c": 17,
+     "5b378f8014a15411b664d6576913c39c": 54,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 11,
+     "930fc173d84e570ee6bae0b6873270e2": 19,
+     "801b348b9d5c52913e449573fd5b0d27": 181,
+     "93cb381d359a4213489e8c91d1c4cf8a": 137,
+     "fddf14c2d9f4466537c9555771bd9f60": 166,
+     "242094d3878bd053ead87e9a5465dde7": 173,
+     "3aeb458f58da31075c5d2b946876159e": 249,
+     "c3d0032d58055dddda9f10391e781633": 108,
+     "803cf764de885d11c1c25e452477114c": 83,
+     "0cf582ba1fb42704a2d813bfdb71222c": 119,
+     "814bd7dcb894d01a3592112e11ef19c1": 76,
+     "ad0d07ec76d5e25552d44e7a956b8626": 65,
+     "7284ae375d014608f6d4617c838f8ee9": 77,
+     "547071140b030040824bc166037f0c7a": 58,
+     "83ba04fe1e6fb3985332141ad5a1db01": 67,
+     "43088488dd181e30cf33f033a48f6e34": 53,
+     "82823bb41f15f8bb7e8818c30144c0d3": 45,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 34,
+     "b013d2011796d3d0702aa700e2175d51": 29,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 12,
+     "130d05f1c452235344b0ab1f0143c52d": 24,
+     "9a3e84e4b806edc0c05d80f186148d31": 18,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 16,
+     "6f685cd602f25976cbbb95152b9623b6": 20,
+     "686698f1856b7c1d15a9730d382767bf": 16,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 8,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 53400,
+     "696915404419d25514c2732772514134": 27738,
+     "ff6c6aaeff351704969ec7d218bd0772": 21052,
+     "ff403366a36471a41506c54cbbe74edd": 10903,
+     "eff87492a36df9473424d187c8666c3b": 10868,
+     "f2ae0dc71dacf42c7934821ec47f9405": 9015,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 6117,
+     "56aa799b185d2054e26474053104a35a": 4613,
+     "2dbe68355828eed7bade19cd83730d09": 4598,
+     "1f794ef3160f6647a23478f16b42fa65": 4092,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 3314,
+     "68480ba034a89bf883aeb9a138b82eac": 641,
+     "5aee18df6dedd25a82d6a70d8d65170c": 951,
+     "479be7ff4482512239f074c2d9c89a84": 509,
+     "6d1e5e2f8433d593dd819634a0b11935": 510,
+     "3faafb4ac81c1c312db962ff936e2e3b": 422,
+     "769172d6e76fbe0fba04372591f0276e": 555,
+     "832ed3378efc89367e2769bba5a9e6c1": 339,
+     "694801346a7c8762850c3e0e3d5ff237": 246,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 296,
+     "7722a88546c701b53f0bd9664f3e5658": 156,
+     "4b3d7d562ac2d6f30164a49751cfd115": 214,
+     "06b426a0231c85ee49ccbb041d6efa5c": 16,
+     "5b378f8014a15411b664d6576913c39c": 86,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 14,
+     "930fc173d84e570ee6bae0b6873270e2": 18,
+     "801b348b9d5c52913e449573fd5b0d27": 186,
+     "93cb381d359a4213489e8c91d1c4cf8a": 140,
+     "fddf14c2d9f4466537c9555771bd9f60": 158,
+     "242094d3878bd053ead87e9a5465dde7": 136,
+     "3aeb458f58da31075c5d2b946876159e": 84,
+     "c3d0032d58055dddda9f10391e781633": 116,
+     "803cf764de885d11c1c25e452477114c": 73,
+     "0cf582ba1fb42704a2d813bfdb71222c": 94,
+     "814bd7dcb894d01a3592112e11ef19c1": 101,
+     "ad0d07ec76d5e25552d44e7a956b8626": 72,
+     "7284ae375d014608f6d4617c838f8ee9": 58,
+     "547071140b030040824bc166037f0c7a": 53,
+     "83ba04fe1e6fb3985332141ad5a1db01": 48,
+     "43088488dd181e30cf33f033a48f6e34": 65,
+     "82823bb41f15f8bb7e8818c30144c0d3": 54,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 34,
+     "b013d2011796d3d0702aa700e2175d51": 33,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 24,
+     "130d05f1c452235344b0ab1f0143c52d": 23,
+     "9a3e84e4b806edc0c05d80f186148d31": 10,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 11,
+     "6f685cd602f25976cbbb95152b9623b6": 20,
+     "686698f1856b7c1d15a9730d382767bf": 10,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 8,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 35495,
+     "696915404419d25514c2732772514134": 22133,
+     "ff6c6aaeff351704969ec7d218bd0772": 27486,
+     "ff403366a36471a41506c54cbbe74edd": 16564,
+     "eff87492a36df9473424d187c8666c3b": 5107,
+     "f2ae0dc71dacf42c7934821ec47f9405": 8523,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 314,
+     "56aa799b185d2054e26474053104a35a": 3561,
+     "2dbe68355828eed7bade19cd83730d09": 3537,
+     "1f794ef3160f6647a23478f16b42fa65": 1685,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2566,
+     "68480ba034a89bf883aeb9a138b82eac": 778,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1009,
+     "479be7ff4482512239f074c2d9c89a84": 654,
+     "6d1e5e2f8433d593dd819634a0b11935": 511,
+     "3faafb4ac81c1c312db962ff936e2e3b": 437,
+     "769172d6e76fbe0fba04372591f0276e": 496,
+     "832ed3378efc89367e2769bba5a9e6c1": 397,
+     "694801346a7c8762850c3e0e3d5ff237": 601,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 306,
+     "7722a88546c701b53f0bd9664f3e5658": 343,
+     "4b3d7d562ac2d6f30164a49751cfd115": 224,
+     "06b426a0231c85ee49ccbb041d6efa5c": 14,
+     "5b378f8014a15411b664d6576913c39c": 64,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13,
+     "930fc173d84e570ee6bae0b6873270e2": 20,
+     "801b348b9d5c52913e449573fd5b0d27": 174,
+     "93cb381d359a4213489e8c91d1c4cf8a": 131,
+     "fddf14c2d9f4466537c9555771bd9f60": 164,
+     "242094d3878bd053ead87e9a5465dde7": 135,
+     "3aeb458f58da31075c5d2b946876159e": 74,
+     "c3d0032d58055dddda9f10391e781633": 120,
+     "803cf764de885d11c1c25e452477114c": 53,
+     "0cf582ba1fb42704a2d813bfdb71222c": 87,
+     "814bd7dcb894d01a3592112e11ef19c1": 101,
+     "ad0d07ec76d5e25552d44e7a956b8626": 49,
+     "7284ae375d014608f6d4617c838f8ee9": 64,
+     "547071140b030040824bc166037f0c7a": 64,
+     "83ba04fe1e6fb3985332141ad5a1db01": 67,
+     "43088488dd181e30cf33f033a48f6e34": 44,
+     "82823bb41f15f8bb7e8818c30144c0d3": 30,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 32,
+     "b013d2011796d3d0702aa700e2175d51": 32,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 20,
+     "130d05f1c452235344b0ab1f0143c52d": 21,
+     "9a3e84e4b806edc0c05d80f186148d31": 13,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 16,
+     "6f685cd602f25976cbbb95152b9623b6": 17,
+     "686698f1856b7c1d15a9730d382767bf": 22,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 15,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 21907,
+     "696915404419d25514c2732772514134": 35285,
+     "ff6c6aaeff351704969ec7d218bd0772": 21021,
+     "ff403366a36471a41506c54cbbe74edd": 12394,
+     "eff87492a36df9473424d187c8666c3b": 4899,
+     "f2ae0dc71dacf42c7934821ec47f9405": 5592,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 299,
+     "56aa799b185d2054e26474053104a35a": 5017,
+     "2dbe68355828eed7bade19cd83730d09": 5003,
+     "1f794ef3160f6647a23478f16b42fa65": 3096,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2111,
+     "68480ba034a89bf883aeb9a138b82eac": 837,
+     "5aee18df6dedd25a82d6a70d8d65170c": 769,
+     "479be7ff4482512239f074c2d9c89a84": 682,
+     "6d1e5e2f8433d593dd819634a0b11935": 597,
+     "3faafb4ac81c1c312db962ff936e2e3b": 518,
+     "769172d6e76fbe0fba04372591f0276e": 784,
+     "832ed3378efc89367e2769bba5a9e6c1": 435,
+     "694801346a7c8762850c3e0e3d5ff237": 1024,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 326,
+     "7722a88546c701b53f0bd9664f3e5658": 62,
+     "4b3d7d562ac2d6f30164a49751cfd115": 252,
+     "06b426a0231c85ee49ccbb041d6efa5c": 24,
+     "5b378f8014a15411b664d6576913c39c": 71,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 18,
+     "930fc173d84e570ee6bae0b6873270e2": 19,
+     "801b348b9d5c52913e449573fd5b0d27": 197,
+     "93cb381d359a4213489e8c91d1c4cf8a": 132,
+     "fddf14c2d9f4466537c9555771bd9f60": 173,
+     "242094d3878bd053ead87e9a5465dde7": 125,
+     "3aeb458f58da31075c5d2b946876159e": 98,
+     "c3d0032d58055dddda9f10391e781633": 118,
+     "803cf764de885d11c1c25e452477114c": 80,
+     "0cf582ba1fb42704a2d813bfdb71222c": 100,
+     "814bd7dcb894d01a3592112e11ef19c1": 99,
+     "ad0d07ec76d5e25552d44e7a956b8626": 96,
+     "7284ae375d014608f6d4617c838f8ee9": 58,
+     "547071140b030040824bc166037f0c7a": 49,
+     "83ba04fe1e6fb3985332141ad5a1db01": 54,
+     "43088488dd181e30cf33f033a48f6e34": 51,
+     "82823bb41f15f8bb7e8818c30144c0d3": 22,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 42,
+     "b013d2011796d3d0702aa700e2175d51": 31,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 22,
+     "130d05f1c452235344b0ab1f0143c52d": 26,
+     "9a3e84e4b806edc0c05d80f186148d31": 16,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 22,
+     "6f685cd602f25976cbbb95152b9623b6": 19,
+     "686698f1856b7c1d15a9730d382767bf": 17,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 14,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 23475,
+     "696915404419d25514c2732772514134": 32138,
+     "ff6c6aaeff351704969ec7d218bd0772": 17500,
+     "ff403366a36471a41506c54cbbe74edd": 10517,
+     "eff87492a36df9473424d187c8666c3b": 4108,
+     "f2ae0dc71dacf42c7934821ec47f9405": 9296,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 822,
+     "56aa799b185d2054e26474053104a35a": 3213,
+     "2dbe68355828eed7bade19cd83730d09": 3203,
+     "1f794ef3160f6647a23478f16b42fa65": 1301,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2129,
+     "68480ba034a89bf883aeb9a138b82eac": 896,
+     "5aee18df6dedd25a82d6a70d8d65170c": 900,
+     "479be7ff4482512239f074c2d9c89a84": 790,
+     "6d1e5e2f8433d593dd819634a0b11935": 937,
+     "3faafb4ac81c1c312db962ff936e2e3b": 405,
+     "769172d6e76fbe0fba04372591f0276e": 547,
+     "832ed3378efc89367e2769bba5a9e6c1": 859,
+     "694801346a7c8762850c3e0e3d5ff237": 374,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 376,
+     "7722a88546c701b53f0bd9664f3e5658": 34,
+     "4b3d7d562ac2d6f30164a49751cfd115": 277,
+     "06b426a0231c85ee49ccbb041d6efa5c": 32,
+     "5b378f8014a15411b664d6576913c39c": 75,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 19,
+     "930fc173d84e570ee6bae0b6873270e2": 13,
+     "801b348b9d5c52913e449573fd5b0d27": 171,
+     "93cb381d359a4213489e8c91d1c4cf8a": 281,
+     "fddf14c2d9f4466537c9555771bd9f60": 117,
+     "242094d3878bd053ead87e9a5465dde7": 159,
+     "3aeb458f58da31075c5d2b946876159e": 92,
+     "c3d0032d58055dddda9f10391e781633": 94,
+     "803cf764de885d11c1c25e452477114c": 222,
+     "0cf582ba1fb42704a2d813bfdb71222c": 130,
+     "814bd7dcb894d01a3592112e11ef19c1": 81,
+     "ad0d07ec76d5e25552d44e7a956b8626": 122,
+     "7284ae375d014608f6d4617c838f8ee9": 97,
+     "547071140b030040824bc166037f0c7a": 56,
+     "83ba04fe1e6fb3985332141ad5a1db01": 52,
+     "43088488dd181e30cf33f033a48f6e34": 35,
+     "82823bb41f15f8bb7e8818c30144c0d3": 44,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 34,
+     "b013d2011796d3d0702aa700e2175d51": 29,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 30,
+     "130d05f1c452235344b0ab1f0143c52d": 30,
+     "9a3e84e4b806edc0c05d80f186148d31": 34,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 20,
+     "6f685cd602f25976cbbb95152b9623b6": 12,
+     "686698f1856b7c1d15a9730d382767bf": 11,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 12,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 24398,
+     "696915404419d25514c2732772514134": 42816,
+     "ff6c6aaeff351704969ec7d218bd0772": 10159,
+     "ff403366a36471a41506c54cbbe74edd": 11545,
+     "eff87492a36df9473424d187c8666c3b": 7292,
+     "f2ae0dc71dacf42c7934821ec47f9405": 6917,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 5457,
+     "56aa799b185d2054e26474053104a35a": 4237,
+     "2dbe68355828eed7bade19cd83730d09": 4223,
+     "1f794ef3160f6647a23478f16b42fa65": 407,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 1722,
+     "68480ba034a89bf883aeb9a138b82eac": 744,
+     "5aee18df6dedd25a82d6a70d8d65170c": 786,
+     "479be7ff4482512239f074c2d9c89a84": 641,
+     "6d1e5e2f8433d593dd819634a0b11935": 454,
+     "3faafb4ac81c1c312db962ff936e2e3b": 443,
+     "769172d6e76fbe0fba04372591f0276e": 481,
+     "832ed3378efc89367e2769bba5a9e6c1": 735,
+     "694801346a7c8762850c3e0e3d5ff237": 272,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 402,
+     "7722a88546c701b53f0bd9664f3e5658": 25,
+     "4b3d7d562ac2d6f30164a49751cfd115": 295,
+     "06b426a0231c85ee49ccbb041d6efa5c": 19,
+     "5b378f8014a15411b664d6576913c39c": 64,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 19,
+     "930fc173d84e570ee6bae0b6873270e2": 17,
+     "801b348b9d5c52913e449573fd5b0d27": 164,
+     "93cb381d359a4213489e8c91d1c4cf8a": 211,
+     "fddf14c2d9f4466537c9555771bd9f60": 149,
+     "242094d3878bd053ead87e9a5465dde7": 133,
+     "3aeb458f58da31075c5d2b946876159e": 71,
+     "c3d0032d58055dddda9f10391e781633": 88,
+     "803cf764de885d11c1c25e452477114c": 170,
+     "0cf582ba1fb42704a2d813bfdb71222c": 103,
+     "814bd7dcb894d01a3592112e11ef19c1": 98,
+     "ad0d07ec76d5e25552d44e7a956b8626": 130,
+     "7284ae375d014608f6d4617c838f8ee9": 85,
+     "547071140b030040824bc166037f0c7a": 64,
+     "83ba04fe1e6fb3985332141ad5a1db01": 51,
+     "43088488dd181e30cf33f033a48f6e34": 41,
+     "82823bb41f15f8bb7e8818c30144c0d3": 37,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 32,
+     "b013d2011796d3d0702aa700e2175d51": 38,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 26,
+     "130d05f1c452235344b0ab1f0143c52d": 23,
+     "9a3e84e4b806edc0c05d80f186148d31": 44,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 20,
+     "6f685cd602f25976cbbb95152b9623b6": 22,
+     "686698f1856b7c1d15a9730d382767bf": 9,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 7,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 35147,
+     "696915404419d25514c2732772514134": 23984,
+     "ff6c6aaeff351704969ec7d218bd0772": 11210,
+     "ff403366a36471a41506c54cbbe74edd": 9501,
+     "eff87492a36df9473424d187c8666c3b": 18179,
+     "f2ae0dc71dacf42c7934821ec47f9405": 4620,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 16032,
+     "56aa799b185d2054e26474053104a35a": 3958,
+     "2dbe68355828eed7bade19cd83730d09": 3946,
+     "1f794ef3160f6647a23478f16b42fa65": 1673,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 1374,
+     "68480ba034a89bf883aeb9a138b82eac": 652,
+     "5aee18df6dedd25a82d6a70d8d65170c": 666,
+     "479be7ff4482512239f074c2d9c89a84": 561,
+     "6d1e5e2f8433d593dd819634a0b11935": 411,
+     "3faafb4ac81c1c312db962ff936e2e3b": 437,
+     "769172d6e76fbe0fba04372591f0276e": 441,
+     "832ed3378efc89367e2769bba5a9e6c1": 325,
+     "694801346a7c8762850c3e0e3d5ff237": 261,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 314,
+     "7722a88546c701b53f0bd9664f3e5658": 17,
+     "4b3d7d562ac2d6f30164a49751cfd115": 242,
+     "06b426a0231c85ee49ccbb041d6efa5c": 17,
+     "5b378f8014a15411b664d6576913c39c": 62,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13,
+     "930fc173d84e570ee6bae0b6873270e2": 15,
+     "801b348b9d5c52913e449573fd5b0d27": 154,
+     "93cb381d359a4213489e8c91d1c4cf8a": 218,
+     "fddf14c2d9f4466537c9555771bd9f60": 121,
+     "242094d3878bd053ead87e9a5465dde7": 129,
+     "3aeb458f58da31075c5d2b946876159e": 73,
+     "c3d0032d58055dddda9f10391e781633": 108,
+     "803cf764de885d11c1c25e452477114c": 58,
+     "0cf582ba1fb42704a2d813bfdb71222c": 46,
+     "814bd7dcb894d01a3592112e11ef19c1": 88,
+     "ad0d07ec76d5e25552d44e7a956b8626": 32,
+     "7284ae375d014608f6d4617c838f8ee9": 34,
+     "547071140b030040824bc166037f0c7a": 41,
+     "83ba04fe1e6fb3985332141ad5a1db01": 57,
+     "43088488dd181e30cf33f033a48f6e34": 37,
+     "82823bb41f15f8bb7e8818c30144c0d3": 26,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 24,
+     "b013d2011796d3d0702aa700e2175d51": 31,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 25,
+     "130d05f1c452235344b0ab1f0143c52d": 17,
+     "9a3e84e4b806edc0c05d80f186148d31": 15,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 10,
+     "6f685cd602f25976cbbb95152b9623b6": 23,
+     "686698f1856b7c1d15a9730d382767bf": 18,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 7,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 561294,
+   "values": [
+    {
+     "key": "218a781130e25af066c8a9850ece6dc5",
+     "total": 156838,
+     "items": [
+      {
+       "id": "35503660",
+       "value": "sucesos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "696915404419d25514c2732772514134",
+     "total": 92172,
+     "items": [
+      {
+       "id": "35503659",
+       "value": "colombia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff6c6aaeff351704969ec7d218bd0772",
+     "total": 128065,
+     "items": [
+      {
+       "id": "35503661",
+       "value": "cartagena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff403366a36471a41506c54cbbe74edd",
+     "total": 139246,
+     "items": [
+      {
+       "id": "35503679",
+       "value": "farandula",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "eff87492a36df9473424d187c8666c3b",
+     "total": 33682,
+     "items": [
+      {
+       "id": "35503664",
+       "value": "regional",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f2ae0dc71dacf42c7934821ec47f9405",
+     "total": 32259,
+     "items": [
+      {
+       "id": "35503658",
+       "value": "deportes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "8f099565cbcfdaa8ac877987c5f3dcd9",
+     "total": 12433,
+     "items": [
+      {
+       "id": "49601245",
+       "value": "Atlántico",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "56aa799b185d2054e26474053104a35a",
+     "total": 22423,
+     "items": [
+      {
+       "id": "49937656",
+       "value": "Loterias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "2dbe68355828eed7bade19cd83730d09",
+     "total": 22324,
+     "items": [
+      {
+       "id": "49959017",
+       "value": "Chances",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "1f794ef3160f6647a23478f16b42fa65",
+     "total": 14096,
+     "items": [
+      {
+       "id": "49601150",
+       "value": "Bolívar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b1a7ac9069bbc9b90da2ba3f5f0bae7d",
+     "total": 23213,
+     "items": [
+      {
+       "id": "35503667",
+       "value": "mundo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "68480ba034a89bf883aeb9a138b82eac",
+     "total": 5400,
+     "items": [
+      {
+       "id": "35503672",
+       "value": "opinion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5aee18df6dedd25a82d6a70d8d65170c",
+     "total": 14447,
+     "items": [
+      {
+       "id": "35503673",
+       "value": "economica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "479be7ff4482512239f074c2d9c89a84",
+     "total": 4738,
+     "items": [
+      {
+       "id": "49601163",
+       "value": "Columna",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6d1e5e2f8433d593dd819634a0b11935",
+     "total": 5743,
+     "items": [
+      {
+       "id": "35503690",
+       "value": "politica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3faafb4ac81c1c312db962ff936e2e3b",
+     "total": 2946,
+     "items": [
+      {
+       "id": "35503669",
+       "value": "sociales",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "769172d6e76fbe0fba04372591f0276e",
+     "total": 4431,
+     "items": [
+      {
+       "id": "35503678",
+       "value": "cultural",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "832ed3378efc89367e2769bba5a9e6c1",
+     "total": 3920,
+     "items": [
+      {
+       "id": "35503666",
+       "value": "salud",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "694801346a7c8762850c3e0e3d5ff237",
+     "total": 5715,
+     "items": [
+      {
+       "id": "49601354",
+       "value": "Informe Empresarial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f0749ebe0ca601416dbb407c3bcb0bcd",
+     "total": 2457,
+     "items": [
+      {
+       "id": "35503670",
+       "value": "suplementos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7722a88546c701b53f0bd9664f3e5658",
+     "total": 128,
+     "items": [
+      {
+       "id": "49616488",
+       "value": "Guajira",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "4b3d7d562ac2d6f30164a49751cfd115",
+     "total": 1881,
+     "items": [
+      {
+       "id": "49601330",
+       "value": "Facetas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "06b426a0231c85ee49ccbb041d6efa5c",
+     "total": 153,
+     "items": [
+      {
+       "id": "49615296",
+       "value": "Magdalena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5b378f8014a15411b664d6576913c39c",
+     "total": 547,
+     "items": [
+      {
+       "id": "49601224",
+       "value": "Córdoba",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ddb1aa7c0e75feeb8dcf89e40ad5d54e",
+     "total": 91,
+     "items": [
+      {
+       "id": "49615511",
+       "value": "Cesar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "930fc173d84e570ee6bae0b6873270e2",
+     "total": 115,
+     "items": [
+      {
+       "id": "49676629",
+       "value": "San andres",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "801b348b9d5c52913e449573fd5b0d27",
+     "total": 1565,
+     "items": [
+      {
+       "id": "35503665",
+       "value": "multimedia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "93cb381d359a4213489e8c91d1c4cf8a",
+     "total": 1395,
+     "items": [
+      {
+       "id": "35503683",
+       "value": "tecnologia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "fddf14c2d9f4466537c9555771bd9f60",
+     "total": 1447,
+     "items": [
+      {
+       "id": "35503663",
+       "value": "educacion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "242094d3878bd053ead87e9a5465dde7",
+     "total": 1325,
+     "items": [
+      {
+       "id": "49601111",
+       "value": "Fútbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3aeb458f58da31075c5d2b946876159e",
+     "total": 497,
+     "items": [
+      {
+       "id": "48981712",
+       "value": "Editorial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "c3d0032d58055dddda9f10391e781633",
+     "total": 916,
+     "items": [
+      {
+       "id": "49614807",
+       "value": "Galerias de fotos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "803cf764de885d11c1c25e452477114c",
+     "total": 642,
+     "items": [
+      {
+       "id": "35503705",
+       "value": "ciencia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "0cf582ba1fb42704a2d813bfdb71222c",
+     "total": 926,
+     "items": [
+      {
+       "id": "35503717",
+       "value": "viernes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "814bd7dcb894d01a3592112e11ef19c1",
+     "total": 529,
+     "items": [
+      {
+       "id": "50040224",
+       "value": "Ocio",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ad0d07ec76d5e25552d44e7a956b8626",
+     "total": 421,
+     "items": [
+      {
+       "id": "35503686",
+       "value": "especial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7284ae375d014608f6d4617c838f8ee9",
+     "total": 537,
+     "items": [
+      {
+       "id": "35503701",
+       "value": "ambiente",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "547071140b030040824bc166037f0c7a",
+     "total": 388,
+     "items": [
+      {
+       "id": "49630118",
+       "value": "Dominical",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "83ba04fe1e6fb3985332141ad5a1db01",
+     "total": 486,
+     "items": [
+      {
+       "id": "49601363",
+       "value": "Sucre",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "43088488dd181e30cf33f033a48f6e34",
+     "total": 216,
+     "items": [
+      {
+       "id": "59038108",
+       "value": "Foto del dia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "82823bb41f15f8bb7e8818c30144c0d3",
+     "total": 240,
+     "items": [
+      {
+       "id": "48983738",
+       "value": "Turismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd8b11fc0f13266340a0f2cc2a03ba7e",
+     "total": 364,
+     "items": [
+      {
+       "id": "49613831",
+       "value": "Video",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b013d2011796d3d0702aa700e2175d51",
+     "total": 269,
+     "items": [
+      {
+       "id": "49613746",
+       "value": "Gente y TV",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd80d4cdb2f4f49e4f55ab9be079a5f6",
+     "total": 170,
+     "items": [
+      {
+       "id": "49630333",
+       "value": "Nueva",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "130d05f1c452235344b0ab1f0143c52d",
+     "total": 170,
+     "items": [
+      {
+       "id": "49630110",
+       "value": "Palante chamos y chamas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "9a3e84e4b806edc0c05d80f186148d31",
+     "total": 113,
+     "items": [
+      {
+       "id": "35504182",
+       "value": "autos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "63a9e8c9bd6d607e2f8c1f0477c92768",
+     "total": 81,
+     "items": [
+      {
+       "id": "35504057",
+       "value": "tendencias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6f685cd602f25976cbbb95152b9623b6",
+     "total": 253,
+     "items": [
+      {
+       "id": "48981715",
+       "value": "Ciclismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "686698f1856b7c1d15a9730d382767bf",
+     "total": 173,
+     "items": [
+      {
+       "id": "49613959",
+       "value": "Béisbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5bd2d51fcbf706216fea95c251a6e3c5",
+     "total": 46,
+     "items": [
+      {
+       "id": "49601296",
+       "value": "Independencia de Cartagena",
+       "type": "section"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "218a781130e25af066c8a9850ece6dc5": 28398,
+     "696915404419d25514c2732772514134": 10714,
+     "ff6c6aaeff351704969ec7d218bd0772": 35155,
+     "ff403366a36471a41506c54cbbe74edd": 22476,
+     "eff87492a36df9473424d187c8666c3b": 6188,
+     "f2ae0dc71dacf42c7934821ec47f9405": 6217,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 1781,
+     "56aa799b185d2054e26474053104a35a": 3649,
+     "2dbe68355828eed7bade19cd83730d09": 3631,
+     "1f794ef3160f6647a23478f16b42fa65": 1604,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2262,
+     "68480ba034a89bf883aeb9a138b82eac": 964,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1207,
+     "479be7ff4482512239f074c2d9c89a84": 852,
+     "6d1e5e2f8433d593dd819634a0b11935": 527,
+     "3faafb4ac81c1c312db962ff936e2e3b": 579,
+     "769172d6e76fbe0fba04372591f0276e": 594,
+     "832ed3378efc89367e2769bba5a9e6c1": 365,
+     "694801346a7c8762850c3e0e3d5ff237": 517,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 335,
+     "7722a88546c701b53f0bd9664f3e5658": 18,
+     "4b3d7d562ac2d6f30164a49751cfd115": 248,
+     "06b426a0231c85ee49ccbb041d6efa5c": 12,
+     "5b378f8014a15411b664d6576913c39c": 48,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 5,
+     "930fc173d84e570ee6bae0b6873270e2": 15,
+     "801b348b9d5c52913e449573fd5b0d27": 195,
+     "93cb381d359a4213489e8c91d1c4cf8a": 143,
+     "fddf14c2d9f4466537c9555771bd9f60": 94,
+     "242094d3878bd053ead87e9a5465dde7": 160,
+     "3aeb458f58da31075c5d2b946876159e": 106,
+     "c3d0032d58055dddda9f10391e781633": 121,
+     "803cf764de885d11c1c25e452477114c": 69,
+     "0cf582ba1fb42704a2d813bfdb71222c": 130,
+     "814bd7dcb894d01a3592112e11ef19c1": 60,
+     "ad0d07ec76d5e25552d44e7a956b8626": 52,
+     "7284ae375d014608f6d4617c838f8ee9": 53,
+     "547071140b030040824bc166037f0c7a": 63,
+     "83ba04fe1e6fb3985332141ad5a1db01": 68,
+     "43088488dd181e30cf33f033a48f6e34": 40,
+     "82823bb41f15f8bb7e8818c30144c0d3": 25,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 44,
+     "b013d2011796d3d0702aa700e2175d51": 36,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 21,
+     "130d05f1c452235344b0ab1f0143c52d": 22,
+     "9a3e84e4b806edc0c05d80f186148d31": 13,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 15,
+     "6f685cd602f25976cbbb95152b9623b6": 25,
+     "686698f1856b7c1d15a9730d382767bf": 20,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 5,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 23581,
+     "696915404419d25514c2732772514134": 24484,
+     "ff6c6aaeff351704969ec7d218bd0772": 28339,
+     "ff403366a36471a41506c54cbbe74edd": 13982,
+     "eff87492a36df9473424d187c8666c3b": 4266,
+     "f2ae0dc71dacf42c7934821ec47f9405": 5178,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 630,
+     "56aa799b185d2054e26474053104a35a": 3165,
+     "2dbe68355828eed7bade19cd83730d09": 3147,
+     "1f794ef3160f6647a23478f16b42fa65": 1805,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2819,
+     "68480ba034a89bf883aeb9a138b82eac": 759,
+     "5aee18df6dedd25a82d6a70d8d65170c": 2283,
+     "479be7ff4482512239f074c2d9c89a84": 628,
+     "6d1e5e2f8433d593dd819634a0b11935": 769,
+     "3faafb4ac81c1c312db962ff936e2e3b": 543,
+     "769172d6e76fbe0fba04372591f0276e": 876,
+     "832ed3378efc89367e2769bba5a9e6c1": 411,
+     "694801346a7c8762850c3e0e3d5ff237": 3388,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 356,
+     "7722a88546c701b53f0bd9664f3e5658": 18,
+     "4b3d7d562ac2d6f30164a49751cfd115": 269,
+     "06b426a0231c85ee49ccbb041d6efa5c": 13,
+     "5b378f8014a15411b664d6576913c39c": 106,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 14,
+     "930fc173d84e570ee6bae0b6873270e2": 11,
+     "801b348b9d5c52913e449573fd5b0d27": 259,
+     "93cb381d359a4213489e8c91d1c4cf8a": 189,
+     "fddf14c2d9f4466537c9555771bd9f60": 157,
+     "242094d3878bd053ead87e9a5465dde7": 175,
+     "3aeb458f58da31075c5d2b946876159e": 116,
+     "c3d0032d58055dddda9f10391e781633": 149,
+     "803cf764de885d11c1c25e452477114c": 119,
+     "0cf582ba1fb42704a2d813bfdb71222c": 118,
+     "814bd7dcb894d01a3592112e11ef19c1": 57,
+     "ad0d07ec76d5e25552d44e7a956b8626": 91,
+     "7284ae375d014608f6d4617c838f8ee9": 108,
+     "547071140b030040824bc166037f0c7a": 55,
+     "83ba04fe1e6fb3985332141ad5a1db01": 104,
+     "43088488dd181e30cf33f033a48f6e34": 32,
+     "82823bb41f15f8bb7e8818c30144c0d3": 28,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 59,
+     "b013d2011796d3d0702aa700e2175d51": 36,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 29,
+     "130d05f1c452235344b0ab1f0143c52d": 28,
+     "9a3e84e4b806edc0c05d80f186148d31": 18,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 11,
+     "6f685cd602f25976cbbb95152b9623b6": 30,
+     "686698f1856b7c1d15a9730d382767bf": 25,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 8,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 33426,
+     "696915404419d25514c2732772514134": 13293,
+     "ff6c6aaeff351704969ec7d218bd0772": 24207,
+     "ff403366a36471a41506c54cbbe74edd": 16194,
+     "eff87492a36df9473424d187c8666c3b": 2543,
+     "f2ae0dc71dacf42c7934821ec47f9405": 6411,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 306,
+     "56aa799b185d2054e26474053104a35a": 3308,
+     "2dbe68355828eed7bade19cd83730d09": 3289,
+     "1f794ef3160f6647a23478f16b42fa65": 1666,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 3513,
+     "68480ba034a89bf883aeb9a138b82eac": 980,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1138,
+     "479be7ff4482512239f074c2d9c89a84": 874,
+     "6d1e5e2f8433d593dd819634a0b11935": 587,
+     "3faafb4ac81c1c312db962ff936e2e3b": 510,
+     "769172d6e76fbe0fba04372591f0276e": 640,
+     "832ed3378efc89367e2769bba5a9e6c1": 357,
+     "694801346a7c8762850c3e0e3d5ff237": 825,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 368,
+     "7722a88546c701b53f0bd9664f3e5658": 19,
+     "4b3d7d562ac2d6f30164a49751cfd115": 295,
+     "06b426a0231c85ee49ccbb041d6efa5c": 14,
+     "5b378f8014a15411b664d6576913c39c": 57,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 12,
+     "930fc173d84e570ee6bae0b6873270e2": 19,
+     "801b348b9d5c52913e449573fd5b0d27": 223,
+     "93cb381d359a4213489e8c91d1c4cf8a": 385,
+     "fddf14c2d9f4466537c9555771bd9f60": 435,
+     "242094d3878bd053ead87e9a5465dde7": 241,
+     "3aeb458f58da31075c5d2b946876159e": 65,
+     "c3d0032d58055dddda9f10391e781633": 141,
+     "803cf764de885d11c1c25e452477114c": 103,
+     "0cf582ba1fb42704a2d813bfdb71222c": 96,
+     "814bd7dcb894d01a3592112e11ef19c1": 74,
+     "ad0d07ec76d5e25552d44e7a956b8626": 56,
+     "7284ae375d014608f6d4617c838f8ee9": 67,
+     "547071140b030040824bc166037f0c7a": 48,
+     "83ba04fe1e6fb3985332141ad5a1db01": 52,
+     "43088488dd181e30cf33f033a48f6e34": 40,
+     "82823bb41f15f8bb7e8818c30144c0d3": 36,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 44,
+     "b013d2011796d3d0702aa700e2175d51": 37,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 28,
+     "130d05f1c452235344b0ab1f0143c52d": 18,
+     "9a3e84e4b806edc0c05d80f186148d31": 12,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 14,
+     "6f685cd602f25976cbbb95152b9623b6": 62,
+     "686698f1856b7c1d15a9730d382767bf": 22,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 7,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 28113,
+     "696915404419d25514c2732772514134": 21231,
+     "ff6c6aaeff351704969ec7d218bd0772": 29135,
+     "ff403366a36471a41506c54cbbe74edd": 22326,
+     "eff87492a36df9473424d187c8666c3b": 4825,
+     "f2ae0dc71dacf42c7934821ec47f9405": 5851,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 514,
+     "56aa799b185d2054e26474053104a35a": 4210,
+     "2dbe68355828eed7bade19cd83730d09": 4197,
+     "1f794ef3160f6647a23478f16b42fa65": 3032,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 3002,
+     "68480ba034a89bf883aeb9a138b82eac": 764,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1332,
+     "479be7ff4482512239f074c2d9c89a84": 618,
+     "6d1e5e2f8433d593dd819634a0b11935": 2309,
+     "3faafb4ac81c1c312db962ff936e2e3b": 515,
+     "769172d6e76fbe0fba04372591f0276e": 638,
+     "832ed3378efc89367e2769bba5a9e6c1": 585,
+     "694801346a7c8762850c3e0e3d5ff237": 509,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 436,
+     "7722a88546c701b53f0bd9664f3e5658": 17,
+     "4b3d7d562ac2d6f30164a49751cfd115": 329,
+     "06b426a0231c85ee49ccbb041d6efa5c": 24,
+     "5b378f8014a15411b664d6576913c39c": 130,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13,
+     "930fc173d84e570ee6bae0b6873270e2": 19,
+     "801b348b9d5c52913e449573fd5b0d27": 273,
+     "93cb381d359a4213489e8c91d1c4cf8a": 275,
+     "fddf14c2d9f4466537c9555771bd9f60": 294,
+     "242094d3878bd053ead87e9a5465dde7": 264,
+     "3aeb458f58da31075c5d2b946876159e": 92,
+     "c3d0032d58055dddda9f10391e781633": 143,
+     "803cf764de885d11c1c25e452477114c": 143,
+     "0cf582ba1fb42704a2d813bfdb71222c": 99,
+     "814bd7dcb894d01a3592112e11ef19c1": 96,
+     "ad0d07ec76d5e25552d44e7a956b8626": 65,
+     "7284ae375d014608f6d4617c838f8ee9": 139,
+     "547071140b030040824bc166037f0c7a": 69,
+     "83ba04fe1e6fb3985332141ad5a1db01": 121,
+     "43088488dd181e30cf33f033a48f6e34": 50,
+     "82823bb41f15f8bb7e8818c30144c0d3": 50,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 66,
+     "b013d2011796d3d0702aa700e2175d51": 49,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 31,
+     "130d05f1c452235344b0ab1f0143c52d": 27,
+     "9a3e84e4b806edc0c05d80f186148d31": 21,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 5,
+     "6f685cd602f25976cbbb95152b9623b6": 48,
+     "686698f1856b7c1d15a9730d382767bf": 49,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 4,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 27588,
+     "696915404419d25514c2732772514134": 13022,
+     "ff6c6aaeff351704969ec7d218bd0772": 25793,
+     "ff403366a36471a41506c54cbbe74edd": 44530,
+     "eff87492a36df9473424d187c8666c3b": 5767,
+     "f2ae0dc71dacf42c7934821ec47f9405": 3622,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 1489,
+     "56aa799b185d2054e26474053104a35a": 4485,
+     "2dbe68355828eed7bade19cd83730d09": 4470,
+     "1f794ef3160f6647a23478f16b42fa65": 3614,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 3684,
+     "68480ba034a89bf883aeb9a138b82eac": 830,
+     "5aee18df6dedd25a82d6a70d8d65170c": 1721,
+     "479be7ff4482512239f074c2d9c89a84": 730,
+     "6d1e5e2f8433d593dd819634a0b11935": 819,
+     "3faafb4ac81c1c312db962ff936e2e3b": 436,
+     "769172d6e76fbe0fba04372591f0276e": 572,
+     "832ed3378efc89367e2769bba5a9e6c1": 574,
+     "694801346a7c8762850c3e0e3d5ff237": 323,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 356,
+     "7722a88546c701b53f0bd9664f3e5658": 21,
+     "4b3d7d562ac2d6f30164a49751cfd115": 273,
+     "06b426a0231c85ee49ccbb041d6efa5c": 43,
+     "5b378f8014a15411b664d6576913c39c": 94,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 18,
+     "930fc173d84e570ee6bae0b6873270e2": 18,
+     "801b348b9d5c52913e449573fd5b0d27": 209,
+     "93cb381d359a4213489e8c91d1c4cf8a": 151,
+     "fddf14c2d9f4466537c9555771bd9f60": 207,
+     "242094d3878bd053ead87e9a5465dde7": 159,
+     "3aeb458f58da31075c5d2b946876159e": 93,
+     "c3d0032d58055dddda9f10391e781633": 116,
+     "803cf764de885d11c1c25e452477114c": 74,
+     "0cf582ba1fb42704a2d813bfdb71222c": 286,
+     "814bd7dcb894d01a3592112e11ef19c1": 98,
+     "ad0d07ec76d5e25552d44e7a956b8626": 57,
+     "7284ae375d014608f6d4617c838f8ee9": 67,
+     "547071140b030040824bc166037f0c7a": 57,
+     "83ba04fe1e6fb3985332141ad5a1db01": 52,
+     "43088488dd181e30cf33f033a48f6e34": 21,
+     "82823bb41f15f8bb7e8818c30144c0d3": 44,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 51,
+     "b013d2011796d3d0702aa700e2175d51": 53,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 19,
+     "130d05f1c452235344b0ab1f0143c52d": 19,
+     "9a3e84e4b806edc0c05d80f186148d31": 20,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 20,
+     "6f685cd602f25976cbbb95152b9623b6": 31,
+     "686698f1856b7c1d15a9730d382767bf": 24,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 9,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 33064,
+     "696915404419d25514c2732772514134": 7975,
+     "ff6c6aaeff351704969ec7d218bd0772": 15529,
+     "ff403366a36471a41506c54cbbe74edd": 27658,
+     "eff87492a36df9473424d187c8666c3b": 4412,
+     "f2ae0dc71dacf42c7934821ec47f9405": 5111,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 1261,
+     "56aa799b185d2054e26474053104a35a": 5032,
+     "2dbe68355828eed7bade19cd83730d09": 5015,
+     "1f794ef3160f6647a23478f16b42fa65": 2184,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 7808,
+     "68480ba034a89bf883aeb9a138b82eac": 762,
+     "5aee18df6dedd25a82d6a70d8d65170c": 3958,
+     "479be7ff4482512239f074c2d9c89a84": 711,
+     "6d1e5e2f8433d593dd819634a0b11935": 471,
+     "3faafb4ac81c1c312db962ff936e2e3b": 363,
+     "769172d6e76fbe0fba04372591f0276e": 550,
+     "832ed3378efc89367e2769bba5a9e6c1": 429,
+     "694801346a7c8762850c3e0e3d5ff237": 245,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 338,
+     "7722a88546c701b53f0bd9664f3e5658": 18,
+     "4b3d7d562ac2d6f30164a49751cfd115": 263,
+     "06b426a0231c85ee49ccbb041d6efa5c": 28,
+     "5b378f8014a15411b664d6576913c39c": 60,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 16,
+     "930fc173d84e570ee6bae0b6873270e2": 20,
+     "801b348b9d5c52913e449573fd5b0d27": 199,
+     "93cb381d359a4213489e8c91d1c4cf8a": 120,
+     "fddf14c2d9f4466537c9555771bd9f60": 187,
+     "242094d3878bd053ead87e9a5465dde7": 169,
+     "3aeb458f58da31075c5d2b946876159e": 35,
+     "c3d0032d58055dddda9f10391e781633": 126,
+     "803cf764de885d11c1c25e452477114c": 65,
+     "0cf582ba1fb42704a2d813bfdb71222c": 131,
+     "814bd7dcb894d01a3592112e11ef19c1": 77,
+     "ad0d07ec76d5e25552d44e7a956b8626": 57,
+     "7284ae375d014608f6d4617c838f8ee9": 54,
+     "547071140b030040824bc166037f0c7a": 52,
+     "83ba04fe1e6fb3985332141ad5a1db01": 43,
+     "43088488dd181e30cf33f033a48f6e34": 16,
+     "82823bb41f15f8bb7e8818c30144c0d3": 22,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 39,
+     "b013d2011796d3d0702aa700e2175d51": 29,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 14,
+     "130d05f1c452235344b0ab1f0143c52d": 32,
+     "9a3e84e4b806edc0c05d80f186148d31": 11,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 7,
+     "6f685cd602f25976cbbb95152b9623b6": 23,
+     "686698f1856b7c1d15a9730d382767bf": 17,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 9,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 33968,
+     "696915404419d25514c2732772514134": 12503,
+     "ff6c6aaeff351704969ec7d218bd0772": 13843,
+     "ff403366a36471a41506c54cbbe74edd": 12777,
+     "eff87492a36df9473424d187c8666c3b": 10038,
+     "f2ae0dc71dacf42c7934821ec47f9405": 3908,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 6845,
+     "56aa799b185d2054e26474053104a35a": 3034,
+     "2dbe68355828eed7bade19cd83730d09": 3017,
+     "1f794ef3160f6647a23478f16b42fa65": 2707,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 2050,
+     "68480ba034a89bf883aeb9a138b82eac": 1000,
+     "5aee18df6dedd25a82d6a70d8d65170c": 3261,
+     "479be7ff4482512239f074c2d9c89a84": 879,
+     "6d1e5e2f8433d593dd819634a0b11935": 397,
+     "3faafb4ac81c1c312db962ff936e2e3b": 398,
+     "769172d6e76fbe0fba04372591f0276e": 649,
+     "832ed3378efc89367e2769bba5a9e6c1": 1237,
+     "694801346a7c8762850c3e0e3d5ff237": 216,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 303,
+     "7722a88546c701b53f0bd9664f3e5658": 17,
+     "4b3d7d562ac2d6f30164a49751cfd115": 227,
+     "06b426a0231c85ee49ccbb041d6efa5c": 19,
+     "5b378f8014a15411b664d6576913c39c": 54,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13,
+     "930fc173d84e570ee6bae0b6873270e2": 13,
+     "801b348b9d5c52913e449573fd5b0d27": 213,
+     "93cb381d359a4213489e8c91d1c4cf8a": 145,
+     "fddf14c2d9f4466537c9555771bd9f60": 107,
+     "242094d3878bd053ead87e9a5465dde7": 158,
+     "3aeb458f58da31075c5d2b946876159e": 116,
+     "c3d0032d58055dddda9f10391e781633": 124,
+     "803cf764de885d11c1c25e452477114c": 73,
+     "0cf582ba1fb42704a2d813bfdb71222c": 85,
+     "814bd7dcb894d01a3592112e11ef19c1": 87,
+     "ad0d07ec76d5e25552d44e7a956b8626": 47,
+     "7284ae375d014608f6d4617c838f8ee9": 52,
+     "547071140b030040824bc166037f0c7a": 53,
+     "83ba04fe1e6fb3985332141ad5a1db01": 47,
+     "43088488dd181e30cf33f033a48f6e34": 25,
+     "82823bb41f15f8bb7e8818c30144c0d3": 36,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 63,
+     "b013d2011796d3d0702aa700e2175d51": 31,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 28,
+     "130d05f1c452235344b0ab1f0143c52d": 24,
+     "9a3e84e4b806edc0c05d80f186148d31": 20,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 9,
+     "6f685cd602f25976cbbb95152b9623b6": 34,
+     "686698f1856b7c1d15a9730d382767bf": 18,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 4,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 85.48,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 85.48,
+   "values": [
+    {
+     "key": "218a781130e25af066c8a9850ece6dc5",
+     "total": 81.34,
+     "items": [
+      {
+       "id": "35503660",
+       "value": "sucesos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "696915404419d25514c2732772514134",
+     "total": 101.38,
+     "items": [
+      {
+       "id": "35503659",
+       "value": "colombia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff6c6aaeff351704969ec7d218bd0772",
+     "total": 76.65,
+     "items": [
+      {
+       "id": "35503661",
+       "value": "cartagena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff403366a36471a41506c54cbbe74edd",
+     "total": 100.3,
+     "items": [
+      {
+       "id": "35503679",
+       "value": "farandula",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "eff87492a36df9473424d187c8666c3b",
+     "total": 56.49,
+     "items": [
+      {
+       "id": "35503664",
+       "value": "regional",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f2ae0dc71dacf42c7934821ec47f9405",
+     "total": 95.8,
+     "items": [
+      {
+       "id": "35503658",
+       "value": "deportes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "8f099565cbcfdaa8ac877987c5f3dcd9",
+     "total": 59.64,
+     "items": [
+      {
+       "id": "49601245",
+       "value": "Atlántico",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "56aa799b185d2054e26474053104a35a",
+     "total": 43.25,
+     "items": [
+      {
+       "id": "49937656",
+       "value": "Loterias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "2dbe68355828eed7bade19cd83730d09",
+     "total": 43.3,
+     "items": [
+      {
+       "id": "49959017",
+       "value": "Chances",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "1f794ef3160f6647a23478f16b42fa65",
+     "total": 63.03,
+     "items": [
+      {
+       "id": "49601150",
+       "value": "Bolívar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b1a7ac9069bbc9b90da2ba3f5f0bae7d",
+     "total": 105.48,
+     "items": [
+      {
+       "id": "35503667",
+       "value": "mundo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "68480ba034a89bf883aeb9a138b82eac",
+     "total": 132.75,
+     "items": [
+      {
+       "id": "35503672",
+       "value": "opinion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5aee18df6dedd25a82d6a70d8d65170c",
+     "total": 100.8,
+     "items": [
+      {
+       "id": "35503673",
+       "value": "economica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "479be7ff4482512239f074c2d9c89a84",
+     "total": 138.18,
+     "items": [
+      {
+       "id": "49601163",
+       "value": "Columna",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6d1e5e2f8433d593dd819634a0b11935",
+     "total": 79.07,
+     "items": [
+      {
+       "id": "35503690",
+       "value": "politica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3faafb4ac81c1c312db962ff936e2e3b",
+     "total": 91.54,
+     "items": [
+      {
+       "id": "35503669",
+       "value": "sociales",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "769172d6e76fbe0fba04372591f0276e",
+     "total": 81.3,
+     "items": [
+      {
+       "id": "35503678",
+       "value": "cultural",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "832ed3378efc89367e2769bba5a9e6c1",
+     "total": 113.18,
+     "items": [
+      {
+       "id": "35503666",
+       "value": "salud",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "694801346a7c8762850c3e0e3d5ff237",
+     "total": 128.92,
+     "items": [
+      {
+       "id": "49601354",
+       "value": "Informe Empresarial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f0749ebe0ca601416dbb407c3bcb0bcd",
+     "total": 116.2,
+     "items": [
+      {
+       "id": "35503670",
+       "value": "suplementos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7722a88546c701b53f0bd9664f3e5658",
+     "total": 30.1,
+     "items": [
+      {
+       "id": "49616488",
+       "value": "Guajira",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "4b3d7d562ac2d6f30164a49751cfd115",
+     "total": 113.27,
+     "items": [
+      {
+       "id": "49601330",
+       "value": "Facetas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "06b426a0231c85ee49ccbb041d6efa5c",
+     "total": 15.9,
+     "items": [
+      {
+       "id": "49615296",
+       "value": "Magdalena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5b378f8014a15411b664d6576913c39c",
+     "total": 18.8,
+     "items": [
+      {
+       "id": "49601224",
+       "value": "Córdoba",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ddb1aa7c0e75feeb8dcf89e40ad5d54e",
+     "total": 12.82,
+     "items": [
+      {
+       "id": "49615511",
+       "value": "Cesar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "930fc173d84e570ee6bae0b6873270e2",
+     "total": 10.86,
+     "items": [
+      {
+       "id": "49676629",
+       "value": "San andres",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "801b348b9d5c52913e449573fd5b0d27",
+     "total": 55.26,
+     "items": [
+      {
+       "id": "35503665",
+       "value": "multimedia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "93cb381d359a4213489e8c91d1c4cf8a",
+     "total": 68.09,
+     "items": [
+      {
+       "id": "35503683",
+       "value": "tecnologia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "fddf14c2d9f4466537c9555771bd9f60",
+     "total": 83.64,
+     "items": [
+      {
+       "id": "35503663",
+       "value": "educacion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "242094d3878bd053ead87e9a5465dde7",
+     "total": 25.03,
+     "items": [
+      {
+       "id": "49601111",
+       "value": "Fútbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3aeb458f58da31075c5d2b946876159e",
+     "total": 140.73,
+     "items": [
+      {
+       "id": "48981712",
+       "value": "Editorial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "c3d0032d58055dddda9f10391e781633",
+     "total": 47.25,
+     "items": [
+      {
+       "id": "49614807",
+       "value": "Galerias de fotos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "803cf764de885d11c1c25e452477114c",
+     "total": 44.58,
+     "items": [
+      {
+       "id": "35503705",
+       "value": "ciencia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "0cf582ba1fb42704a2d813bfdb71222c",
+     "total": 105.97,
+     "items": [
+      {
+       "id": "35503717",
+       "value": "viernes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "814bd7dcb894d01a3592112e11ef19c1",
+     "total": 104.93,
+     "items": [
+      {
+       "id": "50040224",
+       "value": "Ocio",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ad0d07ec76d5e25552d44e7a956b8626",
+     "total": 80.48,
+     "items": [
+      {
+       "id": "35503686",
+       "value": "especial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7284ae375d014608f6d4617c838f8ee9",
+     "total": 55.26,
+     "items": [
+      {
+       "id": "35503701",
+       "value": "ambiente",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "547071140b030040824bc166037f0c7a",
+     "total": 151.51,
+     "items": [
+      {
+       "id": "49630118",
+       "value": "Dominical",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "83ba04fe1e6fb3985332141ad5a1db01",
+     "total": 41.96,
+     "items": [
+      {
+       "id": "49601363",
+       "value": "Sucre",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "43088488dd181e30cf33f033a48f6e34",
+     "total": 33.06,
+     "items": [
+      {
+       "id": "59038108",
+       "value": "Foto del dia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "82823bb41f15f8bb7e8818c30144c0d3",
+     "total": 46.38,
+     "items": [
+      {
+       "id": "48983738",
+       "value": "Turismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd8b11fc0f13266340a0f2cc2a03ba7e",
+     "total": 26.32,
+     "items": [
+      {
+       "id": "49613831",
+       "value": "Video",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b013d2011796d3d0702aa700e2175d51",
+     "total": 57.05,
+     "items": [
+      {
+       "id": "49613746",
+       "value": "Gente y TV",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd80d4cdb2f4f49e4f55ab9be079a5f6",
+     "total": 58.28,
+     "items": [
+      {
+       "id": "49630333",
+       "value": "Nueva",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "130d05f1c452235344b0ab1f0143c52d",
+     "total": 24.97,
+     "items": [
+      {
+       "id": "49630110",
+       "value": "Palante chamos y chamas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "9a3e84e4b806edc0c05d80f186148d31",
+     "total": 79.85,
+     "items": [
+      {
+       "id": "35504182",
+       "value": "autos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "63a9e8c9bd6d607e2f8c1f0477c92768",
+     "total": 35.3,
+     "items": [
+      {
+       "id": "35504057",
+       "value": "tendencias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6f685cd602f25976cbbb95152b9623b6",
+     "total": 8.49,
+     "items": [
+      {
+       "id": "48981715",
+       "value": "Ciclismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "686698f1856b7c1d15a9730d382767bf",
+     "total": 22.04,
+     "items": [
+      {
+       "id": "49613959",
+       "value": "Béisbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5bd2d51fcbf706216fea95c251a6e3c5",
+     "total": 180.91,
+     "items": [
+      {
+       "id": "49601296",
+       "value": "Independencia de Cartagena",
+       "type": "section"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "218a781130e25af066c8a9850ece6dc5": 64.65,
+     "696915404419d25514c2732772514134": 90.97,
+     "ff6c6aaeff351704969ec7d218bd0772": 64.91,
+     "ff403366a36471a41506c54cbbe74edd": 94.25,
+     "eff87492a36df9473424d187c8666c3b": 51.7,
+     "f2ae0dc71dacf42c7934821ec47f9405": 77.66,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 47.33,
+     "56aa799b185d2054e26474053104a35a": 45.03,
+     "2dbe68355828eed7bade19cd83730d09": 44.95,
+     "1f794ef3160f6647a23478f16b42fa65": 74.76,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 106.7,
+     "68480ba034a89bf883aeb9a138b82eac": 133.2,
+     "5aee18df6dedd25a82d6a70d8d65170c": 80.76,
+     "479be7ff4482512239f074c2d9c89a84": 135.88,
+     "6d1e5e2f8433d593dd819634a0b11935": 58.84,
+     "3faafb4ac81c1c312db962ff936e2e3b": 82.36,
+     "769172d6e76fbe0fba04372591f0276e": 69.83,
+     "832ed3378efc89367e2769bba5a9e6c1": 179.64,
+     "694801346a7c8762850c3e0e3d5ff237": 171.72,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 157.82,
+     "7722a88546c701b53f0bd9664f3e5658": 18.93,
+     "4b3d7d562ac2d6f30164a49751cfd115": 98.99,
+     "06b426a0231c85ee49ccbb041d6efa5c": 14.34,
+     "5b378f8014a15411b664d6576913c39c": 17.52,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13.07,
+     "930fc173d84e570ee6bae0b6873270e2": 10.51,
+     "801b348b9d5c52913e449573fd5b0d27": 30.65,
+     "93cb381d359a4213489e8c91d1c4cf8a": 24.56,
+     "fddf14c2d9f4466537c9555771bd9f60": 53.04,
+     "242094d3878bd053ead87e9a5465dde7": 14.25,
+     "3aeb458f58da31075c5d2b946876159e": 142.08,
+     "c3d0032d58055dddda9f10391e781633": 38.73,
+     "803cf764de885d11c1c25e452477114c": 28.33,
+     "0cf582ba1fb42704a2d813bfdb71222c": 78.58,
+     "814bd7dcb894d01a3592112e11ef19c1": 109.63,
+     "ad0d07ec76d5e25552d44e7a956b8626": 77.74,
+     "7284ae375d014608f6d4617c838f8ee9": 107.54,
+     "547071140b030040824bc166037f0c7a": 317.61,
+     "83ba04fe1e6fb3985332141ad5a1db01": 20.81,
+     "43088488dd181e30cf33f033a48f6e34": 55.62,
+     "82823bb41f15f8bb7e8818c30144c0d3": 13.57,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 13.03,
+     "b013d2011796d3d0702aa700e2175d51": 31.11,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 50.04,
+     "130d05f1c452235344b0ab1f0143c52d": 10.83,
+     "9a3e84e4b806edc0c05d80f186148d31": 15.78,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 41.67,
+     "6f685cd602f25976cbbb95152b9623b6": 10.41,
+     "686698f1856b7c1d15a9730d382767bf": 33.83,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 206.9,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 82.52,
+     "696915404419d25514c2732772514134": 100.25,
+     "ff6c6aaeff351704969ec7d218bd0772": 80.32,
+     "ff403366a36471a41506c54cbbe74edd": 117.22,
+     "eff87492a36df9473424d187c8666c3b": 56.75,
+     "f2ae0dc71dacf42c7934821ec47f9405": 117.31,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 50.74,
+     "56aa799b185d2054e26474053104a35a": 40.03,
+     "2dbe68355828eed7bade19cd83730d09": 40.03,
+     "1f794ef3160f6647a23478f16b42fa65": 69.7,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 108.53,
+     "68480ba034a89bf883aeb9a138b82eac": 143.17,
+     "5aee18df6dedd25a82d6a70d8d65170c": 127.34,
+     "479be7ff4482512239f074c2d9c89a84": 156.97,
+     "6d1e5e2f8433d593dd819634a0b11935": 72.2,
+     "3faafb4ac81c1c312db962ff936e2e3b": 109.54,
+     "769172d6e76fbe0fba04372591f0276e": 114.74,
+     "832ed3378efc89367e2769bba5a9e6c1": 114.79,
+     "694801346a7c8762850c3e0e3d5ff237": 140.75,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 124.27,
+     "7722a88546c701b53f0bd9664f3e5658": 40.81,
+     "4b3d7d562ac2d6f30164a49751cfd115": 129.28,
+     "06b426a0231c85ee49ccbb041d6efa5c": 13.1,
+     "5b378f8014a15411b664d6576913c39c": 22.5,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 12.18,
+     "930fc173d84e570ee6bae0b6873270e2": 12.68,
+     "801b348b9d5c52913e449573fd5b0d27": 80.01,
+     "93cb381d359a4213489e8c91d1c4cf8a": 116.39,
+     "fddf14c2d9f4466537c9555771bd9f60": 119.09,
+     "242094d3878bd053ead87e9a5465dde7": 14.15,
+     "3aeb458f58da31075c5d2b946876159e": 135.05,
+     "c3d0032d58055dddda9f10391e781633": 49.79,
+     "803cf764de885d11c1c25e452477114c": 26.51,
+     "0cf582ba1fb42704a2d813bfdb71222c": 135.92,
+     "814bd7dcb894d01a3592112e11ef19c1": 82.07,
+     "ad0d07ec76d5e25552d44e7a956b8626": 77.1,
+     "7284ae375d014608f6d4617c838f8ee9": 68.69,
+     "547071140b030040824bc166037f0c7a": 148.65,
+     "83ba04fe1e6fb3985332141ad5a1db01": 64.76,
+     "43088488dd181e30cf33f033a48f6e34": 41.06,
+     "82823bb41f15f8bb7e8818c30144c0d3": 67.39,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 12.41,
+     "b013d2011796d3d0702aa700e2175d51": 25.45,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 36.56,
+     "130d05f1c452235344b0ab1f0143c52d": 14.92,
+     "9a3e84e4b806edc0c05d80f186148d31": 241.28,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 57.75,
+     "6f685cd602f25976cbbb95152b9623b6": 11.4,
+     "686698f1856b7c1d15a9730d382767bf": 29.5,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 207.86,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 102.66,
+     "696915404419d25514c2732772514134": 96.42,
+     "ff6c6aaeff351704969ec7d218bd0772": 71.12,
+     "ff403366a36471a41506c54cbbe74edd": 112.89,
+     "eff87492a36df9473424d187c8666c3b": 54.38,
+     "f2ae0dc71dacf42c7934821ec47f9405": 87.7,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 50.29,
+     "56aa799b185d2054e26474053104a35a": 49.72,
+     "2dbe68355828eed7bade19cd83730d09": 49.89,
+     "1f794ef3160f6647a23478f16b42fa65": 61.3,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 121.56,
+     "68480ba034a89bf883aeb9a138b82eac": 136.25,
+     "5aee18df6dedd25a82d6a70d8d65170c": 101.42,
+     "479be7ff4482512239f074c2d9c89a84": 147.96,
+     "6d1e5e2f8433d593dd819634a0b11935": 102.8,
+     "3faafb4ac81c1c312db962ff936e2e3b": 94.15,
+     "769172d6e76fbe0fba04372591f0276e": 84.51,
+     "832ed3378efc89367e2769bba5a9e6c1": 90.68,
+     "694801346a7c8762850c3e0e3d5ff237": 146.38,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 109.49,
+     "7722a88546c701b53f0bd9664f3e5658": 46.12,
+     "4b3d7d562ac2d6f30164a49751cfd115": 112.67,
+     "06b426a0231c85ee49ccbb041d6efa5c": 18.76,
+     "5b378f8014a15411b664d6576913c39c": 14.44,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13.86,
+     "930fc173d84e570ee6bae0b6873270e2": 11.74,
+     "801b348b9d5c52913e449573fd5b0d27": 44.45,
+     "93cb381d359a4213489e8c91d1c4cf8a": 54.34,
+     "fddf14c2d9f4466537c9555771bd9f60": 87.93,
+     "242094d3878bd053ead87e9a5465dde7": 27.84,
+     "3aeb458f58da31075c5d2b946876159e": 116.66,
+     "c3d0032d58055dddda9f10391e781633": 42.29,
+     "803cf764de885d11c1c25e452477114c": 64.6,
+     "0cf582ba1fb42704a2d813bfdb71222c": 109.17,
+     "814bd7dcb894d01a3592112e11ef19c1": 104.51,
+     "ad0d07ec76d5e25552d44e7a956b8626": 141.01,
+     "7284ae375d014608f6d4617c838f8ee9": 15.6,
+     "547071140b030040824bc166037f0c7a": 116,
+     "83ba04fe1e6fb3985332141ad5a1db01": 54.3,
+     "43088488dd181e30cf33f033a48f6e34": 15.91,
+     "82823bb41f15f8bb7e8818c30144c0d3": 39,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 51.91,
+     "b013d2011796d3d0702aa700e2175d51": 17.17,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 36.27,
+     "130d05f1c452235344b0ab1f0143c52d": 70.1,
+     "9a3e84e4b806edc0c05d80f186148d31": 36.52,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 24.59,
+     "6f685cd602f25976cbbb95152b9623b6": 10.44,
+     "686698f1856b7c1d15a9730d382767bf": 39.94,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 233,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 98.42,
+     "696915404419d25514c2732772514134": 105.92,
+     "ff6c6aaeff351704969ec7d218bd0772": 69.54,
+     "ff403366a36471a41506c54cbbe74edd": 102.73,
+     "eff87492a36df9473424d187c8666c3b": 48.97,
+     "f2ae0dc71dacf42c7934821ec47f9405": 88.31,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 37.82,
+     "56aa799b185d2054e26474053104a35a": 43.95,
+     "2dbe68355828eed7bade19cd83730d09": 44.01,
+     "1f794ef3160f6647a23478f16b42fa65": 53.86,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 103.78,
+     "68480ba034a89bf883aeb9a138b82eac": 140.25,
+     "5aee18df6dedd25a82d6a70d8d65170c": 109.5,
+     "479be7ff4482512239f074c2d9c89a84": 146.95,
+     "6d1e5e2f8433d593dd819634a0b11935": 104.42,
+     "3faafb4ac81c1c312db962ff936e2e3b": 107.84,
+     "769172d6e76fbe0fba04372591f0276e": 85.84,
+     "832ed3378efc89367e2769bba5a9e6c1": 63.83,
+     "694801346a7c8762850c3e0e3d5ff237": 122.62,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 84.12,
+     "7722a88546c701b53f0bd9664f3e5658": 25.58,
+     "4b3d7d562ac2d6f30164a49751cfd115": 77.45,
+     "06b426a0231c85ee49ccbb041d6efa5c": 13.83,
+     "5b378f8014a15411b664d6576913c39c": 20.96,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13.11,
+     "930fc173d84e570ee6bae0b6873270e2": 9.94,
+     "801b348b9d5c52913e449573fd5b0d27": 56.88,
+     "93cb381d359a4213489e8c91d1c4cf8a": 56.13,
+     "fddf14c2d9f4466537c9555771bd9f60": 61.49,
+     "242094d3878bd053ead87e9a5465dde7": 24.2,
+     "3aeb458f58da31075c5d2b946876159e": 162.58,
+     "c3d0032d58055dddda9f10391e781633": 78.62,
+     "803cf764de885d11c1c25e452477114c": 54.27,
+     "0cf582ba1fb42704a2d813bfdb71222c": 183.59,
+     "814bd7dcb894d01a3592112e11ef19c1": 80.1,
+     "ad0d07ec76d5e25552d44e7a956b8626": 100.44,
+     "7284ae375d014608f6d4617c838f8ee9": 12.74,
+     "547071140b030040824bc166037f0c7a": 117.05,
+     "83ba04fe1e6fb3985332141ad5a1db01": 45.68,
+     "43088488dd181e30cf33f033a48f6e34": 15.38,
+     "82823bb41f15f8bb7e8818c30144c0d3": 68.68,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 19.45,
+     "b013d2011796d3d0702aa700e2175d51": 122.39,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 93.36,
+     "130d05f1c452235344b0ab1f0143c52d": 24.88,
+     "9a3e84e4b806edc0c05d80f186148d31": 49.7,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 38.81,
+     "6f685cd602f25976cbbb95152b9623b6": 8.63,
+     "686698f1856b7c1d15a9730d382767bf": 6.78,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 113.86,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 111.33,
+     "696915404419d25514c2732772514134": 109.25,
+     "ff6c6aaeff351704969ec7d218bd0772": 92.67,
+     "ff403366a36471a41506c54cbbe74edd": 95.33,
+     "eff87492a36df9473424d187c8666c3b": 48.28,
+     "f2ae0dc71dacf42c7934821ec47f9405": 103.28,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 49.28,
+     "56aa799b185d2054e26474053104a35a": 44.81,
+     "2dbe68355828eed7bade19cd83730d09": 44.88,
+     "1f794ef3160f6647a23478f16b42fa65": 62.66,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 113.7,
+     "68480ba034a89bf883aeb9a138b82eac": 137.47,
+     "5aee18df6dedd25a82d6a70d8d65170c": 123.31,
+     "479be7ff4482512239f074c2d9c89a84": 140.88,
+     "6d1e5e2f8433d593dd819634a0b11935": 85.32,
+     "3faafb4ac81c1c312db962ff936e2e3b": 89.36,
+     "769172d6e76fbe0fba04372591f0276e": 69.36,
+     "832ed3378efc89367e2769bba5a9e6c1": 78.97,
+     "694801346a7c8762850c3e0e3d5ff237": 119.29,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 162.74,
+     "7722a88546c701b53f0bd9664f3e5658": 15.19,
+     "4b3d7d562ac2d6f30164a49751cfd115": 192.32,
+     "06b426a0231c85ee49ccbb041d6efa5c": 21.66,
+     "5b378f8014a15411b664d6576913c39c": 19.35,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 12.87,
+     "930fc173d84e570ee6bae0b6873270e2": 10.76,
+     "801b348b9d5c52913e449573fd5b0d27": 71.9,
+     "93cb381d359a4213489e8c91d1c4cf8a": 45.17,
+     "fddf14c2d9f4466537c9555771bd9f60": 51.74,
+     "242094d3878bd053ead87e9a5465dde7": 56.8,
+     "3aeb458f58da31075c5d2b946876159e": 137.72,
+     "c3d0032d58055dddda9f10391e781633": 27.94,
+     "803cf764de885d11c1c25e452477114c": 49.77,
+     "0cf582ba1fb42704a2d813bfdb71222c": 74.75,
+     "814bd7dcb894d01a3592112e11ef19c1": 221.16,
+     "ad0d07ec76d5e25552d44e7a956b8626": 51.28,
+     "7284ae375d014608f6d4617c838f8ee9": 55.75,
+     "547071140b030040824bc166037f0c7a": 75.83,
+     "83ba04fe1e6fb3985332141ad5a1db01": 53.75,
+     "43088488dd181e30cf33f033a48f6e34": 12.46,
+     "82823bb41f15f8bb7e8818c30144c0d3": 32.55,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 44.79,
+     "b013d2011796d3d0702aa700e2175d51": 68.12,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 94.79,
+     "130d05f1c452235344b0ab1f0143c52d": 14.19,
+     "9a3e84e4b806edc0c05d80f186148d31": 43.4,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 20.52,
+     "6f685cd602f25976cbbb95152b9623b6": 2.92,
+     "686698f1856b7c1d15a9730d382767bf": 15.17,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 123.94,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 93.79,
+     "696915404419d25514c2732772514134": 86.66,
+     "ff6c6aaeff351704969ec7d218bd0772": 83.74,
+     "ff403366a36471a41506c54cbbe74edd": 84.46,
+     "eff87492a36df9473424d187c8666c3b": 48.85,
+     "f2ae0dc71dacf42c7934821ec47f9405": 81.05,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 54.18,
+     "56aa799b185d2054e26474053104a35a": 39.15,
+     "2dbe68355828eed7bade19cd83730d09": 39.17,
+     "1f794ef3160f6647a23478f16b42fa65": 43.68,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 74.74,
+     "68480ba034a89bf883aeb9a138b82eac": 107.56,
+     "5aee18df6dedd25a82d6a70d8d65170c": 64.38,
+     "479be7ff4482512239f074c2d9c89a84": 108.88,
+     "6d1e5e2f8433d593dd819634a0b11935": 62.09,
+     "3faafb4ac81c1c312db962ff936e2e3b": 71.76,
+     "769172d6e76fbe0fba04372591f0276e": 69.08,
+     "832ed3378efc89367e2769bba5a9e6c1": 92.19,
+     "694801346a7c8762850c3e0e3d5ff237": 93.29,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 81.49,
+     "7722a88546c701b53f0bd9664f3e5658": 16.94,
+     "4b3d7d562ac2d6f30164a49751cfd115": 81.4,
+     "06b426a0231c85ee49ccbb041d6efa5c": 16.69,
+     "5b378f8014a15411b664d6576913c39c": 18.54,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 11.76,
+     "930fc173d84e570ee6bae0b6873270e2": 9.89,
+     "801b348b9d5c52913e449573fd5b0d27": 51.98,
+     "93cb381d359a4213489e8c91d1c4cf8a": 36.77,
+     "fddf14c2d9f4466537c9555771bd9f60": 40.04,
+     "242094d3878bd053ead87e9a5465dde7": 15.62,
+     "3aeb458f58da31075c5d2b946876159e": 138.52,
+     "c3d0032d58055dddda9f10391e781633": 45.92,
+     "803cf764de885d11c1c25e452477114c": 47.97,
+     "0cf582ba1fb42704a2d813bfdb71222c": 43.09,
+     "814bd7dcb894d01a3592112e11ef19c1": 56.5,
+     "ad0d07ec76d5e25552d44e7a956b8626": 70.92,
+     "7284ae375d014608f6d4617c838f8ee9": 67.08,
+     "547071140b030040824bc166037f0c7a": 87.97,
+     "83ba04fe1e6fb3985332141ad5a1db01": 33.77,
+     "43088488dd181e30cf33f033a48f6e34": 43.72,
+     "82823bb41f15f8bb7e8818c30144c0d3": 79.65,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 20.41,
+     "b013d2011796d3d0702aa700e2175d51": 56.67,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 75.78,
+     "130d05f1c452235344b0ab1f0143c52d": 11.65,
+     "9a3e84e4b806edc0c05d80f186148d31": 128.39,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 34,
+     "6f685cd602f25976cbbb95152b9623b6": 6.2,
+     "686698f1856b7c1d15a9730d382767bf": 6.7,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 311.33,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 78,
+     "696915404419d25514c2732772514134": 117.02,
+     "ff6c6aaeff351704969ec7d218bd0772": 87.07,
+     "ff403366a36471a41506c54cbbe74edd": 81.64,
+     "eff87492a36df9473424d187c8666c3b": 70.84,
+     "f2ae0dc71dacf42c7934821ec47f9405": 93.84,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 77.51,
+     "56aa799b185d2054e26474053104a35a": 42.1,
+     "2dbe68355828eed7bade19cd83730d09": 42.19,
+     "1f794ef3160f6647a23478f16b42fa65": 49.21,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 78.79,
+     "68480ba034a89bf883aeb9a138b82eac": 127.47,
+     "5aee18df6dedd25a82d6a70d8d65170c": 83.59,
+     "479be7ff4482512239f074c2d9c89a84": 129.41,
+     "6d1e5e2f8433d593dd819634a0b11935": 45.2,
+     "3faafb4ac81c1c312db962ff936e2e3b": 77.52,
+     "769172d6e76fbe0fba04372591f0276e": 64.17,
+     "832ed3378efc89367e2769bba5a9e6c1": 70.9,
+     "694801346a7c8762850c3e0e3d5ff237": 102.89,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 93.84,
+     "7722a88546c701b53f0bd9664f3e5658": 16.95,
+     "4b3d7d562ac2d6f30164a49751cfd115": 98.23,
+     "06b426a0231c85ee49ccbb041d6efa5c": 12.86,
+     "5b378f8014a15411b664d6576913c39c": 17.75,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 12.97,
+     "930fc173d84e570ee6bae0b6873270e2": 10.86,
+     "801b348b9d5c52913e449573fd5b0d27": 42.24,
+     "93cb381d359a4213489e8c91d1c4cf8a": 115.7,
+     "fddf14c2d9f4466537c9555771bd9f60": 156.9,
+     "242094d3878bd053ead87e9a5465dde7": 14.59,
+     "3aeb458f58da31075c5d2b946876159e": 154.16,
+     "c3d0032d58055dddda9f10391e781633": 46.08,
+     "803cf764de885d11c1c25e452477114c": 24.12,
+     "0cf582ba1fb42704a2d813bfdb71222c": 69.4,
+     "814bd7dcb894d01a3592112e11ef19c1": 57.07,
+     "ad0d07ec76d5e25552d44e7a956b8626": 61.08,
+     "7284ae375d014608f6d4617c838f8ee9": 17.95,
+     "547071140b030040824bc166037f0c7a": 117.96,
+     "83ba04fe1e6fb3985332141ad5a1db01": 15.37,
+     "43088488dd181e30cf33f033a48f6e34": 28.05,
+     "82823bb41f15f8bb7e8818c30144c0d3": 8.68,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 19.97,
+     "b013d2011796d3d0702aa700e2175d51": 41.34,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 21.79,
+     "130d05f1c452235344b0ab1f0143c52d": 17.24,
+     "9a3e84e4b806edc0c05d80f186148d31": 16.09,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 35.36,
+     "6f685cd602f25976cbbb95152b9623b6": 8.09,
+     "686698f1856b7c1d15a9730d382767bf": 5.53,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 129.4,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 95.14,
+   "values": [
+    {
+     "key": "218a781130e25af066c8a9850ece6dc5",
+     "total": 106.73,
+     "items": [
+      {
+       "id": "35503660",
+       "value": "sucesos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "696915404419d25514c2732772514134",
+     "total": 100.12,
+     "items": [
+      {
+       "id": "35503659",
+       "value": "colombia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff6c6aaeff351704969ec7d218bd0772",
+     "total": 83.29,
+     "items": [
+      {
+       "id": "35503661",
+       "value": "cartagena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ff403366a36471a41506c54cbbe74edd",
+     "total": 104.52,
+     "items": [
+      {
+       "id": "35503679",
+       "value": "farandula",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "eff87492a36df9473424d187c8666c3b",
+     "total": 56.88,
+     "items": [
+      {
+       "id": "35503664",
+       "value": "regional",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f2ae0dc71dacf42c7934821ec47f9405",
+     "total": 89.94,
+     "items": [
+      {
+       "id": "35503658",
+       "value": "deportes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "8f099565cbcfdaa8ac877987c5f3dcd9",
+     "total": 57.75,
+     "items": [
+      {
+       "id": "49601245",
+       "value": "Atlántico",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "56aa799b185d2054e26474053104a35a",
+     "total": 45.93,
+     "items": [
+      {
+       "id": "49937656",
+       "value": "Loterias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "2dbe68355828eed7bade19cd83730d09",
+     "total": 45.95,
+     "items": [
+      {
+       "id": "49959017",
+       "value": "Chances",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "1f794ef3160f6647a23478f16b42fa65",
+     "total": 62.6,
+     "items": [
+      {
+       "id": "49601150",
+       "value": "Bolívar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b1a7ac9069bbc9b90da2ba3f5f0bae7d",
+     "total": 98.72,
+     "items": [
+      {
+       "id": "35503667",
+       "value": "mundo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "68480ba034a89bf883aeb9a138b82eac",
+     "total": 121.24,
+     "items": [
+      {
+       "id": "35503672",
+       "value": "opinion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5aee18df6dedd25a82d6a70d8d65170c",
+     "total": 75.52,
+     "items": [
+      {
+       "id": "35503673",
+       "value": "economica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "479be7ff4482512239f074c2d9c89a84",
+     "total": 123.98,
+     "items": [
+      {
+       "id": "49601163",
+       "value": "Columna",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6d1e5e2f8433d593dd819634a0b11935",
+     "total": 74.59,
+     "items": [
+      {
+       "id": "35503690",
+       "value": "politica",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3faafb4ac81c1c312db962ff936e2e3b",
+     "total": 84.52,
+     "items": [
+      {
+       "id": "35503669",
+       "value": "sociales",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "769172d6e76fbe0fba04372591f0276e",
+     "total": 84.09,
+     "items": [
+      {
+       "id": "35503678",
+       "value": "cultural",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "832ed3378efc89367e2769bba5a9e6c1",
+     "total": 109.58,
+     "items": [
+      {
+       "id": "35503666",
+       "value": "salud",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "694801346a7c8762850c3e0e3d5ff237",
+     "total": 139.8,
+     "items": [
+      {
+       "id": "49601354",
+       "value": "Informe Empresarial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "f0749ebe0ca601416dbb407c3bcb0bcd",
+     "total": 103.94,
+     "items": [
+      {
+       "id": "35503670",
+       "value": "suplementos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7722a88546c701b53f0bd9664f3e5658",
+     "total": 15.72,
+     "items": [
+      {
+       "id": "49616488",
+       "value": "Guajira",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "4b3d7d562ac2d6f30164a49751cfd115",
+     "total": 107.89,
+     "items": [
+      {
+       "id": "49601330",
+       "value": "Facetas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "06b426a0231c85ee49ccbb041d6efa5c",
+     "total": 15.68,
+     "items": [
+      {
+       "id": "49615296",
+       "value": "Magdalena",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5b378f8014a15411b664d6576913c39c",
+     "total": 20.8,
+     "items": [
+      {
+       "id": "49601224",
+       "value": "Córdoba",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ddb1aa7c0e75feeb8dcf89e40ad5d54e",
+     "total": 12.72,
+     "items": [
+      {
+       "id": "49615511",
+       "value": "Cesar",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "930fc173d84e570ee6bae0b6873270e2",
+     "total": 10.96,
+     "items": [
+      {
+       "id": "49676629",
+       "value": "San andres",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "801b348b9d5c52913e449573fd5b0d27",
+     "total": 45.08,
+     "items": [
+      {
+       "id": "35503665",
+       "value": "multimedia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "93cb381d359a4213489e8c91d1c4cf8a",
+     "total": 55.59,
+     "items": [
+      {
+       "id": "35503683",
+       "value": "tecnologia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "fddf14c2d9f4466537c9555771bd9f60",
+     "total": 95.14,
+     "items": [
+      {
+       "id": "35503663",
+       "value": "educacion",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "242094d3878bd053ead87e9a5465dde7",
+     "total": 19.86,
+     "items": [
+      {
+       "id": "49601111",
+       "value": "Fútbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "3aeb458f58da31075c5d2b946876159e",
+     "total": 124.75,
+     "items": [
+      {
+       "id": "48981712",
+       "value": "Editorial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "c3d0032d58055dddda9f10391e781633",
+     "total": 49.97,
+     "items": [
+      {
+       "id": "49614807",
+       "value": "Galerias de fotos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "803cf764de885d11c1c25e452477114c",
+     "total": 35.3,
+     "items": [
+      {
+       "id": "35503705",
+       "value": "ciencia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "0cf582ba1fb42704a2d813bfdb71222c",
+     "total": 160.95,
+     "items": [
+      {
+       "id": "35503717",
+       "value": "viernes",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "814bd7dcb894d01a3592112e11ef19c1",
+     "total": 65.68,
+     "items": [
+      {
+       "id": "50040224",
+       "value": "Ocio",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "ad0d07ec76d5e25552d44e7a956b8626",
+     "total": 37.6,
+     "items": [
+      {
+       "id": "35503686",
+       "value": "especial",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "7284ae375d014608f6d4617c838f8ee9",
+     "total": 65.51,
+     "items": [
+      {
+       "id": "35503701",
+       "value": "ambiente",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "547071140b030040824bc166037f0c7a",
+     "total": 112.97,
+     "items": [
+      {
+       "id": "49630118",
+       "value": "Dominical",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "83ba04fe1e6fb3985332141ad5a1db01",
+     "total": 50.72,
+     "items": [
+      {
+       "id": "49601363",
+       "value": "Sucre",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "43088488dd181e30cf33f033a48f6e34",
+     "total": 38.77,
+     "items": [
+      {
+       "id": "59038108",
+       "value": "Foto del dia",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "82823bb41f15f8bb7e8818c30144c0d3",
+     "total": 76.64,
+     "items": [
+      {
+       "id": "48983738",
+       "value": "Turismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd8b11fc0f13266340a0f2cc2a03ba7e",
+     "total": 34.58,
+     "items": [
+      {
+       "id": "49613831",
+       "value": "Video",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "b013d2011796d3d0702aa700e2175d51",
+     "total": 25.39,
+     "items": [
+      {
+       "id": "49613746",
+       "value": "Gente y TV",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "bd80d4cdb2f4f49e4f55ab9be079a5f6",
+     "total": 34.3,
+     "items": [
+      {
+       "id": "49630333",
+       "value": "Nueva",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "130d05f1c452235344b0ab1f0143c52d",
+     "total": 29.71,
+     "items": [
+      {
+       "id": "49630110",
+       "value": "Palante chamos y chamas",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "9a3e84e4b806edc0c05d80f186148d31",
+     "total": 101.18,
+     "items": [
+      {
+       "id": "35504182",
+       "value": "autos",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "63a9e8c9bd6d607e2f8c1f0477c92768",
+     "total": 67.53,
+     "items": [
+      {
+       "id": "35504057",
+       "value": "tendencias",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "6f685cd602f25976cbbb95152b9623b6",
+     "total": 12,
+     "items": [
+      {
+       "id": "48981715",
+       "value": "Ciclismo",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "686698f1856b7c1d15a9730d382767bf",
+     "total": 32.5,
+     "items": [
+      {
+       "id": "49613959",
+       "value": "Béisbol",
+       "type": "section"
+      }
+     ]
+    },
+    {
+     "key": "5bd2d51fcbf706216fea95c251a6e3c5",
+     "total": 139.9,
+     "items": [
+      {
+       "id": "49601296",
+       "value": "Independencia de Cartagena",
+       "type": "section"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "218a781130e25af066c8a9850ece6dc5": 112.34,
+     "696915404419d25514c2732772514134": 123.18,
+     "ff6c6aaeff351704969ec7d218bd0772": 80.93,
+     "ff403366a36471a41506c54cbbe74edd": 123.58,
+     "eff87492a36df9473424d187c8666c3b": 60.52,
+     "f2ae0dc71dacf42c7934821ec47f9405": 91.62,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 59.15,
+     "56aa799b185d2054e26474053104a35a": 41.72,
+     "2dbe68355828eed7bade19cd83730d09": 41.81,
+     "1f794ef3160f6647a23478f16b42fa65": 57.38,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 105.26,
+     "68480ba034a89bf883aeb9a138b82eac": 127.2,
+     "5aee18df6dedd25a82d6a70d8d65170c": 109.17,
+     "479be7ff4482512239f074c2d9c89a84": 130.18,
+     "6d1e5e2f8433d593dd819634a0b11935": 63.67,
+     "3faafb4ac81c1c312db962ff936e2e3b": 99.73,
+     "769172d6e76fbe0fba04372591f0276e": 92.01,
+     "832ed3378efc89367e2769bba5a9e6c1": 74.22,
+     "694801346a7c8762850c3e0e3d5ff237": 129.37,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 123.91,
+     "7722a88546c701b53f0bd9664f3e5658": 18.04,
+     "4b3d7d562ac2d6f30164a49751cfd115": 121.03,
+     "06b426a0231c85ee49ccbb041d6efa5c": 14.07,
+     "5b378f8014a15411b664d6576913c39c": 22.41,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13.58,
+     "930fc173d84e570ee6bae0b6873270e2": 10.81,
+     "801b348b9d5c52913e449573fd5b0d27": 65.33,
+     "93cb381d359a4213489e8c91d1c4cf8a": 25.04,
+     "fddf14c2d9f4466537c9555771bd9f60": 28.01,
+     "242094d3878bd053ead87e9a5465dde7": 11.99,
+     "3aeb458f58da31075c5d2b946876159e": 121.54,
+     "c3d0032d58055dddda9f10391e781633": 85.55,
+     "803cf764de885d11c1c25e452477114c": 123.01,
+     "0cf582ba1fb42704a2d813bfdb71222c": 438.68,
+     "814bd7dcb894d01a3592112e11ef19c1": 127.55,
+     "ad0d07ec76d5e25552d44e7a956b8626": 22.91,
+     "7284ae375d014608f6d4617c838f8ee9": 41.44,
+     "547071140b030040824bc166037f0c7a": 171.2,
+     "83ba04fe1e6fb3985332141ad5a1db01": 47.1,
+     "43088488dd181e30cf33f033a48f6e34": 68.31,
+     "82823bb41f15f8bb7e8818c30144c0d3": 104.77,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 18.87,
+     "b013d2011796d3d0702aa700e2175d51": 17.53,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 13.39,
+     "130d05f1c452235344b0ab1f0143c52d": 9.22,
+     "9a3e84e4b806edc0c05d80f186148d31": 30.96,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 22.5,
+     "6f685cd602f25976cbbb95152b9623b6": 12.8,
+     "686698f1856b7c1d15a9730d382767bf": 18.48,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 19.22,
+     "label": "2026-10-26 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 107.53,
+     "696915404419d25514c2732772514134": 97.39,
+     "ff6c6aaeff351704969ec7d218bd0772": 84.39,
+     "ff403366a36471a41506c54cbbe74edd": 115.72,
+     "eff87492a36df9473424d187c8666c3b": 62.56,
+     "f2ae0dc71dacf42c7934821ec47f9405": 101.57,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 62.89,
+     "56aa799b185d2054e26474053104a35a": 49.08,
+     "2dbe68355828eed7bade19cd83730d09": 48.72,
+     "1f794ef3160f6647a23478f16b42fa65": 73.38,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 113.67,
+     "68480ba034a89bf883aeb9a138b82eac": 100.71,
+     "5aee18df6dedd25a82d6a70d8d65170c": 103.83,
+     "479be7ff4482512239f074c2d9c89a84": 102.29,
+     "6d1e5e2f8433d593dd819634a0b11935": 81.24,
+     "3faafb4ac81c1c312db962ff936e2e3b": 83.14,
+     "769172d6e76fbe0fba04372591f0276e": 96.49,
+     "832ed3378efc89367e2769bba5a9e6c1": 40.81,
+     "694801346a7c8762850c3e0e3d5ff237": 137.88,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 90.98,
+     "7722a88546c701b53f0bd9664f3e5658": 16.14,
+     "4b3d7d562ac2d6f30164a49751cfd115": 90.61,
+     "06b426a0231c85ee49ccbb041d6efa5c": 13.63,
+     "5b378f8014a15411b664d6576913c39c": 20.42,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 12.02,
+     "930fc173d84e570ee6bae0b6873270e2": 9.7,
+     "801b348b9d5c52913e449573fd5b0d27": 38.06,
+     "93cb381d359a4213489e8c91d1c4cf8a": 39.9,
+     "fddf14c2d9f4466537c9555771bd9f60": 66.44,
+     "242094d3878bd053ead87e9a5465dde7": 9.91,
+     "3aeb458f58da31075c5d2b946876159e": 107.4,
+     "c3d0032d58055dddda9f10391e781633": 37.56,
+     "803cf764de885d11c1c25e452477114c": 18.49,
+     "0cf582ba1fb42704a2d813bfdb71222c": 52.94,
+     "814bd7dcb894d01a3592112e11ef19c1": 95.32,
+     "ad0d07ec76d5e25552d44e7a956b8626": 23.15,
+     "7284ae375d014608f6d4617c838f8ee9": 118.56,
+     "547071140b030040824bc166037f0c7a": 118.21,
+     "83ba04fe1e6fb3985332141ad5a1db01": 68.57,
+     "43088488dd181e30cf33f033a48f6e34": 33.23,
+     "82823bb41f15f8bb7e8818c30144c0d3": 65.02,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 13.24,
+     "b013d2011796d3d0702aa700e2175d51": 18.64,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 21.86,
+     "130d05f1c452235344b0ab1f0143c52d": 45.5,
+     "9a3e84e4b806edc0c05d80f186148d31": 340.65,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 18.9,
+     "6f685cd602f25976cbbb95152b9623b6": 17.83,
+     "686698f1856b7c1d15a9730d382767bf": 13,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 19.1,
+     "label": "2026-10-27 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 107.25,
+     "696915404419d25514c2732772514134": 86.46,
+     "ff6c6aaeff351704969ec7d218bd0772": 91.29,
+     "ff403366a36471a41506c54cbbe74edd": 98.76,
+     "eff87492a36df9473424d187c8666c3b": 55.69,
+     "f2ae0dc71dacf42c7934821ec47f9405": 96.94,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 47.71,
+     "56aa799b185d2054e26474053104a35a": 43.22,
+     "2dbe68355828eed7bade19cd83730d09": 43.29,
+     "1f794ef3160f6647a23478f16b42fa65": 74.13,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 130.76,
+     "68480ba034a89bf883aeb9a138b82eac": 126.49,
+     "5aee18df6dedd25a82d6a70d8d65170c": 101.26,
+     "479be7ff4482512239f074c2d9c89a84": 130.64,
+     "6d1e5e2f8433d593dd819634a0b11935": 80.29,
+     "3faafb4ac81c1c312db962ff936e2e3b": 83.5,
+     "769172d6e76fbe0fba04372591f0276e": 86.2,
+     "832ed3378efc89367e2769bba5a9e6c1": 42.86,
+     "694801346a7c8762850c3e0e3d5ff237": 160.87,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 119.32,
+     "7722a88546c701b53f0bd9664f3e5658": 14.5,
+     "4b3d7d562ac2d6f30164a49751cfd115": 129.92,
+     "06b426a0231c85ee49ccbb041d6efa5c": 16.49,
+     "5b378f8014a15411b664d6576913c39c": 14.78,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13.99,
+     "930fc173d84e570ee6bae0b6873270e2": 11.39,
+     "801b348b9d5c52913e449573fd5b0d27": 49.89,
+     "93cb381d359a4213489e8c91d1c4cf8a": 80.39,
+     "fddf14c2d9f4466537c9555771bd9f60": 118.69,
+     "242094d3878bd053ead87e9a5465dde7": 48.34,
+     "3aeb458f58da31075c5d2b946876159e": 97.16,
+     "c3d0032d58055dddda9f10391e781633": 65.31,
+     "803cf764de885d11c1c25e452477114c": 53.9,
+     "0cf582ba1fb42704a2d813bfdb71222c": 34.33,
+     "814bd7dcb894d01a3592112e11ef19c1": 87.03,
+     "ad0d07ec76d5e25552d44e7a956b8626": 26.84,
+     "7284ae375d014608f6d4617c838f8ee9": 59.37,
+     "547071140b030040824bc166037f0c7a": 73.81,
+     "83ba04fe1e6fb3985332141ad5a1db01": 23.69,
+     "43088488dd181e30cf33f033a48f6e34": 34.84,
+     "82823bb41f15f8bb7e8818c30144c0d3": 58.8,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 13.86,
+     "b013d2011796d3d0702aa700e2175d51": 19.85,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 20.53,
+     "130d05f1c452235344b0ab1f0143c52d": 62.05,
+     "9a3e84e4b806edc0c05d80f186148d31": 107.89,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 226.68,
+     "6f685cd602f25976cbbb95152b9623b6": 11.76,
+     "686698f1856b7c1d15a9730d382767bf": 26.89,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 14.44,
+     "label": "2026-10-28 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 109.21,
+     "696915404419d25514c2732772514134": 108.25,
+     "ff6c6aaeff351704969ec7d218bd0772": 87.32,
+     "ff403366a36471a41506c54cbbe74edd": 104.03,
+     "eff87492a36df9473424d187c8666c3b": 55.74,
+     "f2ae0dc71dacf42c7934821ec47f9405": 91.64,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 43.68,
+     "56aa799b185d2054e26474053104a35a": 45.17,
+     "2dbe68355828eed7bade19cd83730d09": 45.2,
+     "1f794ef3160f6647a23478f16b42fa65": 63.51,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 110.6,
+     "68480ba034a89bf883aeb9a138b82eac": 92.01,
+     "5aee18df6dedd25a82d6a70d8d65170c": 79.67,
+     "479be7ff4482512239f074c2d9c89a84": 97.81,
+     "6d1e5e2f8433d593dd819634a0b11935": 85.43,
+     "3faafb4ac81c1c312db962ff936e2e3b": 92.11,
+     "769172d6e76fbe0fba04372591f0276e": 67.73,
+     "832ed3378efc89367e2769bba5a9e6c1": 67.2,
+     "694801346a7c8762850c3e0e3d5ff237": 140.02,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 98.01,
+     "7722a88546c701b53f0bd9664f3e5658": 16.15,
+     "4b3d7d562ac2d6f30164a49751cfd115": 111.19,
+     "06b426a0231c85ee49ccbb041d6efa5c": 14.39,
+     "5b378f8014a15411b664d6576913c39c": 22.06,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 11.97,
+     "930fc173d84e570ee6bae0b6873270e2": 11.47,
+     "801b348b9d5c52913e449573fd5b0d27": 34.4,
+     "93cb381d359a4213489e8c91d1c4cf8a": 57.85,
+     "fddf14c2d9f4466537c9555771bd9f60": 72.72,
+     "242094d3878bd053ead87e9a5465dde7": 19.97,
+     "3aeb458f58da31075c5d2b946876159e": 99.57,
+     "c3d0032d58055dddda9f10391e781633": 39.57,
+     "803cf764de885d11c1c25e452477114c": 16.8,
+     "0cf582ba1fb42704a2d813bfdb71222c": 45.59,
+     "814bd7dcb894d01a3592112e11ef19c1": 52.46,
+     "ad0d07ec76d5e25552d44e7a956b8626": 12.07,
+     "7284ae375d014608f6d4617c838f8ee9": 58.35,
+     "547071140b030040824bc166037f0c7a": 65.23,
+     "83ba04fe1e6fb3985332141ad5a1db01": 39.79,
+     "43088488dd181e30cf33f033a48f6e34": 21.97,
+     "82823bb41f15f8bb7e8818c30144c0d3": 121.67,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 9.22,
+     "b013d2011796d3d0702aa700e2175d51": 11,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 38.61,
+     "130d05f1c452235344b0ab1f0143c52d": 39.59,
+     "9a3e84e4b806edc0c05d80f186148d31": 69.88,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 15.33,
+     "6f685cd602f25976cbbb95152b9623b6": 9.68,
+     "686698f1856b7c1d15a9730d382767bf": 72.9,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 36.29,
+     "label": "2026-10-29 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 130.41,
+     "696915404419d25514c2732772514134": 100.02,
+     "ff6c6aaeff351704969ec7d218bd0772": 89.77,
+     "ff403366a36471a41506c54cbbe74edd": 94.44,
+     "eff87492a36df9473424d187c8666c3b": 54.17,
+     "f2ae0dc71dacf42c7934821ec47f9405": 88.44,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 51.41,
+     "56aa799b185d2054e26474053104a35a": 58.73,
+     "2dbe68355828eed7bade19cd83730d09": 58.85,
+     "1f794ef3160f6647a23478f16b42fa65": 59.17,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 88.95,
+     "68480ba034a89bf883aeb9a138b82eac": 116.93,
+     "5aee18df6dedd25a82d6a70d8d65170c": 74.81,
+     "479be7ff4482512239f074c2d9c89a84": 120.26,
+     "6d1e5e2f8433d593dd819634a0b11935": 67.91,
+     "3faafb4ac81c1c312db962ff936e2e3b": 84.8,
+     "769172d6e76fbe0fba04372591f0276e": 69.33,
+     "832ed3378efc89367e2769bba5a9e6c1": 68.54,
+     "694801346a7c8762850c3e0e3d5ff237": 146.62,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 102.17,
+     "7722a88546c701b53f0bd9664f3e5658": 15.35,
+     "4b3d7d562ac2d6f30164a49751cfd115": 111.12,
+     "06b426a0231c85ee49ccbb041d6efa5c": 18.69,
+     "5b378f8014a15411b664d6576913c39c": 31.73,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 13.85,
+     "930fc173d84e570ee6bae0b6873270e2": 10.98,
+     "801b348b9d5c52913e449573fd5b0d27": 49.97,
+     "93cb381d359a4213489e8c91d1c4cf8a": 68.41,
+     "fddf14c2d9f4466537c9555771bd9f60": 95.91,
+     "242094d3878bd053ead87e9a5465dde7": 15.15,
+     "3aeb458f58da31075c5d2b946876159e": 109.93,
+     "c3d0032d58055dddda9f10391e781633": 49.82,
+     "803cf764de885d11c1c25e452477114c": 13.28,
+     "0cf582ba1fb42704a2d813bfdb71222c": 109.44,
+     "814bd7dcb894d01a3592112e11ef19c1": 50.48,
+     "ad0d07ec76d5e25552d44e7a956b8626": 22.34,
+     "7284ae375d014608f6d4617c838f8ee9": 35.17,
+     "547071140b030040824bc166037f0c7a": 81.93,
+     "83ba04fe1e6fb3985332141ad5a1db01": 61.15,
+     "43088488dd181e30cf33f033a48f6e34": 14.51,
+     "82823bb41f15f8bb7e8818c30144c0d3": 11.63,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 51.62,
+     "b013d2011796d3d0702aa700e2175d51": 14.9,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 81.83,
+     "130d05f1c452235344b0ab1f0143c52d": 15.9,
+     "9a3e84e4b806edc0c05d80f186148d31": 20.4,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 19.74,
+     "6f685cd602f25976cbbb95152b9623b6": 10.55,
+     "686698f1856b7c1d15a9730d382767bf": 15.14,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 11,
+     "label": "2026-10-30 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 89.57,
+     "696915404419d25514c2732772514134": 103.05,
+     "ff6c6aaeff351704969ec7d218bd0772": 73.28,
+     "ff403366a36471a41506c54cbbe74edd": 108.08,
+     "eff87492a36df9473424d187c8666c3b": 57.31,
+     "f2ae0dc71dacf42c7934821ec47f9405": 73.01,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 55.48,
+     "56aa799b185d2054e26474053104a35a": 42.7,
+     "2dbe68355828eed7bade19cd83730d09": 42.76,
+     "1f794ef3160f6647a23478f16b42fa65": 66.34,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 79.74,
+     "68480ba034a89bf883aeb9a138b82eac": 129.53,
+     "5aee18df6dedd25a82d6a70d8d65170c": 58.01,
+     "479be7ff4482512239f074c2d9c89a84": 133,
+     "6d1e5e2f8433d593dd819634a0b11935": 59.27,
+     "3faafb4ac81c1c312db962ff936e2e3b": 68.08,
+     "769172d6e76fbe0fba04372591f0276e": 65.42,
+     "832ed3378efc89367e2769bba5a9e6c1": 36.27,
+     "694801346a7c8762850c3e0e3d5ff237": 120.7,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 82.71,
+     "7722a88546c701b53f0bd9664f3e5658": 14.13,
+     "4b3d7d562ac2d6f30164a49751cfd115": 73.21,
+     "06b426a0231c85ee49ccbb041d6efa5c": 18.11,
+     "5b378f8014a15411b664d6576913c39c": 15.68,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 12.71,
+     "930fc173d84e570ee6bae0b6873270e2": 10.49,
+     "801b348b9d5c52913e449573fd5b0d27": 46.18,
+     "93cb381d359a4213489e8c91d1c4cf8a": 15.46,
+     "fddf14c2d9f4466537c9555771bd9f60": 56.92,
+     "242094d3878bd053ead87e9a5465dde7": 9.32,
+     "3aeb458f58da31075c5d2b946876159e": 102.58,
+     "c3d0032d58055dddda9f10391e781633": 37.74,
+     "803cf764de885d11c1c25e452477114c": 19.39,
+     "0cf582ba1fb42704a2d813bfdb71222c": 115.72,
+     "814bd7dcb894d01a3592112e11ef19c1": 21.62,
+     "ad0d07ec76d5e25552d44e7a956b8626": 31.32,
+     "7284ae375d014608f6d4617c838f8ee9": 18,
+     "547071140b030040824bc166037f0c7a": 123.39,
+     "83ba04fe1e6fb3985332141ad5a1db01": 43.33,
+     "43088488dd181e30cf33f033a48f6e34": 27.7,
+     "82823bb41f15f8bb7e8818c30144c0d3": 108.48,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 102.77,
+     "b013d2011796d3d0702aa700e2175d51": 21.79,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 41.6,
+     "130d05f1c452235344b0ab1f0143c52d": 28.39,
+     "9a3e84e4b806edc0c05d80f186148d31": 20.42,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 14.62,
+     "6f685cd602f25976cbbb95152b9623b6": 10.32,
+     "686698f1856b7c1d15a9730d382767bf": 15.39,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 7.33,
+     "label": "2026-10-31 00:00"
+    },
+    {
+     "218a781130e25af066c8a9850ece6dc5": 92.92,
+     "696915404419d25514c2732772514134": 82.3,
+     "ff6c6aaeff351704969ec7d218bd0772": 60.75,
+     "ff403366a36471a41506c54cbbe74edd": 94.44,
+     "eff87492a36df9473424d187c8666c3b": 54.24,
+     "f2ae0dc71dacf42c7934821ec47f9405": 76.91,
+     "8f099565cbcfdaa8ac877987c5f3dcd9": 60.29,
+     "56aa799b185d2054e26474053104a35a": 37.62,
+     "2dbe68355828eed7bade19cd83730d09": 37.66,
+     "1f794ef3160f6647a23478f16b42fa65": 51.07,
+     "b1a7ac9069bbc9b90da2ba3f5f0bae7d": 92.84,
+     "68480ba034a89bf883aeb9a138b82eac": 137.45,
+     "5aee18df6dedd25a82d6a70d8d65170c": 54.23,
+     "479be7ff4482512239f074c2d9c89a84": 133.67,
+     "6d1e5e2f8433d593dd819634a0b11935": 51.58,
+     "3faafb4ac81c1c312db962ff936e2e3b": 65.58,
+     "769172d6e76fbe0fba04372591f0276e": 95.77,
+     "832ed3378efc89367e2769bba5a9e6c1": 174.58,
+     "694801346a7c8762850c3e0e3d5ff237": 120.36,
+     "f0749ebe0ca601416dbb407c3bcb0bcd": 109.08,
+     "7722a88546c701b53f0bd9664f3e5658": 14.98,
+     "4b3d7d562ac2d6f30164a49751cfd115": 106.84,
+     "06b426a0231c85ee49ccbb041d6efa5c": 13.36,
+     "5b378f8014a15411b664d6576913c39c": 16.57,
+     "ddb1aa7c0e75feeb8dcf89e40ad5d54e": 11.64,
+     "930fc173d84e570ee6bae0b6873270e2": 11.62,
+     "801b348b9d5c52913e449573fd5b0d27": 38.45,
+     "93cb381d359a4213489e8c91d1c4cf8a": 21.21,
+     "fddf14c2d9f4466537c9555771bd9f60": 146.47,
+     "242094d3878bd053ead87e9a5465dde7": 11.21,
+     "3aeb458f58da31075c5d2b946876159e": 187.19,
+     "c3d0032d58055dddda9f10391e781633": 38.98,
+     "803cf764de885d11c1c25e452477114c": 11.74,
+     "0cf582ba1fb42704a2d813bfdb71222c": 44.49,
+     "814bd7dcb894d01a3592112e11ef19c1": 39.54,
+     "ad0d07ec76d5e25552d44e7a956b8626": 132.58,
+     "7284ae375d014608f6d4617c838f8ee9": 92.67,
+     "547071140b030040824bc166037f0c7a": 151.25,
+     "83ba04fe1e6fb3985332141ad5a1db01": 70.69,
+     "43088488dd181e30cf33f033a48f6e34": 65.72,
+     "82823bb41f15f8bb7e8818c30144c0d3": 68.84,
+     "bd8b11fc0f13266340a0f2cc2a03ba7e": 46.94,
+     "b013d2011796d3d0702aa700e2175d51": 91.83,
+     "bd80d4cdb2f4f49e4f55ab9be079a5f6": 29.55,
+     "130d05f1c452235344b0ab1f0143c52d": 5.42,
+     "9a3e84e4b806edc0c05d80f186148d31": 15.29,
+     "63a9e8c9bd6d607e2f8c1f0477c92768": 11.9,
+     "6f685cd602f25976cbbb95152b9623b6": 11.88,
+     "686698f1856b7c1d15a9730d382767bf": 11.19,
+     "5bd2d51fcbf706216fea95c251a6e3c5": 501.11,
+     "label": "2026-11-01 00:00"
+    }
+   ]
+  }
+ }
+]

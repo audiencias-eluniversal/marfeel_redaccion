@@ -1,0 +1,186 @@
+{
+ "sucesos": {
+  "articulos": 289,
+  "visitas_suma": 906689,
+  "visitas_api": 902946.0,
+  "grupos": {
+   "<100": {
+    "articulos": 4,
+    "visitas": 330
+   },
+   "100-499": {
+    "articulos": 95,
+    "visitas": 28622
+   },
+   "500-999": {
+    "articulos": 56,
+    "visitas": 40215
+   },
+   ">=1000": {
+    "articulos": 134,
+    "visitas": 837522
+   }
+  }
+ },
+ "entretenimiento": {
+  "articulos": 177,
+  "visitas_suma": 182409,
+  "visitas_api": 182194.0,
+  "grupos": {
+   "<100": {
+    "articulos": 32,
+    "visitas": 2207
+   },
+   "100-499": {
+    "articulos": 88,
+    "visitas": 21560
+   },
+   "500-999": {
+    "articulos": 24,
+    "visitas": 15342
+   },
+   ">=1000": {
+    "articulos": 33,
+    "visitas": 143300
+   }
+  }
+ },
+ "locales": {
+  "articulos": 195,
+  "visitas_suma": 338824,
+  "visitas_api": 338614.0,
+  "grupos": {
+   "<100": {
+    "articulos": 19,
+    "visitas": 1337
+   },
+   "100-499": {
+    "articulos": 76,
+    "visitas": 20786
+   },
+   "500-999": {
+    "articulos": 32,
+    "visitas": 23205
+   },
+   ">=1000": {
+    "articulos": 68,
+    "visitas": 293496
+   }
+  }
+ },
+ "web": {
+  "articulos": 671,
+  "visitas_suma": 560476,
+  "visitas_api": 558295.0,
+  "grupos": {
+   "<100": {
+    "articulos": 224,
+    "visitas": 14022
+   },
+   "100-499": {
+    "articulos": 303,
+    "visitas": 69912
+   },
+   "500-999": {
+    "articulos": 64,
+    "visitas": 45235
+   },
+   ">=1000": {
+    "articulos": 80,
+    "visitas": 431307
+   }
+  }
+ },
+ "deportes": {
+  "articulos": 262,
+  "visitas_suma": 125253,
+  "visitas_api": 125587.0,
+  "grupos": {
+   "<100": {
+    "articulos": 82,
+    "visitas": 5680
+   },
+   "100-499": {
+    "articulos": 125,
+    "visitas": 27637
+   },
+   "500-999": {
+    "articulos": 29,
+    "visitas": 20795
+   },
+   ">=1000": {
+    "articulos": 26,
+    "visitas": 71141
+   }
+  }
+ },
+ "economia": {
+  "articulos": 35,
+  "visitas_suma": 10731,
+  "visitas_api": 10731.0,
+  "grupos": {
+   "<100": {
+    "articulos": 10,
+    "visitas": 650
+   },
+   "100-499": {
+    "articulos": 21,
+    "visitas": 4102
+   },
+   "500-999": {
+    "articulos": 2,
+    "visitas": 1358
+   },
+   ">=1000": {
+    "articulos": 2,
+    "visitas": 4621
+   }
+  }
+ },
+ "mundo": {
+  "articulos": 128,
+  "visitas_suma": 36357,
+  "visitas_api": 36357.0,
+  "grupos": {
+   "<100": {
+    "articulos": 59,
+    "visitas": 3603
+   },
+   "100-499": {
+    "articulos": 55,
+    "visitas": 11441
+   },
+   "500-999": {
+    "articulos": 9,
+    "visitas": 6594
+   },
+   ">=1000": {
+    "articulos": 5,
+    "visitas": 14719
+   }
+  }
+ },
+ "editor-economia": {
+  "articulos": 25,
+  "visitas_suma": 7813,
+  "visitas_api": 7813.0,
+  "grupos": {
+   "<100": {
+    "articulos": 4,
+    "visitas": 313
+   },
+   "100-499": {
+    "articulos": 18,
+    "visitas": 3536
+   },
+   "500-999": {
+    "articulos": 2,
+    "visitas": 1358
+   },
+   ">=1000": {
+    "articulos": 1,
+    "visitas": 2606
+   }
+  }
+ }
+}

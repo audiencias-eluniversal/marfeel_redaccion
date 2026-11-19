@@ -1,0 +1,49 @@
+{
+ "dates": {
+  "groupedBy": "daily",
+  "range": {
+   "start": "2026-07-25",
+   "end": "2026-11-18"
+  }
+ },
+ "filters": [
+  {
+   "filter": "domain",
+   "op": "eq",
+   "value": [
+    "www.eluniversal.com.co"
+   ]
+  },
+  {
+   "filter": "url",
+   "op": "eq",
+   "value": [
+    "https://www.eluniversal.com.co/regional/bolivar/2026/07/25/nueva-sede-de-la-camara-de-comercio-en-santa-rosa-de-lima-estos-son-los-servicios/",
+    "https://www.eluniversal.com.co/sociales/2026/07/26/inauguracion-centro-integral-de-servicios-empresariales-en-santa-rosa/",
+    "https://www.eluniversal.com.co/cartagena/2026/09/01/justicia-en-movimiento-la-iniciativa-que-lleva-jornadas-de-conciliacion-gratuitas-a-municipios-de-bolivar/",
+    "https://www.eluniversal.com.co/cartagena/2026/09/11/extorsion-telefonica-en-bolivar-asi-puedes-actuar-si-eres-comerciante/",
+    "https://www.eluniversal.com.co/regional/2026/09/11/jornada-de-conciliacion-gratuita-en-soplaviento-y-san-estanislao-fecha-y-requisitos/",
+    "https://www.eluniversal.com.co/cartagena/2026/09/18/cartagena-tiene-un-directorio-para-artistas-y-emprendedores-culturales-asi-funciona/",
+    "https://www.eluniversal.com.co/cartagena/2026/10/06/hub-caribe-competitivo-que-es-y-como-busca-conectar-a-las-empresas-de-cartagena/",
+    "https://www.eluniversal.com.co/cartagena/2026/10/28/estas-son-las-9-empresas-de-cartagena-y-bolivar-que-buscan-proveedores-y-tecnologia-en-china/",
+    "https://www.eluniversal.com.co/cartagena/2026/10/29/mas-impulso-al-tejido-empresarial-asi-llega-la-camara-de-comercio-de-cartagena-a-sus-111-anos/",
+    "https://www.eluniversal.com.co/cartagena/2026/11/02/del-talento-al-negocio-asi-fue-el-foro-de-jovenes-emprendedores-en-cartagena/",
+    "https://www.eluniversal.com.co/regional/bolivar/2026/11/06/322-negocios-dejan-la-informalidad-en-calamar-y-la-zona-rio-asi-lo-lograron/",
+    "https://www.eluniversal.com.co/cartagena/2026/11/05/camara-de-comercio-de-cartagena-abrio-innova-latam-2026-con-un-llamado-a-innovar-en-las-empresas/"
+   ]
+  }
+ ],
+ "metrics": [
+  "pageViewsTotal",
+  "uniqueUsers"
+ ],
+ "order": {
+  "metric": "uniqueUsers",
+  "sort": "DESC"
+ },
+ "granularity": "none",
+ "discardOld": false,
+ "from": 0,
+ "limit": 500,
+ "groupBy": []
+}

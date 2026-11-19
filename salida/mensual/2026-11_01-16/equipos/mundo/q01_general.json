@@ -1,0 +1,698 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 61956,
+  "granularity": "daily",
+  "availableGranularities": [
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 61956,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 61956,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2427,
+     "label": "2026-11-01 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4882,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4013,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3098,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2412,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2469,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1997,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1609,
+     "label": "2026-11-08 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1971,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1912,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3585,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8298,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8165,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5110,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3558,
+     "label": "2026-11-15 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 6476,
+     "label": "2026-11-16 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 77454,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 77454,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4601,
+     "label": "2026-10-01 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5753,
+     "label": "2026-10-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2847,
+     "label": "2026-10-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5569,
+     "label": "2026-10-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4946,
+     "label": "2026-10-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5047,
+     "label": "2026-10-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 7942,
+     "label": "2026-10-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 10374,
+     "label": "2026-10-08 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 10303,
+     "label": "2026-10-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3915,
+     "label": "2026-10-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3102,
+     "label": "2026-10-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1662,
+     "label": "2026-10-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3366,
+     "label": "2026-10-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2804,
+     "label": "2026-10-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2450,
+     "label": "2026-10-15 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2982,
+     "label": "2026-10-16 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "uniqueUsers",
+  "total": 48139,
+  "granularity": "daily",
+  "availableGranularities": [
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 48139,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 48139,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2050,
+     "label": "2026-11-01 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4117,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3314,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2566,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2111,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2129,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1722,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1374,
+     "label": "2026-11-08 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1663,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1672,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3266,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 6663,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 7178,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4662,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3295,
+     "label": "2026-11-15 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 6129,
+     "label": "2026-11-16 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 50040,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 50040,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3670,
+     "label": "2026-10-01 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4357,
+     "label": "2026-10-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2101,
+     "label": "2026-10-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 4308,
+     "label": "2026-10-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3751,
+     "label": "2026-10-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3813,
+     "label": "2026-10-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 6177,
+     "label": "2026-10-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 7849,
+     "label": "2026-10-08 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 7598,
+     "label": "2026-10-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2995,
+     "label": "2026-10-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2262,
+     "label": "2026-10-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 1344,
+     "label": "2026-10-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3018,
+     "label": "2026-10-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2351,
+     "label": "2026-10-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2010,
+     "label": "2026-10-15 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 2303,
+     "label": "2026-10-16 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 97.87,
+  "granularity": "daily",
+  "availableGranularities": [
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 97.87,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 97.87,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 92.84,
+     "label": "2026-11-01 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 106.7,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 108.53,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 121.56,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 103.78,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 113.7,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 74.74,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 78.79,
+     "label": "2026-11-08 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 121.91,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 105.48,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 131.1,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 102.82,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 94.39,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 82.33,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 56.1,
+     "label": "2026-11-15 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 64.37,
+     "label": "2026-11-16 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 120.47,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 120.47,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 154.84,
+     "label": "2026-10-01 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 134.53,
+     "label": "2026-10-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 119.12,
+     "label": "2026-10-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 94.01,
+     "label": "2026-10-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 134.97,
+     "label": "2026-10-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 135.92,
+     "label": "2026-10-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 106.34,
+     "label": "2026-10-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 119.49,
+     "label": "2026-10-08 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 117.84,
+     "label": "2026-10-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 112.89,
+     "label": "2026-10-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 108.06,
+     "label": "2026-10-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 114.64,
+     "label": "2026-10-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 85.45,
+     "label": "2026-10-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 129.99,
+     "label": "2026-10-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 117.43,
+     "label": "2026-10-15 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 133.31,
+     "label": "2026-10-16 00:00"
+    }
+   ]
+  }
+ },
+ {
+  "metric": "newArticles",
+  "total": 128,
+  "granularity": "daily",
+  "availableGranularities": [
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 128,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 128,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 7,
+     "label": "2026-11-01 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 9,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 7,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 3,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5,
+     "label": "2026-11-08 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-11-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-11-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 9,
+     "label": "2026-11-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 10,
+     "label": "2026-11-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 11,
+     "label": "2026-11-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 6,
+     "label": "2026-11-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5,
+     "label": "2026-11-15 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-11-16 00:00"
+    }
+   ]
+  },
+  "compareData": {
+   "total": 159,
+   "values": [
+    {
+     "key": "cfab1ba8c67c7c838db98d666f02a132",
+     "total": 159,
+     "items": [
+      {
+       "id": "--",
+       "value": "--",
+       "type": "metric"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-10-01 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 7,
+     "label": "2026-10-02 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 11,
+     "label": "2026-10-03 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-10-04 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-10-05 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-10-06 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 9,
+     "label": "2026-10-07 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 11,
+     "label": "2026-10-08 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 11,
+     "label": "2026-10-09 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 5,
+     "label": "2026-10-10 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-10-11 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 8,
+     "label": "2026-10-12 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 9,
+     "label": "2026-10-13 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-10-14 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-10-15 00:00"
+    },
+    {
+     "cfab1ba8c67c7c838db98d666f02a132": 12,
+     "label": "2026-10-16 00:00"
+    }
+   ]
+  }
+ }
+]

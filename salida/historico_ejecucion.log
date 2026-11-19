@@ -1,0 +1,447 @@
+
+===== W46: ronda 1 =====
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\general
+[2026-11-17 02:00:32] W46 | general | q01 -> OK 1s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\general
+[2026-11-17 02:01:38] W46 | general | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 62s para respetar el límite de la API...
+Página 1: 500 filas (from=0)
+Espera 63s para respetar el límite de la API...
+Página 2: 53 filas (from=500)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\general\q03_medium_articulos.csv
+Filas: 553 | URL con datos: 50/50
+[2026-11-17 02:03:47] W46 | general | q03_P -> OK 129s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\general
+[2026-11-17 02:04:52] W46 | general | q05 -> OK 65s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\general
+[2026-11-17 02:05:57] W46 | general | q06 -> OK 65s
+[2026-11-17 02:05:57] W46 | general | q02_C -> OMITIDO ya existe
+[2026-11-17 02:05:57] W46 | general | q03_C -> OMITIDO ya existe
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\entretenimiento
+[2026-11-17 02:07:02] W46 | entretenimiento | q01 -> OK 65s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\entretenimiento
+[2026-11-17 02:08:07] W46 | entretenimiento | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 430 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\entretenimiento\q03_medium_articulos.csv
+Filas: 430 | URL con datos: 50/50
+[2026-11-17 02:09:12] W46 | entretenimiento | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\entretenimiento
+[2026-11-17 02:10:17] W46 | entretenimiento | q05 -> OK 64s
+[2026-11-17 02:10:17] W46 | entretenimiento | q02_C -> OMITIDO ya existe
+[2026-11-17 02:10:17] W46 | entretenimiento | q03_C -> OMITIDO ya existe
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\sucesos
+[2026-11-17 02:11:22] W46 | sucesos | q01 -> OK 65s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\sucesos
+[2026-11-17 02:12:27] W46 | sucesos | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 500 filas (from=0)
+Espera 63s para respetar el límite de la API...
+Página 2: 27 filas (from=500)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\sucesos\q03_medium_articulos.csv
+Filas: 527 | URL con datos: 50/50
+[2026-11-17 02:14:37] W46 | sucesos | q03_P -> OK 129s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\sucesos
+[2026-11-17 02:15:42] W46 | sucesos | q05 -> OK 65s
+[2026-11-17 02:15:42] W46 | sucesos | q02_C -> OMITIDO ya existe
+[2026-11-17 02:15:42] W46 | sucesos | q03_C -> OMITIDO ya existe
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\locales
+[2026-11-17 02:16:47] W46 | locales | q01 -> OK 65s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\locales
+[2026-11-17 02:17:52] W46 | locales | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 443 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\locales\q03_medium_articulos.csv
+Filas: 443 | URL con datos: 50/50
+[2026-11-17 02:18:58] W46 | locales | q03_P -> OK 66s
+Espera 62s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\locales
+[2026-11-17 02:20:01] W46 | locales | q05 -> OK 63s
+[2026-11-17 02:20:01] W46 | locales | q02_C -> OMITIDO ya existe
+[2026-11-17 02:20:01] W46 | locales | q03_C -> OMITIDO ya existe
+Espera 64s para respetar el límite de la API...
+Exclusiones web 2026-11-09: 119 URL, 2903 vistas
+[2026-11-17 02:21:08] W46 | web | excl_P -> OK 66s
+[2026-11-17 02:21:08] W46 | web | excl_C -> OMITIDO ya existe
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\web
+[2026-11-17 02:22:13] W46 | web | q01 -> OK 66s
+Espera 62s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\web
+[2026-11-17 02:23:18] W46 | web | q02_P -> OK 65s
+50 URL leídas de q02_articulos.csv
+Espera 62s para respetar el límite de la API...
+Página 1: 482 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\web\q03_medium_articulos.csv
+Filas: 482 | URL con datos: 50/50
+[2026-11-17 02:24:23] W46 | web | q03_P -> OK 64s
+Espera 62s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\web
+[2026-11-17 02:25:29] W46 | web | q05 -> OK 66s
+[2026-11-17 02:25:29] W46 | web | q02_C -> OMITIDO ya existe
+[2026-11-17 02:25:29] W46 | web | q03_C -> OMITIDO ya existe
+Espera 61s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\monetizacion
+[2026-11-17 02:26:32] W46 | monetizacion | q01 -> OK 63s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\monetizacion
+[2026-11-17 02:27:37] W46 | monetizacion | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 198 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\monetizacion\q03_medium_articulos.csv
+Filas: 198 | URL con datos: 50/50
+[2026-11-17 02:28:42] W46 | monetizacion | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\monetizacion
+[2026-11-17 02:29:47] W46 | monetizacion | q05 -> OK 64s
+[2026-11-17 02:29:47] W46 | monetizacion | q02_C -> OMITIDO ya existe
+[2026-11-17 02:29:47] W46 | monetizacion | q03_C -> OMITIDO ya existe
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\deportes
+[2026-11-17 02:30:51] W46 | deportes | q01 -> OK 65s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\deportes
+[2026-11-17 02:31:57] W46 | deportes | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 358 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\deportes\q03_medium_articulos.csv
+Filas: 358 | URL con datos: 50/50
+[2026-11-17 02:33:03] W46 | deportes | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\deportes
+[2026-11-17 02:34:07] W46 | deportes | q05 -> OK 64s
+[2026-11-17 02:34:07] W46 | deportes | q02_C -> OMITIDO ya existe
+[2026-11-17 02:34:07] W46 | deportes | q03_C -> OMITIDO ya existe
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\editor-economia
+[2026-11-17 02:35:12] W46 | editor-economia | q01 -> OK 65s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\editor-economia
+[2026-11-17 02:36:17] W46 | editor-economia | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 158 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\editor-economia\q03_medium_articulos.csv
+Filas: 158 | URL con datos: 50/50
+[2026-11-17 02:37:22] W46 | editor-economia | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\editor-economia
+[2026-11-17 02:38:27] W46 | editor-economia | q05 -> OK 64s
+[2026-11-17 02:38:27] W46 | editor-economia | q02_C -> OMITIDO ya existe
+[2026-11-17 02:38:27] W46 | editor-economia | q03_C -> OMITIDO ya existe
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\economia
+[2026-11-17 02:39:32] W46 | economia | q01 -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\economia
+[2026-11-17 02:40:37] W46 | economia | q02_P -> OK 65s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 185 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\economia\q03_medium_articulos.csv
+Filas: 185 | URL con datos: 50/50
+[2026-11-17 02:41:42] W46 | economia | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\economia
+[2026-11-17 02:42:47] W46 | economia | q05 -> OK 65s
+[2026-11-17 02:42:47] W46 | economia | q02_C -> OMITIDO ya existe
+[2026-11-17 02:42:47] W46 | economia | q03_C -> OMITIDO ya existe
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\mundo
+[2026-11-17 02:43:52] W46 | mundo | q01 -> OK 65s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\mundo
+[2026-11-17 02:44:57] W46 | mundo | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 320 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\mundo\q03_medium_articulos.csv
+Filas: 320 | URL con datos: 50/50
+[2026-11-17 02:46:03] W46 | mundo | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\2026-W46_11-09\equipos\mundo
+[2026-11-17 02:47:07] W46 | mundo | q05 -> OK 64s
+[2026-11-17 02:47:07] W46 | mundo | q02_C -> OMITIDO ya existe
+[2026-11-17 02:47:07] W46 | mundo | q03_C -> OMITIDO ya existe
+[2026-11-17 02:47:07] AVISO: Pausa de 5 min antes de la fase Mensual 1-16 nov.
+
+===== Mensual 1-16 nov: ronda 1 =====
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\general
+[2026-11-17 02:52:09] Mensual 1-16 nov | general | q01 -> OK 2s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\general
+[2026-11-17 02:53:15] Mensual 1-16 nov | general | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 62s para respetar el límite de la API...
+Página 1: 500 filas (from=0)
+Espera 62s para respetar el límite de la API...
+Página 2: 122 filas (from=500)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\general\q03_medium_articulos.csv
+Filas: 622 | URL con datos: 50/50
+[2026-11-17 02:55:24] Mensual 1-16 nov | general | q03_P -> OK 129s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\general
+[2026-11-17 02:56:30] Mensual 1-16 nov | general | q05 -> OK 66s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\general
+[2026-11-17 02:57:37] Mensual 1-16 nov | general | q06 -> OK 67s
+Espera 61s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\general
+[2026-11-17 02:58:40] Mensual 1-16 nov | general | q02_C -> OK 63s
+50 URL leídas de q02_articulos.csv
+Espera 62s para respetar el límite de la API...
+Página 1: 500 filas (from=0)
+Espera 63s para respetar el límite de la API...
+Página 2: 68 filas (from=500)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\general\q03_medium_articulos.csv
+Filas: 568 | URL con datos: 50/50
+[2026-11-17 03:00:49] Mensual 1-16 nov | general | q03_C -> OK 129s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\entretenimiento
+[2026-11-17 03:01:54] Mensual 1-16 nov | entretenimiento | q01 -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\entretenimiento
+[2026-11-17 03:03:00] Mensual 1-16 nov | entretenimiento | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 495 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\entretenimiento\q03_medium_articulos.csv
+Filas: 495 | URL con datos: 50/50
+[2026-11-17 03:04:05] Mensual 1-16 nov | entretenimiento | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\entretenimiento
+[2026-11-17 03:05:09] Mensual 1-16 nov | entretenimiento | q05 -> OK 64s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\entretenimiento
+[2026-11-17 03:06:14] Mensual 1-16 nov | entretenimiento | q02_C -> OK 65s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 450 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\entretenimiento\q03_medium_articulos.csv
+Filas: 450 | URL con datos: 50/50
+[2026-11-17 03:07:19] Mensual 1-16 nov | entretenimiento | q03_C -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\sucesos
+[2026-11-17 03:08:24] Mensual 1-16 nov | sucesos | q01 -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\sucesos
+[2026-11-17 03:09:30] Mensual 1-16 nov | sucesos | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 62s para respetar el límite de la API...
+Página 1: 500 filas (from=0)
+Espera 62s para respetar el límite de la API...
+Página 2: 85 filas (from=500)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\sucesos\q03_medium_articulos.csv
+Filas: 585 | URL con datos: 50/50
+[2026-11-17 03:11:39] Mensual 1-16 nov | sucesos | q03_P -> OK 129s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\sucesos
+[2026-11-17 03:12:44] Mensual 1-16 nov | sucesos | q05 -> OK 66s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\sucesos
+[2026-11-17 03:13:49] Mensual 1-16 nov | sucesos | q02_C -> OK 65s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 500 filas (from=0)
+Espera 63s para respetar el límite de la API...
+Página 2: 17 filas (from=500)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\sucesos\q03_medium_articulos.csv
+Filas: 517 | URL con datos: 50/50
+[2026-11-17 03:15:59] Mensual 1-16 nov | sucesos | q03_C -> OK 129s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\locales
+[2026-11-17 03:17:04] Mensual 1-16 nov | locales | q01 -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\locales
+[2026-11-17 03:18:10] Mensual 1-16 nov | locales | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 450 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\locales\q03_medium_articulos.csv
+Filas: 450 | URL con datos: 50/50
+[2026-11-17 03:19:15] Mensual 1-16 nov | locales | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\locales
+[2026-11-17 03:20:19] Mensual 1-16 nov | locales | q05 -> OK 64s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\locales
+[2026-11-17 03:21:24] Mensual 1-16 nov | locales | q02_C -> OK 65s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 453 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\locales\q03_medium_articulos.csv
+Filas: 453 | URL con datos: 50/50
+[2026-11-17 03:22:30] Mensual 1-16 nov | locales | q03_C -> OK 65s
+Espera 63s para respetar el límite de la API...
+Exclusiones web 2026-11-01: 210 URL, 18294 vistas
+[2026-11-17 03:23:35] Mensual 1-16 nov | web | excl_P -> OK 65s
+Espera 62s para respetar el límite de la API...
+Exclusiones web 2026-10-01: 248 URL, 31441 vistas
+[2026-11-17 03:24:40] Mensual 1-16 nov | web | excl_C -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\web
+[2026-11-17 03:25:46] Mensual 1-16 nov | web | q01 -> OK 67s
+Espera 61s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\web
+[2026-11-17 03:26:50] Mensual 1-16 nov | web | q02_P -> OK 64s
+50 URL leídas de q02_articulos.csv
+Espera 62s para respetar el límite de la API...
+Página 1: 500 filas (from=0)
+Espera 62s para respetar el límite de la API...
+Página 2: 45 filas (from=500)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\web\q03_medium_articulos.csv
+Filas: 545 | URL con datos: 50/50
+[2026-11-17 03:28:59] Mensual 1-16 nov | web | q03_P -> OK 129s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\web
+[2026-11-17 03:30:06] Mensual 1-16 nov | web | q05 -> OK 66s
+Espera 62s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\web
+[2026-11-17 03:31:10] Mensual 1-16 nov | web | q02_C -> OK 64s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 500 filas (from=0)
+Espera 62s para respetar el límite de la API...
+Página 2: 1 filas (from=500)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\web\q03_medium_articulos.csv
+Filas: 501 | URL con datos: 50/50
+[2026-11-17 03:33:19] Mensual 1-16 nov | web | q03_C -> OK 129s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\monetizacion
+[2026-11-17 03:34:24] Mensual 1-16 nov | monetizacion | q01 -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\monetizacion
+[2026-11-17 03:35:30] Mensual 1-16 nov | monetizacion | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 62s para respetar el límite de la API...
+Página 1: 279 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\monetizacion\q03_medium_articulos.csv
+Filas: 279 | URL con datos: 50/50
+[2026-11-17 03:36:34] Mensual 1-16 nov | monetizacion | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\monetizacion
+[2026-11-17 03:37:39] Mensual 1-16 nov | monetizacion | q05 -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\monetizacion
+[2026-11-17 03:38:44] Mensual 1-16 nov | monetizacion | q02_C -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 253 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\monetizacion\q03_medium_articulos.csv
+Filas: 253 | URL con datos: 50/50
+[2026-11-17 03:39:49] Mensual 1-16 nov | monetizacion | q03_C -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\deportes
+[2026-11-17 03:40:54] Mensual 1-16 nov | deportes | q01 -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\deportes
+[2026-11-17 03:42:00] Mensual 1-16 nov | deportes | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 418 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\deportes\q03_medium_articulos.csv
+Filas: 418 | URL con datos: 50/50
+[2026-11-17 03:43:05] Mensual 1-16 nov | deportes | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\deportes
+[2026-11-17 03:44:09] Mensual 1-16 nov | deportes | q05 -> OK 64s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\deportes
+[2026-11-17 03:45:14] Mensual 1-16 nov | deportes | q02_C -> OK 65s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 363 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\deportes\q03_medium_articulos.csv
+Filas: 363 | URL con datos: 50/50
+[2026-11-17 03:46:19] Mensual 1-16 nov | deportes | q03_C -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\editor-economia
+[2026-11-17 03:47:24] Mensual 1-16 nov | editor-economia | q01 -> OK 64s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\editor-economia
+[2026-11-17 03:48:30] Mensual 1-16 nov | editor-economia | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 219 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\editor-economia\q03_medium_articulos.csv
+Filas: 219 | URL con datos: 50/50
+[2026-11-17 03:49:35] Mensual 1-16 nov | editor-economia | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\editor-economia
+[2026-11-17 03:50:39] Mensual 1-16 nov | editor-economia | q05 -> OK 64s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\editor-economia
+[2026-11-17 03:51:45] Mensual 1-16 nov | editor-economia | q02_C -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 209 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\editor-economia\q03_medium_articulos.csv
+Filas: 209 | URL con datos: 50/50
+[2026-11-17 03:52:49] Mensual 1-16 nov | editor-economia | q03_C -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\economia
+[2026-11-17 03:53:54] Mensual 1-16 nov | economia | q01 -> OK 64s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\economia
+[2026-11-17 03:55:00] Mensual 1-16 nov | economia | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 243 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\economia\q03_medium_articulos.csv
+Filas: 243 | URL con datos: 50/50
+[2026-11-17 03:56:04] Mensual 1-16 nov | economia | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\economia
+[2026-11-17 03:57:09] Mensual 1-16 nov | economia | q05 -> OK 64s
+Espera 64s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\economia
+[2026-11-17 03:58:15] Mensual 1-16 nov | economia | q02_C -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 288 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\economia\q03_medium_articulos.csv
+Filas: 288 | URL con datos: 50/50
+[2026-11-17 03:59:20] Mensual 1-16 nov | economia | q03_C -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\mundo
+[2026-11-17 04:00:24] Mensual 1-16 nov | mundo | q01 -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\mundo
+[2026-11-17 04:01:30] Mensual 1-16 nov | mundo | q02_P -> OK 66s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 362 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\mundo\q03_medium_articulos.csv
+Filas: 362 | URL con datos: 50/50
+[2026-11-17 04:02:35] Mensual 1-16 nov | mundo | q03_P -> OK 65s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-11_01-16\equipos\mundo
+[2026-11-17 04:03:39] Mensual 1-16 nov | mundo | q05 -> OK 64s
+Espera 63s para respetar el límite de la API...
+Guardado en E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\mundo
+[2026-11-17 04:04:44] Mensual 1-16 nov | mundo | q02_C -> OK 65s
+50 URL leídas de q02_articulos.csv
+Espera 63s para respetar el límite de la API...
+Página 1: 404 filas (from=0)
+Guardado: E:\Proyectos\marfeel_redaccion\salida\mensual\2026-10_01-16\equipos\mundo\q03_medium_articulos.csv
+Filas: 404 | URL con datos: 50/50
+[2026-11-17 04:05:50] Mensual 1-16 nov | mundo | q03_C -> OK 65s
+[2026-11-17 04:05:50] Resumen en E:\Proyectos\marfeel_redaccion\salida\resumen_ejecucion.md
+[2026-11-17 04:05:50] Apagando el equipo en 60 s...

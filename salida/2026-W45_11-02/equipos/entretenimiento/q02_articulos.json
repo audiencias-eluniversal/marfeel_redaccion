@@ -1,0 +1,2822 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 92551,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 92551,
+   "values": [
+    {
+     "key": "47a0453ccfd1f3bab62c5ab1260ebcec",
+     "total": 23660,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/juan-c-merlano-conmueve-al-anunciar-su-salida-de-caracol-television-fui-inmensamente-feliz/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/juan-c-merlano-conmueve-al-anunciar-su-salida-de-caracol-television-fui-inmensamente-feliz/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4cc596130a49907bf84602a2862c8b99",
+     "total": 5289,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/un-miembro-de-bts-se-casa-esto-se-sabe-del-rumor-que-circula-en-redes-sociales/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/un-miembro-de-bts-se-casa-esto-se-sabe-del-rumor-que-circula-en-redes-sociales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0c6b5c5abfc0154ad743dc237a0fb904",
+     "total": 5271,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/la-representante-de-el-country-se-retira-del-reinado-de-la-independencia-irrespetada/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/la-representante-de-el-country-se-retira-del-reinado-de-la-independencia-irrespetada/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "777a8cbf45701c3893da6c69d8a4d144",
+     "total": 5218,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "87ed2cff92c515985168c24a525683e9",
+     "total": 4449,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/02/diego-guauque-revelo-que-dejo-preparado-por-si-moria-organizo-su-despedida/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/02/diego-guauque-revelo-que-dejo-preparado-por-si-moria-organizo-su-despedida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1836aa67ab2fc8743edf1f4b699d4f9a",
+     "total": 2474,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/palacio-la-serie-de-netflix-que-revive-las-heridas-de-la-toma-del-palacio-de-justicia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/palacio-la-serie-de-netflix-que-revive-las-heridas-de-la-toma-del-palacio-de-justicia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b9f0981034f1e7a61cfb2eb25959e01a",
+     "total": 2368,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/triste-perdida-murio-la-bebe-de-reconocido-actor-a-los-seis-meses-de-embarazo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/triste-perdida-murio-la-bebe-de-reconocido-actor-a-los-seis-meses-de-embarazo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bc6bed2185bf616520b96dc7747e1505",
+     "total": 2367,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/que-paso-con-luister-la-voz-en-santa-marta-su-equipo-rompe-el-silencio/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/que-paso-con-luister-la-voz-en-santa-marta-su-equipo-rompe-el-silencio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "175f638b9eab8cba34dee46b43e4f6b0",
+     "total": 1439,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/poncho-zuleta-se-retira-de-los-escenarios-para-acompanar-a-su-hijo-kbeto/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/poncho-zuleta-se-retira-de-los-escenarios-para-acompanar-a-su-hijo-kbeto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6e1b13601f9f84b0cc8c00610269f89f",
+     "total": 1379,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/video-isabella-ladera-de-nuevo-en-polemica-tras-broma-pesada-que-hizo-llorar-a-su-hija/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/video-isabella-ladera-de-nuevo-en-polemica-tras-broma-pesada-que-hizo-llorar-a-su-hija/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "93e3be0772f18ba44b1af786c71d26f4",
+     "total": 1378,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/exmanager-de-silvestre-dangond-denuncia-que-le-deben-dinero-tras-20-anos-de-trabajo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/exmanager-de-silvestre-dangond-denuncia-que-le-deben-dinero-tras-20-anos-de-trabajo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f4aeb0768d2d92b24f5698365eef857f",
+     "total": 1151,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/30/la-promesa-que-hizo-poncho-zuleta-a-dios-por-la-recuperacion-de-su-hijo-kbeto/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/30/la-promesa-que-hizo-poncho-zuleta-a-dios-por-la-recuperacion-de-su-hijo-kbeto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d0f742829c98d26edbf6ec45192945c7",
+     "total": 1067,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1ef9a9935b08853c0dc9a87906a294e1",
+     "total": 1022,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4b0e259a441eea770769961b8971c231",
+     "total": 955,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/colombia-conquista-la-corona-de-reina-internacional-del-chocolate-2026/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/colombia-conquista-la-corona-de-reina-internacional-del-chocolate-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "19525bbb970b8f2b2b607a8bcfda234a",
+     "total": 895,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/el-que-critica-siempre-esta-abajo-mr-black-responde-a-criticas-por-su-cancion/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/el-que-critica-siempre-esta-abajo-mr-black-responde-a-criticas-por-su-cancion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2e9242bfbacfdbac1b579035d9b5f924",
+     "total": 788,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/el-influencer-yeferson-cossio-habria-sido-operado-de-emergencia-que-le-paso/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/el-influencer-yeferson-cossio-habria-sido-operado-de-emergencia-que-le-paso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c0db42572a9a0109bd0f272387922c29",
+     "total": 737,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/en-video-preocupacion-por-martin-elias-jr-tras-sufrir-una-fuerte-caida-mientras-cantaba/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/en-video-preocupacion-por-martin-elias-jr-tras-sufrir-una-fuerte-caida-mientras-cantaba/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7a4a543879611d02be4c9ba43e5ee527",
+     "total": 647,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/02/la-segura-fue-hospitalizada-de-urgencia-encontraron-un-objeto-metalico-en-su-columna/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/02/la-segura-fue-hospitalizada-de-urgencia-encontraron-un-objeto-metalico-en-su-columna/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4456e229119a34474c3acf66eb975548",
+     "total": 640,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/preocupacion-por-el-papa-de-shakira-william-mebarak-habria-sido-hospitalizado-de-nuevo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/preocupacion-por-el-papa-de-shakira-william-mebarak-habria-sido-hospitalizado-de-nuevo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ec73cf6f2eb529b14b9dc9dadbce2ede",
+     "total": 636,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/salud/2026/11/01/una-cirugia-para-recordar-asi-separaron-a-dos-gemelas-unidas-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/salud/2026/11/01/una-cirugia-para-recordar-asi-separaron-a-dos-gemelas-unidas-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d5e6c9ab72cbbf68920a1dbbb752f1d6",
+     "total": 630,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/24/quien-es-kevin-wai-la-historia-del-colombiano-detras-del-exito-dame-hombro/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/24/quien-es-kevin-wai-la-historia-del-colombiano-detras-del-exito-dame-hombro/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "50fbca17c7a48b7a9d52b485db464dd5",
+     "total": 537,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/rumbo-a-la-corona-este-viernes-sera-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/rumbo-a-la-corona-este-viernes-sera-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9d6b7d58bbded02f76cfdf0bac69704e",
+     "total": 535,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/tu-no-eres-amiga-mia-isabella-santodomingo-publico-sus-mensajes-a-adriana-lucia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/tu-no-eres-amiga-mia-isabella-santodomingo-publico-sus-mensajes-a-adriana-lucia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b23ce7537f15692b09c9d10a59dd3fe5",
+     "total": 530,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/cartagena-vive-el-desfile-en-traje-de-bano-del-reinado-popular-de-la-independencia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/cartagena-vive-el-desfile-en-traje-de-bano-del-reinado-popular-de-la-independencia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "baa8b8b7fb7820fb32131143e3882374",
+     "total": 526,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cultural/2026/11/05/orgullo-cartagenero-margarita-garcia-robayo-gana-el-premio-herralde-de-novela-2026/",
+       "value": "https://www.eluniversal.com.co/cultural/2026/11/05/orgullo-cartagenero-margarita-garcia-robayo-gana-el-premio-herralde-de-novela-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "239db12939a6479ea66eb10b7d5354fe",
+     "total": 521,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/gabriela-londono-candidata-de-el-country-sigue-en-competencia-por-la-corona-popular/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/gabriela-londono-candidata-de-el-country-sigue-en-competencia-por-la-corona-popular/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "43970fffa9e822351c6a29876c349997",
+     "total": 484,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/productora-de-carlos-vives-rompio-el-silencio-sobre-la-pension-de-egidio-cuadrado/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/productora-de-carlos-vives-rompio-el-silencio-sobre-la-pension-de-egidio-cuadrado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3e4d1e0adf6ef72b0df513b41a9e9064",
+     "total": 470,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/don-omar-regresa-a-colombia-en-2027-estas-son-las-fechas-de-sus-conciertos/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/don-omar-regresa-a-colombia-en-2027-estas-son-las-fechas-de-sus-conciertos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "46a85eed92c96b16c482942ad17288a8",
+     "total": 469,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/en-video-la-curiosa-respuesta-de-giblack-al-comentario-de-luister-la-voz/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/en-video-la-curiosa-respuesta-de-giblack-al-comentario-de-luister-la-voz/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b3cabc0c02010fda36a7d57bcd1b3106",
+     "total": 381,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sociales/2026/11/02/lanzamiento-de-los-proyectos-inmobiliarios-giardian-y-belaria/",
+       "value": "https://www.eluniversal.com.co/sociales/2026/11/02/lanzamiento-de-los-proyectos-inmobiliarios-giardian-y-belaria/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1167c0e1faa001e68c3b799e7d413ffc",
+     "total": 355,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/en-fotos-imagenes-asi-se-vivio-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/en-fotos-imagenes-asi-se-vivio-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0ae335965c851addd557d42b1872f7a6",
+     "total": 349,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/las-candidatas-del-reinado-de-la-independencia-que-destacaron-en-la-prueba-de-talento/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/las-candidatas-del-reinado-de-la-independencia-que-destacaron-en-la-prueba-de-talento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ec472115366f94ab5e6d85d6cf83ed8d",
+     "total": 333,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/nacio-el-hijo-de-karina-garcia-y-kris-r-las-primeras-imagenes-del-bebe-kairo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/nacio-el-hijo-de-karina-garcia-y-kris-r-las-primeras-imagenes-del-bebe-kairo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "aac347acf28508b6380c6702fddee06a",
+     "total": 331,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/yailin-la-mas-viral-dedica-emotivas-palabras-a-cartagena-gracias-por-tanto-carino/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/yailin-la-mas-viral-dedica-emotivas-palabras-a-cartagena-gracias-por-tanto-carino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "155c6e9e375648bb68fdd79aaf49f014",
+     "total": 324,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/llego-el-dia-las-candidatas-al-reinado-popular-se-mediran-en-la-prueba-de-talentos/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/llego-el-dia-las-candidatas-al-reinado-popular-se-mediran-en-la-prueba-de-talentos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "047dffaef40e88c213d7e98fc8abb135",
+     "total": 310,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/actualizacion-del-estado-de-salud-de-kbeto-zuleta-ya-habla-y-reconoce-personas-milagro/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/actualizacion-del-estado-de-salud-de-kbeto-zuleta-ya-habla-y-reconoce-personas-milagro/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "02fcb01d2f549bfa5bba85c58bd2c6a7",
+     "total": 306,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/02/criminal-minds-llegara-a-su-final-actriz-del-elenco-reacciono-con-tristeza-y-sorpresa/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/02/criminal-minds-llegara-a-su-final-actriz-del-elenco-reacciono-con-tristeza-y-sorpresa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9e052cb0db6c38a073a6b54dd265ebcd",
+     "total": 305,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sociales/2026/11/04/inauguracion-primer-tramo-del-proyecto-gran-malecon-del-mar/",
+       "value": "https://www.eluniversal.com.co/sociales/2026/11/04/inauguracion-primer-tramo-del-proyecto-gran-malecon-del-mar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "feb39d0fa13d470e06c2a4fee00e3018",
+     "total": 304,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/01/heidi-klum-vuelve-a-ser-la-reina-del-halloween-con-su-aterradora-transformacion/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/01/heidi-klum-vuelve-a-ser-la-reina-del-halloween-con-su-aterradora-transformacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7f4de9a03afa88937c4c234096c74ae4",
+     "total": 299,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/las-reinas-estan-en-casa-candidatas-al-concurso-nacional-de-belleza-llegaron-a-cartagena/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/las-reinas-estan-en-casa-candidatas-al-concurso-nacional-de-belleza-llegaron-a-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d8ecc761e87749cbe05a3973fd5f8820",
+     "total": 280,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/epa-colombia-podria-salir-de-prision-el-mensaje-de-su-esposa-que-desperto-rumores/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/epa-colombia-podria-salir-de-prision-el-mensaje-de-su-esposa-que-desperto-rumores/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a7105451e2e3e5aa4029098ee0e1198d",
+     "total": 254,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/yuranis-leon-se-sincera-tras-nueva-cancion-de-mr-black-se-que-estoy-en-el-ojo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/yuranis-leon-se-sincera-tras-nueva-cancion-de-mr-black-se-que-estoy-en-el-ojo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "926c21718fd160546d1fb21489d0feea",
+     "total": 249,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/miss-bulgaria-queda-fuera-de-miss-universo-2026-tras-sufrir-accidente-automovilistico/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/miss-bulgaria-queda-fuera-de-miss-universo-2026-tras-sufrir-accidente-automovilistico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "59cf371ece9bf75ee80d60ee5283924f",
+     "total": 237,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/21/hallan-muerto-al-padre-de-sonia-restrepo-la-viuda-de-yeison-jimenez/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/21/hallan-muerto-al-padre-de-sonia-restrepo-la-viuda-de-yeison-jimenez/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "888951f86d47ac4fdf5748063f294b1c",
+     "total": 237,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/radamel-uribe-navarro-el-musico-que-murio-tras-el-accidente-de-la-agrupacion-de-kbeto-zuleta/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/radamel-uribe-navarro-el-musico-que-murio-tras-el-accidente-de-la-agrupacion-de-kbeto-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1c44e56554b7bdb1de41ff32f74c4d7b",
+     "total": 230,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/las-ganadoras-del-desfile-en-traje-artesanal-del-concurso-nacional-de-belleza-2026/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/las-ganadoras-del-desfile-en-traje-artesanal-del-concurso-nacional-de-belleza-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5cc74d9973322af73fa659b2408dfa06",
+     "total": 222,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/nueva-novela-de-caracol-tv-en-que-lio-me-meti-llegara-este-lunes-a-las-pantallas/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/nueva-novela-de-caracol-tv-en-que-lio-me-meti-llegara-este-lunes-a-las-pantallas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ace98e1d0eca8a935358f5ed6eea38cb",
+     "total": 220,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/nueva-demanda-contra-vadhir-derbez-hijo-de-eugenio-derbez-por-presunto-abuso/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/nueva-demanda-contra-vadhir-derbez-hijo-de-eugenio-derbez-por-presunto-abuso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "58c61780af04892a33e8341fdb11471e",
+     "total": 206,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/la-candidata-dominicana-a-miss-universo-2026-sufrio-accidente-automovilistico/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/la-candidata-dominicana-a-miss-universo-2026-sufrio-accidente-automovilistico/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 0,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 2160,
+     "87ed2cff92c515985168c24a525683e9": 938,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 0,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 0,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 437,
+     "d0f742829c98d26edbf6ec45192945c7": 640,
+     "1ef9a9935b08853c0dc9a87906a294e1": 417,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 0,
+     "c0db42572a9a0109bd0f272387922c29": 218,
+     "7a4a543879611d02be4c9ba43e5ee527": 500,
+     "4456e229119a34474c3acf66eb975548": 0,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 363,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 125,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 129,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 39,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 154,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 0,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 126,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 263,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 18,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 75,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 0,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 1037,
+     "87ed2cff92c515985168c24a525683e9": 2345,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 1263,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 872,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 348,
+     "d0f742829c98d26edbf6ec45192945c7": 232,
+     "1ef9a9935b08853c0dc9a87906a294e1": 362,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 561,
+     "c0db42572a9a0109bd0f272387922c29": 137,
+     "7a4a543879611d02be4c9ba43e5ee527": 129,
+     "4456e229119a34474c3acf66eb975548": 527,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 58,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 61,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 171,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 18,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 114,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 292,
+     "047dffaef40e88c213d7e98fc8abb135": 208,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 104,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 31,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 49,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 74,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 8580,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 4743,
+     "777a8cbf45701c3893da6c69d8a4d144": 534,
+     "87ed2cff92c515985168c24a525683e9": 579,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 522,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 422,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 222,
+     "d0f742829c98d26edbf6ec45192945c7": 93,
+     "1ef9a9935b08853c0dc9a87906a294e1": 122,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 173,
+     "c0db42572a9a0109bd0f272387922c29": 157,
+     "7a4a543879611d02be4c9ba43e5ee527": 14,
+     "4456e229119a34474c3acf66eb975548": 47,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 52,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 72,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 157,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 3,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 48,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 311,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 150,
+     "155c6e9e375648bb68fdd79aaf49f014": 19,
+     "047dffaef40e88c213d7e98fc8abb135": 61,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 48,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 66,
+     "feb39d0fa13d470e06c2a4fee00e3018": 7,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 17,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 83,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 5700,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 321,
+     "777a8cbf45701c3893da6c69d8a4d144": 405,
+     "87ed2cff92c515985168c24a525683e9": 283,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 108,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 1473,
+     "bc6bed2185bf616520b96dc7747e1505": 300,
+     "175f638b9eab8cba34dee46b43e4f6b0": 1221,
+     "6e1b13601f9f84b0cc8c00610269f89f": 59,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 50,
+     "d0f742829c98d26edbf6ec45192945c7": 30,
+     "1ef9a9935b08853c0dc9a87906a294e1": 99,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 24,
+     "c0db42572a9a0109bd0f272387922c29": 104,
+     "7a4a543879611d02be4c9ba43e5ee527": 1,
+     "4456e229119a34474c3acf66eb975548": 26,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 37,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 71,
+     "50fbca17c7a48b7a9d52b485db464dd5": 405,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 45,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 395,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 83,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 292,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 30,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 19,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 137,
+     "155c6e9e375648bb68fdd79aaf49f014": 6,
+     "047dffaef40e88c213d7e98fc8abb135": 22,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 16,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 125,
+     "feb39d0fa13d470e06c2a4fee00e3018": 1,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 60,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 5,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 4681,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 89,
+     "777a8cbf45701c3893da6c69d8a4d144": 480,
+     "87ed2cff92c515985168c24a525683e9": 154,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 545,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 507,
+     "bc6bed2185bf616520b96dc7747e1505": 155,
+     "175f638b9eab8cba34dee46b43e4f6b0": 175,
+     "6e1b13601f9f84b0cc8c00610269f89f": 17,
+     "93e3be0772f18ba44b1af786c71d26f4": 1047,
+     "f4aeb0768d2d92b24f5698365eef857f": 76,
+     "d0f742829c98d26edbf6ec45192945c7": 51,
+     "1ef9a9935b08853c0dc9a87906a294e1": 13,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 18,
+     "c0db42572a9a0109bd0f272387922c29": 52,
+     "7a4a543879611d02be4c9ba43e5ee527": 1,
+     "4456e229119a34474c3acf66eb975548": 14,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 33,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 78,
+     "50fbca17c7a48b7a9d52b485db464dd5": 108,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 18,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 308,
+     "baa8b8b7fb7820fb32131143e3882374": 90,
+     "239db12939a6479ea66eb10b7d5354fe": 458,
+     "43970fffa9e822351c6a29876c349997": 149,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 134,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 26,
+     "1167c0e1faa001e68c3b799e7d413ffc": 9,
+     "0ae335965c851addd557d42b1872f7a6": 12,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 22,
+     "155c6e9e375648bb68fdd79aaf49f014": 3,
+     "047dffaef40e88c213d7e98fc8abb135": 13,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 6,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 71,
+     "feb39d0fa13d470e06c2a4fee00e3018": 2,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 60,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 67,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 2723,
+     "4cc596130a49907bf84602a2862c8b99": 1619,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 68,
+     "777a8cbf45701c3893da6c69d8a4d144": 312,
+     "87ed2cff92c515985168c24a525683e9": 57,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 1693,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 267,
+     "bc6bed2185bf616520b96dc7747e1505": 87,
+     "175f638b9eab8cba34dee46b43e4f6b0": 38,
+     "6e1b13601f9f84b0cc8c00610269f89f": 8,
+     "93e3be0772f18ba44b1af786c71d26f4": 275,
+     "f4aeb0768d2d92b24f5698365eef857f": 17,
+     "d0f742829c98d26edbf6ec45192945c7": 8,
+     "1ef9a9935b08853c0dc9a87906a294e1": 4,
+     "4b0e259a441eea770769961b8971c231": 834,
+     "19525bbb970b8f2b2b607a8bcfda234a": 602,
+     "2e9242bfbacfdbac1b579035d9b5f924": 7,
+     "c0db42572a9a0109bd0f272387922c29": 10,
+     "7a4a543879611d02be4c9ba43e5ee527": 2,
+     "4456e229119a34474c3acf66eb975548": 15,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 63,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 110,
+     "50fbca17c7a48b7a9d52b485db464dd5": 18,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 3,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 215,
+     "baa8b8b7fb7820fb32131143e3882374": 32,
+     "239db12939a6479ea66eb10b7d5354fe": 41,
+     "43970fffa9e822351c6a29876c349997": 66,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 407,
+     "46a85eed92c96b16c482942ad17288a8": 27,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 6,
+     "1167c0e1faa001e68c3b799e7d413ffc": 322,
+     "0ae335965c851addd557d42b1872f7a6": 3,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 15,
+     "155c6e9e375648bb68fdd79aaf49f014": 2,
+     "047dffaef40e88c213d7e98fc8abb135": 4,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 2,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 29,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 196,
+     "a7105451e2e3e5aa4029098ee0e1198d": 35,
+     "926c21718fd160546d1fb21489d0feea": 139,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 193,
+     "5cc74d9973322af73fa659b2408dfa06": 106,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 133,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 1991,
+     "4cc596130a49907bf84602a2862c8b99": 3672,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 52,
+     "777a8cbf45701c3893da6c69d8a4d144": 291,
+     "87ed2cff92c515985168c24a525683e9": 94,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 128,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 121,
+     "bc6bed2185bf616520b96dc7747e1505": 40,
+     "175f638b9eab8cba34dee46b43e4f6b0": 5,
+     "6e1b13601f9f84b0cc8c00610269f89f": 1,
+     "93e3be0772f18ba44b1af786c71d26f4": 56,
+     "f4aeb0768d2d92b24f5698365eef857f": 2,
+     "d0f742829c98d26edbf6ec45192945c7": 13,
+     "1ef9a9935b08853c0dc9a87906a294e1": 5,
+     "4b0e259a441eea770769961b8971c231": 121,
+     "19525bbb970b8f2b2b607a8bcfda234a": 293,
+     "2e9242bfbacfdbac1b579035d9b5f924": 5,
+     "c0db42572a9a0109bd0f272387922c29": 60,
+     "7a4a543879611d02be4c9ba43e5ee527": 1,
+     "4456e229119a34474c3acf66eb975548": 11,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 31,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 113,
+     "50fbca17c7a48b7a9d52b485db464dd5": 6,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 12,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 8,
+     "baa8b8b7fb7820fb32131143e3882374": 9,
+     "239db12939a6479ea66eb10b7d5354fe": 22,
+     "43970fffa9e822351c6a29876c349997": 126,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 63,
+     "46a85eed92c96b16c482942ad17288a8": 16,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 3,
+     "1167c0e1faa001e68c3b799e7d413ffc": 24,
+     "0ae335965c851addd557d42b1872f7a6": 4,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 333,
+     "aac347acf28508b6380c6702fddee06a": 7,
+     "155c6e9e375648bb68fdd79aaf49f014": 2,
+     "047dffaef40e88c213d7e98fc8abb135": 2,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 5,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 14,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 299,
+     "d8ecc761e87749cbe05a3973fd5f8820": 84,
+     "a7105451e2e3e5aa4029098ee0e1198d": 15,
+     "926c21718fd160546d1fb21489d0feea": 110,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 237,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 37,
+     "5cc74d9973322af73fa659b2408dfa06": 49,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 220,
+     "58c61780af04892a33e8341fdb11471e": 73,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 103.18,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 103.18,
+   "values": [
+    {
+     "key": "47a0453ccfd1f3bab62c5ab1260ebcec",
+     "total": 95.3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/juan-c-merlano-conmueve-al-anunciar-su-salida-de-caracol-television-fui-inmensamente-feliz/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/juan-c-merlano-conmueve-al-anunciar-su-salida-de-caracol-television-fui-inmensamente-feliz/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4cc596130a49907bf84602a2862c8b99",
+     "total": 65.53,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/un-miembro-de-bts-se-casa-esto-se-sabe-del-rumor-que-circula-en-redes-sociales/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/un-miembro-de-bts-se-casa-esto-se-sabe-del-rumor-que-circula-en-redes-sociales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0c6b5c5abfc0154ad743dc237a0fb904",
+     "total": 133.1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/la-representante-de-el-country-se-retira-del-reinado-de-la-independencia-irrespetada/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/la-representante-de-el-country-se-retira-del-reinado-de-la-independencia-irrespetada/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "777a8cbf45701c3893da6c69d8a4d144",
+     "total": 75.74,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "87ed2cff92c515985168c24a525683e9",
+     "total": 107.48,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/02/diego-guauque-revelo-que-dejo-preparado-por-si-moria-organizo-su-despedida/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/02/diego-guauque-revelo-que-dejo-preparado-por-si-moria-organizo-su-despedida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1836aa67ab2fc8743edf1f4b699d4f9a",
+     "total": 85.55,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/palacio-la-serie-de-netflix-que-revive-las-heridas-de-la-toma-del-palacio-de-justicia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/palacio-la-serie-de-netflix-que-revive-las-heridas-de-la-toma-del-palacio-de-justicia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b9f0981034f1e7a61cfb2eb25959e01a",
+     "total": 68.31,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/triste-perdida-murio-la-bebe-de-reconocido-actor-a-los-seis-meses-de-embarazo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/triste-perdida-murio-la-bebe-de-reconocido-actor-a-los-seis-meses-de-embarazo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bc6bed2185bf616520b96dc7747e1505",
+     "total": 202.55,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/que-paso-con-luister-la-voz-en-santa-marta-su-equipo-rompe-el-silencio/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/que-paso-con-luister-la-voz-en-santa-marta-su-equipo-rompe-el-silencio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "175f638b9eab8cba34dee46b43e4f6b0",
+     "total": 117.05,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/poncho-zuleta-se-retira-de-los-escenarios-para-acompanar-a-su-hijo-kbeto/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/poncho-zuleta-se-retira-de-los-escenarios-para-acompanar-a-su-hijo-kbeto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6e1b13601f9f84b0cc8c00610269f89f",
+     "total": 92.08,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/video-isabella-ladera-de-nuevo-en-polemica-tras-broma-pesada-que-hizo-llorar-a-su-hija/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/video-isabella-ladera-de-nuevo-en-polemica-tras-broma-pesada-que-hizo-llorar-a-su-hija/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "93e3be0772f18ba44b1af786c71d26f4",
+     "total": 133.82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/exmanager-de-silvestre-dangond-denuncia-que-le-deben-dinero-tras-20-anos-de-trabajo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/exmanager-de-silvestre-dangond-denuncia-que-le-deben-dinero-tras-20-anos-de-trabajo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f4aeb0768d2d92b24f5698365eef857f",
+     "total": 100.88,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/30/la-promesa-que-hizo-poncho-zuleta-a-dios-por-la-recuperacion-de-su-hijo-kbeto/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/30/la-promesa-que-hizo-poncho-zuleta-a-dios-por-la-recuperacion-de-su-hijo-kbeto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d0f742829c98d26edbf6ec45192945c7",
+     "total": 190.12,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1ef9a9935b08853c0dc9a87906a294e1",
+     "total": 80.94,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4b0e259a441eea770769961b8971c231",
+     "total": 99.08,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/colombia-conquista-la-corona-de-reina-internacional-del-chocolate-2026/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/colombia-conquista-la-corona-de-reina-internacional-del-chocolate-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "19525bbb970b8f2b2b607a8bcfda234a",
+     "total": 97.05,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/el-que-critica-siempre-esta-abajo-mr-black-responde-a-criticas-por-su-cancion/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/el-que-critica-siempre-esta-abajo-mr-black-responde-a-criticas-por-su-cancion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2e9242bfbacfdbac1b579035d9b5f924",
+     "total": 100.3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/el-influencer-yeferson-cossio-habria-sido-operado-de-emergencia-que-le-paso/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/el-influencer-yeferson-cossio-habria-sido-operado-de-emergencia-que-le-paso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c0db42572a9a0109bd0f272387922c29",
+     "total": 122.54,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/en-video-preocupacion-por-martin-elias-jr-tras-sufrir-una-fuerte-caida-mientras-cantaba/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/en-video-preocupacion-por-martin-elias-jr-tras-sufrir-una-fuerte-caida-mientras-cantaba/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7a4a543879611d02be4c9ba43e5ee527",
+     "total": 173.27,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/02/la-segura-fue-hospitalizada-de-urgencia-encontraron-un-objeto-metalico-en-su-columna/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/02/la-segura-fue-hospitalizada-de-urgencia-encontraron-un-objeto-metalico-en-su-columna/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4456e229119a34474c3acf66eb975548",
+     "total": 136.8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/preocupacion-por-el-papa-de-shakira-william-mebarak-habria-sido-hospitalizado-de-nuevo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/preocupacion-por-el-papa-de-shakira-william-mebarak-habria-sido-hospitalizado-de-nuevo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ec73cf6f2eb529b14b9dc9dadbce2ede",
+     "total": 244.4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/salud/2026/11/01/una-cirugia-para-recordar-asi-separaron-a-dos-gemelas-unidas-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/salud/2026/11/01/una-cirugia-para-recordar-asi-separaron-a-dos-gemelas-unidas-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d5e6c9ab72cbbf68920a1dbbb752f1d6",
+     "total": 94.42,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/24/quien-es-kevin-wai-la-historia-del-colombiano-detras-del-exito-dame-hombro/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/24/quien-es-kevin-wai-la-historia-del-colombiano-detras-del-exito-dame-hombro/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "50fbca17c7a48b7a9d52b485db464dd5",
+     "total": 125.82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/rumbo-a-la-corona-este-viernes-sera-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/rumbo-a-la-corona-este-viernes-sera-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9d6b7d58bbded02f76cfdf0bac69704e",
+     "total": 175.08,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/tu-no-eres-amiga-mia-isabella-santodomingo-publico-sus-mensajes-a-adriana-lucia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/tu-no-eres-amiga-mia-isabella-santodomingo-publico-sus-mensajes-a-adriana-lucia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b23ce7537f15692b09c9d10a59dd3fe5",
+     "total": 88.26,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/cartagena-vive-el-desfile-en-traje-de-bano-del-reinado-popular-de-la-independencia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/cartagena-vive-el-desfile-en-traje-de-bano-del-reinado-popular-de-la-independencia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "baa8b8b7fb7820fb32131143e3882374",
+     "total": 95.66,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cultural/2026/11/05/orgullo-cartagenero-margarita-garcia-robayo-gana-el-premio-herralde-de-novela-2026/",
+       "value": "https://www.eluniversal.com.co/cultural/2026/11/05/orgullo-cartagenero-margarita-garcia-robayo-gana-el-premio-herralde-de-novela-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "239db12939a6479ea66eb10b7d5354fe",
+     "total": 84.42,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/gabriela-londono-candidata-de-el-country-sigue-en-competencia-por-la-corona-popular/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/gabriela-londono-candidata-de-el-country-sigue-en-competencia-por-la-corona-popular/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "43970fffa9e822351c6a29876c349997",
+     "total": 165.45,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/productora-de-carlos-vives-rompio-el-silencio-sobre-la-pension-de-egidio-cuadrado/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/productora-de-carlos-vives-rompio-el-silencio-sobre-la-pension-de-egidio-cuadrado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3e4d1e0adf6ef72b0df513b41a9e9064",
+     "total": 94.23,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/don-omar-regresa-a-colombia-en-2027-estas-son-las-fechas-de-sus-conciertos/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/don-omar-regresa-a-colombia-en-2027-estas-son-las-fechas-de-sus-conciertos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "46a85eed92c96b16c482942ad17288a8",
+     "total": 140.59,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/en-video-la-curiosa-respuesta-de-giblack-al-comentario-de-luister-la-voz/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/en-video-la-curiosa-respuesta-de-giblack-al-comentario-de-luister-la-voz/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b3cabc0c02010fda36a7d57bcd1b3106",
+     "total": 111.66,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sociales/2026/11/02/lanzamiento-de-los-proyectos-inmobiliarios-giardian-y-belaria/",
+       "value": "https://www.eluniversal.com.co/sociales/2026/11/02/lanzamiento-de-los-proyectos-inmobiliarios-giardian-y-belaria/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1167c0e1faa001e68c3b799e7d413ffc",
+     "total": 112.47,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/en-fotos-imagenes-asi-se-vivio-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/en-fotos-imagenes-asi-se-vivio-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0ae335965c851addd557d42b1872f7a6",
+     "total": 163.51,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/las-candidatas-del-reinado-de-la-independencia-que-destacaron-en-la-prueba-de-talento/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/las-candidatas-del-reinado-de-la-independencia-que-destacaron-en-la-prueba-de-talento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ec472115366f94ab5e6d85d6cf83ed8d",
+     "total": 135.24,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/nacio-el-hijo-de-karina-garcia-y-kris-r-las-primeras-imagenes-del-bebe-kairo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/nacio-el-hijo-de-karina-garcia-y-kris-r-las-primeras-imagenes-del-bebe-kairo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "aac347acf28508b6380c6702fddee06a",
+     "total": 118.38,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/yailin-la-mas-viral-dedica-emotivas-palabras-a-cartagena-gracias-por-tanto-carino/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/yailin-la-mas-viral-dedica-emotivas-palabras-a-cartagena-gracias-por-tanto-carino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "155c6e9e375648bb68fdd79aaf49f014",
+     "total": 98.97,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/llego-el-dia-las-candidatas-al-reinado-popular-se-mediran-en-la-prueba-de-talentos/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/llego-el-dia-las-candidatas-al-reinado-popular-se-mediran-en-la-prueba-de-talentos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "047dffaef40e88c213d7e98fc8abb135",
+     "total": 153.53,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/actualizacion-del-estado-de-salud-de-kbeto-zuleta-ya-habla-y-reconoce-personas-milagro/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/actualizacion-del-estado-de-salud-de-kbeto-zuleta-ya-habla-y-reconoce-personas-milagro/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "02fcb01d2f549bfa5bba85c58bd2c6a7",
+     "total": 106.13,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/02/criminal-minds-llegara-a-su-final-actriz-del-elenco-reacciono-con-tristeza-y-sorpresa/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/02/criminal-minds-llegara-a-su-final-actriz-del-elenco-reacciono-con-tristeza-y-sorpresa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9e052cb0db6c38a073a6b54dd265ebcd",
+     "total": 118.35,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sociales/2026/11/04/inauguracion-primer-tramo-del-proyecto-gran-malecon-del-mar/",
+       "value": "https://www.eluniversal.com.co/sociales/2026/11/04/inauguracion-primer-tramo-del-proyecto-gran-malecon-del-mar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "feb39d0fa13d470e06c2a4fee00e3018",
+     "total": 117.13,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/01/heidi-klum-vuelve-a-ser-la-reina-del-halloween-con-su-aterradora-transformacion/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/01/heidi-klum-vuelve-a-ser-la-reina-del-halloween-con-su-aterradora-transformacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7f4de9a03afa88937c4c234096c74ae4",
+     "total": 164.7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/las-reinas-estan-en-casa-candidatas-al-concurso-nacional-de-belleza-llegaron-a-cartagena/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/las-reinas-estan-en-casa-candidatas-al-concurso-nacional-de-belleza-llegaron-a-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d8ecc761e87749cbe05a3973fd5f8820",
+     "total": 100.83,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/epa-colombia-podria-salir-de-prision-el-mensaje-de-su-esposa-que-desperto-rumores/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/epa-colombia-podria-salir-de-prision-el-mensaje-de-su-esposa-que-desperto-rumores/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a7105451e2e3e5aa4029098ee0e1198d",
+     "total": 168.56,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/yuranis-leon-se-sincera-tras-nueva-cancion-de-mr-black-se-que-estoy-en-el-ojo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/yuranis-leon-se-sincera-tras-nueva-cancion-de-mr-black-se-que-estoy-en-el-ojo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "926c21718fd160546d1fb21489d0feea",
+     "total": 86.32,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/miss-bulgaria-queda-fuera-de-miss-universo-2026-tras-sufrir-accidente-automovilistico/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/miss-bulgaria-queda-fuera-de-miss-universo-2026-tras-sufrir-accidente-automovilistico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "59cf371ece9bf75ee80d60ee5283924f",
+     "total": 95.78,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/21/hallan-muerto-al-padre-de-sonia-restrepo-la-viuda-de-yeison-jimenez/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/21/hallan-muerto-al-padre-de-sonia-restrepo-la-viuda-de-yeison-jimenez/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "888951f86d47ac4fdf5748063f294b1c",
+     "total": 100.35,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/radamel-uribe-navarro-el-musico-que-murio-tras-el-accidente-de-la-agrupacion-de-kbeto-zuleta/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/radamel-uribe-navarro-el-musico-que-murio-tras-el-accidente-de-la-agrupacion-de-kbeto-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1c44e56554b7bdb1de41ff32f74c4d7b",
+     "total": 132.72,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/las-ganadoras-del-desfile-en-traje-artesanal-del-concurso-nacional-de-belleza-2026/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/las-ganadoras-del-desfile-en-traje-artesanal-del-concurso-nacional-de-belleza-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5cc74d9973322af73fa659b2408dfa06",
+     "total": 108.07,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/nueva-novela-de-caracol-tv-en-que-lio-me-meti-llegara-este-lunes-a-las-pantallas/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/nueva-novela-de-caracol-tv-en-que-lio-me-meti-llegara-este-lunes-a-las-pantallas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ace98e1d0eca8a935358f5ed6eea38cb",
+     "total": 113.77,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/nueva-demanda-contra-vadhir-derbez-hijo-de-eugenio-derbez-por-presunto-abuso/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/nueva-demanda-contra-vadhir-derbez-hijo-de-eugenio-derbez-por-presunto-abuso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "58c61780af04892a33e8341fdb11471e",
+     "total": 74.31,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/la-candidata-dominicana-a-miss-universo-2026-sufrio-accidente-automovilistico/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/la-candidata-dominicana-a-miss-universo-2026-sufrio-accidente-automovilistico/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 0,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 66.55,
+     "87ed2cff92c515985168c24a525683e9": 126.37,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 0,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 0,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 83.17,
+     "d0f742829c98d26edbf6ec45192945c7": 180.84,
+     "1ef9a9935b08853c0dc9a87906a294e1": 76.86,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 0,
+     "c0db42572a9a0109bd0f272387922c29": 102.3,
+     "7a4a543879611d02be4c9ba43e5ee527": 163.02,
+     "4456e229119a34474c3acf66eb975548": 0,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 246.51,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 114.48,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 180.84,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 135.67,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 101.34,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 0,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 116.69,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 117.96,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 138.79,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 40.48,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 0,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 83.54,
+     "87ed2cff92c515985168c24a525683e9": 103.5,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 212.98,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 107.89,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 117.61,
+     "d0f742829c98d26edbf6ec45192945c7": 192.71,
+     "1ef9a9935b08853c0dc9a87906a294e1": 85.41,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 103.53,
+     "c0db42572a9a0109bd0f272387922c29": 145.73,
+     "7a4a543879611d02be4c9ba43e5ee527": 197.17,
+     "4456e229119a34474c3acf66eb975548": 145.2,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 230.8,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 52.74,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 198.81,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 174.73,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 129.08,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 104.24,
+     "047dffaef40e88c213d7e98fc8abb135": 157.59,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 93.46,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 124.36,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 187.74,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 79.5,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 104.66,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 135.51,
+     "777a8cbf45701c3893da6c69d8a4d144": 90.66,
+     "87ed2cff92c515985168c24a525683e9": 105.51,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 190.06,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 65.92,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 94.59,
+     "d0f742829c98d26edbf6ec45192945c7": 243.63,
+     "1ef9a9935b08853c0dc9a87906a294e1": 68.64,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 100.22,
+     "c0db42572a9a0109bd0f272387922c29": 131.86,
+     "7a4a543879611d02be4c9ba43e5ee527": 333.26,
+     "4456e229119a34474c3acf66eb975548": 106.68,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 195.76,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 112.26,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 157.96,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 17,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 127.52,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 169.03,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 125.82,
+     "155c6e9e375648bb68fdd79aaf49f014": 36.96,
+     "047dffaef40e88c213d7e98fc8abb135": 142.27,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 113.83,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 112.17,
+     "feb39d0fa13d470e06c2a4fee00e3018": 66.89,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 205.76,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 146.91,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 92.42,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 114.01,
+     "777a8cbf45701c3893da6c69d8a4d144": 81.51,
+     "87ed2cff92c515985168c24a525683e9": 83.25,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 120.71,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 67.29,
+     "bc6bed2185bf616520b96dc7747e1505": 198.37,
+     "175f638b9eab8cba34dee46b43e4f6b0": 117.17,
+     "6e1b13601f9f84b0cc8c00610269f89f": 43.28,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 179.96,
+     "d0f742829c98d26edbf6ec45192945c7": 186.61,
+     "1ef9a9935b08853c0dc9a87906a294e1": 88.47,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 74.7,
+     "c0db42572a9a0109bd0f272387922c29": 113.54,
+     "7a4a543879611d02be4c9ba43e5ee527": 18,
+     "4456e229119a34474c3acf66eb975548": 108.78,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 151.94,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 113.17,
+     "50fbca17c7a48b7a9d52b485db464dd5": 139.43,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 161.8,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 96.25,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 171.31,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 144.52,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 49.84,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 77.55,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 117.78,
+     "155c6e9e375648bb68fdd79aaf49f014": 4.14,
+     "047dffaef40e88c213d7e98fc8abb135": 162.74,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 116.8,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 121.44,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 153.81,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 270.08,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 89.81,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 121.74,
+     "777a8cbf45701c3893da6c69d8a4d144": 82.63,
+     "87ed2cff92c515985168c24a525683e9": 78.61,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 85.05,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 75.62,
+     "bc6bed2185bf616520b96dc7747e1505": 180.65,
+     "175f638b9eab8cba34dee46b43e4f6b0": 123.5,
+     "6e1b13601f9f84b0cc8c00610269f89f": 83.71,
+     "93e3be0772f18ba44b1af786c71d26f4": 139.51,
+     "f4aeb0768d2d92b24f5698365eef857f": 90.46,
+     "d0f742829c98d26edbf6ec45192945c7": 196.99,
+     "1ef9a9935b08853c0dc9a87906a294e1": 105.37,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 64.46,
+     "c0db42572a9a0109bd0f272387922c29": 128.41,
+     "7a4a543879611d02be4c9ba43e5ee527": 7,
+     "4456e229119a34474c3acf66eb975548": 54.09,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 295.88,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 76.04,
+     "50fbca17c7a48b7a9d52b485db464dd5": 91.82,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 126.7,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 79.09,
+     "baa8b8b7fb7820fb32131143e3882374": 103.23,
+     "239db12939a6479ea66eb10b7d5354fe": 77.13,
+     "43970fffa9e822351c6a29876c349997": 168.6,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 145.38,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 110.45,
+     "1167c0e1faa001e68c3b799e7d413ffc": 25.22,
+     "0ae335965c851addd557d42b1872f7a6": 173.72,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 123.52,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 119.29,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 83.27,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 85.21,
+     "feb39d0fa13d470e06c2a4fee00e3018": 25.75,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 162.06,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 172.35,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 87.12,
+     "4cc596130a49907bf84602a2862c8b99": 64.34,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 75.23,
+     "777a8cbf45701c3893da6c69d8a4d144": 70.72,
+     "87ed2cff92c515985168c24a525683e9": 100.53,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 82.46,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 64.59,
+     "bc6bed2185bf616520b96dc7747e1505": 198.24,
+     "175f638b9eab8cba34dee46b43e4f6b0": 86.26,
+     "6e1b13601f9f84b0cc8c00610269f89f": 174.06,
+     "93e3be0772f18ba44b1af786c71d26f4": 118.77,
+     "f4aeb0768d2d92b24f5698365eef857f": 76.56,
+     "d0f742829c98d26edbf6ec45192945c7": 264.79,
+     "1ef9a9935b08853c0dc9a87906a294e1": 76,
+     "4b0e259a441eea770769961b8971c231": 97.45,
+     "19525bbb970b8f2b2b607a8bcfda234a": 108.26,
+     "2e9242bfbacfdbac1b579035d9b5f924": 19,
+     "c0db42572a9a0109bd0f272387922c29": 116.22,
+     "7a4a543879611d02be4c9ba43e5ee527": 7,
+     "4456e229119a34474c3acf66eb975548": 99,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 261.1,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 85.75,
+     "50fbca17c7a48b7a9d52b485db464dd5": 23.95,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 16.5,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 103.58,
+     "baa8b8b7fb7820fb32131143e3882374": 78.84,
+     "239db12939a6479ea66eb10b7d5354fe": 147.15,
+     "43970fffa9e822351c6a29876c349997": 222.44,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 97.42,
+     "46a85eed92c96b16c482942ad17288a8": 113.08,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 165.43,
+     "1167c0e1faa001e68c3b799e7d413ffc": 117.21,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 59.64,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 25,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 0,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 148.69,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 107.91,
+     "a7105451e2e3e5aa4029098ee0e1198d": 168.53,
+     "926c21718fd160546d1fb21489d0feea": 93.37,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 138.67,
+     "5cc74d9973322af73fa659b2408dfa06": 64.12,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 64.61,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 87.14,
+     "4cc596130a49907bf84602a2862c8b99": 65.99,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 109.3,
+     "777a8cbf45701c3893da6c69d8a4d144": 73.81,
+     "87ed2cff92c515985168c24a525683e9": 147.48,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 101.01,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 56.02,
+     "bc6bed2185bf616520b96dc7747e1505": 143.88,
+     "175f638b9eab8cba34dee46b43e4f6b0": 59,
+     "6e1b13601f9f84b0cc8c00610269f89f": 0,
+     "93e3be0772f18ba44b1af786c71d26f4": 84.05,
+     "f4aeb0768d2d92b24f5698365eef857f": 293,
+     "d0f742829c98d26edbf6ec45192945c7": 171.32,
+     "1ef9a9935b08853c0dc9a87906a294e1": 163.27,
+     "4b0e259a441eea770769961b8971c231": 110.35,
+     "19525bbb970b8f2b2b607a8bcfda234a": 73.3,
+     "2e9242bfbacfdbac1b579035d9b5f924": 45.56,
+     "c0db42572a9a0109bd0f272387922c29": 130.81,
+     "7a4a543879611d02be4c9ba43e5ee527": 0,
+     "4456e229119a34474c3acf66eb975548": 6.15,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 325.97,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 90.94,
+     "50fbca17c7a48b7a9d52b485db464dd5": 5.67,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 152.26,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 30,
+     "baa8b8b7fb7820fb32131143e3882374": 58.36,
+     "239db12939a6479ea66eb10b7d5354fe": 110.21,
+     "43970fffa9e822351c6a29876c349997": 141.83,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 74.23,
+     "46a85eed92c96b16c482942ad17288a8": 70.91,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 51,
+     "1167c0e1faa001e68c3b799e7d413ffc": 73.77,
+     "0ae335965c851addd557d42b1872f7a6": 18.57,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 135.24,
+     "aac347acf28508b6380c6702fddee06a": 54.5,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 401,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 21.56,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 226.21,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 164.7,
+     "d8ecc761e87749cbe05a3973fd5f8820": 83.27,
+     "a7105451e2e3e5aa4029098ee0e1198d": 190.21,
+     "926c21718fd160546d1fb21489d0feea": 77.59,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 100.35,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 102.19,
+     "5cc74d9973322af73fa659b2408dfa06": 102.09,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 113.77,
+     "58c61780af04892a33e8341fdb11471e": 93.41,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "socialPosts",
+  "total": 79,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 79,
+   "values": [
+    {
+     "key": "47a0453ccfd1f3bab62c5ab1260ebcec",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/juan-c-merlano-conmueve-al-anunciar-su-salida-de-caracol-television-fui-inmensamente-feliz/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/juan-c-merlano-conmueve-al-anunciar-su-salida-de-caracol-television-fui-inmensamente-feliz/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4cc596130a49907bf84602a2862c8b99",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/un-miembro-de-bts-se-casa-esto-se-sabe-del-rumor-que-circula-en-redes-sociales/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/un-miembro-de-bts-se-casa-esto-se-sabe-del-rumor-que-circula-en-redes-sociales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0c6b5c5abfc0154ad743dc237a0fb904",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/la-representante-de-el-country-se-retira-del-reinado-de-la-independencia-irrespetada/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/la-representante-de-el-country-se-retira-del-reinado-de-la-independencia-irrespetada/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "777a8cbf45701c3893da6c69d8a4d144",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/se-conoce-la-primera-imagen-de-kbeto-zuleta-tras-el-grave-accidente-de-bus/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "87ed2cff92c515985168c24a525683e9",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/02/diego-guauque-revelo-que-dejo-preparado-por-si-moria-organizo-su-despedida/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/02/diego-guauque-revelo-que-dejo-preparado-por-si-moria-organizo-su-despedida/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1836aa67ab2fc8743edf1f4b699d4f9a",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/palacio-la-serie-de-netflix-que-revive-las-heridas-de-la-toma-del-palacio-de-justicia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/palacio-la-serie-de-netflix-que-revive-las-heridas-de-la-toma-del-palacio-de-justicia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b9f0981034f1e7a61cfb2eb25959e01a",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/triste-perdida-murio-la-bebe-de-reconocido-actor-a-los-seis-meses-de-embarazo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/triste-perdida-murio-la-bebe-de-reconocido-actor-a-los-seis-meses-de-embarazo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bc6bed2185bf616520b96dc7747e1505",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/que-paso-con-luister-la-voz-en-santa-marta-su-equipo-rompe-el-silencio/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/que-paso-con-luister-la-voz-en-santa-marta-su-equipo-rompe-el-silencio/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "175f638b9eab8cba34dee46b43e4f6b0",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/poncho-zuleta-se-retira-de-los-escenarios-para-acompanar-a-su-hijo-kbeto/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/poncho-zuleta-se-retira-de-los-escenarios-para-acompanar-a-su-hijo-kbeto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6e1b13601f9f84b0cc8c00610269f89f",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/video-isabella-ladera-de-nuevo-en-polemica-tras-broma-pesada-que-hizo-llorar-a-su-hija/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/video-isabella-ladera-de-nuevo-en-polemica-tras-broma-pesada-que-hizo-llorar-a-su-hija/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "93e3be0772f18ba44b1af786c71d26f4",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/exmanager-de-silvestre-dangond-denuncia-que-le-deben-dinero-tras-20-anos-de-trabajo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/exmanager-de-silvestre-dangond-denuncia-que-le-deben-dinero-tras-20-anos-de-trabajo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f4aeb0768d2d92b24f5698365eef857f",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/30/la-promesa-que-hizo-poncho-zuleta-a-dios-por-la-recuperacion-de-su-hijo-kbeto/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/30/la-promesa-que-hizo-poncho-zuleta-a-dios-por-la-recuperacion-de-su-hijo-kbeto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d0f742829c98d26edbf6ec45192945c7",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/30/no-me-dejes-morir-el-doloroso-relato-del-asistente-de-kbeto-zuleta-sobre-el-accidente/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1ef9a9935b08853c0dc9a87906a294e1",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/el-dolor-de-una-presentadora-de-caracol-por-el-accidente-de-kbeto-zuleta-es-mi-familia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4b0e259a441eea770769961b8971c231",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/colombia-conquista-la-corona-de-reina-internacional-del-chocolate-2026/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/colombia-conquista-la-corona-de-reina-internacional-del-chocolate-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "19525bbb970b8f2b2b607a8bcfda234a",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/el-que-critica-siempre-esta-abajo-mr-black-responde-a-criticas-por-su-cancion/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/el-que-critica-siempre-esta-abajo-mr-black-responde-a-criticas-por-su-cancion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2e9242bfbacfdbac1b579035d9b5f924",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/el-influencer-yeferson-cossio-habria-sido-operado-de-emergencia-que-le-paso/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/el-influencer-yeferson-cossio-habria-sido-operado-de-emergencia-que-le-paso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c0db42572a9a0109bd0f272387922c29",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/en-video-preocupacion-por-martin-elias-jr-tras-sufrir-una-fuerte-caida-mientras-cantaba/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/en-video-preocupacion-por-martin-elias-jr-tras-sufrir-una-fuerte-caida-mientras-cantaba/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7a4a543879611d02be4c9ba43e5ee527",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/02/la-segura-fue-hospitalizada-de-urgencia-encontraron-un-objeto-metalico-en-su-columna/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/02/la-segura-fue-hospitalizada-de-urgencia-encontraron-un-objeto-metalico-en-su-columna/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4456e229119a34474c3acf66eb975548",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/preocupacion-por-el-papa-de-shakira-william-mebarak-habria-sido-hospitalizado-de-nuevo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/preocupacion-por-el-papa-de-shakira-william-mebarak-habria-sido-hospitalizado-de-nuevo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ec73cf6f2eb529b14b9dc9dadbce2ede",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/salud/2026/11/01/una-cirugia-para-recordar-asi-separaron-a-dos-gemelas-unidas-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/salud/2026/11/01/una-cirugia-para-recordar-asi-separaron-a-dos-gemelas-unidas-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d5e6c9ab72cbbf68920a1dbbb752f1d6",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/24/quien-es-kevin-wai-la-historia-del-colombiano-detras-del-exito-dame-hombro/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/24/quien-es-kevin-wai-la-historia-del-colombiano-detras-del-exito-dame-hombro/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "50fbca17c7a48b7a9d52b485db464dd5",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/rumbo-a-la-corona-este-viernes-sera-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/rumbo-a-la-corona-este-viernes-sera-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9d6b7d58bbded02f76cfdf0bac69704e",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/tu-no-eres-amiga-mia-isabella-santodomingo-publico-sus-mensajes-a-adriana-lucia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/tu-no-eres-amiga-mia-isabella-santodomingo-publico-sus-mensajes-a-adriana-lucia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b23ce7537f15692b09c9d10a59dd3fe5",
+     "total": 7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/cartagena-vive-el-desfile-en-traje-de-bano-del-reinado-popular-de-la-independencia/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/cartagena-vive-el-desfile-en-traje-de-bano-del-reinado-popular-de-la-independencia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "baa8b8b7fb7820fb32131143e3882374",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cultural/2026/11/05/orgullo-cartagenero-margarita-garcia-robayo-gana-el-premio-herralde-de-novela-2026/",
+       "value": "https://www.eluniversal.com.co/cultural/2026/11/05/orgullo-cartagenero-margarita-garcia-robayo-gana-el-premio-herralde-de-novela-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "239db12939a6479ea66eb10b7d5354fe",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/gabriela-londono-candidata-de-el-country-sigue-en-competencia-por-la-corona-popular/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/gabriela-londono-candidata-de-el-country-sigue-en-competencia-por-la-corona-popular/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "43970fffa9e822351c6a29876c349997",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/29/productora-de-carlos-vives-rompio-el-silencio-sobre-la-pension-de-egidio-cuadrado/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/29/productora-de-carlos-vives-rompio-el-silencio-sobre-la-pension-de-egidio-cuadrado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3e4d1e0adf6ef72b0df513b41a9e9064",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/don-omar-regresa-a-colombia-en-2027-estas-son-las-fechas-de-sus-conciertos/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/don-omar-regresa-a-colombia-en-2027-estas-son-las-fechas-de-sus-conciertos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "46a85eed92c96b16c482942ad17288a8",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/05/en-video-la-curiosa-respuesta-de-giblack-al-comentario-de-luister-la-voz/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/05/en-video-la-curiosa-respuesta-de-giblack-al-comentario-de-luister-la-voz/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b3cabc0c02010fda36a7d57bcd1b3106",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sociales/2026/11/02/lanzamiento-de-los-proyectos-inmobiliarios-giardian-y-belaria/",
+       "value": "https://www.eluniversal.com.co/sociales/2026/11/02/lanzamiento-de-los-proyectos-inmobiliarios-giardian-y-belaria/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1167c0e1faa001e68c3b799e7d413ffc",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/en-fotos-imagenes-asi-se-vivio-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/en-fotos-imagenes-asi-se-vivio-el-desfile-en-traje-de-bano-del-reinado-popular/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0ae335965c851addd557d42b1872f7a6",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/las-candidatas-del-reinado-de-la-independencia-que-destacaron-en-la-prueba-de-talento/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/las-candidatas-del-reinado-de-la-independencia-que-destacaron-en-la-prueba-de-talento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ec472115366f94ab5e6d85d6cf83ed8d",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/nacio-el-hijo-de-karina-garcia-y-kris-r-las-primeras-imagenes-del-bebe-kairo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/nacio-el-hijo-de-karina-garcia-y-kris-r-las-primeras-imagenes-del-bebe-kairo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "aac347acf28508b6380c6702fddee06a",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/04/yailin-la-mas-viral-dedica-emotivas-palabras-a-cartagena-gracias-por-tanto-carino/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/04/yailin-la-mas-viral-dedica-emotivas-palabras-a-cartagena-gracias-por-tanto-carino/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "155c6e9e375648bb68fdd79aaf49f014",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/llego-el-dia-las-candidatas-al-reinado-popular-se-mediran-en-la-prueba-de-talentos/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/llego-el-dia-las-candidatas-al-reinado-popular-se-mediran-en-la-prueba-de-talentos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "047dffaef40e88c213d7e98fc8abb135",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/03/actualizacion-del-estado-de-salud-de-kbeto-zuleta-ya-habla-y-reconoce-personas-milagro/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/03/actualizacion-del-estado-de-salud-de-kbeto-zuleta-ya-habla-y-reconoce-personas-milagro/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "02fcb01d2f549bfa5bba85c58bd2c6a7",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/02/criminal-minds-llegara-a-su-final-actriz-del-elenco-reacciono-con-tristeza-y-sorpresa/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/02/criminal-minds-llegara-a-su-final-actriz-del-elenco-reacciono-con-tristeza-y-sorpresa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9e052cb0db6c38a073a6b54dd265ebcd",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/sociales/2026/11/04/inauguracion-primer-tramo-del-proyecto-gran-malecon-del-mar/",
+       "value": "https://www.eluniversal.com.co/sociales/2026/11/04/inauguracion-primer-tramo-del-proyecto-gran-malecon-del-mar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "feb39d0fa13d470e06c2a4fee00e3018",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/01/heidi-klum-vuelve-a-ser-la-reina-del-halloween-con-su-aterradora-transformacion/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/01/heidi-klum-vuelve-a-ser-la-reina-del-halloween-con-su-aterradora-transformacion/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7f4de9a03afa88937c4c234096c74ae4",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/las-reinas-estan-en-casa-candidatas-al-concurso-nacional-de-belleza-llegaron-a-cartagena/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/las-reinas-estan-en-casa-candidatas-al-concurso-nacional-de-belleza-llegaron-a-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d8ecc761e87749cbe05a3973fd5f8820",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/epa-colombia-podria-salir-de-prision-el-mensaje-de-su-esposa-que-desperto-rumores/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/epa-colombia-podria-salir-de-prision-el-mensaje-de-su-esposa-que-desperto-rumores/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a7105451e2e3e5aa4029098ee0e1198d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/26/yuranis-leon-se-sincera-tras-nueva-cancion-de-mr-black-se-que-estoy-en-el-ojo/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/26/yuranis-leon-se-sincera-tras-nueva-cancion-de-mr-black-se-que-estoy-en-el-ojo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "926c21718fd160546d1fb21489d0feea",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/miss-bulgaria-queda-fuera-de-miss-universo-2026-tras-sufrir-accidente-automovilistico/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/miss-bulgaria-queda-fuera-de-miss-universo-2026-tras-sufrir-accidente-automovilistico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "59cf371ece9bf75ee80d60ee5283924f",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/10/21/hallan-muerto-al-padre-de-sonia-restrepo-la-viuda-de-yeison-jimenez/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/10/21/hallan-muerto-al-padre-de-sonia-restrepo-la-viuda-de-yeison-jimenez/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "888951f86d47ac4fdf5748063f294b1c",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/radamel-uribe-navarro-el-musico-que-murio-tras-el-accidente-de-la-agrupacion-de-kbeto-zuleta/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/radamel-uribe-navarro-el-musico-que-murio-tras-el-accidente-de-la-agrupacion-de-kbeto-zuleta/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1c44e56554b7bdb1de41ff32f74c4d7b",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/las-ganadoras-del-desfile-en-traje-artesanal-del-concurso-nacional-de-belleza-2026/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/las-ganadoras-del-desfile-en-traje-artesanal-del-concurso-nacional-de-belleza-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5cc74d9973322af73fa659b2408dfa06",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/06/nueva-novela-de-caracol-tv-en-que-lio-me-meti-llegara-este-lunes-a-las-pantallas/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/06/nueva-novela-de-caracol-tv-en-que-lio-me-meti-llegara-este-lunes-a-las-pantallas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ace98e1d0eca8a935358f5ed6eea38cb",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/08/nueva-demanda-contra-vadhir-derbez-hijo-de-eugenio-derbez-por-presunto-abuso/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/08/nueva-demanda-contra-vadhir-derbez-hijo-de-eugenio-derbez-por-presunto-abuso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "58c61780af04892a33e8341fdb11471e",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/farandula/2026/11/07/la-candidata-dominicana-a-miss-universo-2026-sufrio-accidente-automovilistico/",
+       "value": "https://www.eluniversal.com.co/farandula/2026/11/07/la-candidata-dominicana-a-miss-universo-2026-sufrio-accidente-automovilistico/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 0,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "87ed2cff92c515985168c24a525683e9": 2,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 0,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 0,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 0,
+     "c0db42572a9a0109bd0f272387922c29": 0,
+     "7a4a543879611d02be4c9ba43e5ee527": 1,
+     "4456e229119a34474c3acf66eb975548": 0,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 2,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 0,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 0,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 0,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 0,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 0,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 1,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 0,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 0,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "87ed2cff92c515985168c24a525683e9": 0,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 3,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 1,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 1,
+     "c0db42572a9a0109bd0f272387922c29": 0,
+     "7a4a543879611d02be4c9ba43e5ee527": 0,
+     "4456e229119a34474c3acf66eb975548": 1,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 0,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 0,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 0,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 0,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 0,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 1,
+     "047dffaef40e88c213d7e98fc8abb135": 1,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 0,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 0,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 3,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 3,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "87ed2cff92c515985168c24a525683e9": 0,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 0,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 0,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 0,
+     "c0db42572a9a0109bd0f272387922c29": 0,
+     "7a4a543879611d02be4c9ba43e5ee527": 0,
+     "4456e229119a34474c3acf66eb975548": 0,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 0,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 0,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 0,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 0,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 0,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 1,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 1,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 0,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 0,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 0,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 0,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "87ed2cff92c515985168c24a525683e9": 0,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 1,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 3,
+     "bc6bed2185bf616520b96dc7747e1505": 1,
+     "175f638b9eab8cba34dee46b43e4f6b0": 3,
+     "6e1b13601f9f84b0cc8c00610269f89f": 0,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 0,
+     "c0db42572a9a0109bd0f272387922c29": 0,
+     "7a4a543879611d02be4c9ba43e5ee527": 0,
+     "4456e229119a34474c3acf66eb975548": 0,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 0,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 0,
+     "50fbca17c7a48b7a9d52b485db464dd5": 1,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 0,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 2,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 0,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 1,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 0,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 0,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 0,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 0,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 2,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "87ed2cff92c515985168c24a525683e9": 0,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 0,
+     "175f638b9eab8cba34dee46b43e4f6b0": 1,
+     "6e1b13601f9f84b0cc8c00610269f89f": 0,
+     "93e3be0772f18ba44b1af786c71d26f4": 1,
+     "f4aeb0768d2d92b24f5698365eef857f": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 0,
+     "c0db42572a9a0109bd0f272387922c29": 0,
+     "7a4a543879611d02be4c9ba43e5ee527": 0,
+     "4456e229119a34474c3acf66eb975548": 0,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 0,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 0,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 0,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 6,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 1,
+     "43970fffa9e822351c6a29876c349997": 0,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 0,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 0,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 0,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 0,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 0,
+     "4cc596130a49907bf84602a2862c8b99": 1,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "87ed2cff92c515985168c24a525683e9": 0,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 0,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 0,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "4b0e259a441eea770769961b8971c231": 2,
+     "19525bbb970b8f2b2b607a8bcfda234a": 2,
+     "2e9242bfbacfdbac1b579035d9b5f924": 0,
+     "c0db42572a9a0109bd0f272387922c29": 0,
+     "7a4a543879611d02be4c9ba43e5ee527": 0,
+     "4456e229119a34474c3acf66eb975548": 0,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 0,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 0,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 0,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 1,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 0,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 1,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 0,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 0,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 0,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 0,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 0,
+     "d8ecc761e87749cbe05a3973fd5f8820": 1,
+     "a7105451e2e3e5aa4029098ee0e1198d": 0,
+     "926c21718fd160546d1fb21489d0feea": 1,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 0,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 1,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 0,
+     "58c61780af04892a33e8341fdb11471e": 1,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "47a0453ccfd1f3bab62c5ab1260ebcec": 0,
+     "4cc596130a49907bf84602a2862c8b99": 0,
+     "0c6b5c5abfc0154ad743dc237a0fb904": 0,
+     "777a8cbf45701c3893da6c69d8a4d144": 0,
+     "87ed2cff92c515985168c24a525683e9": 0,
+     "1836aa67ab2fc8743edf1f4b699d4f9a": 0,
+     "b9f0981034f1e7a61cfb2eb25959e01a": 0,
+     "bc6bed2185bf616520b96dc7747e1505": 0,
+     "175f638b9eab8cba34dee46b43e4f6b0": 0,
+     "6e1b13601f9f84b0cc8c00610269f89f": 0,
+     "93e3be0772f18ba44b1af786c71d26f4": 0,
+     "f4aeb0768d2d92b24f5698365eef857f": 0,
+     "d0f742829c98d26edbf6ec45192945c7": 0,
+     "1ef9a9935b08853c0dc9a87906a294e1": 0,
+     "4b0e259a441eea770769961b8971c231": 0,
+     "19525bbb970b8f2b2b607a8bcfda234a": 0,
+     "2e9242bfbacfdbac1b579035d9b5f924": 0,
+     "c0db42572a9a0109bd0f272387922c29": 0,
+     "7a4a543879611d02be4c9ba43e5ee527": 0,
+     "4456e229119a34474c3acf66eb975548": 0,
+     "ec73cf6f2eb529b14b9dc9dadbce2ede": 0,
+     "d5e6c9ab72cbbf68920a1dbbb752f1d6": 0,
+     "50fbca17c7a48b7a9d52b485db464dd5": 0,
+     "9d6b7d58bbded02f76cfdf0bac69704e": 0,
+     "b23ce7537f15692b09c9d10a59dd3fe5": 0,
+     "baa8b8b7fb7820fb32131143e3882374": 0,
+     "239db12939a6479ea66eb10b7d5354fe": 0,
+     "43970fffa9e822351c6a29876c349997": 0,
+     "3e4d1e0adf6ef72b0df513b41a9e9064": 0,
+     "46a85eed92c96b16c482942ad17288a8": 0,
+     "b3cabc0c02010fda36a7d57bcd1b3106": 0,
+     "1167c0e1faa001e68c3b799e7d413ffc": 0,
+     "0ae335965c851addd557d42b1872f7a6": 0,
+     "ec472115366f94ab5e6d85d6cf83ed8d": 1,
+     "aac347acf28508b6380c6702fddee06a": 0,
+     "155c6e9e375648bb68fdd79aaf49f014": 0,
+     "047dffaef40e88c213d7e98fc8abb135": 0,
+     "02fcb01d2f549bfa5bba85c58bd2c6a7": 0,
+     "9e052cb0db6c38a073a6b54dd265ebcd": 0,
+     "feb39d0fa13d470e06c2a4fee00e3018": 0,
+     "7f4de9a03afa88937c4c234096c74ae4": 3,
+     "d8ecc761e87749cbe05a3973fd5f8820": 0,
+     "a7105451e2e3e5aa4029098ee0e1198d": 0,
+     "926c21718fd160546d1fb21489d0feea": 0,
+     "59cf371ece9bf75ee80d60ee5283924f": 0,
+     "888951f86d47ac4fdf5748063f294b1c": 2,
+     "1c44e56554b7bdb1de41ff32f74c4d7b": 0,
+     "5cc74d9973322af73fa659b2408dfa06": 0,
+     "ace98e1d0eca8a935358f5ed6eea38cb": 1,
+     "58c61780af04892a33e8341fdb11471e": 0,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ }
+]

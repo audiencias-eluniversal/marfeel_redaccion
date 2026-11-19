@@ -1,0 +1,2822 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 20468,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 20468,
+   "values": [
+    {
+     "key": "15b3d710570a524db61cdb8cd7df3f08",
+     "total": 1909,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/01/revelan-impactante-video-de-avion-que-se-estrello-en-florida-9-personas-murieron/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/01/revelan-impactante-video-de-avion-que-se-estrello-en-florida-9-personas-murieron/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5a88926d81a967819a73285268d04d0b",
+     "total": 942,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/lider-religioso-fue-condenado-a-200-anos-de-carcel-por-crimen-de-sus-propios-seguidores/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/lider-religioso-fue-condenado-a-200-anos-de-carcel-por-crimen-de-sus-propios-seguidores/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "345b75b4b35ee1cf766e5ee3e8905ca6",
+     "total": 842,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/nathalia-gadelha-tenia-20-anos-y-era-la-copiloto-del-avion-que-se-estrello-en-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/nathalia-gadelha-tenia-20-anos-y-era-la-copiloto-del-avion-que-se-estrello-en-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe09d3e4b629fe479bae0aafa1d40350",
+     "total": 773,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/reforma-tributaria-en-brasil-el-iva-podria-subir-al-313-y-liderar-el-ranking-mundial/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/reforma-tributaria-en-brasil-el-iva-podria-subir-al-313-y-liderar-el-ranking-mundial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "db36bcd666affea00b2b9d7bbae33667",
+     "total": 718,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/video-asi-fue-el-impactante-choque-de-helicopteros-cerca-del-everest/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/video-asi-fue-el-impactante-choque-de-helicopteros-cerca-del-everest/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d2e611db0da1099ec1240c9534019761",
+     "total": 662,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/alerta-por-ciberataques-hackean-congeladores-de-supermercados-y-danan-alimentos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/alerta-por-ciberataques-hackean-congeladores-de-supermercados-y-danan-alimentos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7514714314a5c44754bb0015d6140bc7",
+     "total": 585,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/claudia-sheinbaum-lanza-contundente-mensaje-tras-el-golpe-electoral-a-donald-trump/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/claudia-sheinbaum-lanza-contundente-mensaje-tras-el-golpe-electoral-a-donald-trump/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0a30a049362674c2f0991ddc1ce09d23",
+     "total": 459,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/11/06/estados-unidos-busca-a-tres-lideres-del-tren-de-aragua-ofrecio-millonaria-recompensa/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/11/06/estados-unidos-busca-a-tres-lideres-del-tren-de-aragua-ofrecio-millonaria-recompensa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1e345cb83ad840370cf58d44ae8250b4",
+     "total": 444,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/tension-en-europa-falsas-amenazas-de-bomba-obligaron-a-desviar-seis-vuelos-comerciales/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/tension-en-europa-falsas-amenazas-de-bomba-obligaron-a-desviar-seis-vuelos-comerciales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "930ecb1f70534ba403c0965560a1f25b",
+     "total": 407,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-seguira-como-presidente-de-paraguay-tras-bloqueo-de-su-renuncia-en-el-congreso/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-seguira-como-presidente-de-paraguay-tras-bloqueo-de-su-renuncia-en-el-congreso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d7642f47eeaa07d76754d3fec8b1d9f2",
+     "total": 332,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/ana-maria-ramirez-la-colombiana-entre-las-victimas-del-avion-que-se-estrello-en-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/ana-maria-ramirez-la-colombiana-entre-las-victimas-del-avion-que-se-estrello-en-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ed6ce03116eb67ee9826d1e805d97bb4",
+     "total": 298,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/22/quedo-grabado-motociclista-evadio-un-reten-policial-y-dejo-caer-a-su-esposa-al-escapar/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/22/quedo-grabado-motociclista-evadio-un-reten-policial-y-dejo-caer-a-su-esposa-al-escapar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7c336c015204928a0758478e803907a7",
+     "total": 286,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/donald-trump-acepta-los-resultados-y-abre-la-puerta-a-acuerdos-con-los-democratas/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/donald-trump-acepta-los-resultados-y-abre-la-puerta-a-acuerdos-con-los-democratas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "489250c7cc15b5812b0e1022d34c5603",
+     "total": 277,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/ultimas-encuestas-sacuden-el-panorama-politico-de-donald-trump-a-horas-de-las-elecciones/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/ultimas-encuestas-sacuden-el-panorama-politico-de-donald-trump-a-horas-de-las-elecciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5d3093a389a771051e7972ebe51ff465",
+     "total": 275,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/elecciones-en-ee-uu-trump-pierde-el-control-del-congreso-tras-victoria-de-los-democratas/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/elecciones-en-ee-uu-trump-pierde-el-control-del-congreso-tras-victoria-de-los-democratas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c610c736bba259e0086993128a010abb",
+     "total": 226,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/22/donald-trump-restringe-visas-a-siete-colombianos-incluido-al-expresidente-de-ecopetrol/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/22/donald-trump-restringe-visas-a-siete-colombianos-incluido-al-expresidente-de-ecopetrol/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "946dcd0cf2661ace5369bc3c2fe0bdff",
+     "total": 221,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/leon-xiv-inicia-su-gira-por-latinoamerica-este-sera-el-primer-pais-que-visitara/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/leon-xiv-inicia-su-gira-por-latinoamerica-este-sera-el-primer-pais-que-visitara/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "debcc4bf4c86716bc8809e5824407932",
+     "total": 216,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/trump-amenaza-con-vetar-proyectos-democratas-si-pierde-el-control-del-congreso/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/trump-amenaza-con-vetar-proyectos-democratas-si-pierde-el-control-del-congreso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "65e80200d63d5bc4d1c0a88697eb2ab5",
+     "total": 213,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/nayib-bukele-confirma-que-ayudara-a-haiti-a-retomar-el-pais/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/nayib-bukele-confirma-que-ayudara-a-haiti-a-retomar-el-pais/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d578dad77b9eeba6b347912a7f56effc",
+     "total": 211,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/el-monumental-homenaje-que-peru-prepara-para-recibir-al-papa-leon-xiv/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/el-monumental-homenaje-que-peru-prepara-para-recibir-al-papa-leon-xiv/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8d9f92455ee0df6d3385d2df801b8388",
+     "total": 175,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/presidente-de-paraguay-deja-el-poder-tras-controversia-por-intervencion-bancaria/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/presidente-de-paraguay-deja-el-poder-tras-controversia-por-intervencion-bancaria/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "77820fec69aa1920b0be614da8fd9483",
+     "total": 170,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/jose-manuel-restrepo-ya-esta-en-espana-esta-es-la-razon-de-su-visita/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/jose-manuel-restrepo-ya-esta-en-espana-esta-es-la-razon-de-su-visita/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0166946c118f97f1fde243d1b3ae6a05",
+     "total": 162,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/los-votos-latinos-le-dieron-la-espalda-a-donald-trump-y-a-los-republicanos-en-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/los-votos-latinos-le-dieron-la-espalda-a-donald-trump-y-a-los-republicanos-en-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "eb861a1d601877587aa4c780474eccbd",
+     "total": 160,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/paraguay-destituye-a-santiago-pena-tras-escandalo-financiero-de-ueno-bank/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/paraguay-destituye-a-santiago-pena-tras-escandalo-financiero-de-ueno-bank/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0b9b745f4b7227f8e37bc4d77213018e",
+     "total": 150,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/likud-cuestiona-resultados-electorales-en-israel-por-presunta-injerencia-extranjera/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/likud-cuestiona-resultados-electorales-en-israel-por-presunta-injerencia-extranjera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ef42396d5a68e872a567a8450b59464c",
+     "total": 148,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/pedro-alliana-promete-compensar-a-los-afectados-por-la-crisis-de-ueno-bank-en-paraguay/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/pedro-alliana-promete-compensar-a-los-afectados-por-la-crisis-de-ueno-bank-en-paraguay/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1b1e1e0284e8f4f8d74a7fe67dd77628",
+     "total": 137,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/01/avion-privado-se-estrella-en-zona-residencial-y-causa-grave-incendio-esto-se-sabe/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/01/avion-privado-se-estrella-en-zona-residencial-y-causa-grave-incendio-esto-se-sabe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "414cf0b701df5f9e37096b448aae0f06",
+     "total": 133,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/06/25/como-activar-la-alerta-de-terremotos-en-tu-celular-guia-paso-a-paso-para-android-e-iphone/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/06/25/como-activar-la-alerta-de-terremotos-en-tu-celular-guia-paso-a-paso-para-android-e-iphone/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "84856ecce8a847f69aecf9f4b49e3915",
+     "total": 120,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/08/donald-trump-asegura-que-dejara-de-insultar-a-los-democratas-para-lograr-acuerdos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/08/donald-trump-asegura-que-dejara-de-insultar-a-los-democratas-para-lograr-acuerdos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b8e667ce1c4c2e5cd0ce7c3ff1a76076",
+     "total": 114,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/09/23/encontraron-el-arca-de-noe-el-hallazgo-que-acabaria-con-un-misterio-de-4300-anos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/09/23/encontraron-el-arca-de-noe-el-hallazgo-que-acabaria-con-un-misterio-de-4300-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bd804ddecf96de41fac046f05ac828e2",
+     "total": 114,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/08/argentina-prende-las-alarmas-por-amenazas-contra-el-papa-esto-se-sabe-del-detenido/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/08/argentina-prende-las-alarmas-por-amenazas-contra-el-papa-esto-se-sabe-del-detenido/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9a0db24474c51e31b37a28d12e5cc489",
+     "total": 113,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/donald-trump-recortara-4000-millones-de-dolares-en-ayuda-militar-a-israel/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/donald-trump-recortara-4000-millones-de-dolares-en-ayuda-militar-a-israel/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ccfcb852064331cd0bee7a250c9f4c02",
+     "total": 113,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/trump-defiende-ataques-contra-iran-tras-derrota-republicana-en-elecciones-legislativas/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/trump-defiende-ataques-contra-iran-tras-derrota-republicana-en-elecciones-legislativas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "34a522807c2f1fa4aa44ba02fa566123",
+     "total": 105,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/trump-descarta-nuevos-ataques-contra-iran-pero-mantiene-alerta-militar-de-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/trump-descarta-nuevos-ataques-contra-iran-pero-mantiene-alerta-militar-de-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f1ab66f006815273621538e7924c428a",
+     "total": 105,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/caos-aereo-en-europa-por-una-nueva-oleada-de-falsas-amenazas-de-bomba/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/caos-aereo-en-europa-por-una-nueva-oleada-de-falsas-amenazas-de-bomba/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "23d0b157e4fc1a2e87c19de5c964d41c",
+     "total": 100,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/07/fiscalia-de-paraguay-imputa-a-santiago-pena-y-pide-prision-preventiva-por-caso-ueno-bank/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/07/fiscalia-de-paraguay-imputa-a-santiago-pena-y-pide-prision-preventiva-por-caso-ueno-bank/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1bbc440d0b8a295d12f470a652aeaba5",
+     "total": 99,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-enfrenta-juicio-politico-en-paraguay-tras-intervencion-de-ueno-bank/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-enfrenta-juicio-politico-en-paraguay-tras-intervencion-de-ueno-bank/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "924e56dd21fff4281068a1e45f3a3a7c",
+     "total": 98,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/iran-celebro-el-golpe-electoral-contra-donald-trump-en-estados-unidos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/iran-celebro-el-golpe-electoral-contra-donald-trump-en-estados-unidos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "dd10dd5440a56754916d3645eddeedf8",
+     "total": 88,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/guerra-de-iran-habria-influido-en-el-reves-republicano-segun-vance/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/guerra-de-iran-habria-influido-en-el-reves-republicano-segun-vance/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "220c9061891c7037c6f714a3ca058b4d",
+     "total": 85,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/07/trump-ofrece-a-dana-white-presidente-de-la-ufc-el-cargo-de-secretario-de-prensa-de-la-casa-blanca/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/07/trump-ofrece-a-dana-white-presidente-de-la-ufc-el-cargo-de-secretario-de-prensa-de-la-casa-blanca/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "120a727302e295c3facee7c6ad2916f0",
+     "total": 81,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/dos-helicopteros-chocaron-cerca-del-everest-un-turista-murio-y-hay-tres-heridos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/dos-helicopteros-chocaron-cerca-del-everest-un-turista-murio-y-hay-tres-heridos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "83979bfb3c372f3dd27304baf3561c97",
+     "total": 80,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/tragedia-en-ucrania-31-muertos-y-casi-50-desaparecidos-tras-ataque-ruso-a-una-escuela/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/tragedia-en-ucrania-31-muertos-y-casi-50-desaparecidos-tras-ataque-ruso-a-una-escuela/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b4323d49d69736a6596d0ed426e87a73",
+     "total": 78,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/renuncia-ministro-de-transportes-de-espana-tras-el-tragico-accidente-de-trenes/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/renuncia-ministro-de-transportes-de-espana-tras-el-tragico-accidente-de-trenes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d784eebb93786ec33c398b1e5c755ff5",
+     "total": 76,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/derrumbe-mortal-en-nairobi-hasta-ahora-seis-vidas-han-quedado-bajo-los-escombros/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/derrumbe-mortal-en-nairobi-hasta-ahora-seis-vidas-han-quedado-bajo-los-escombros/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3c93f956a2aee0c9ae29bc6e15baf1af",
+     "total": 72,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/01/bukele-niega-bombardeos-en-haiti-y-defiende-operacion-para-buscar-a-cuatro-soldados/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/01/bukele-niega-bombardeos-en-haiti-y-defiende-operacion-para-buscar-a-cuatro-soldados/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0807bb48180eb748c7a791b3e931fbf8",
+     "total": 71,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/08/israel-apuesta-por-el-opositor-gadi-eisenkot-para-formar-el-nuevo-gobierno/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/08/israel-apuesta-por-el-opositor-gadi-eisenkot-para-formar-el-nuevo-gobierno/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c044ea4bbd152fa3d088660c6ba6ae10",
+     "total": 69,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/31/asi-se-vivio-el-fuerte-temblor-de-magnitud-52-que-sacudio-hoy-a-panama/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/31/asi-se-vivio-el-fuerte-temblor-de-magnitud-52-que-sacudio-hoy-a-panama/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "179ca9c4d05a51144361736aeb450579",
+     "total": 68,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/29/bukele-defiende-despliegue-de-2000-soldados-salvadorenos-en-haiti/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/29/bukele-defiende-despliegue-de-2000-soldados-salvadorenos-en-haiti/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5f4e1f33764a6468e9f8f8877ef27e61",
+     "total": 64,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/el-poder-esta-en-juego-ee-uu-abre-las-urnas-en-una-eleccion-que-puede-cambiarlo-todo/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/el-poder-esta-en-juego-ee-uu-abre-las-urnas-en-una-eleccion-que-puede-cambiarlo-todo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "560c6fa2d020135f03c6aabc5e3296ab",
+     "total": 62,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/flavio-bolsonaro-reaparecera-en-evento-en-florida-tras-salir-de-brasil/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/flavio-bolsonaro-reaparecera-en-evento-en-florida-tras-salir-de-brasil/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 1178,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 757,
+     "fe09d3e4b629fe479bae0aafa1d40350": 451,
+     "db36bcd666affea00b2b9d7bbae33667": 0,
+     "d2e611db0da1099ec1240c9534019761": 572,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 0,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 1,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 253,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 18,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 107,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 154,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 51,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 110,
+     "414cf0b701df5f9e37096b448aae0f06": 1,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 17,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 30,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 21,
+     "179ca9c4d05a51144361736aeb450579": 14,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 512,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 60,
+     "fe09d3e4b629fe479bae0aafa1d40350": 225,
+     "db36bcd666affea00b2b9d7bbae33667": 591,
+     "d2e611db0da1099ec1240c9534019761": 60,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 408,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 284,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 35,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 16,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 45,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 99,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 12,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 94,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 14,
+     "414cf0b701df5f9e37096b448aae0f06": 92,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 9,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 103,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 20,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 76,
+     "83979bfb3c372f3dd27304baf3561c97": 67,
+     "b4323d49d69736a6596d0ed426e87a73": 42,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 12,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 31,
+     "179ca9c4d05a51144361736aeb450579": 9,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 61,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 125,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 11,
+     "fe09d3e4b629fe479bae0aafa1d40350": 50,
+     "db36bcd666affea00b2b9d7bbae33667": 89,
+     "d2e611db0da1099ec1240c9534019761": 15,
+     "7514714314a5c44754bb0015d6140bc7": 527,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 23,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 28,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 117,
+     "7c336c015204928a0758478e803907a7": 273,
+     "489250c7cc15b5812b0e1022d34c5603": 6,
+     "5d3093a389a771051e7972ebe51ff465": 262,
+     "c610c736bba259e0086993128a010abb": 112,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 3,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 98,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 1,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 4,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 7,
+     "414cf0b701df5f9e37096b448aae0f06": 13,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 10,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 5,
+     "ccfcb852064331cd0bee7a250c9f4c02": 58,
+     "34a522807c2f1fa4aa44ba02fa566123": 78,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 96,
+     "dd10dd5440a56754916d3645eddeedf8": 67,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 3,
+     "83979bfb3c372f3dd27304baf3561c97": 5,
+     "b4323d49d69736a6596d0ed426e87a73": 32,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 8,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 3,
+     "179ca9c4d05a51144361736aeb450579": 5,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 1,
+     "560c6fa2d020135f03c6aabc5e3296ab": 44,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 42,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 2,
+     "fe09d3e4b629fe479bae0aafa1d40350": 33,
+     "db36bcd666affea00b2b9d7bbae33667": 18,
+     "d2e611db0da1099ec1240c9534019761": 2,
+     "7514714314a5c44754bb0015d6140bc7": 37,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 5,
+     "930ecb1f70534ba403c0965560a1f25b": 161,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 15,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 140,
+     "7c336c015204928a0758478e803907a7": 6,
+     "489250c7cc15b5812b0e1022d34c5603": 1,
+     "5d3093a389a771051e7972ebe51ff465": 7,
+     "c610c736bba259e0086993128a010abb": 48,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 5,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 41,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 162,
+     "77820fec69aa1920b0be614da8fd9483": 2,
+     "0166946c118f97f1fde243d1b3ae6a05": 140,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 2,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 3,
+     "414cf0b701df5f9e37096b448aae0f06": 5,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 24,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 3,
+     "ccfcb852064331cd0bee7a250c9f4c02": 48,
+     "34a522807c2f1fa4aa44ba02fa566123": 4,
+     "f1ab66f006815273621538e7924c428a": 100,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 89,
+     "924e56dd21fff4281068a1e45f3a3a7c": 2,
+     "dd10dd5440a56754916d3645eddeedf8": 19,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 1,
+     "83979bfb3c372f3dd27304baf3561c97": 4,
+     "b4323d49d69736a6596d0ed426e87a73": 4,
+     "d784eebb93786ec33c398b1e5c755ff5": 68,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 3,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 6,
+     "179ca9c4d05a51144361736aeb450579": 9,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 1,
+     "560c6fa2d020135f03c6aabc5e3296ab": 17,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 18,
+     "5a88926d81a967819a73285268d04d0b": 527,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 0,
+     "fe09d3e4b629fe479bae0aafa1d40350": 8,
+     "db36bcd666affea00b2b9d7bbae33667": 8,
+     "d2e611db0da1099ec1240c9534019761": 5,
+     "7514714314a5c44754bb0015d6140bc7": 10,
+     "0a30a049362674c2f0991ddc1ce09d23": 121,
+     "1e345cb83ad840370cf58d44ae8250b4": 4,
+     "930ecb1f70534ba403c0965560a1f25b": 237,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 3,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 1,
+     "7c336c015204928a0758478e803907a7": 1,
+     "489250c7cc15b5812b0e1022d34c5603": 1,
+     "5d3093a389a771051e7972ebe51ff465": 2,
+     "c610c736bba259e0086993128a010abb": 2,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 151,
+     "debcc4bf4c86716bc8809e5824407932": 1,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 33,
+     "d578dad77b9eeba6b347912a7f56effc": 131,
+     "8d9f92455ee0df6d3385d2df801b8388": 11,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 13,
+     "eb861a1d601877587aa4c780474eccbd": 72,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 56,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 2,
+     "414cf0b701df5f9e37096b448aae0f06": 7,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 17,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 1,
+     "ccfcb852064331cd0bee7a250c9f4c02": 1,
+     "34a522807c2f1fa4aa44ba02fa566123": 1,
+     "f1ab66f006815273621538e7924c428a": 3,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 7,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 1,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 5,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 6,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 4,
+     "179ca9c4d05a51144361736aeb450579": 7,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 17,
+     "5a88926d81a967819a73285268d04d0b": 307,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 5,
+     "fe09d3e4b629fe479bae0aafa1d40350": 4,
+     "db36bcd666affea00b2b9d7bbae33667": 7,
+     "d2e611db0da1099ec1240c9534019761": 3,
+     "7514714314a5c44754bb0015d6140bc7": 6,
+     "0a30a049362674c2f0991ddc1ce09d23": 128,
+     "1e345cb83ad840370cf58d44ae8250b4": 1,
+     "930ecb1f70534ba403c0965560a1f25b": 6,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 2,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 2,
+     "7c336c015204928a0758478e803907a7": 3,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 3,
+     "c610c736bba259e0086993128a010abb": 1,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 56,
+     "debcc4bf4c86716bc8809e5824407932": 1,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 21,
+     "d578dad77b9eeba6b347912a7f56effc": 70,
+     "8d9f92455ee0df6d3385d2df801b8388": 1,
+     "77820fec69aa1920b0be614da8fd9483": 1,
+     "0166946c118f97f1fde243d1b3ae6a05": 9,
+     "eb861a1d601877587aa4c780474eccbd": 85,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 85,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 1,
+     "414cf0b701df5f9e37096b448aae0f06": 9,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 13,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 6,
+     "34a522807c2f1fa4aa44ba02fa566123": 1,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 67,
+     "1bbc440d0b8a295d12f470a652aeaba5": 2,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 1,
+     "220c9061891c7037c6f714a3ca058b4d": 45,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 4,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 2,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 11,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 4,
+     "179ca9c4d05a51144361736aeb450579": 11,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 1,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 17,
+     "5a88926d81a967819a73285268d04d0b": 110,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 7,
+     "fe09d3e4b629fe479bae0aafa1d40350": 3,
+     "db36bcd666affea00b2b9d7bbae33667": 5,
+     "d2e611db0da1099ec1240c9534019761": 5,
+     "7514714314a5c44754bb0015d6140bc7": 5,
+     "0a30a049362674c2f0991ddc1ce09d23": 210,
+     "1e345cb83ad840370cf58d44ae8250b4": 3,
+     "930ecb1f70534ba403c0965560a1f25b": 3,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 2,
+     "7c336c015204928a0758478e803907a7": 3,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 1,
+     "c610c736bba259e0086993128a010abb": 0,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 14,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 20,
+     "d578dad77b9eeba6b347912a7f56effc": 10,
+     "8d9f92455ee0df6d3385d2df801b8388": 1,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 3,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 7,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 0,
+     "414cf0b701df5f9e37096b448aae0f06": 6,
+     "84856ecce8a847f69aecf9f4b49e3915": 120,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 24,
+     "bd804ddecf96de41fac046f05ac828e2": 114,
+     "9a0db24474c51e31b37a28d12e5cc489": 1,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 1,
+     "f1ab66f006815273621538e7924c428a": 2,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 33,
+     "1bbc440d0b8a295d12f470a652aeaba5": 1,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 41,
+     "120a727302e295c3facee7c6ad2916f0": 1,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 1,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 2,
+     "0807bb48180eb748c7a791b3e931fbf8": 71,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 0,
+     "179ca9c4d05a51144361736aeb450579": 13,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 1,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 105.48,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 105.48,
+   "values": [
+    {
+     "key": "15b3d710570a524db61cdb8cd7df3f08",
+     "total": 133.33,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/01/revelan-impactante-video-de-avion-que-se-estrello-en-florida-9-personas-murieron/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/01/revelan-impactante-video-de-avion-que-se-estrello-en-florida-9-personas-murieron/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5a88926d81a967819a73285268d04d0b",
+     "total": 121.38,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/lider-religioso-fue-condenado-a-200-anos-de-carcel-por-crimen-de-sus-propios-seguidores/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/lider-religioso-fue-condenado-a-200-anos-de-carcel-por-crimen-de-sus-propios-seguidores/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "345b75b4b35ee1cf766e5ee3e8905ca6",
+     "total": 128.18,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/nathalia-gadelha-tenia-20-anos-y-era-la-copiloto-del-avion-que-se-estrello-en-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/nathalia-gadelha-tenia-20-anos-y-era-la-copiloto-del-avion-que-se-estrello-en-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe09d3e4b629fe479bae0aafa1d40350",
+     "total": 126.08,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/reforma-tributaria-en-brasil-el-iva-podria-subir-al-313-y-liderar-el-ranking-mundial/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/reforma-tributaria-en-brasil-el-iva-podria-subir-al-313-y-liderar-el-ranking-mundial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "db36bcd666affea00b2b9d7bbae33667",
+     "total": 103.29,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/video-asi-fue-el-impactante-choque-de-helicopteros-cerca-del-everest/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/video-asi-fue-el-impactante-choque-de-helicopteros-cerca-del-everest/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d2e611db0da1099ec1240c9534019761",
+     "total": 84.68,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/alerta-por-ciberataques-hackean-congeladores-de-supermercados-y-danan-alimentos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/alerta-por-ciberataques-hackean-congeladores-de-supermercados-y-danan-alimentos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7514714314a5c44754bb0015d6140bc7",
+     "total": 111.73,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/claudia-sheinbaum-lanza-contundente-mensaje-tras-el-golpe-electoral-a-donald-trump/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/claudia-sheinbaum-lanza-contundente-mensaje-tras-el-golpe-electoral-a-donald-trump/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0a30a049362674c2f0991ddc1ce09d23",
+     "total": 77.49,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/11/06/estados-unidos-busca-a-tres-lideres-del-tren-de-aragua-ofrecio-millonaria-recompensa/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/11/06/estados-unidos-busca-a-tres-lideres-del-tren-de-aragua-ofrecio-millonaria-recompensa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1e345cb83ad840370cf58d44ae8250b4",
+     "total": 92.58,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/tension-en-europa-falsas-amenazas-de-bomba-obligaron-a-desviar-seis-vuelos-comerciales/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/tension-en-europa-falsas-amenazas-de-bomba-obligaron-a-desviar-seis-vuelos-comerciales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "930ecb1f70534ba403c0965560a1f25b",
+     "total": 130.17,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-seguira-como-presidente-de-paraguay-tras-bloqueo-de-su-renuncia-en-el-congreso/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-seguira-como-presidente-de-paraguay-tras-bloqueo-de-su-renuncia-en-el-congreso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d7642f47eeaa07d76754d3fec8b1d9f2",
+     "total": 122.96,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/ana-maria-ramirez-la-colombiana-entre-las-victimas-del-avion-que-se-estrello-en-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/ana-maria-ramirez-la-colombiana-entre-las-victimas-del-avion-que-se-estrello-en-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ed6ce03116eb67ee9826d1e805d97bb4",
+     "total": 81.2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/22/quedo-grabado-motociclista-evadio-un-reten-policial-y-dejo-caer-a-su-esposa-al-escapar/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/22/quedo-grabado-motociclista-evadio-un-reten-policial-y-dejo-caer-a-su-esposa-al-escapar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7c336c015204928a0758478e803907a7",
+     "total": 159.27,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/donald-trump-acepta-los-resultados-y-abre-la-puerta-a-acuerdos-con-los-democratas/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/donald-trump-acepta-los-resultados-y-abre-la-puerta-a-acuerdos-con-los-democratas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "489250c7cc15b5812b0e1022d34c5603",
+     "total": 101.8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/ultimas-encuestas-sacuden-el-panorama-politico-de-donald-trump-a-horas-de-las-elecciones/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/ultimas-encuestas-sacuden-el-panorama-politico-de-donald-trump-a-horas-de-las-elecciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5d3093a389a771051e7972ebe51ff465",
+     "total": 175.77,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/elecciones-en-ee-uu-trump-pierde-el-control-del-congreso-tras-victoria-de-los-democratas/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/elecciones-en-ee-uu-trump-pierde-el-control-del-congreso-tras-victoria-de-los-democratas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c610c736bba259e0086993128a010abb",
+     "total": 75.48,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/22/donald-trump-restringe-visas-a-siete-colombianos-incluido-al-expresidente-de-ecopetrol/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/22/donald-trump-restringe-visas-a-siete-colombianos-incluido-al-expresidente-de-ecopetrol/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "946dcd0cf2661ace5369bc3c2fe0bdff",
+     "total": 97.31,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/leon-xiv-inicia-su-gira-por-latinoamerica-este-sera-el-primer-pais-que-visitara/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/leon-xiv-inicia-su-gira-por-latinoamerica-este-sera-el-primer-pais-que-visitara/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "debcc4bf4c86716bc8809e5824407932",
+     "total": 105.98,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/trump-amenaza-con-vetar-proyectos-democratas-si-pierde-el-control-del-congreso/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/trump-amenaza-con-vetar-proyectos-democratas-si-pierde-el-control-del-congreso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "65e80200d63d5bc4d1c0a88697eb2ab5",
+     "total": 108.59,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/nayib-bukele-confirma-que-ayudara-a-haiti-a-retomar-el-pais/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/nayib-bukele-confirma-que-ayudara-a-haiti-a-retomar-el-pais/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d578dad77b9eeba6b347912a7f56effc",
+     "total": 101.85,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/el-monumental-homenaje-que-peru-prepara-para-recibir-al-papa-leon-xiv/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/el-monumental-homenaje-que-peru-prepara-para-recibir-al-papa-leon-xiv/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8d9f92455ee0df6d3385d2df801b8388",
+     "total": 145.88,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/presidente-de-paraguay-deja-el-poder-tras-controversia-por-intervencion-bancaria/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/presidente-de-paraguay-deja-el-poder-tras-controversia-por-intervencion-bancaria/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "77820fec69aa1920b0be614da8fd9483",
+     "total": 138.45,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/jose-manuel-restrepo-ya-esta-en-espana-esta-es-la-razon-de-su-visita/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/jose-manuel-restrepo-ya-esta-en-espana-esta-es-la-razon-de-su-visita/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0166946c118f97f1fde243d1b3ae6a05",
+     "total": 190.41,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/los-votos-latinos-le-dieron-la-espalda-a-donald-trump-y-a-los-republicanos-en-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/los-votos-latinos-le-dieron-la-espalda-a-donald-trump-y-a-los-republicanos-en-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "eb861a1d601877587aa4c780474eccbd",
+     "total": 156.54,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/paraguay-destituye-a-santiago-pena-tras-escandalo-financiero-de-ueno-bank/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/paraguay-destituye-a-santiago-pena-tras-escandalo-financiero-de-ueno-bank/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0b9b745f4b7227f8e37bc4d77213018e",
+     "total": 114.43,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/likud-cuestiona-resultados-electorales-en-israel-por-presunta-injerencia-extranjera/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/likud-cuestiona-resultados-electorales-en-israel-por-presunta-injerencia-extranjera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ef42396d5a68e872a567a8450b59464c",
+     "total": 112.62,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/pedro-alliana-promete-compensar-a-los-afectados-por-la-crisis-de-ueno-bank-en-paraguay/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/pedro-alliana-promete-compensar-a-los-afectados-por-la-crisis-de-ueno-bank-en-paraguay/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1b1e1e0284e8f4f8d74a7fe67dd77628",
+     "total": 109.5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/01/avion-privado-se-estrella-en-zona-residencial-y-causa-grave-incendio-esto-se-sabe/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/01/avion-privado-se-estrella-en-zona-residencial-y-causa-grave-incendio-esto-se-sabe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "414cf0b701df5f9e37096b448aae0f06",
+     "total": 74.78,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/06/25/como-activar-la-alerta-de-terremotos-en-tu-celular-guia-paso-a-paso-para-android-e-iphone/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/06/25/como-activar-la-alerta-de-terremotos-en-tu-celular-guia-paso-a-paso-para-android-e-iphone/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "84856ecce8a847f69aecf9f4b49e3915",
+     "total": 65.73,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/08/donald-trump-asegura-que-dejara-de-insultar-a-los-democratas-para-lograr-acuerdos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/08/donald-trump-asegura-que-dejara-de-insultar-a-los-democratas-para-lograr-acuerdos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b8e667ce1c4c2e5cd0ce7c3ff1a76076",
+     "total": 161.82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/09/23/encontraron-el-arca-de-noe-el-hallazgo-que-acabaria-con-un-misterio-de-4300-anos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/09/23/encontraron-el-arca-de-noe-el-hallazgo-que-acabaria-con-un-misterio-de-4300-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bd804ddecf96de41fac046f05ac828e2",
+     "total": 110.92,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/08/argentina-prende-las-alarmas-por-amenazas-contra-el-papa-esto-se-sabe-del-detenido/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/08/argentina-prende-las-alarmas-por-amenazas-contra-el-papa-esto-se-sabe-del-detenido/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9a0db24474c51e31b37a28d12e5cc489",
+     "total": 147.22,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/donald-trump-recortara-4000-millones-de-dolares-en-ayuda-militar-a-israel/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/donald-trump-recortara-4000-millones-de-dolares-en-ayuda-militar-a-israel/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ccfcb852064331cd0bee7a250c9f4c02",
+     "total": 194.57,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/trump-defiende-ataques-contra-iran-tras-derrota-republicana-en-elecciones-legislativas/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/trump-defiende-ataques-contra-iran-tras-derrota-republicana-en-elecciones-legislativas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "34a522807c2f1fa4aa44ba02fa566123",
+     "total": 94.87,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/trump-descarta-nuevos-ataques-contra-iran-pero-mantiene-alerta-militar-de-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/trump-descarta-nuevos-ataques-contra-iran-pero-mantiene-alerta-militar-de-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f1ab66f006815273621538e7924c428a",
+     "total": 136.36,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/caos-aereo-en-europa-por-una-nueva-oleada-de-falsas-amenazas-de-bomba/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/caos-aereo-en-europa-por-una-nueva-oleada-de-falsas-amenazas-de-bomba/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "23d0b157e4fc1a2e87c19de5c964d41c",
+     "total": 149.24,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/07/fiscalia-de-paraguay-imputa-a-santiago-pena-y-pide-prision-preventiva-por-caso-ueno-bank/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/07/fiscalia-de-paraguay-imputa-a-santiago-pena-y-pide-prision-preventiva-por-caso-ueno-bank/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1bbc440d0b8a295d12f470a652aeaba5",
+     "total": 101.42,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-enfrenta-juicio-politico-en-paraguay-tras-intervencion-de-ueno-bank/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-enfrenta-juicio-politico-en-paraguay-tras-intervencion-de-ueno-bank/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "924e56dd21fff4281068a1e45f3a3a7c",
+     "total": 178.06,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/iran-celebro-el-golpe-electoral-contra-donald-trump-en-estados-unidos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/iran-celebro-el-golpe-electoral-contra-donald-trump-en-estados-unidos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "dd10dd5440a56754916d3645eddeedf8",
+     "total": 113.36,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/guerra-de-iran-habria-influido-en-el-reves-republicano-segun-vance/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/guerra-de-iran-habria-influido-en-el-reves-republicano-segun-vance/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "220c9061891c7037c6f714a3ca058b4d",
+     "total": 53.14,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/07/trump-ofrece-a-dana-white-presidente-de-la-ufc-el-cargo-de-secretario-de-prensa-de-la-casa-blanca/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/07/trump-ofrece-a-dana-white-presidente-de-la-ufc-el-cargo-de-secretario-de-prensa-de-la-casa-blanca/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "120a727302e295c3facee7c6ad2916f0",
+     "total": 114.62,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/dos-helicopteros-chocaron-cerca-del-everest-un-turista-murio-y-hay-tres-heridos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/dos-helicopteros-chocaron-cerca-del-everest-un-turista-murio-y-hay-tres-heridos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "83979bfb3c372f3dd27304baf3561c97",
+     "total": 104.03,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/tragedia-en-ucrania-31-muertos-y-casi-50-desaparecidos-tras-ataque-ruso-a-una-escuela/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/tragedia-en-ucrania-31-muertos-y-casi-50-desaparecidos-tras-ataque-ruso-a-una-escuela/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b4323d49d69736a6596d0ed426e87a73",
+     "total": 116.36,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/renuncia-ministro-de-transportes-de-espana-tras-el-tragico-accidente-de-trenes/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/renuncia-ministro-de-transportes-de-espana-tras-el-tragico-accidente-de-trenes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d784eebb93786ec33c398b1e5c755ff5",
+     "total": 121.86,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/derrumbe-mortal-en-nairobi-hasta-ahora-seis-vidas-han-quedado-bajo-los-escombros/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/derrumbe-mortal-en-nairobi-hasta-ahora-seis-vidas-han-quedado-bajo-los-escombros/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3c93f956a2aee0c9ae29bc6e15baf1af",
+     "total": 40.33,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/01/bukele-niega-bombardeos-en-haiti-y-defiende-operacion-para-buscar-a-cuatro-soldados/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/01/bukele-niega-bombardeos-en-haiti-y-defiende-operacion-para-buscar-a-cuatro-soldados/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0807bb48180eb748c7a791b3e931fbf8",
+     "total": 156.33,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/08/israel-apuesta-por-el-opositor-gadi-eisenkot-para-formar-el-nuevo-gobierno/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/08/israel-apuesta-por-el-opositor-gadi-eisenkot-para-formar-el-nuevo-gobierno/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c044ea4bbd152fa3d088660c6ba6ae10",
+     "total": 51.16,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/31/asi-se-vivio-el-fuerte-temblor-de-magnitud-52-que-sacudio-hoy-a-panama/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/31/asi-se-vivio-el-fuerte-temblor-de-magnitud-52-que-sacudio-hoy-a-panama/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "179ca9c4d05a51144361736aeb450579",
+     "total": 44.45,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/29/bukele-defiende-despliegue-de-2000-soldados-salvadorenos-en-haiti/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/29/bukele-defiende-despliegue-de-2000-soldados-salvadorenos-en-haiti/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5f4e1f33764a6468e9f8f8877ef27e61",
+     "total": 114.27,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/el-poder-esta-en-juego-ee-uu-abre-las-urnas-en-una-eleccion-que-puede-cambiarlo-todo/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/el-poder-esta-en-juego-ee-uu-abre-las-urnas-en-una-eleccion-que-puede-cambiarlo-todo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "560c6fa2d020135f03c6aabc5e3296ab",
+     "total": 92.03,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/flavio-bolsonaro-reaparecera-en-evento-en-florida-tras-salir-de-brasil/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/flavio-bolsonaro-reaparecera-en-evento-en-florida-tras-salir-de-brasil/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 130.52,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 127.8,
+     "fe09d3e4b629fe479bae0aafa1d40350": 127.43,
+     "db36bcd666affea00b2b9d7bbae33667": 0,
+     "d2e611db0da1099ec1240c9534019761": 83.75,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 0,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 1,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 101.12,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 32.21,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 98.29,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 132.4,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 65.44,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 94,
+     "414cf0b701df5f9e37096b448aae0f06": 151.29,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 38.23,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 57.67,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 57.95,
+     "179ca9c4d05a51144361736aeb450579": 26.93,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 133.43,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 159.78,
+     "fe09d3e4b629fe479bae0aafa1d40350": 136.28,
+     "db36bcd666affea00b2b9d7bbae33667": 108.04,
+     "d2e611db0da1099ec1240c9534019761": 96.49,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 96.2,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 112.64,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 124.76,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 129.68,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 98.48,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 108.13,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 222.29,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 129.97,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 266.03,
+     "414cf0b701df5f9e37096b448aae0f06": 53.94,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 134.07,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 156.98,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 45.13,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 119.83,
+     "83979bfb3c372f3dd27304baf3561c97": 106.41,
+     "b4323d49d69736a6596d0ed426e87a73": 107.55,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 43.5,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 55.45,
+     "179ca9c4d05a51144361736aeb450579": 17.67,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 110.46,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 156.02,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 29.32,
+     "fe09d3e4b629fe479bae0aafa1d40350": 83.33,
+     "db36bcd666affea00b2b9d7bbae33667": 92.11,
+     "d2e611db0da1099ec1240c9534019761": 65.16,
+     "7514714314a5c44754bb0015d6140bc7": 112.6,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 58.98,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 191.98,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 83.38,
+     "7c336c015204928a0758478e803907a7": 159.58,
+     "489250c7cc15b5812b0e1022d34c5603": 21.8,
+     "5d3093a389a771051e7972ebe51ff465": 180.07,
+     "c610c736bba259e0086993128a010abb": 74.47,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 269.6,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 145.64,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 388,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 41.86,
+     "414cf0b701df5f9e37096b448aae0f06": 163.35,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 183.32,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 28.38,
+     "ccfcb852064331cd0bee7a250c9f4c02": 230.58,
+     "34a522807c2f1fa4aa44ba02fa566123": 108.36,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 180.3,
+     "dd10dd5440a56754916d3645eddeedf8": 123.02,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 2.25,
+     "83979bfb3c372f3dd27304baf3561c97": 116,
+     "b4323d49d69736a6596d0ed426e87a73": 133.4,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 16.6,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 7.4,
+     "179ca9c4d05a51144361736aeb450579": 22.5,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 16,
+     "560c6fa2d020135f03c6aabc5e3296ab": 68.94,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 196.03,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 51,
+     "fe09d3e4b629fe479bae0aafa1d40350": 93.48,
+     "db36bcd666affea00b2b9d7bbae33667": 65.96,
+     "d2e611db0da1099ec1240c9534019761": 166.75,
+     "7514714314a5c44754bb0015d6140bc7": 100.71,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 46.57,
+     "930ecb1f70534ba403c0965560a1f25b": 91.04,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 215.88,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 70.19,
+     "7c336c015204928a0758478e803907a7": 45.5,
+     "489250c7cc15b5812b0e1022d34c5603": 71,
+     "5d3093a389a771051e7972ebe51ff465": 37.43,
+     "c610c736bba259e0086993128a010abb": 67.33,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 207.29,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 99.7,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 148.72,
+     "77820fec69aa1920b0be614da8fd9483": 26.5,
+     "0166946c118f97f1fde243d1b3ae6a05": 203.65,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 22,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 44.83,
+     "414cf0b701df5f9e37096b448aae0f06": 6.33,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 213.07,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 28.2,
+     "ccfcb852064331cd0bee7a250c9f4c02": 140.1,
+     "34a522807c2f1fa4aa44ba02fa566123": 13,
+     "f1ab66f006815273621538e7924c428a": 139.71,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 106.71,
+     "924e56dd21fff4281068a1e45f3a3a7c": 12,
+     "dd10dd5440a56754916d3645eddeedf8": 77.23,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 79.17,
+     "b4323d49d69736a6596d0ed426e87a73": 48.57,
+     "d784eebb93786ec33c398b1e5c755ff5": 129.42,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 7,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 65.08,
+     "179ca9c4d05a51144361736aeb450579": 152.87,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 137.63,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 63.09,
+     "5a88926d81a967819a73285268d04d0b": 121.97,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 0,
+     "fe09d3e4b629fe479bae0aafa1d40350": 71.87,
+     "db36bcd666affea00b2b9d7bbae33667": 13.75,
+     "d2e611db0da1099ec1240c9534019761": 8.5,
+     "7514714314a5c44754bb0015d6140bc7": 136.84,
+     "0a30a049362674c2f0991ddc1ce09d23": 113.54,
+     "1e345cb83ad840370cf58d44ae8250b4": 2.5,
+     "930ecb1f70534ba403c0965560a1f25b": 157.63,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 40.25,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 0,
+     "7c336c015204928a0758478e803907a7": 14,
+     "489250c7cc15b5812b0e1022d34c5603": 45,
+     "5d3093a389a771051e7972ebe51ff465": 148.5,
+     "c610c736bba259e0086993128a010abb": 41,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 110.21,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 49.34,
+     "d578dad77b9eeba6b347912a7f56effc": 119.82,
+     "8d9f92455ee0df6d3385d2df801b8388": 103.81,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 69.29,
+     "eb861a1d601877587aa4c780474eccbd": 137.27,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 107.19,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 18.5,
+     "414cf0b701df5f9e37096b448aae0f06": 70.67,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 271.18,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 3,
+     "ccfcb852064331cd0bee7a250c9f4c02": 847,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 39,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 47,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 13,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 46.5,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 13,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 11.38,
+     "179ca9c4d05a51144361736aeb450579": 17.71,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 73.3,
+     "5a88926d81a967819a73285268d04d0b": 118.59,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 57.62,
+     "fe09d3e4b629fe479bae0aafa1d40350": 131.78,
+     "db36bcd666affea00b2b9d7bbae33667": 4.89,
+     "d2e611db0da1099ec1240c9534019761": 277.8,
+     "7514714314a5c44754bb0015d6140bc7": 47.67,
+     "0a30a049362674c2f0991ddc1ce09d23": 56.37,
+     "1e345cb83ad840370cf58d44ae8250b4": 4,
+     "930ecb1f70534ba403c0965560a1f25b": 9.88,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 26.5,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 0,
+     "7c336c015204928a0758478e803907a7": 9,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 63,
+     "c610c736bba259e0086993128a010abb": 194,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 65.35,
+     "debcc4bf4c86716bc8809e5824407932": 25,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 34.1,
+     "d578dad77b9eeba6b347912a7f56effc": 50.87,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 110,
+     "0166946c118f97f1fde243d1b3ae6a05": 107,
+     "eb861a1d601877587aa4c780474eccbd": 164.9,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 118.85,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 27,
+     "414cf0b701df5f9e37096b448aae0f06": 183.43,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 166.72,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 55.67,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 138.83,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 44.86,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 61.56,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 29.5,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 12.55,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 31.75,
+     "179ca9c4d05a51144361736aeb450579": 12.73,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 56.52,
+     "5a88926d81a967819a73285268d04d0b": 126.43,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 6.25,
+     "fe09d3e4b629fe479bae0aafa1d40350": 247.38,
+     "db36bcd666affea00b2b9d7bbae33667": 3.29,
+     "d2e611db0da1099ec1240c9534019761": 46,
+     "7514714314a5c44754bb0015d6140bc7": 80.25,
+     "0a30a049362674c2f0991ddc1ce09d23": 65.21,
+     "1e345cb83ad840370cf58d44ae8250b4": 4.75,
+     "930ecb1f70534ba403c0965560a1f25b": 320.67,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 6.5,
+     "7c336c015204928a0758478e803907a7": 589.6,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 64,
+     "c610c736bba259e0086993128a010abb": 0,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 70.92,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 12.14,
+     "d578dad77b9eeba6b347912a7f56effc": 184.47,
+     "8d9f92455ee0df6d3385d2df801b8388": 27,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 385.83,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 65.11,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 0,
+     "414cf0b701df5f9e37096b448aae0f06": 73.86,
+     "84856ecce8a847f69aecf9f4b49e3915": 65.73,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 102.23,
+     "bd804ddecf96de41fac046f05ac828e2": 110.92,
+     "9a0db24474c51e31b37a28d12e5cc489": 7.67,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 110.33,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 176.88,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 61.41,
+     "120a727302e295c3facee7c6ad2916f0": 1,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 8.67,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 51,
+     "0807bb48180eb748c7a791b3e931fbf8": 156.33,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 0,
+     "179ca9c4d05a51144361736aeb450579": 9.46,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 810,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "socialPosts",
+  "total": 44,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 44,
+   "values": [
+    {
+     "key": "15b3d710570a524db61cdb8cd7df3f08",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/01/revelan-impactante-video-de-avion-que-se-estrello-en-florida-9-personas-murieron/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/01/revelan-impactante-video-de-avion-que-se-estrello-en-florida-9-personas-murieron/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5a88926d81a967819a73285268d04d0b",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/lider-religioso-fue-condenado-a-200-anos-de-carcel-por-crimen-de-sus-propios-seguidores/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/lider-religioso-fue-condenado-a-200-anos-de-carcel-por-crimen-de-sus-propios-seguidores/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "345b75b4b35ee1cf766e5ee3e8905ca6",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/nathalia-gadelha-tenia-20-anos-y-era-la-copiloto-del-avion-que-se-estrello-en-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/nathalia-gadelha-tenia-20-anos-y-era-la-copiloto-del-avion-que-se-estrello-en-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe09d3e4b629fe479bae0aafa1d40350",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/reforma-tributaria-en-brasil-el-iva-podria-subir-al-313-y-liderar-el-ranking-mundial/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/reforma-tributaria-en-brasil-el-iva-podria-subir-al-313-y-liderar-el-ranking-mundial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "db36bcd666affea00b2b9d7bbae33667",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/video-asi-fue-el-impactante-choque-de-helicopteros-cerca-del-everest/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/video-asi-fue-el-impactante-choque-de-helicopteros-cerca-del-everest/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d2e611db0da1099ec1240c9534019761",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/alerta-por-ciberataques-hackean-congeladores-de-supermercados-y-danan-alimentos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/alerta-por-ciberataques-hackean-congeladores-de-supermercados-y-danan-alimentos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7514714314a5c44754bb0015d6140bc7",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/claudia-sheinbaum-lanza-contundente-mensaje-tras-el-golpe-electoral-a-donald-trump/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/claudia-sheinbaum-lanza-contundente-mensaje-tras-el-golpe-electoral-a-donald-trump/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0a30a049362674c2f0991ddc1ce09d23",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/11/06/estados-unidos-busca-a-tres-lideres-del-tren-de-aragua-ofrecio-millonaria-recompensa/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/11/06/estados-unidos-busca-a-tres-lideres-del-tren-de-aragua-ofrecio-millonaria-recompensa/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1e345cb83ad840370cf58d44ae8250b4",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/tension-en-europa-falsas-amenazas-de-bomba-obligaron-a-desviar-seis-vuelos-comerciales/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/tension-en-europa-falsas-amenazas-de-bomba-obligaron-a-desviar-seis-vuelos-comerciales/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "930ecb1f70534ba403c0965560a1f25b",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-seguira-como-presidente-de-paraguay-tras-bloqueo-de-su-renuncia-en-el-congreso/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-seguira-como-presidente-de-paraguay-tras-bloqueo-de-su-renuncia-en-el-congreso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d7642f47eeaa07d76754d3fec8b1d9f2",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/ana-maria-ramirez-la-colombiana-entre-las-victimas-del-avion-que-se-estrello-en-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/ana-maria-ramirez-la-colombiana-entre-las-victimas-del-avion-que-se-estrello-en-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ed6ce03116eb67ee9826d1e805d97bb4",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/22/quedo-grabado-motociclista-evadio-un-reten-policial-y-dejo-caer-a-su-esposa-al-escapar/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/22/quedo-grabado-motociclista-evadio-un-reten-policial-y-dejo-caer-a-su-esposa-al-escapar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7c336c015204928a0758478e803907a7",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/donald-trump-acepta-los-resultados-y-abre-la-puerta-a-acuerdos-con-los-democratas/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/donald-trump-acepta-los-resultados-y-abre-la-puerta-a-acuerdos-con-los-democratas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "489250c7cc15b5812b0e1022d34c5603",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/ultimas-encuestas-sacuden-el-panorama-politico-de-donald-trump-a-horas-de-las-elecciones/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/ultimas-encuestas-sacuden-el-panorama-politico-de-donald-trump-a-horas-de-las-elecciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5d3093a389a771051e7972ebe51ff465",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/elecciones-en-ee-uu-trump-pierde-el-control-del-congreso-tras-victoria-de-los-democratas/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/elecciones-en-ee-uu-trump-pierde-el-control-del-congreso-tras-victoria-de-los-democratas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c610c736bba259e0086993128a010abb",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/22/donald-trump-restringe-visas-a-siete-colombianos-incluido-al-expresidente-de-ecopetrol/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/22/donald-trump-restringe-visas-a-siete-colombianos-incluido-al-expresidente-de-ecopetrol/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "946dcd0cf2661ace5369bc3c2fe0bdff",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/leon-xiv-inicia-su-gira-por-latinoamerica-este-sera-el-primer-pais-que-visitara/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/leon-xiv-inicia-su-gira-por-latinoamerica-este-sera-el-primer-pais-que-visitara/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "debcc4bf4c86716bc8809e5824407932",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/trump-amenaza-con-vetar-proyectos-democratas-si-pierde-el-control-del-congreso/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/trump-amenaza-con-vetar-proyectos-democratas-si-pierde-el-control-del-congreso/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "65e80200d63d5bc4d1c0a88697eb2ab5",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/nayib-bukele-confirma-que-ayudara-a-haiti-a-retomar-el-pais/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/nayib-bukele-confirma-que-ayudara-a-haiti-a-retomar-el-pais/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d578dad77b9eeba6b347912a7f56effc",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/el-monumental-homenaje-que-peru-prepara-para-recibir-al-papa-leon-xiv/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/el-monumental-homenaje-que-peru-prepara-para-recibir-al-papa-leon-xiv/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8d9f92455ee0df6d3385d2df801b8388",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/presidente-de-paraguay-deja-el-poder-tras-controversia-por-intervencion-bancaria/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/presidente-de-paraguay-deja-el-poder-tras-controversia-por-intervencion-bancaria/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "77820fec69aa1920b0be614da8fd9483",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/jose-manuel-restrepo-ya-esta-en-espana-esta-es-la-razon-de-su-visita/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/jose-manuel-restrepo-ya-esta-en-espana-esta-es-la-razon-de-su-visita/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0166946c118f97f1fde243d1b3ae6a05",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/los-votos-latinos-le-dieron-la-espalda-a-donald-trump-y-a-los-republicanos-en-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/los-votos-latinos-le-dieron-la-espalda-a-donald-trump-y-a-los-republicanos-en-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "eb861a1d601877587aa4c780474eccbd",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/paraguay-destituye-a-santiago-pena-tras-escandalo-financiero-de-ueno-bank/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/paraguay-destituye-a-santiago-pena-tras-escandalo-financiero-de-ueno-bank/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0b9b745f4b7227f8e37bc4d77213018e",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/02/likud-cuestiona-resultados-electorales-en-israel-por-presunta-injerencia-extranjera/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/02/likud-cuestiona-resultados-electorales-en-israel-por-presunta-injerencia-extranjera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ef42396d5a68e872a567a8450b59464c",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/06/pedro-alliana-promete-compensar-a-los-afectados-por-la-crisis-de-ueno-bank-en-paraguay/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/06/pedro-alliana-promete-compensar-a-los-afectados-por-la-crisis-de-ueno-bank-en-paraguay/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1b1e1e0284e8f4f8d74a7fe67dd77628",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/01/avion-privado-se-estrella-en-zona-residencial-y-causa-grave-incendio-esto-se-sabe/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/01/avion-privado-se-estrella-en-zona-residencial-y-causa-grave-incendio-esto-se-sabe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "414cf0b701df5f9e37096b448aae0f06",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/06/25/como-activar-la-alerta-de-terremotos-en-tu-celular-guia-paso-a-paso-para-android-e-iphone/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/06/25/como-activar-la-alerta-de-terremotos-en-tu-celular-guia-paso-a-paso-para-android-e-iphone/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "84856ecce8a847f69aecf9f4b49e3915",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/08/donald-trump-asegura-que-dejara-de-insultar-a-los-democratas-para-lograr-acuerdos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/08/donald-trump-asegura-que-dejara-de-insultar-a-los-democratas-para-lograr-acuerdos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b8e667ce1c4c2e5cd0ce7c3ff1a76076",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/09/23/encontraron-el-arca-de-noe-el-hallazgo-que-acabaria-con-un-misterio-de-4300-anos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/09/23/encontraron-el-arca-de-noe-el-hallazgo-que-acabaria-con-un-misterio-de-4300-anos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bd804ddecf96de41fac046f05ac828e2",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/08/argentina-prende-las-alarmas-por-amenazas-contra-el-papa-esto-se-sabe-del-detenido/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/08/argentina-prende-las-alarmas-por-amenazas-contra-el-papa-esto-se-sabe-del-detenido/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9a0db24474c51e31b37a28d12e5cc489",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/donald-trump-recortara-4000-millones-de-dolares-en-ayuda-militar-a-israel/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/donald-trump-recortara-4000-millones-de-dolares-en-ayuda-militar-a-israel/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ccfcb852064331cd0bee7a250c9f4c02",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/trump-defiende-ataques-contra-iran-tras-derrota-republicana-en-elecciones-legislativas/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/trump-defiende-ataques-contra-iran-tras-derrota-republicana-en-elecciones-legislativas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "34a522807c2f1fa4aa44ba02fa566123",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/trump-descarta-nuevos-ataques-contra-iran-pero-mantiene-alerta-militar-de-ee-uu/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/trump-descarta-nuevos-ataques-contra-iran-pero-mantiene-alerta-militar-de-ee-uu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f1ab66f006815273621538e7924c428a",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/caos-aereo-en-europa-por-una-nueva-oleada-de-falsas-amenazas-de-bomba/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/caos-aereo-en-europa-por-una-nueva-oleada-de-falsas-amenazas-de-bomba/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "23d0b157e4fc1a2e87c19de5c964d41c",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/07/fiscalia-de-paraguay-imputa-a-santiago-pena-y-pide-prision-preventiva-por-caso-ueno-bank/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/07/fiscalia-de-paraguay-imputa-a-santiago-pena-y-pide-prision-preventiva-por-caso-ueno-bank/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1bbc440d0b8a295d12f470a652aeaba5",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-enfrenta-juicio-politico-en-paraguay-tras-intervencion-de-ueno-bank/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/santiago-pena-enfrenta-juicio-politico-en-paraguay-tras-intervencion-de-ueno-bank/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "924e56dd21fff4281068a1e45f3a3a7c",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/iran-celebro-el-golpe-electoral-contra-donald-trump-en-estados-unidos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/iran-celebro-el-golpe-electoral-contra-donald-trump-en-estados-unidos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "dd10dd5440a56754916d3645eddeedf8",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/guerra-de-iran-habria-influido-en-el-reves-republicano-segun-vance/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/guerra-de-iran-habria-influido-en-el-reves-republicano-segun-vance/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "220c9061891c7037c6f714a3ca058b4d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/07/trump-ofrece-a-dana-white-presidente-de-la-ufc-el-cargo-de-secretario-de-prensa-de-la-casa-blanca/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/07/trump-ofrece-a-dana-white-presidente-de-la-ufc-el-cargo-de-secretario-de-prensa-de-la-casa-blanca/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "120a727302e295c3facee7c6ad2916f0",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/dos-helicopteros-chocaron-cerca-del-everest-un-turista-murio-y-hay-tres-heridos/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/dos-helicopteros-chocaron-cerca-del-everest-un-turista-murio-y-hay-tres-heridos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "83979bfb3c372f3dd27304baf3561c97",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/tragedia-en-ucrania-31-muertos-y-casi-50-desaparecidos-tras-ataque-ruso-a-una-escuela/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/tragedia-en-ucrania-31-muertos-y-casi-50-desaparecidos-tras-ataque-ruso-a-una-escuela/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b4323d49d69736a6596d0ed426e87a73",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/renuncia-ministro-de-transportes-de-espana-tras-el-tragico-accidente-de-trenes/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/renuncia-ministro-de-transportes-de-espana-tras-el-tragico-accidente-de-trenes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d784eebb93786ec33c398b1e5c755ff5",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/05/derrumbe-mortal-en-nairobi-hasta-ahora-seis-vidas-han-quedado-bajo-los-escombros/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/05/derrumbe-mortal-en-nairobi-hasta-ahora-seis-vidas-han-quedado-bajo-los-escombros/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3c93f956a2aee0c9ae29bc6e15baf1af",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/01/bukele-niega-bombardeos-en-haiti-y-defiende-operacion-para-buscar-a-cuatro-soldados/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/01/bukele-niega-bombardeos-en-haiti-y-defiende-operacion-para-buscar-a-cuatro-soldados/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0807bb48180eb748c7a791b3e931fbf8",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/08/israel-apuesta-por-el-opositor-gadi-eisenkot-para-formar-el-nuevo-gobierno/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/08/israel-apuesta-por-el-opositor-gadi-eisenkot-para-formar-el-nuevo-gobierno/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c044ea4bbd152fa3d088660c6ba6ae10",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/31/asi-se-vivio-el-fuerte-temblor-de-magnitud-52-que-sacudio-hoy-a-panama/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/31/asi-se-vivio-el-fuerte-temblor-de-magnitud-52-que-sacudio-hoy-a-panama/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "179ca9c4d05a51144361736aeb450579",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/10/29/bukele-defiende-despliegue-de-2000-soldados-salvadorenos-en-haiti/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/10/29/bukele-defiende-despliegue-de-2000-soldados-salvadorenos-en-haiti/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5f4e1f33764a6468e9f8f8877ef27e61",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/03/el-poder-esta-en-juego-ee-uu-abre-las-urnas-en-una-eleccion-que-puede-cambiarlo-todo/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/03/el-poder-esta-en-juego-ee-uu-abre-las-urnas-en-una-eleccion-que-puede-cambiarlo-todo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "560c6fa2d020135f03c6aabc5e3296ab",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/mundo/2026/11/04/flavio-bolsonaro-reaparecera-en-evento-en-florida-tras-salir-de-brasil/",
+       "value": "https://www.eluniversal.com.co/mundo/2026/11/04/flavio-bolsonaro-reaparecera-en-evento-en-florida-tras-salir-de-brasil/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 0,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 1,
+     "fe09d3e4b629fe479bae0aafa1d40350": 1,
+     "db36bcd666affea00b2b9d7bbae33667": 0,
+     "d2e611db0da1099ec1240c9534019761": 1,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 0,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 0,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 1,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 0,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 0,
+     "414cf0b701df5f9e37096b448aae0f06": 0,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 0,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 0,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 0,
+     "179ca9c4d05a51144361736aeb450579": 0,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 0,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 0,
+     "fe09d3e4b629fe479bae0aafa1d40350": 0,
+     "db36bcd666affea00b2b9d7bbae33667": 1,
+     "d2e611db0da1099ec1240c9534019761": 0,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 1,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 1,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 0,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 0,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 0,
+     "414cf0b701df5f9e37096b448aae0f06": 0,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 0,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 2,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 0,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 0,
+     "179ca9c4d05a51144361736aeb450579": 0,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 1,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 0,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 0,
+     "fe09d3e4b629fe479bae0aafa1d40350": 0,
+     "db36bcd666affea00b2b9d7bbae33667": 0,
+     "d2e611db0da1099ec1240c9534019761": 0,
+     "7514714314a5c44754bb0015d6140bc7": 1,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 0,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 0,
+     "7c336c015204928a0758478e803907a7": 2,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 1,
+     "c610c736bba259e0086993128a010abb": 0,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 1,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 0,
+     "414cf0b701df5f9e37096b448aae0f06": 0,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 0,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 2,
+     "dd10dd5440a56754916d3645eddeedf8": 1,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 0,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 0,
+     "179ca9c4d05a51144361736aeb450579": 0,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 1,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 0,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 0,
+     "fe09d3e4b629fe479bae0aafa1d40350": 0,
+     "db36bcd666affea00b2b9d7bbae33667": 0,
+     "d2e611db0da1099ec1240c9534019761": 0,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 0,
+     "930ecb1f70534ba403c0965560a1f25b": 1,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 0,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 0,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 2,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 1,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 0,
+     "414cf0b701df5f9e37096b448aae0f06": 0,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 0,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 1,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 2,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 0,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 0,
+     "179ca9c4d05a51144361736aeb450579": 0,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 0,
+     "5a88926d81a967819a73285268d04d0b": 1,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 0,
+     "fe09d3e4b629fe479bae0aafa1d40350": 0,
+     "db36bcd666affea00b2b9d7bbae33667": 0,
+     "d2e611db0da1099ec1240c9534019761": 0,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 1,
+     "1e345cb83ad840370cf58d44ae8250b4": 0,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 0,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 0,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 2,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 2,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 1,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 0,
+     "414cf0b701df5f9e37096b448aae0f06": 0,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 0,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 0,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 0,
+     "179ca9c4d05a51144361736aeb450579": 0,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 0,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 0,
+     "fe09d3e4b629fe479bae0aafa1d40350": 0,
+     "db36bcd666affea00b2b9d7bbae33667": 0,
+     "d2e611db0da1099ec1240c9534019761": 0,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 0,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 0,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 0,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 0,
+     "414cf0b701df5f9e37096b448aae0f06": 0,
+     "84856ecce8a847f69aecf9f4b49e3915": 0,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 0,
+     "bd804ddecf96de41fac046f05ac828e2": 0,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 1,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 0,
+     "0807bb48180eb748c7a791b3e931fbf8": 0,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 0,
+     "179ca9c4d05a51144361736aeb450579": 0,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "15b3d710570a524db61cdb8cd7df3f08": 0,
+     "5a88926d81a967819a73285268d04d0b": 0,
+     "345b75b4b35ee1cf766e5ee3e8905ca6": 0,
+     "fe09d3e4b629fe479bae0aafa1d40350": 0,
+     "db36bcd666affea00b2b9d7bbae33667": 0,
+     "d2e611db0da1099ec1240c9534019761": 0,
+     "7514714314a5c44754bb0015d6140bc7": 0,
+     "0a30a049362674c2f0991ddc1ce09d23": 0,
+     "1e345cb83ad840370cf58d44ae8250b4": 0,
+     "930ecb1f70534ba403c0965560a1f25b": 0,
+     "d7642f47eeaa07d76754d3fec8b1d9f2": 0,
+     "ed6ce03116eb67ee9826d1e805d97bb4": 0,
+     "7c336c015204928a0758478e803907a7": 0,
+     "489250c7cc15b5812b0e1022d34c5603": 0,
+     "5d3093a389a771051e7972ebe51ff465": 0,
+     "c610c736bba259e0086993128a010abb": 0,
+     "946dcd0cf2661ace5369bc3c2fe0bdff": 0,
+     "debcc4bf4c86716bc8809e5824407932": 0,
+     "65e80200d63d5bc4d1c0a88697eb2ab5": 0,
+     "d578dad77b9eeba6b347912a7f56effc": 0,
+     "8d9f92455ee0df6d3385d2df801b8388": 0,
+     "77820fec69aa1920b0be614da8fd9483": 0,
+     "0166946c118f97f1fde243d1b3ae6a05": 0,
+     "eb861a1d601877587aa4c780474eccbd": 0,
+     "0b9b745f4b7227f8e37bc4d77213018e": 0,
+     "ef42396d5a68e872a567a8450b59464c": 0,
+     "1b1e1e0284e8f4f8d74a7fe67dd77628": 0,
+     "414cf0b701df5f9e37096b448aae0f06": 0,
+     "84856ecce8a847f69aecf9f4b49e3915": 1,
+     "b8e667ce1c4c2e5cd0ce7c3ff1a76076": 0,
+     "bd804ddecf96de41fac046f05ac828e2": 1,
+     "9a0db24474c51e31b37a28d12e5cc489": 0,
+     "ccfcb852064331cd0bee7a250c9f4c02": 0,
+     "34a522807c2f1fa4aa44ba02fa566123": 0,
+     "f1ab66f006815273621538e7924c428a": 0,
+     "23d0b157e4fc1a2e87c19de5c964d41c": 0,
+     "1bbc440d0b8a295d12f470a652aeaba5": 0,
+     "924e56dd21fff4281068a1e45f3a3a7c": 0,
+     "dd10dd5440a56754916d3645eddeedf8": 0,
+     "220c9061891c7037c6f714a3ca058b4d": 0,
+     "120a727302e295c3facee7c6ad2916f0": 0,
+     "83979bfb3c372f3dd27304baf3561c97": 0,
+     "b4323d49d69736a6596d0ed426e87a73": 0,
+     "d784eebb93786ec33c398b1e5c755ff5": 0,
+     "3c93f956a2aee0c9ae29bc6e15baf1af": 0,
+     "0807bb48180eb748c7a791b3e931fbf8": 1,
+     "c044ea4bbd152fa3d088660c6ba6ae10": 0,
+     "179ca9c4d05a51144361736aeb450579": 0,
+     "5f4e1f33764a6468e9f8f8877ef27e61": 0,
+     "560c6fa2d020135f03c6aabc5e3296ab": 0,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ }
+]

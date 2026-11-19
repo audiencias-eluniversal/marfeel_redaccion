@@ -1,0 +1,4250 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 400100,
+  "granularity": "daily",
+  "availableGranularities": [
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 400100,
+   "values": [
+    {
+     "key": "2862520377c41f5dfc5c4344083a7695",
+     "total": 35776,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/abren-convocatoria-docente-para-los-5-nuevos-megacolegios-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/abren-convocatoria-docente-para-los-5-nuevos-megacolegios-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d92c88c66e390e0975b11b1fa8f205ec",
+     "total": 31880,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/14/barrios-de-cartagena-que-no-tendran-agua-el-15-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/14/barrios-de-cartagena-que-no-tendran-agua-el-15-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "da54eb4e4ff11ae146c86a75ebb0fa29",
+     "total": 28324,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/11/mas-de-40-barrios-de-cartagena-estaran-sin-luz-este-lunes-12-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/11/mas-de-40-barrios-de-cartagena-estaran-sin-luz-este-lunes-12-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "310a7c423149a08e78b275ee4ffbf096",
+     "total": 19447,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/01/acuacar-detecta-fuga-tras-parada-tecnica-los-barrios-de-cartagena-que-estaran-sin-agua/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/01/acuacar-detecta-fuga-tras-parada-tecnica-los-barrios-de-cartagena-que-estaran-sin-agua/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "601f1d4b764a4b6495e81785e8ed46bf",
+     "total": 10679,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/04/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-5-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/04/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-5-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ac676d261d592358fec57a2d16bebc66",
+     "total": 9748,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/calendario-academico-2027-estas-serian-las-fechas-para-colegios-publicos-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/calendario-academico-2027-estas-serian-las-fechas-para-colegios-publicos-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ea00ab61716231f467acb373ac72984f",
+     "total": 7823,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/10/habra-racionamientos-por-el-fenomeno-de-el-nino-esto-dijo-aguas-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/10/habra-racionamientos-por-el-fenomeno-de-el-nino-esto-dijo-aguas-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e9a3c77f5fa93d1e63b40e173ef62d7c",
+     "total": 7727,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/barrios-de-cartagena-que-no-tendran-luz-el-sabado-3-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/barrios-de-cartagena-que-no-tendran-luz-el-sabado-3-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5542d31afcc25b037cc8ccd22d8564d0",
+     "total": 7345,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/12/estos-sectores-de-cartagena-estaran-sin-luz-este-martes-13-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/12/estos-sectores-de-cartagena-estaran-sin-luz-este-martes-13-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f6a27f80c562aa960e230591e98c4869",
+     "total": 7140,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/06/mas-de-100-maestros-de-bolivar-podran-estudiar-becados-en-la-udec-asi-funcionara/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/06/mas-de-100-maestros-de-bolivar-podran-estudiar-becados-en-la-udec-asi-funcionara/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bcfb5c1f8c99a0c422a4e2308a3c2aac",
+     "total": 7044,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/reparacion-de-tuberia-en-cartagena-entra-en-etapa-final-barrios-sin-agua-este-viernes/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/reparacion-de-tuberia-en-cartagena-entra-en-etapa-final-barrios-sin-agua-este-viernes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9393b6015a997b75243ea0fa5990f334",
+     "total": 6183,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/11/video-mujer-bailaba-sujetandose-de-una-estatua-en-cartagena-y-tuvo-un-final-inesperado/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/11/video-mujer-bailaba-sujetandose-de-una-estatua-en-cartagena-y-tuvo-un-final-inesperado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe813ae72c901b566068b3f10a7024b1",
+     "total": 5570,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/13/sectores-de-cartagena-que-estaran-sin-luz-el-miercoles-14-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/13/sectores-de-cartagena-que-estaran-sin-luz-el-miercoles-14-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "832c42b4ee55b5177285e7ae478fb418",
+     "total": 5563,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/consejo-de-estado-ratifica-fallo-que-ordena-reducir-las-tarifas-de-energia-en-el-caribe/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/consejo-de-estado-ratifica-fallo-que-ordena-reducir-las-tarifas-de-energia-en-el-caribe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5e2cd9708b68cbfce6957e3c8983be70",
+     "total": 5468,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9dc512ab9fde45bf9aaad46fe1b4d6f7",
+     "total": 5386,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/los-sectores-de-cartagena-que-estaran-sin-luz-el-martes-6-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/los-sectores-de-cartagena-que-estaran-sin-luz-el-martes-6-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4896cac429577e2b7245e857c0740013",
+     "total": 4881,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/10/juez-emite-sentido-de-fallo-condenatorio-por-fraude-en-predio-de-la-cordialidad/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/10/juez-emite-sentido-de-fallo-condenatorio-por-fraude-en-predio-de-la-cordialidad/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9dfdf9262512a8768649df1133bedcfb",
+     "total": 4875,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/los-barrios-de-cartagena-que-estaran-sin-luz-el-9-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/los-barrios-de-cartagena-que-estaran-sin-luz-el-9-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "507dec451a74b4bc2d67a88dbaa3e8e5",
+     "total": 4409,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/anuncian-marcha-en-cartagena-contra-el-gobierno-de-la-espriella-cuando-sera/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/anuncian-marcha-en-cartagena-contra-el-gobierno-de-la-espriella-cuando-sera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3e8d12bd5d70284bc2d78a831c592885",
+     "total": 4123,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/hoy-comienza-el-festival-del-patacon-en-cartagena-donde-y-a-que-hora/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/hoy-comienza-el-festival-del-patacon-en-cartagena-donde-y-a-que-hora/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b488ae874d4ccb7e8eae4beae6f2d512",
+     "total": 3876,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/13/asi-sera-el-recorrido-de-la-marcha-contra-el-gobierno-de-la-espriella-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/13/asi-sera-el-recorrido-de-la-marcha-contra-el-gobierno-de-la-espriella-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "227a13f779fe2c96c085e8651bb06d63",
+     "total": 3769,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/14/aplazan-inauguracion-de-la-primera-fase-del-gran-malecon-del-mar-esta-es-la-nueva-fecha/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/14/aplazan-inauguracion-de-la-primera-fase-del-gran-malecon-del-mar-esta-es-la-nueva-fecha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "57bc5a8740339f6d67118e5462373af1",
+     "total": 3385,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/29/saber-11-2026-los-7-mejores-puntajes-de-colegios-oficiales-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/29/saber-11-2026-los-7-mejores-puntajes-de-colegios-oficiales-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c0509d6c75cb0bf84783a84c2f61da18",
+     "total": 3340,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/16/cortes-de-luz-en-cartagena-del-sabado-17-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/16/cortes-de-luz-en-cartagena-del-sabado-17-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "226063d0fb5ae4867553d35e57e19938",
+     "total": 3247,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/el-barrio-de-cartagena-que-no-tendra-luz-el-sabado-10-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/el-barrio-de-cartagena-que-no-tendra-luz-el-sabado-10-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e69c4b3a99d0a8c4136dbe2764599aaf",
+     "total": 2896,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/14/en-fotos-marcha-contra-el-presidente-abelardo-de-la-espriella-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/14/en-fotos-marcha-contra-el-presidente-abelardo-de-la-espriella-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c3b14d8e1a0b4a9f53c94a3579a66cdf",
+     "total": 2867,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/2026/10/04/los-4-municipios-de-bolivar-que-estaran-sin-luz-el-lunes-5-de-octubre/",
+       "value": "https://www.eluniversal.com.co/regional/2026/10/04/los-4-municipios-de-bolivar-que-estaran-sin-luz-el-lunes-5-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "708574ced42d77cc602d6d1594f1a30b",
+     "total": 2734,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/30/pico-y-placa-en-cartagena-del-1-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/30/pico-y-placa-en-cartagena-del-1-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "27d667025365c469149e02f562fa45f7",
+     "total": 2727,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/03/un-municipio-de-bolivar-estara-sin-luz-este-domingo-4-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/03/un-municipio-de-bolivar-estara-sin-luz-este-domingo-4-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "48937b9c1ecda247cb5ae0b540025bcf",
+     "total": 2661,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/01/armada-inmovilizo-velero-en-el-que-estaban-mujer-y-sus-hijos-y-explico-los-motivos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/01/armada-inmovilizo-velero-en-el-que-estaban-mujer-y-sus-hijos-y-explico-los-motivos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d51bd3abe86a634fb6d62b8fe1ead7c6",
+     "total": 2567,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/07/los-municipios-de-bolivar-que-no-tendran-luz-el-jueves-8-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/07/los-municipios-de-bolivar-que-no-tendran-luz-el-jueves-8-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3b96bf80312a767388f7b4df487fbb6c",
+     "total": 2328,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/quien-controla-los-precios-de-las-lanchas-en-el-festival-nautico-de-cartagena-esto-responde-la-alcaldia/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/quien-controla-los-precios-de-las-lanchas-en-el-festival-nautico-de-cartagena-esto-responde-la-alcaldia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a79706e0a0ca4ddbfabfbb3344070693",
+     "total": 2266,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/detectan-conexion-ilegal-de-agua-en-membrillal-consumia-lo-de-250-familias/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/detectan-conexion-ilegal-de-agua-en-membrillal-consumia-lo-de-250-familias/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f29a7eb70394255002aacaef39afe455",
+     "total": 2230,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/12/se-va-la-luz-en-estos-2-municipios-de-bolivar-este-martes-13-de-octubre/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/12/se-va-la-luz-en-estos-2-municipios-de-bolivar-este-martes-13-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b715a803f1820afb8c5780e1c7bb2db9",
+     "total": 2211,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/aviario-nacional-celebra-10-anos-en-cartagena-con-entrada-gratis-este-domingo/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/aviario-nacional-celebra-10-anos-en-cartagena-con-entrada-gratis-este-domingo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b566868fa063913c6ffd7d932d629c43",
+     "total": 2172,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/13/municipios-de-bolivar-sin-luz-este-miercoles-14-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/13/municipios-de-bolivar-sin-luz-este-miercoles-14-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "202962a660ac50deb5885c9dc5ac3468",
+     "total": 2167,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/07/cartagena-bajo-fuertes-lluvias-una-onda-tropical-avanza-hacia-el-caribe/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/07/cartagena-bajo-fuertes-lluvias-una-onda-tropical-avanza-hacia-el-caribe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d2844df94f0251fc778bb185d6b70227",
+     "total": 2145,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/abren-preinscripciones-para-cupos-en-3-de-los-5-nuevos-megacolegios-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/abren-preinscripciones-para-cupos-en-3-de-los-5-nuevos-megacolegios-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1792cd5803cbb8ac53a32647e04f433a",
+     "total": 2132,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/05/los-municipios-de-bolivar-sin-luz-el-martes-6-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/05/los-municipios-de-bolivar-sin-luz-el-martes-6-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0be34207fd6c438abae9e7ed883ebbfb",
+     "total": 2117,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/02/los-dos-municipios-de-bolivar-que-estaran-sin-luz-el-3-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/02/los-dos-municipios-de-bolivar-que-estaran-sin-luz-el-3-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "09cac6ef9e15b4c8e0f2fe6b32f81e2a",
+     "total": 2099,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/dumek-turbay-ofrece-millonaria-recompensa-por-involucrados-en-atracos-en-manada/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/dumek-turbay-ofrece-millonaria-recompensa-por-involucrados-en-atracos-en-manada/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7a51530d52ff140c1f14ba7ed94438bd",
+     "total": 2089,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/llegan-los-32-nuevos-buses-de-transcaribe-traidos-desde-china/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/llegan-los-32-nuevos-buses-de-transcaribe-traidos-desde-china/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d83525521125a848bd35de1f05e4655e",
+     "total": 2052,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/30/cortes-de-luz-en-cartagena-barrios-afectados-el-1-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/30/cortes-de-luz-en-cartagena-barrios-afectados-el-1-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2ced25fdb0a8da4f29878ee73128b286",
+     "total": 2033,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/preludio-en-en-el-pozon-estos-son-los-cierres-viales-por-el-evento/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/preludio-en-en-el-pozon-estos-son-los-cierres-viales-por-el-evento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1cc3d466159b7fae5583c5e474e43952",
+     "total": 1917,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/lluvias-en-cartagena-este-lunes-5-de-octubre-conozca-a-que-hora-se-esperan/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/lluvias-en-cartagena-este-lunes-5-de-octubre-conozca-a-que-hora-se-esperan/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "15c696e8bf59b731f860a7a460d23916",
+     "total": 1896,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/04/asi-funcionara-el-pico-y-placa-en-cartagena-este-lunes-5-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/04/asi-funcionara-el-pico-y-placa-en-cartagena-este-lunes-5-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "609e1e994a436b1fc312656ba02177c9",
+     "total": 1891,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/en-fotos-comienza-la-segunda-edicion-del-festival-del-patacon-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/en-fotos-comienza-la-segunda-edicion-del-festival-del-patacon-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "004a0804383fe9bc4a71168103ab5699",
+     "total": 1865,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/15/estos-son-los-cierres-viales-en-cartagena-por-el-preludio-de-blas-de-lezo/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/15/estos-son-los-cierres-viales-en-cartagena-por-el-preludio-de-blas-de-lezo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "08a8a69ca4891ceb77d90ee4f8e2967b",
+     "total": 1861,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/07/este-es-el-plan-de-manejo-de-transito-para-el-gran-fondo-nairo-fest-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/07/este-es-el-plan-de-manejo-de-transito-para-el-gran-fondo-nairo-fest-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6af41b3a20f028f2e22cf54625ee3996",
+     "total": 1844,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/consejo-de-estado-niega-acciones-de-cumplimiento-contra-la-alcaldia-en-la-boquilla/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/consejo-de-estado-niega-acciones-de-cumplimiento-contra-la-alcaldia-en-la-boquilla/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 16911,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 1472,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 2122,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 1807,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 1933,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-01 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 4558,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 2290,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 4038,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 6740,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 2740,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 559,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 410,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 446,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 1484,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 992,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 1287,
+     "d83525521125a848bd35de1f05e4655e": 67,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 1086,
+     "label": "2026-10-02 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 10923,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 100,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 3088,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 175,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 1249,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 333,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 80,
+     "27d667025365c469149e02f562fa45f7": 932,
+     "48937b9c1ecda247cb5ae0b540025bcf": 113,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 486,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 928,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 612,
+     "d83525521125a848bd35de1f05e4655e": 10,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 455,
+     "label": "2026-10-03 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 9600,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 41,
+     "601f1d4b764a4b6495e81785e8ed46bf": 3666,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 513,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 36,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 603,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 197,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 875,
+     "708574ced42d77cc602d6d1594f1a30b": 38,
+     "27d667025365c469149e02f562fa45f7": 1591,
+     "48937b9c1ecda247cb5ae0b540025bcf": 40,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 118,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 57,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 81,
+     "d83525521125a848bd35de1f05e4655e": 25,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 654,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 142,
+     "label": "2026-10-04 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 5970,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 31,
+     "601f1d4b764a4b6495e81785e8ed46bf": 5787,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 39,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 34,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 576,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 2081,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 169,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 1902,
+     "708574ced42d77cc602d6d1594f1a30b": 34,
+     "27d667025365c469149e02f562fa45f7": 45,
+     "48937b9c1ecda247cb5ae0b540025bcf": 80,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 1543,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 40,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 1027,
+     "1792cd5803cbb8ac53a32647e04f433a": 1293,
+     "0be34207fd6c438abae9e7ed883ebbfb": 25,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 50,
+     "d83525521125a848bd35de1f05e4655e": 8,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 1818,
+     "15c696e8bf59b731f860a7a460d23916": 1116,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 63,
+     "label": "2026-10-05 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 2264,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 27,
+     "601f1d4b764a4b6495e81785e8ed46bf": 751,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 17,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 1786,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 11,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 101,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 2573,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 96,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 43,
+     "708574ced42d77cc602d6d1594f1a30b": 18,
+     "27d667025365c469149e02f562fa45f7": 35,
+     "48937b9c1ecda247cb5ae0b540025bcf": 50,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 523,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 32,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 701,
+     "1792cd5803cbb8ac53a32647e04f433a": 660,
+     "0be34207fd6c438abae9e7ed883ebbfb": 18,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 27,
+     "d83525521125a848bd35de1f05e4655e": 1,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 65,
+     "15c696e8bf59b731f860a7a460d23916": 84,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 28,
+     "label": "2026-10-06 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 1035,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 17,
+     "601f1d4b764a4b6495e81785e8ed46bf": 308,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 15,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 3469,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 6,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 51,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 140,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 82,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 24,
+     "708574ced42d77cc602d6d1594f1a30b": 12,
+     "27d667025365c469149e02f562fa45f7": 25,
+     "48937b9c1ecda247cb5ae0b540025bcf": 40,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 1144,
+     "3b96bf80312a767388f7b4df487fbb6c": 174,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 15,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 1898,
+     "d2844df94f0251fc778bb185d6b70227": 191,
+     "1792cd5803cbb8ac53a32647e04f433a": 53,
+     "0be34207fd6c438abae9e7ed883ebbfb": 17,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 8,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 14,
+     "15c696e8bf59b731f860a7a460d23916": 14,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 985,
+     "6af41b3a20f028f2e22cf54625ee3996": 20,
+     "label": "2026-10-07 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 513,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 17,
+     "601f1d4b764a4b6495e81785e8ed46bf": 111,
+     "ac676d261d592358fec57a2d16bebc66": 829,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 8,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 1056,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 26,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 1641,
+     "5e2cd9708b68cbfce6957e3c8983be70": 20,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 244,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 3035,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 81,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 13,
+     "708574ced42d77cc602d6d1594f1a30b": 4,
+     "27d667025365c469149e02f562fa45f7": 15,
+     "48937b9c1ecda247cb5ae0b540025bcf": 22,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 1229,
+     "3b96bf80312a767388f7b4df487fbb6c": 38,
+     "a79706e0a0ca4ddbfabfbb3344070693": 1429,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 13,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 164,
+     "d2844df94f0251fc778bb185d6b70227": 92,
+     "1792cd5803cbb8ac53a32647e04f433a": 34,
+     "0be34207fd6c438abae9e7ed883ebbfb": 17,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 4,
+     "d83525521125a848bd35de1f05e4655e": 2,
+     "2ced25fdb0a8da4f29878ee73128b286": 1221,
+     "1cc3d466159b7fae5583c5e474e43952": 9,
+     "15c696e8bf59b731f860a7a460d23916": 12,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 434,
+     "6af41b3a20f028f2e22cf54625ee3996": 7,
+     "label": "2026-10-08 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 303,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 3,
+     "601f1d4b764a4b6495e81785e8ed46bf": 22,
+     "ac676d261d592358fec57a2d16bebc66": 3313,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 5,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 428,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 7,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 310,
+     "5e2cd9708b68cbfce6957e3c8983be70": 5,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 281,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 1664,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 1866,
+     "3e8d12bd5d70284bc2d78a831c592885": 3427,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 95,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 1973,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 4,
+     "708574ced42d77cc602d6d1594f1a30b": 2,
+     "27d667025365c469149e02f562fa45f7": 18,
+     "48937b9c1ecda247cb5ae0b540025bcf": 11,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 67,
+     "3b96bf80312a767388f7b4df487fbb6c": 20,
+     "a79706e0a0ca4ddbfabfbb3344070693": 624,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 8,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 23,
+     "d2844df94f0251fc778bb185d6b70227": 30,
+     "1792cd5803cbb8ac53a32647e04f433a": 22,
+     "0be34207fd6c438abae9e7ed883ebbfb": 17,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 1197,
+     "7a51530d52ff140c1f14ba7ed94438bd": 5,
+     "d83525521125a848bd35de1f05e4655e": 1,
+     "2ced25fdb0a8da4f29878ee73128b286": 753,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 5,
+     "609e1e994a436b1fc312656ba02177c9": 1026,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 181,
+     "6af41b3a20f028f2e22cf54625ee3996": 5,
+     "label": "2026-10-09 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 181,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 1,
+     "601f1d4b764a4b6495e81785e8ed46bf": 9,
+     "ac676d261d592358fec57a2d16bebc66": 2247,
+     "ea00ab61716231f467acb373ac72984f": 3592,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 1,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 168,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 3,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 1116,
+     "5e2cd9708b68cbfce6957e3c8983be70": 8,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 37,
+     "4896cac429577e2b7245e857c0740013": 3187,
+     "9dfdf9262512a8768649df1133bedcfb": 75,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 1491,
+     "3e8d12bd5d70284bc2d78a831c592885": 546,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 75,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 1198,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 1,
+     "708574ced42d77cc602d6d1594f1a30b": 1,
+     "27d667025365c469149e02f562fa45f7": 16,
+     "48937b9c1ecda247cb5ae0b540025bcf": 2,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 24,
+     "3b96bf80312a767388f7b4df487fbb6c": 9,
+     "a79706e0a0ca4ddbfabfbb3344070693": 106,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 3,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 18,
+     "d2844df94f0251fc778bb185d6b70227": 12,
+     "1792cd5803cbb8ac53a32647e04f433a": 12,
+     "0be34207fd6c438abae9e7ed883ebbfb": 13,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 192,
+     "7a51530d52ff140c1f14ba7ed94438bd": 5,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 19,
+     "1cc3d466159b7fae5583c5e474e43952": 3,
+     "15c696e8bf59b731f860a7a460d23916": 3,
+     "609e1e994a436b1fc312656ba02177c9": 617,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 148,
+     "6af41b3a20f028f2e22cf54625ee3996": 4,
+     "label": "2026-10-10 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 90,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 17539,
+     "310a7c423149a08e78b275ee4ffbf096": 2,
+     "601f1d4b764a4b6495e81785e8ed46bf": 9,
+     "ac676d261d592358fec57a2d16bebc66": 1953,
+     "ea00ab61716231f467acb373ac72984f": 3372,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 1,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 88,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 4262,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 1943,
+     "5e2cd9708b68cbfce6957e3c8983be70": 3,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 11,
+     "4896cac429577e2b7245e857c0740013": 1461,
+     "9dfdf9262512a8768649df1133bedcfb": 50,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 254,
+     "3e8d12bd5d70284bc2d78a831c592885": 90,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 70,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 59,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 4,
+     "708574ced42d77cc602d6d1594f1a30b": 3,
+     "27d667025365c469149e02f562fa45f7": 11,
+     "48937b9c1ecda247cb5ae0b540025bcf": 18,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 18,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 50,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 8,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 16,
+     "d2844df94f0251fc778bb185d6b70227": 7,
+     "1792cd5803cbb8ac53a32647e04f433a": 18,
+     "0be34207fd6c438abae9e7ed883ebbfb": 10,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 42,
+     "7a51530d52ff140c1f14ba7ed94438bd": 2,
+     "d83525521125a848bd35de1f05e4655e": 1,
+     "2ced25fdb0a8da4f29878ee73128b286": 20,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 2,
+     "609e1e994a436b1fc312656ba02177c9": 188,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 90,
+     "6af41b3a20f028f2e22cf54625ee3996": 5,
+     "label": "2026-10-11 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 83,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 10294,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 17,
+     "ac676d261d592358fec57a2d16bebc66": 706,
+     "ea00ab61716231f467acb373ac72984f": 567,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 3,
+     "5542d31afcc25b037cc8ccd22d8564d0": 3840,
+     "f6a27f80c562aa960e230591e98c4869": 74,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 1406,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 291,
+     "5e2cd9708b68cbfce6957e3c8983be70": 12,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 10,
+     "4896cac429577e2b7245e857c0740013": 157,
+     "9dfdf9262512a8768649df1133bedcfb": 28,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 132,
+     "3e8d12bd5d70284bc2d78a831c592885": 29,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 46,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 10,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 1,
+     "708574ced42d77cc602d6d1594f1a30b": 4,
+     "27d667025365c469149e02f562fa45f7": 17,
+     "48937b9c1ecda247cb5ae0b540025bcf": 1,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 20,
+     "3b96bf80312a767388f7b4df487fbb6c": 7,
+     "a79706e0a0ca4ddbfabfbb3344070693": 28,
+     "f29a7eb70394255002aacaef39afe455": 891,
+     "b715a803f1820afb8c5780e1c7bb2db9": 1,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 13,
+     "d2844df94f0251fc778bb185d6b70227": 10,
+     "1792cd5803cbb8ac53a32647e04f433a": 15,
+     "0be34207fd6c438abae9e7ed883ebbfb": 15,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 77,
+     "7a51530d52ff140c1f14ba7ed94438bd": 3,
+     "d83525521125a848bd35de1f05e4655e": 4,
+     "2ced25fdb0a8da4f29878ee73128b286": 2,
+     "1cc3d466159b7fae5583c5e474e43952": 1,
+     "15c696e8bf59b731f860a7a460d23916": 2,
+     "609e1e994a436b1fc312656ba02177c9": 37,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 14,
+     "6af41b3a20f028f2e22cf54625ee3996": 5,
+     "label": "2026-10-12 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 68,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 302,
+     "310a7c423149a08e78b275ee4ffbf096": 5,
+     "601f1d4b764a4b6495e81785e8ed46bf": 2,
+     "ac676d261d592358fec57a2d16bebc66": 373,
+     "ea00ab61716231f467acb373ac72984f": 180,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 1,
+     "5542d31afcc25b037cc8ccd22d8564d0": 3419,
+     "f6a27f80c562aa960e230591e98c4869": 50,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 352,
+     "fe813ae72c901b566068b3f10a7024b1": 3303,
+     "832c42b4ee55b5177285e7ae478fb418": 144,
+     "5e2cd9708b68cbfce6957e3c8983be70": 24,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 6,
+     "4896cac429577e2b7245e857c0740013": 49,
+     "9dfdf9262512a8768649df1133bedcfb": 7,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 592,
+     "3e8d12bd5d70284bc2d78a831c592885": 14,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 2715,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 33,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 5,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 1,
+     "708574ced42d77cc602d6d1594f1a30b": 4,
+     "27d667025365c469149e02f562fa45f7": 16,
+     "48937b9c1ecda247cb5ae0b540025bcf": 8,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 21,
+     "3b96bf80312a767388f7b4df487fbb6c": 4,
+     "a79706e0a0ca4ddbfabfbb3344070693": 13,
+     "f29a7eb70394255002aacaef39afe455": 1241,
+     "b715a803f1820afb8c5780e1c7bb2db9": 1,
+     "b566868fa063913c6ffd7d932d629c43": 1353,
+     "202962a660ac50deb5885c9dc5ac3468": 16,
+     "d2844df94f0251fc778bb185d6b70227": 16,
+     "1792cd5803cbb8ac53a32647e04f433a": 17,
+     "0be34207fd6c438abae9e7ed883ebbfb": 6,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 195,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 5,
+     "1cc3d466159b7fae5583c5e474e43952": 1,
+     "15c696e8bf59b731f860a7a460d23916": 1,
+     "609e1e994a436b1fc312656ba02177c9": 16,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 5,
+     "6af41b3a20f028f2e22cf54625ee3996": 4,
+     "label": "2026-10-13 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 88,
+     "d92c88c66e390e0975b11b1fa8f205ec": 18955,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 135,
+     "310a7c423149a08e78b275ee4ffbf096": 3,
+     "601f1d4b764a4b6495e81785e8ed46bf": 3,
+     "ac676d261d592358fec57a2d16bebc66": 194,
+     "ea00ab61716231f467acb373ac72984f": 80,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 65,
+     "f6a27f80c562aa960e230591e98c4869": 21,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 3,
+     "9393b6015a997b75243ea0fa5990f334": 95,
+     "fe813ae72c901b566068b3f10a7024b1": 2169,
+     "832c42b4ee55b5177285e7ae478fb418": 62,
+     "5e2cd9708b68cbfce6957e3c8983be70": 24,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 13,
+     "9dfdf9262512a8768649df1133bedcfb": 6,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 69,
+     "3e8d12bd5d70284bc2d78a831c592885": 7,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 1128,
+     "227a13f779fe2c96c085e8651bb06d63": 2834,
+     "57bc5a8740339f6d67118e5462373af1": 24,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 1,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 2184,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 1,
+     "27d667025365c469149e02f562fa45f7": 6,
+     "48937b9c1ecda247cb5ae0b540025bcf": 16,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 17,
+     "3b96bf80312a767388f7b4df487fbb6c": 1,
+     "a79706e0a0ca4ddbfabfbb3344070693": 10,
+     "f29a7eb70394255002aacaef39afe455": 60,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 729,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 18,
+     "1792cd5803cbb8ac53a32647e04f433a": 8,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 150,
+     "7a51530d52ff140c1f14ba7ed94438bd": 2,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 4,
+     "1cc3d466159b7fae5583c5e474e43952": 5,
+     "15c696e8bf59b731f860a7a460d23916": 3,
+     "609e1e994a436b1fc312656ba02177c9": 6,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 1,
+     "6af41b3a20f028f2e22cf54625ee3996": 3,
+     "label": "2026-10-14 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 57,
+     "d92c88c66e390e0975b11b1fa8f205ec": 11655,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 57,
+     "310a7c423149a08e78b275ee4ffbf096": 4,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 104,
+     "ea00ab61716231f467acb373ac72984f": 12,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 21,
+     "f6a27f80c562aa960e230591e98c4869": 1,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 3,
+     "9393b6015a997b75243ea0fa5990f334": 45,
+     "fe813ae72c901b566068b3f10a7024b1": 72,
+     "832c42b4ee55b5177285e7ae478fb418": 53,
+     "5e2cd9708b68cbfce6957e3c8983be70": 30,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 1,
+     "4896cac429577e2b7245e857c0740013": 6,
+     "9dfdf9262512a8768649df1133bedcfb": 9,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 3,
+     "3e8d12bd5d70284bc2d78a831c592885": 7,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 25,
+     "227a13f779fe2c96c085e8651bb06d63": 758,
+     "57bc5a8740339f6d67118e5462373af1": 36,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 1,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 625,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 1,
+     "708574ced42d77cc602d6d1594f1a30b": 2,
+     "27d667025365c469149e02f562fa45f7": 1,
+     "48937b9c1ecda247cb5ae0b540025bcf": 4,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 16,
+     "3b96bf80312a767388f7b4df487fbb6c": 4,
+     "a79706e0a0ca4ddbfabfbb3344070693": 4,
+     "f29a7eb70394255002aacaef39afe455": 20,
+     "b715a803f1820afb8c5780e1c7bb2db9": 2,
+     "b566868fa063913c6ffd7d932d629c43": 56,
+     "202962a660ac50deb5885c9dc5ac3468": 12,
+     "d2844df94f0251fc778bb185d6b70227": 23,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 2,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 133,
+     "7a51530d52ff140c1f14ba7ed94438bd": 3,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 8,
+     "1cc3d466159b7fae5583c5e474e43952": 1,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 1,
+     "004a0804383fe9bc4a71168103ab5699": 1091,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 2,
+     "6af41b3a20f028f2e22cf54625ee3996": 7,
+     "label": "2026-10-15 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 56,
+     "d92c88c66e390e0975b11b1fa8f205ec": 1291,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 36,
+     "310a7c423149a08e78b275ee4ffbf096": 3,
+     "601f1d4b764a4b6495e81785e8ed46bf": 1,
+     "ac676d261d592358fec57a2d16bebc66": 36,
+     "ea00ab61716231f467acb373ac72984f": 23,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 3,
+     "5542d31afcc25b037cc8ccd22d8564d0": 6,
+     "f6a27f80c562aa960e230591e98c4869": 3,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 24,
+     "fe813ae72c901b566068b3f10a7024b1": 30,
+     "832c42b4ee55b5177285e7ae478fb418": 7,
+     "5e2cd9708b68cbfce6957e3c8983be70": 27,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 3,
+     "4896cac429577e2b7245e857c0740013": 8,
+     "9dfdf9262512a8768649df1133bedcfb": 1,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 5,
+     "3e8d12bd5d70284bc2d78a831c592885": 4,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 8,
+     "227a13f779fe2c96c085e8651bb06d63": 177,
+     "57bc5a8740339f6d67118e5462373af1": 20,
+     "c0509d6c75cb0bf84783a84c2f61da18": 3340,
+     "226063d0fb5ae4867553d35e57e19938": 1,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 88,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 1,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 5,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 11,
+     "3b96bf80312a767388f7b4df487fbb6c": 5,
+     "a79706e0a0ca4ddbfabfbb3344070693": 3,
+     "f29a7eb70394255002aacaef39afe455": 18,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 35,
+     "202962a660ac50deb5885c9dc5ac3468": 8,
+     "d2844df94f0251fc778bb185d6b70227": 18,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 113,
+     "7a51530d52ff140c1f14ba7ed94438bd": 1,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 2,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 4,
+     "004a0804383fe9bc4a71168103ab5699": 774,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 1,
+     "6af41b3a20f028f2e22cf54625ee3996": 11,
+     "label": "2026-10-16 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 93.57,
+  "granularity": "daily",
+  "availableGranularities": [
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 93.57,
+   "values": [
+    {
+     "key": "2862520377c41f5dfc5c4344083a7695",
+     "total": 100.81,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/abren-convocatoria-docente-para-los-5-nuevos-megacolegios-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/abren-convocatoria-docente-para-los-5-nuevos-megacolegios-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d92c88c66e390e0975b11b1fa8f205ec",
+     "total": 52.05,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/14/barrios-de-cartagena-que-no-tendran-agua-el-15-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/14/barrios-de-cartagena-que-no-tendran-agua-el-15-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "da54eb4e4ff11ae146c86a75ebb0fa29",
+     "total": 103.07,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/11/mas-de-40-barrios-de-cartagena-estaran-sin-luz-este-lunes-12-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/11/mas-de-40-barrios-de-cartagena-estaran-sin-luz-este-lunes-12-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "310a7c423149a08e78b275ee4ffbf096",
+     "total": 114.31,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/01/acuacar-detecta-fuga-tras-parada-tecnica-los-barrios-de-cartagena-que-estaran-sin-agua/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/01/acuacar-detecta-fuga-tras-parada-tecnica-los-barrios-de-cartagena-que-estaran-sin-agua/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "601f1d4b764a4b6495e81785e8ed46bf",
+     "total": 73.05,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/04/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-5-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/04/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-5-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ac676d261d592358fec57a2d16bebc66",
+     "total": 113.36,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/calendario-academico-2027-estas-serian-las-fechas-para-colegios-publicos-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/calendario-academico-2027-estas-serian-las-fechas-para-colegios-publicos-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ea00ab61716231f467acb373ac72984f",
+     "total": 70.43,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/10/habra-racionamientos-por-el-fenomeno-de-el-nino-esto-dijo-aguas-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/10/habra-racionamientos-por-el-fenomeno-de-el-nino-esto-dijo-aguas-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e9a3c77f5fa93d1e63b40e173ef62d7c",
+     "total": 51.09,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/barrios-de-cartagena-que-no-tendran-luz-el-sabado-3-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/barrios-de-cartagena-que-no-tendran-luz-el-sabado-3-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5542d31afcc25b037cc8ccd22d8564d0",
+     "total": 69.57,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/12/estos-sectores-de-cartagena-estaran-sin-luz-este-martes-13-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/12/estos-sectores-de-cartagena-estaran-sin-luz-este-martes-13-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f6a27f80c562aa960e230591e98c4869",
+     "total": 99.07,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/06/mas-de-100-maestros-de-bolivar-podran-estudiar-becados-en-la-udec-asi-funcionara/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/06/mas-de-100-maestros-de-bolivar-podran-estudiar-becados-en-la-udec-asi-funcionara/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bcfb5c1f8c99a0c422a4e2308a3c2aac",
+     "total": 111.38,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/reparacion-de-tuberia-en-cartagena-entra-en-etapa-final-barrios-sin-agua-este-viernes/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/reparacion-de-tuberia-en-cartagena-entra-en-etapa-final-barrios-sin-agua-este-viernes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9393b6015a997b75243ea0fa5990f334",
+     "total": 102.71,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/11/video-mujer-bailaba-sujetandose-de-una-estatua-en-cartagena-y-tuvo-un-final-inesperado/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/11/video-mujer-bailaba-sujetandose-de-una-estatua-en-cartagena-y-tuvo-un-final-inesperado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe813ae72c901b566068b3f10a7024b1",
+     "total": 53.95,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/13/sectores-de-cartagena-que-estaran-sin-luz-el-miercoles-14-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/13/sectores-de-cartagena-que-estaran-sin-luz-el-miercoles-14-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "832c42b4ee55b5177285e7ae478fb418",
+     "total": 121.13,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/consejo-de-estado-ratifica-fallo-que-ordena-reducir-las-tarifas-de-energia-en-el-caribe/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/consejo-de-estado-ratifica-fallo-que-ordena-reducir-las-tarifas-de-energia-en-el-caribe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5e2cd9708b68cbfce6957e3c8983be70",
+     "total": 99.22,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9dc512ab9fde45bf9aaad46fe1b4d6f7",
+     "total": 56.61,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/los-sectores-de-cartagena-que-estaran-sin-luz-el-martes-6-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/los-sectores-de-cartagena-que-estaran-sin-luz-el-martes-6-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4896cac429577e2b7245e857c0740013",
+     "total": 78.29,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/10/juez-emite-sentido-de-fallo-condenatorio-por-fraude-en-predio-de-la-cordialidad/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/10/juez-emite-sentido-de-fallo-condenatorio-por-fraude-en-predio-de-la-cordialidad/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9dfdf9262512a8768649df1133bedcfb",
+     "total": 57.36,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/los-barrios-de-cartagena-que-estaran-sin-luz-el-9-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/los-barrios-de-cartagena-que-estaran-sin-luz-el-9-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "507dec451a74b4bc2d67a88dbaa3e8e5",
+     "total": 128.14,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/anuncian-marcha-en-cartagena-contra-el-gobierno-de-la-espriella-cuando-sera/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/anuncian-marcha-en-cartagena-contra-el-gobierno-de-la-espriella-cuando-sera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3e8d12bd5d70284bc2d78a831c592885",
+     "total": 100.06,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/hoy-comienza-el-festival-del-patacon-en-cartagena-donde-y-a-que-hora/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/hoy-comienza-el-festival-del-patacon-en-cartagena-donde-y-a-que-hora/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b488ae874d4ccb7e8eae4beae6f2d512",
+     "total": 127.42,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/13/asi-sera-el-recorrido-de-la-marcha-contra-el-gobierno-de-la-espriella-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/13/asi-sera-el-recorrido-de-la-marcha-contra-el-gobierno-de-la-espriella-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "227a13f779fe2c96c085e8651bb06d63",
+     "total": 129.03,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/14/aplazan-inauguracion-de-la-primera-fase-del-gran-malecon-del-mar-esta-es-la-nueva-fecha/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/14/aplazan-inauguracion-de-la-primera-fase-del-gran-malecon-del-mar-esta-es-la-nueva-fecha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "57bc5a8740339f6d67118e5462373af1",
+     "total": 75.8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/29/saber-11-2026-los-7-mejores-puntajes-de-colegios-oficiales-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/29/saber-11-2026-los-7-mejores-puntajes-de-colegios-oficiales-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c0509d6c75cb0bf84783a84c2f61da18",
+     "total": 51.1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/16/cortes-de-luz-en-cartagena-del-sabado-17-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/16/cortes-de-luz-en-cartagena-del-sabado-17-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "226063d0fb5ae4867553d35e57e19938",
+     "total": 48.54,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/el-barrio-de-cartagena-que-no-tendra-luz-el-sabado-10-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/el-barrio-de-cartagena-que-no-tendra-luz-el-sabado-10-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e69c4b3a99d0a8c4136dbe2764599aaf",
+     "total": 101.77,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/14/en-fotos-marcha-contra-el-presidente-abelardo-de-la-espriella-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/14/en-fotos-marcha-contra-el-presidente-abelardo-de-la-espriella-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c3b14d8e1a0b4a9f53c94a3579a66cdf",
+     "total": 51.35,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/2026/10/04/los-4-municipios-de-bolivar-que-estaran-sin-luz-el-lunes-5-de-octubre/",
+       "value": "https://www.eluniversal.com.co/regional/2026/10/04/los-4-municipios-de-bolivar-que-estaran-sin-luz-el-lunes-5-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "708574ced42d77cc602d6d1594f1a30b",
+     "total": 80.05,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/30/pico-y-placa-en-cartagena-del-1-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/30/pico-y-placa-en-cartagena-del-1-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "27d667025365c469149e02f562fa45f7",
+     "total": 53.17,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/03/un-municipio-de-bolivar-estara-sin-luz-este-domingo-4-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/03/un-municipio-de-bolivar-estara-sin-luz-este-domingo-4-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "48937b9c1ecda247cb5ae0b540025bcf",
+     "total": 155.77,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/01/armada-inmovilizo-velero-en-el-que-estaban-mujer-y-sus-hijos-y-explico-los-motivos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/01/armada-inmovilizo-velero-en-el-que-estaban-mujer-y-sus-hijos-y-explico-los-motivos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d51bd3abe86a634fb6d62b8fe1ead7c6",
+     "total": 51.7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/07/los-municipios-de-bolivar-que-no-tendran-luz-el-jueves-8-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/07/los-municipios-de-bolivar-que-no-tendran-luz-el-jueves-8-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3b96bf80312a767388f7b4df487fbb6c",
+     "total": 154.27,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/quien-controla-los-precios-de-las-lanchas-en-el-festival-nautico-de-cartagena-esto-responde-la-alcaldia/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/quien-controla-los-precios-de-las-lanchas-en-el-festival-nautico-de-cartagena-esto-responde-la-alcaldia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a79706e0a0ca4ddbfabfbb3344070693",
+     "total": 112.87,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/detectan-conexion-ilegal-de-agua-en-membrillal-consumia-lo-de-250-familias/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/detectan-conexion-ilegal-de-agua-en-membrillal-consumia-lo-de-250-familias/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f29a7eb70394255002aacaef39afe455",
+     "total": 45.14,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/12/se-va-la-luz-en-estos-2-municipios-de-bolivar-este-martes-13-de-octubre/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/12/se-va-la-luz-en-estos-2-municipios-de-bolivar-este-martes-13-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b715a803f1820afb8c5780e1c7bb2db9",
+     "total": 106.59,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/aviario-nacional-celebra-10-anos-en-cartagena-con-entrada-gratis-este-domingo/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/aviario-nacional-celebra-10-anos-en-cartagena-con-entrada-gratis-este-domingo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b566868fa063913c6ffd7d932d629c43",
+     "total": 56.9,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/13/municipios-de-bolivar-sin-luz-este-miercoles-14-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/13/municipios-de-bolivar-sin-luz-este-miercoles-14-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "202962a660ac50deb5885c9dc5ac3468",
+     "total": 98.41,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/07/cartagena-bajo-fuertes-lluvias-una-onda-tropical-avanza-hacia-el-caribe/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/07/cartagena-bajo-fuertes-lluvias-una-onda-tropical-avanza-hacia-el-caribe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d2844df94f0251fc778bb185d6b70227",
+     "total": 99.91,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/abren-preinscripciones-para-cupos-en-3-de-los-5-nuevos-megacolegios-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/abren-preinscripciones-para-cupos-en-3-de-los-5-nuevos-megacolegios-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1792cd5803cbb8ac53a32647e04f433a",
+     "total": 51.22,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/05/los-municipios-de-bolivar-sin-luz-el-martes-6-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/05/los-municipios-de-bolivar-sin-luz-el-martes-6-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0be34207fd6c438abae9e7ed883ebbfb",
+     "total": 46.59,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/02/los-dos-municipios-de-bolivar-que-estaran-sin-luz-el-3-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/02/los-dos-municipios-de-bolivar-que-estaran-sin-luz-el-3-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "09cac6ef9e15b4c8e0f2fe6b32f81e2a",
+     "total": 120.93,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/dumek-turbay-ofrece-millonaria-recompensa-por-involucrados-en-atracos-en-manada/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/dumek-turbay-ofrece-millonaria-recompensa-por-involucrados-en-atracos-en-manada/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7a51530d52ff140c1f14ba7ed94438bd",
+     "total": 125.74,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/llegan-los-32-nuevos-buses-de-transcaribe-traidos-desde-china/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/llegan-los-32-nuevos-buses-de-transcaribe-traidos-desde-china/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d83525521125a848bd35de1f05e4655e",
+     "total": 65.19,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/30/cortes-de-luz-en-cartagena-barrios-afectados-el-1-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/30/cortes-de-luz-en-cartagena-barrios-afectados-el-1-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2ced25fdb0a8da4f29878ee73128b286",
+     "total": 102.82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/preludio-en-en-el-pozon-estos-son-los-cierres-viales-por-el-evento/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/preludio-en-en-el-pozon-estos-son-los-cierres-viales-por-el-evento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1cc3d466159b7fae5583c5e474e43952",
+     "total": 91.34,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/lluvias-en-cartagena-este-lunes-5-de-octubre-conozca-a-que-hora-se-esperan/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/lluvias-en-cartagena-este-lunes-5-de-octubre-conozca-a-que-hora-se-esperan/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "15c696e8bf59b731f860a7a460d23916",
+     "total": 82.2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/04/asi-funcionara-el-pico-y-placa-en-cartagena-este-lunes-5-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/04/asi-funcionara-el-pico-y-placa-en-cartagena-este-lunes-5-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "609e1e994a436b1fc312656ba02177c9",
+     "total": 87.01,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/en-fotos-comienza-la-segunda-edicion-del-festival-del-patacon-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/en-fotos-comienza-la-segunda-edicion-del-festival-del-patacon-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "004a0804383fe9bc4a71168103ab5699",
+     "total": 93.65,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/15/estos-son-los-cierres-viales-en-cartagena-por-el-preludio-de-blas-de-lezo/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/15/estos-son-los-cierres-viales-en-cartagena-por-el-preludio-de-blas-de-lezo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "08a8a69ca4891ceb77d90ee4f8e2967b",
+     "total": 169.86,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/07/este-es-el-plan-de-manejo-de-transito-para-el-gran-fondo-nairo-fest-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/07/este-es-el-plan-de-manejo-de-transito-para-el-gran-fondo-nairo-fest-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6af41b3a20f028f2e22cf54625ee3996",
+     "total": 110.1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/consejo-de-estado-niega-acciones-de-cumplimiento-contra-la-alcaldia-en-la-boquilla/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/consejo-de-estado-niega-acciones-de-cumplimiento-contra-la-alcaldia-en-la-boquilla/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 119.93,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 76.78,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 81.94,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 156.86,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 65.43,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-01 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 109.15,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 72.51,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 50.45,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 113.56,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 101.52,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 80.92,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 68.06,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 147.47,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 115.01,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 47.19,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 120.34,
+     "d83525521125a848bd35de1f05e4655e": 41.08,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 104.47,
+     "label": "2026-10-02 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 99.51,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 76.29,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 51.13,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 52.95,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 104.39,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 77.67,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 59.62,
+     "27d667025365c469149e02f562fa45f7": 56.23,
+     "48937b9c1ecda247cb5ae0b540025bcf": 187.3,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 93.3,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 50.17,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 127.77,
+     "d83525521125a848bd35de1f05e4655e": 249.4,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 120.54,
+     "label": "2026-10-03 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 90.75,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 111.58,
+     "601f1d4b764a4b6495e81785e8ed46bf": 79.47,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 46.91,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 29.58,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 86.21,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 79.83,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 57.65,
+     "708574ced42d77cc602d6d1594f1a30b": 86.15,
+     "27d667025365c469149e02f562fa45f7": 54.04,
+     "48937b9c1ecda247cb5ae0b540025bcf": 131.89,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 87.21,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 37.75,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 79.29,
+     "d83525521125a848bd35de1f05e4655e": 58.4,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 80.8,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 92.91,
+     "label": "2026-10-04 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 99.55,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 52.98,
+     "601f1d4b764a4b6495e81785e8ed46bf": 71.22,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 107.54,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 27.23,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 96.93,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 58.84,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 77.4,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 48.81,
+     "708574ced42d77cc602d6d1594f1a30b": 109.38,
+     "27d667025365c469149e02f562fa45f7": 80.26,
+     "48937b9c1ecda247cb5ae0b540025bcf": 156.25,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 164.35,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 76.86,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 103.29,
+     "1792cd5803cbb8ac53a32647e04f433a": 50.24,
+     "0be34207fd6c438abae9e7ed883ebbfb": 49,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 227.59,
+     "d83525521125a848bd35de1f05e4655e": 23.92,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 91.29,
+     "15c696e8bf59b731f860a7a460d23916": 86.13,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 142.75,
+     "label": "2026-10-05 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 105.76,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 44.41,
+     "601f1d4b764a4b6495e81785e8ed46bf": 62.87,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 46.21,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 109.26,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 26.95,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 77.89,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 59.96,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 84.69,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 39.09,
+     "708574ced42d77cc602d6d1594f1a30b": 44.73,
+     "27d667025365c469149e02f562fa45f7": 23.34,
+     "48937b9c1ecda247cb5ae0b540025bcf": 187.91,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 141.06,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 117.68,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 84.23,
+     "1792cd5803cbb8ac53a32647e04f433a": 61.75,
+     "0be34207fd6c438abae9e7ed883ebbfb": 15.33,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 184.48,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 124.98,
+     "15c696e8bf59b731f860a7a460d23916": 44.1,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 126.22,
+     "label": "2026-10-06 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 101.28,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 178.46,
+     "601f1d4b764a4b6495e81785e8ed46bf": 73.69,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 101.2,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 94.77,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0.17,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 82.4,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 40.23,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 96.31,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 13.13,
+     "708574ced42d77cc602d6d1594f1a30b": 158.82,
+     "27d667025365c469149e02f562fa45f7": 29.06,
+     "48937b9c1ecda247cb5ae0b540025bcf": 118.08,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 52.19,
+     "3b96bf80312a767388f7b4df487fbb6c": 129.26,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 31.12,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 101.52,
+     "d2844df94f0251fc778bb185d6b70227": 85.55,
+     "1792cd5803cbb8ac53a32647e04f433a": 40.58,
+     "0be34207fd6c438abae9e7ed883ebbfb": 10.52,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 64.77,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 32.77,
+     "15c696e8bf59b731f860a7a460d23916": 20.91,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 170.42,
+     "6af41b3a20f028f2e22cf54625ee3996": 105.13,
+     "label": "2026-10-07 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 152.3,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 102.29,
+     "601f1d4b764a4b6495e81785e8ed46bf": 40.98,
+     "ac676d261d592358fec57a2d16bebc66": 116.41,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 20.13,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 99.85,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 72.82,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 116.85,
+     "5e2cd9708b68cbfce6957e3c8983be70": 232.83,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 33.67,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 58.19,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 80.09,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 38.64,
+     "708574ced42d77cc602d6d1594f1a30b": 375.55,
+     "27d667025365c469149e02f562fa45f7": 10.17,
+     "48937b9c1ecda247cb5ae0b540025bcf": 117.25,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 51.89,
+     "3b96bf80312a767388f7b4df487fbb6c": 95.04,
+     "a79706e0a0ca4ddbfabfbb3344070693": 121.13,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 61.45,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 88.62,
+     "d2844df94f0251fc778bb185d6b70227": 107.37,
+     "1792cd5803cbb8ac53a32647e04f433a": 12.55,
+     "0be34207fd6c438abae9e7ed883ebbfb": 10.03,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 186.83,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 104.35,
+     "1cc3d466159b7fae5583c5e474e43952": 23.56,
+     "15c696e8bf59b731f860a7a460d23916": 7.76,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 198.5,
+     "6af41b3a20f028f2e22cf54625ee3996": 207.67,
+     "label": "2026-10-08 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 130.72,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 198.25,
+     "601f1d4b764a4b6495e81785e8ed46bf": 42.78,
+     "ac676d261d592358fec57a2d16bebc66": 119.88,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 540.5,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 97.24,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 14.25,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 143.98,
+     "5e2cd9708b68cbfce6957e3c8983be70": 23.62,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 32.44,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 52.55,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 135.92,
+     "3e8d12bd5d70284bc2d78a831c592885": 102.68,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 43.31,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 48.99,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 24,
+     "708574ced42d77cc602d6d1594f1a30b": 9,
+     "27d667025365c469149e02f562fa45f7": 16.51,
+     "48937b9c1ecda247cb5ae0b540025bcf": 96.18,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 37.16,
+     "3b96bf80312a767388f7b4df487fbb6c": 50.31,
+     "a79706e0a0ca4ddbfabfbb3344070693": 102.49,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 24.93,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 39.5,
+     "d2844df94f0251fc778bb185d6b70227": 239.58,
+     "1792cd5803cbb8ac53a32647e04f433a": 14.84,
+     "0be34207fd6c438abae9e7ed883ebbfb": 11.25,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 121.06,
+     "7a51530d52ff140c1f14ba7ed94438bd": 332.08,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 99.33,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 1,
+     "609e1e994a436b1fc312656ba02177c9": 90.89,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 147.63,
+     "6af41b3a20f028f2e22cf54625ee3996": 29.5,
+     "label": "2026-10-09 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 139.58,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 13.71,
+     "ac676d261d592358fec57a2d16bebc66": 118.61,
+     "ea00ab61716231f467acb373ac72984f": 77.14,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 92.9,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 19.67,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 122.91,
+     "5e2cd9708b68cbfce6957e3c8983be70": 36.57,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 14.5,
+     "4896cac429577e2b7245e857c0740013": 77.67,
+     "9dfdf9262512a8768649df1133bedcfb": 90.87,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 120.78,
+     "3e8d12bd5d70284bc2d78a831c592885": 87.97,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 35.84,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 49.12,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 26,
+     "708574ced42d77cc602d6d1594f1a30b": 22,
+     "27d667025365c469149e02f562fa45f7": 17.64,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 15.09,
+     "3b96bf80312a767388f7b4df487fbb6c": 34.33,
+     "a79706e0a0ca4ddbfabfbb3344070693": 68.27,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 33.33,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 15.29,
+     "d2844df94f0251fc778bb185d6b70227": 28.65,
+     "1792cd5803cbb8ac53a32647e04f433a": 14.09,
+     "0be34207fd6c438abae9e7ed883ebbfb": 17.78,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 109.01,
+     "7a51530d52ff140c1f14ba7ed94438bd": 192.91,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 47.58,
+     "1cc3d466159b7fae5583c5e474e43952": 6.4,
+     "15c696e8bf59b731f860a7a460d23916": 1,
+     "609e1e994a436b1fc312656ba02177c9": 77.77,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 159.76,
+     "6af41b3a20f028f2e22cf54625ee3996": 12.67,
+     "label": "2026-10-10 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 138.35,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 107.58,
+     "310a7c423149a08e78b275ee4ffbf096": 2.5,
+     "601f1d4b764a4b6495e81785e8ed46bf": 47.47,
+     "ac676d261d592358fec57a2d16bebc66": 100.56,
+     "ea00ab61716231f467acb373ac72984f": 65.26,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 8,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 88.26,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 101.38,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 118.81,
+     "5e2cd9708b68cbfce6957e3c8983be70": 69.8,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 25.73,
+     "4896cac429577e2b7245e857c0740013": 76.33,
+     "9dfdf9262512a8768649df1133bedcfb": 140.73,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 111.51,
+     "3e8d12bd5d70284bc2d78a831c592885": 80.76,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 51.92,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 25.86,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 53.88,
+     "708574ced42d77cc602d6d1594f1a30b": 15.33,
+     "27d667025365c469149e02f562fa45f7": 19.91,
+     "48937b9c1ecda247cb5ae0b540025bcf": 114.98,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 238.25,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 81.92,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 57.09,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 8.32,
+     "d2844df94f0251fc778bb185d6b70227": 66.92,
+     "1792cd5803cbb8ac53a32647e04f433a": 18.47,
+     "0be34207fd6c438abae9e7ed883ebbfb": 14.3,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 109.53,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 19,
+     "2ced25fdb0a8da4f29878ee73128b286": 56.94,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 76.05,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 86.1,
+     "6af41b3a20f028f2e22cf54625ee3996": 60.8,
+     "label": "2026-10-11 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 131.47,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 96.76,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 63.86,
+     "ac676d261d592358fec57a2d16bebc66": 109.41,
+     "ea00ab61716231f467acb373ac72984f": 63.65,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 35,
+     "5542d31afcc25b037cc8ccd22d8564d0": 67.92,
+     "f6a27f80c562aa960e230591e98c4869": 118.53,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 100.51,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 132.78,
+     "5e2cd9708b68cbfce6957e3c8983be70": 149.36,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 102.05,
+     "4896cac429577e2b7245e857c0740013": 94.51,
+     "9dfdf9262512a8768649df1133bedcfb": 20.5,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 208.26,
+     "3e8d12bd5d70284bc2d78a831c592885": 109.27,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 45.32,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 14.73,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 5,
+     "708574ced42d77cc602d6d1594f1a30b": 29.83,
+     "27d667025365c469149e02f562fa45f7": 15.44,
+     "48937b9c1ecda247cb5ae0b540025bcf": 326,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 10.61,
+     "3b96bf80312a767388f7b4df487fbb6c": 77,
+     "a79706e0a0ca4ddbfabfbb3344070693": 88.36,
+     "f29a7eb70394255002aacaef39afe455": 40.42,
+     "b715a803f1820afb8c5780e1c7bb2db9": 54,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 65.05,
+     "d2844df94f0251fc778bb185d6b70227": 20.39,
+     "1792cd5803cbb8ac53a32647e04f433a": 11.33,
+     "0be34207fd6c438abae9e7ed883ebbfb": 10.93,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 127.49,
+     "7a51530d52ff140c1f14ba7ed94438bd": 55.4,
+     "d83525521125a848bd35de1f05e4655e": 6.86,
+     "2ced25fdb0a8da4f29878ee73128b286": 6,
+     "1cc3d466159b7fae5583c5e474e43952": 23,
+     "15c696e8bf59b731f860a7a460d23916": 435.25,
+     "609e1e994a436b1fc312656ba02177c9": 105.61,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 33,
+     "6af41b3a20f028f2e22cf54625ee3996": 45.62,
+     "label": "2026-10-12 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 211,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 66.32,
+     "310a7c423149a08e78b275ee4ffbf096": 198.5,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 107.89,
+     "ea00ab61716231f467acb373ac72984f": 53.8,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 72.14,
+     "f6a27f80c562aa960e230591e98c4869": 58.44,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 123.89,
+     "fe813ae72c901b566068b3f10a7024b1": 53.79,
+     "832c42b4ee55b5177285e7ae478fb418": 138.53,
+     "5e2cd9708b68cbfce6957e3c8983be70": 74.75,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 57.46,
+     "4896cac429577e2b7245e857c0740013": 111.66,
+     "9dfdf9262512a8768649df1133bedcfb": 22.56,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 110.21,
+     "3e8d12bd5d70284bc2d78a831c592885": 65.22,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 129.36,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 92.48,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 39.73,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 25,
+     "708574ced42d77cc602d6d1594f1a30b": 13.7,
+     "27d667025365c469149e02f562fa45f7": 12.5,
+     "48937b9c1ecda247cb5ae0b540025bcf": 132.75,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 11.51,
+     "3b96bf80312a767388f7b4df487fbb6c": 67.09,
+     "a79706e0a0ca4ddbfabfbb3344070693": 221.3,
+     "f29a7eb70394255002aacaef39afe455": 50.98,
+     "b715a803f1820afb8c5780e1c7bb2db9": 60,
+     "b566868fa063913c6ffd7d932d629c43": 59.02,
+     "202962a660ac50deb5885c9dc5ac3468": 8.58,
+     "d2844df94f0251fc778bb185d6b70227": 31.54,
+     "1792cd5803cbb8ac53a32647e04f433a": 12.59,
+     "0be34207fd6c438abae9e7ed883ebbfb": 16.55,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 114.72,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 350.44,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 674.5,
+     "609e1e994a436b1fc312656ba02177c9": 288.48,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 14.67,
+     "6af41b3a20f028f2e22cf54625ee3996": 38.33,
+     "label": "2026-10-13 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 147.59,
+     "d92c88c66e390e0975b11b1fa8f205ec": 53.93,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 27.7,
+     "310a7c423149a08e78b275ee4ffbf096": 17.29,
+     "601f1d4b764a4b6495e81785e8ed46bf": 3.33,
+     "ac676d261d592358fec57a2d16bebc66": 82.92,
+     "ea00ab61716231f467acb373ac72984f": 43.73,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 39.88,
+     "f6a27f80c562aa960e230591e98c4869": 72.55,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 100.4,
+     "9393b6015a997b75243ea0fa5990f334": 99.49,
+     "fe813ae72c901b566068b3f10a7024b1": 54.12,
+     "832c42b4ee55b5177285e7ae478fb418": 75.95,
+     "5e2cd9708b68cbfce6957e3c8983be70": 49.45,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 94.6,
+     "9dfdf9262512a8768649df1133bedcfb": 12.67,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 113.99,
+     "3e8d12bd5d70284bc2d78a831c592885": 5.88,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 124.07,
+     "227a13f779fe2c96c085e8651bb06d63": 137.27,
+     "57bc5a8740339f6d67118e5462373af1": 31.58,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 6.5,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 104.09,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 14,
+     "27d667025365c469149e02f562fa45f7": 13.67,
+     "48937b9c1ecda247cb5ae0b540025bcf": 175.42,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 12.87,
+     "3b96bf80312a767388f7b4df487fbb6c": 23,
+     "a79706e0a0ca4ddbfabfbb3344070693": 171.44,
+     "f29a7eb70394255002aacaef39afe455": 16.72,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 55.05,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 276.88,
+     "1792cd5803cbb8ac53a32647e04f433a": 12.75,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 147.47,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 12,
+     "1cc3d466159b7fae5583c5e474e43952": 27.83,
+     "15c696e8bf59b731f860a7a460d23916": 3.2,
+     "609e1e994a436b1fc312656ba02177c9": 14.56,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 3,
+     "6af41b3a20f028f2e22cf54625ee3996": 525.25,
+     "label": "2026-10-14 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 223.16,
+     "d92c88c66e390e0975b11b1fa8f205ec": 50.07,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 23.5,
+     "310a7c423149a08e78b275ee4ffbf096": 66.14,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 96.08,
+     "ea00ab61716231f467acb373ac72984f": 210.69,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 40.19,
+     "f6a27f80c562aa960e230591e98c4869": 339.33,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 41,
+     "9393b6015a997b75243ea0fa5990f334": 136.66,
+     "fe813ae72c901b566068b3f10a7024b1": 66.14,
+     "832c42b4ee55b5177285e7ae478fb418": 104.5,
+     "5e2cd9708b68cbfce6957e3c8983be70": 74,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 123.42,
+     "9dfdf9262512a8768649df1133bedcfb": 25.45,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 11,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 73.56,
+     "227a13f779fe2c96c085e8651bb06d63": 105.55,
+     "57bc5a8740339f6d67118e5462373af1": 82.54,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 93.86,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 720.5,
+     "708574ced42d77cc602d6d1594f1a30b": 24.25,
+     "27d667025365c469149e02f562fa45f7": 3,
+     "48937b9c1ecda247cb5ae0b540025bcf": 87.29,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 11.83,
+     "3b96bf80312a767388f7b4df487fbb6c": 600.6,
+     "a79706e0a0ca4ddbfabfbb3344070693": 13.75,
+     "f29a7eb70394255002aacaef39afe455": 13.54,
+     "b715a803f1820afb8c5780e1c7bb2db9": 41.6,
+     "b566868fa063913c6ffd7d932d629c43": 53.81,
+     "202962a660ac50deb5885c9dc5ac3468": 28.19,
+     "d2844df94f0251fc778bb185d6b70227": 233.19,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 19.8,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 127.66,
+     "7a51530d52ff140c1f14ba7ed94438bd": 396.82,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 297.11,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 92.73,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 26,
+     "6af41b3a20f028f2e22cf54625ee3996": 143.38,
+     "label": "2026-10-15 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 212.93,
+     "d92c88c66e390e0975b11b1fa8f205ec": 41.49,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 21.64,
+     "310a7c423149a08e78b275ee4ffbf096": 50.56,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 112.11,
+     "ea00ab61716231f467acb373ac72984f": 77.13,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 12.2,
+     "5542d31afcc25b037cc8ccd22d8564d0": 34.71,
+     "f6a27f80c562aa960e230591e98c4869": 12.33,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 111.07,
+     "fe813ae72c901b566068b3f10a7024b1": 25.7,
+     "832c42b4ee55b5177285e7ae478fb418": 54,
+     "5e2cd9708b68cbfce6957e3c8983be70": 45.2,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 35.4,
+     "4896cac429577e2b7245e857c0740013": 53.41,
+     "9dfdf9262512a8768649df1133bedcfb": 1,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 4,
+     "3e8d12bd5d70284bc2d78a831c592885": 19.43,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 3,
+     "227a13f779fe2c96c085e8651bb06d63": 84.17,
+     "57bc5a8740339f6d67118e5462373af1": 50.5,
+     "c0509d6c75cb0bf84783a84c2f61da18": 51.1,
+     "226063d0fb5ae4867553d35e57e19938": 50,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 98.82,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 332.75,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 18,
+     "3b96bf80312a767388f7b4df487fbb6c": 157.07,
+     "a79706e0a0ca4ddbfabfbb3344070693": 2.5,
+     "f29a7eb70394255002aacaef39afe455": 11.81,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 15.48,
+     "202962a660ac50deb5885c9dc5ac3468": 166.95,
+     "d2844df94f0251fc778bb185d6b70227": 76.47,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 103.04,
+     "7a51530d52ff140c1f14ba7ed94438bd": 1,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 70.33,
+     "004a0804383fe9bc4a71168103ab5699": 94.92,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 101.27,
+     "label": "2026-10-16 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "socialPosts",
+  "total": 432,
+  "granularity": "daily",
+  "availableGranularities": [
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 432,
+   "values": [
+    {
+     "key": "2862520377c41f5dfc5c4344083a7695",
+     "total": 11,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/abren-convocatoria-docente-para-los-5-nuevos-megacolegios-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/abren-convocatoria-docente-para-los-5-nuevos-megacolegios-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d92c88c66e390e0975b11b1fa8f205ec",
+     "total": 12,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/14/barrios-de-cartagena-que-no-tendran-agua-el-15-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/14/barrios-de-cartagena-que-no-tendran-agua-el-15-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "da54eb4e4ff11ae146c86a75ebb0fa29",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/11/mas-de-40-barrios-de-cartagena-estaran-sin-luz-este-lunes-12-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/11/mas-de-40-barrios-de-cartagena-estaran-sin-luz-este-lunes-12-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "310a7c423149a08e78b275ee4ffbf096",
+     "total": 8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/01/acuacar-detecta-fuga-tras-parada-tecnica-los-barrios-de-cartagena-que-estaran-sin-agua/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/01/acuacar-detecta-fuga-tras-parada-tecnica-los-barrios-de-cartagena-que-estaran-sin-agua/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "601f1d4b764a4b6495e81785e8ed46bf",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/04/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-5-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/04/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-5-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ac676d261d592358fec57a2d16bebc66",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/calendario-academico-2027-estas-serian-las-fechas-para-colegios-publicos-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/calendario-academico-2027-estas-serian-las-fechas-para-colegios-publicos-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "ea00ab61716231f467acb373ac72984f",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/10/habra-racionamientos-por-el-fenomeno-de-el-nino-esto-dijo-aguas-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/10/habra-racionamientos-por-el-fenomeno-de-el-nino-esto-dijo-aguas-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e9a3c77f5fa93d1e63b40e173ef62d7c",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/barrios-de-cartagena-que-no-tendran-luz-el-sabado-3-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/barrios-de-cartagena-que-no-tendran-luz-el-sabado-3-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5542d31afcc25b037cc8ccd22d8564d0",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/12/estos-sectores-de-cartagena-estaran-sin-luz-este-martes-13-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/12/estos-sectores-de-cartagena-estaran-sin-luz-este-martes-13-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f6a27f80c562aa960e230591e98c4869",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/06/mas-de-100-maestros-de-bolivar-podran-estudiar-becados-en-la-udec-asi-funcionara/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/06/mas-de-100-maestros-de-bolivar-podran-estudiar-becados-en-la-udec-asi-funcionara/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "bcfb5c1f8c99a0c422a4e2308a3c2aac",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/reparacion-de-tuberia-en-cartagena-entra-en-etapa-final-barrios-sin-agua-este-viernes/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/reparacion-de-tuberia-en-cartagena-entra-en-etapa-final-barrios-sin-agua-este-viernes/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9393b6015a997b75243ea0fa5990f334",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/11/video-mujer-bailaba-sujetandose-de-una-estatua-en-cartagena-y-tuvo-un-final-inesperado/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/11/video-mujer-bailaba-sujetandose-de-una-estatua-en-cartagena-y-tuvo-un-final-inesperado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "fe813ae72c901b566068b3f10a7024b1",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/13/sectores-de-cartagena-que-estaran-sin-luz-el-miercoles-14-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/13/sectores-de-cartagena-que-estaran-sin-luz-el-miercoles-14-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "832c42b4ee55b5177285e7ae478fb418",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/consejo-de-estado-ratifica-fallo-que-ordena-reducir-las-tarifas-de-energia-en-el-caribe/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/consejo-de-estado-ratifica-fallo-que-ordena-reducir-las-tarifas-de-energia-en-el-caribe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5e2cd9708b68cbfce6957e3c8983be70",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9dc512ab9fde45bf9aaad46fe1b4d6f7",
+     "total": 8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/los-sectores-de-cartagena-que-estaran-sin-luz-el-martes-6-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/los-sectores-de-cartagena-que-estaran-sin-luz-el-martes-6-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4896cac429577e2b7245e857c0740013",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/10/juez-emite-sentido-de-fallo-condenatorio-por-fraude-en-predio-de-la-cordialidad/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/10/juez-emite-sentido-de-fallo-condenatorio-por-fraude-en-predio-de-la-cordialidad/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9dfdf9262512a8768649df1133bedcfb",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/los-barrios-de-cartagena-que-estaran-sin-luz-el-9-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/los-barrios-de-cartagena-que-estaran-sin-luz-el-9-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "507dec451a74b4bc2d67a88dbaa3e8e5",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/anuncian-marcha-en-cartagena-contra-el-gobierno-de-la-espriella-cuando-sera/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/anuncian-marcha-en-cartagena-contra-el-gobierno-de-la-espriella-cuando-sera/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3e8d12bd5d70284bc2d78a831c592885",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/hoy-comienza-el-festival-del-patacon-en-cartagena-donde-y-a-que-hora/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/hoy-comienza-el-festival-del-patacon-en-cartagena-donde-y-a-que-hora/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b488ae874d4ccb7e8eae4beae6f2d512",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/13/asi-sera-el-recorrido-de-la-marcha-contra-el-gobierno-de-la-espriella-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/13/asi-sera-el-recorrido-de-la-marcha-contra-el-gobierno-de-la-espriella-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "227a13f779fe2c96c085e8651bb06d63",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/14/aplazan-inauguracion-de-la-primera-fase-del-gran-malecon-del-mar-esta-es-la-nueva-fecha/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/14/aplazan-inauguracion-de-la-primera-fase-del-gran-malecon-del-mar-esta-es-la-nueva-fecha/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "57bc5a8740339f6d67118e5462373af1",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/29/saber-11-2026-los-7-mejores-puntajes-de-colegios-oficiales-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/29/saber-11-2026-los-7-mejores-puntajes-de-colegios-oficiales-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c0509d6c75cb0bf84783a84c2f61da18",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/16/cortes-de-luz-en-cartagena-del-sabado-17-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/16/cortes-de-luz-en-cartagena-del-sabado-17-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "226063d0fb5ae4867553d35e57e19938",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/el-barrio-de-cartagena-que-no-tendra-luz-el-sabado-10-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/el-barrio-de-cartagena-que-no-tendra-luz-el-sabado-10-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e69c4b3a99d0a8c4136dbe2764599aaf",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/14/en-fotos-marcha-contra-el-presidente-abelardo-de-la-espriella-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/14/en-fotos-marcha-contra-el-presidente-abelardo-de-la-espriella-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c3b14d8e1a0b4a9f53c94a3579a66cdf",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/2026/10/04/los-4-municipios-de-bolivar-que-estaran-sin-luz-el-lunes-5-de-octubre/",
+       "value": "https://www.eluniversal.com.co/regional/2026/10/04/los-4-municipios-de-bolivar-que-estaran-sin-luz-el-lunes-5-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "708574ced42d77cc602d6d1594f1a30b",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/30/pico-y-placa-en-cartagena-del-1-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/30/pico-y-placa-en-cartagena-del-1-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "27d667025365c469149e02f562fa45f7",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/03/un-municipio-de-bolivar-estara-sin-luz-este-domingo-4-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/03/un-municipio-de-bolivar-estara-sin-luz-este-domingo-4-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "48937b9c1ecda247cb5ae0b540025bcf",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/01/armada-inmovilizo-velero-en-el-que-estaban-mujer-y-sus-hijos-y-explico-los-motivos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/01/armada-inmovilizo-velero-en-el-que-estaban-mujer-y-sus-hijos-y-explico-los-motivos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d51bd3abe86a634fb6d62b8fe1ead7c6",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/07/los-municipios-de-bolivar-que-no-tendran-luz-el-jueves-8-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/07/los-municipios-de-bolivar-que-no-tendran-luz-el-jueves-8-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3b96bf80312a767388f7b4df487fbb6c",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/quien-controla-los-precios-de-las-lanchas-en-el-festival-nautico-de-cartagena-esto-responde-la-alcaldia/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/quien-controla-los-precios-de-las-lanchas-en-el-festival-nautico-de-cartagena-esto-responde-la-alcaldia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a79706e0a0ca4ddbfabfbb3344070693",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/detectan-conexion-ilegal-de-agua-en-membrillal-consumia-lo-de-250-familias/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/detectan-conexion-ilegal-de-agua-en-membrillal-consumia-lo-de-250-familias/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f29a7eb70394255002aacaef39afe455",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/12/se-va-la-luz-en-estos-2-municipios-de-bolivar-este-martes-13-de-octubre/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/12/se-va-la-luz-en-estos-2-municipios-de-bolivar-este-martes-13-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b715a803f1820afb8c5780e1c7bb2db9",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/aviario-nacional-celebra-10-anos-en-cartagena-con-entrada-gratis-este-domingo/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/aviario-nacional-celebra-10-anos-en-cartagena-con-entrada-gratis-este-domingo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b566868fa063913c6ffd7d932d629c43",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/13/municipios-de-bolivar-sin-luz-este-miercoles-14-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/13/municipios-de-bolivar-sin-luz-este-miercoles-14-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "202962a660ac50deb5885c9dc5ac3468",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/07/cartagena-bajo-fuertes-lluvias-una-onda-tropical-avanza-hacia-el-caribe/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/07/cartagena-bajo-fuertes-lluvias-una-onda-tropical-avanza-hacia-el-caribe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d2844df94f0251fc778bb185d6b70227",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/abren-preinscripciones-para-cupos-en-3-de-los-5-nuevos-megacolegios-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/abren-preinscripciones-para-cupos-en-3-de-los-5-nuevos-megacolegios-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1792cd5803cbb8ac53a32647e04f433a",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/05/los-municipios-de-bolivar-sin-luz-el-martes-6-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/05/los-municipios-de-bolivar-sin-luz-el-martes-6-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "0be34207fd6c438abae9e7ed883ebbfb",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/10/02/los-dos-municipios-de-bolivar-que-estaran-sin-luz-el-3-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/10/02/los-dos-municipios-de-bolivar-que-estaran-sin-luz-el-3-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "09cac6ef9e15b4c8e0f2fe6b32f81e2a",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/dumek-turbay-ofrece-millonaria-recompensa-por-involucrados-en-atracos-en-manada/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/dumek-turbay-ofrece-millonaria-recompensa-por-involucrados-en-atracos-en-manada/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "7a51530d52ff140c1f14ba7ed94438bd",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/llegan-los-32-nuevos-buses-de-transcaribe-traidos-desde-china/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/llegan-los-32-nuevos-buses-de-transcaribe-traidos-desde-china/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d83525521125a848bd35de1f05e4655e",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/09/30/cortes-de-luz-en-cartagena-barrios-afectados-el-1-de-octubre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/09/30/cortes-de-luz-en-cartagena-barrios-afectados-el-1-de-octubre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2ced25fdb0a8da4f29878ee73128b286",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/08/preludio-en-en-el-pozon-estos-son-los-cierres-viales-por-el-evento/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/08/preludio-en-en-el-pozon-estos-son-los-cierres-viales-por-el-evento/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "1cc3d466159b7fae5583c5e474e43952",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/05/lluvias-en-cartagena-este-lunes-5-de-octubre-conozca-a-que-hora-se-esperan/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/05/lluvias-en-cartagena-este-lunes-5-de-octubre-conozca-a-que-hora-se-esperan/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "15c696e8bf59b731f860a7a460d23916",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/04/asi-funcionara-el-pico-y-placa-en-cartagena-este-lunes-5-de-octubre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/04/asi-funcionara-el-pico-y-placa-en-cartagena-este-lunes-5-de-octubre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "609e1e994a436b1fc312656ba02177c9",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/09/en-fotos-comienza-la-segunda-edicion-del-festival-del-patacon-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/09/en-fotos-comienza-la-segunda-edicion-del-festival-del-patacon-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "004a0804383fe9bc4a71168103ab5699",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/15/estos-son-los-cierres-viales-en-cartagena-por-el-preludio-de-blas-de-lezo/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/15/estos-son-los-cierres-viales-en-cartagena-por-el-preludio-de-blas-de-lezo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "08a8a69ca4891ceb77d90ee4f8e2967b",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/07/este-es-el-plan-de-manejo-de-transito-para-el-gran-fondo-nairo-fest-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/07/este-es-el-plan-de-manejo-de-transito-para-el-gran-fondo-nairo-fest-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6af41b3a20f028f2e22cf54625ee3996",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/consejo-de-estado-niega-acciones-de-cumplimiento-contra-la-alcaldia-en-la-boquilla/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/consejo-de-estado-niega-acciones-de-cumplimiento-contra-la-alcaldia-en-la-boquilla/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 7,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 2,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 2,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 2,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-01 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 3,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 1,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 4,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 2,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 5,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 2,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 2,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 3,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 1,
+     "label": "2026-10-02 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 4,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 2,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 1,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 1,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 1,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-03 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 3,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 2,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 3,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 1,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 1,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-04 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 1,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 3,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 5,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 2,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 3,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 1,
+     "1792cd5803cbb8ac53a32647e04f433a": 3,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 6,
+     "15c696e8bf59b731f860a7a460d23916": 3,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-05 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 2,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 3,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 2,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-06 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 3,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 4,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 5,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 1,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-07 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 2,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 4,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 2,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 3,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 2,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-08 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 2,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 2,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 2,
+     "3e8d12bd5d70284bc2d78a831c592885": 3,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 3,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 1,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 1,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 2,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-09 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 2,
+     "ea00ab61716231f467acb373ac72984f": 3,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 2,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 2,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-10 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 2,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 2,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 3,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-11 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 1,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 3,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 2,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 2,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-12 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 2,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 3,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 1,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 1,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 1,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 2,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-13 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 5,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 2,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 3,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 2,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 2,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 0,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-14 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 7,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 0,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 3,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 1,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-15 00:00"
+    },
+    {
+     "2862520377c41f5dfc5c4344083a7695": 0,
+     "d92c88c66e390e0975b11b1fa8f205ec": 0,
+     "da54eb4e4ff11ae146c86a75ebb0fa29": 0,
+     "310a7c423149a08e78b275ee4ffbf096": 0,
+     "601f1d4b764a4b6495e81785e8ed46bf": 0,
+     "ac676d261d592358fec57a2d16bebc66": 0,
+     "ea00ab61716231f467acb373ac72984f": 0,
+     "e9a3c77f5fa93d1e63b40e173ef62d7c": 0,
+     "5542d31afcc25b037cc8ccd22d8564d0": 0,
+     "f6a27f80c562aa960e230591e98c4869": 0,
+     "bcfb5c1f8c99a0c422a4e2308a3c2aac": 0,
+     "9393b6015a997b75243ea0fa5990f334": 0,
+     "fe813ae72c901b566068b3f10a7024b1": 0,
+     "832c42b4ee55b5177285e7ae478fb418": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "9dc512ab9fde45bf9aaad46fe1b4d6f7": 0,
+     "4896cac429577e2b7245e857c0740013": 0,
+     "9dfdf9262512a8768649df1133bedcfb": 0,
+     "507dec451a74b4bc2d67a88dbaa3e8e5": 0,
+     "3e8d12bd5d70284bc2d78a831c592885": 0,
+     "b488ae874d4ccb7e8eae4beae6f2d512": 0,
+     "227a13f779fe2c96c085e8651bb06d63": 0,
+     "57bc5a8740339f6d67118e5462373af1": 0,
+     "c0509d6c75cb0bf84783a84c2f61da18": 4,
+     "226063d0fb5ae4867553d35e57e19938": 0,
+     "e69c4b3a99d0a8c4136dbe2764599aaf": 0,
+     "c3b14d8e1a0b4a9f53c94a3579a66cdf": 0,
+     "708574ced42d77cc602d6d1594f1a30b": 0,
+     "27d667025365c469149e02f562fa45f7": 0,
+     "48937b9c1ecda247cb5ae0b540025bcf": 0,
+     "d51bd3abe86a634fb6d62b8fe1ead7c6": 0,
+     "3b96bf80312a767388f7b4df487fbb6c": 0,
+     "a79706e0a0ca4ddbfabfbb3344070693": 0,
+     "f29a7eb70394255002aacaef39afe455": 0,
+     "b715a803f1820afb8c5780e1c7bb2db9": 0,
+     "b566868fa063913c6ffd7d932d629c43": 0,
+     "202962a660ac50deb5885c9dc5ac3468": 0,
+     "d2844df94f0251fc778bb185d6b70227": 0,
+     "1792cd5803cbb8ac53a32647e04f433a": 0,
+     "0be34207fd6c438abae9e7ed883ebbfb": 0,
+     "09cac6ef9e15b4c8e0f2fe6b32f81e2a": 0,
+     "7a51530d52ff140c1f14ba7ed94438bd": 0,
+     "d83525521125a848bd35de1f05e4655e": 0,
+     "2ced25fdb0a8da4f29878ee73128b286": 0,
+     "1cc3d466159b7fae5583c5e474e43952": 0,
+     "15c696e8bf59b731f860a7a460d23916": 0,
+     "609e1e994a436b1fc312656ba02177c9": 0,
+     "004a0804383fe9bc4a71168103ab5699": 3,
+     "08a8a69ca4891ceb77d90ee4f8e2967b": 0,
+     "6af41b3a20f028f2e22cf54625ee3996": 0,
+     "label": "2026-10-16 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ }
+]

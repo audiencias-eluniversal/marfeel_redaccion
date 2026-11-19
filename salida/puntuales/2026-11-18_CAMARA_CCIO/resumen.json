@@ -1,0 +1,42 @@
+{
+ "hasta": "2026-11-18",
+ "articulos": 27,
+ "otros_enlaces": 12,
+ "sin_datos": [],
+ "por_seccion_suma": {
+  "Informe general": {
+   "articulos": 15,
+   "pv": 10398
+  },
+  "Cubrimiento especial apertura CISE Santa Rosa": {
+   "articulos": 12,
+   "pv": 7585
+  }
+ },
+ "bloques_sin_duplicar": {
+  "Informe general": {
+   "inicio": "2026-05-10",
+   "n": 15,
+   "pv": 10398,
+   "uu": 7315
+  },
+  "Cubrimiento especial apertura CISE Santa Rosa": {
+   "inicio": "2026-07-25",
+   "n": 12,
+   "pv": 7588,
+   "uu": 5742
+  }
+ },
+ "control": {
+  "url": "https://www.eluniversal.com.co/regional/bolivar/2026/11/06/322-negocios-dejan-la-informalidad-en-calamar-y-la-zona-rio-asi-lo-lograron/",
+  "fecha": "2026-11-06",
+  "propia": [
+   439,
+   391
+  ],
+  "agrupada": [
+   435.0,
+   387.0
+  ]
+ }
+}

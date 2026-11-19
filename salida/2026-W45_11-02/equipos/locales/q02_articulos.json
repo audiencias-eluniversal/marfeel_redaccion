@@ -1,0 +1,2822 @@
+[
+ {
+  "metric": "pageViewsTotal",
+  "total": 165995,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 165995,
+   "values": [
+    {
+     "key": "4c5442c915153157819c56231669a266",
+     "total": 29346,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/3-barrios-de-cartagena-no-tendran-agua-este-jueves-5-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/3-barrios-de-cartagena-no-tendran-agua-este-jueves-5-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "96e76f7947f405d2ed3d6ede467c6def",
+     "total": 19403,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/barrios-de-cartagena-que-no-tendran-agua-el-3-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/barrios-de-cartagena-que-no-tendran-agua-el-3-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "80d1dc976948563a580d11305779e18b",
+     "total": 8098,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/se-mantiene-prohibicion-de-parrillero-hombre-en-10-barrios-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/se-mantiene-prohibicion-de-parrillero-hombre-en-10-barrios-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d5fea0e7fa0d74cec70228d37ce42854",
+     "total": 7324,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/nelson-mandela-y-otros-barrios-de-cartagena-estaran-sin-luz-este-sabado/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/nelson-mandela-y-otros-barrios-de-cartagena-estaran-sin-luz-este-sabado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9c93e7d0e8bca0cf47595c22da0ed146",
+     "total": 6660,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-4-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-4-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "22c8756a091a2ead21d351a9d7343648",
+     "total": 5178,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/03/municipios-de-bolivar-que-estaran-sin-luz-el-4-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/03/municipios-de-bolivar-que-estaran-sin-luz-el-4-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2d3c7f8e02aba306a27cdc0580e3a8af",
+     "total": 4963,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/2026/11/04/se-va-la-luz-en-varios-municipios-de-bolivar-este-jueves-5-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/regional/2026/11/04/se-va-la-luz-en-varios-municipios-de-bolivar-este-jueves-5-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a7949226f2b05b3b27cab4c8ae8abeea",
+     "total": 4337,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/05/el-municipio-de-bolivar-que-estara-sin-luz-este-viernes-6-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/05/el-municipio-de-bolivar-que-estara-sin-luz-este-viernes-6-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "448f84657a334645b3e3c88b01bcbe15",
+     "total": 4187,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "135cd5b2111bcfd0df79478d637192d2",
+     "total": 3361,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/que-hacer-con-los-ninos-este-domingo-en-cartagena-habra-evento-gratuito-en-chambacu/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/que-hacer-con-los-ninos-este-domingo-en-cartagena-habra-evento-gratuito-en-chambacu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "92ac612beec319cb9803ce9578cd1d8f",
+     "total": 3179,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/2026/11/06/cortes-de-luz-en-municipios-de-bolivar-el-sabado-7-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/2026/11/06/cortes-de-luz-en-municipios-de-bolivar-el-sabado-7-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "adb436a73abdc39e6ece1a33518ce640",
+     "total": 3143,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/cortes-de-luz-en-cartagena-del-jueves-5-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/cortes-de-luz-en-cartagena-del-jueves-5-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4001e7d83da4d94ff7be95c7fbd2c015",
+     "total": 3122,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/barrios-de-cartagena-que-estaran-sin-luz-el-9-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/barrios-de-cartagena-que-estaran-sin-luz-el-9-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2e19a91461fb41b8cf4c4ad5a930513a",
+     "total": 2769,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/festival-nautico-y-bololo-del-arsenal-horarios-y-restricciones/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/festival-nautico-y-bololo-del-arsenal-horarios-y-restricciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cc741a1c328768f487ef405207abd8cd",
+     "total": 2393,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/pico-y-placa-en-cartagena-horarios-y-digitos-del-jueves-5-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/pico-y-placa-en-cartagena-horarios-y-digitos-del-jueves-5-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "240ac30f588c77789f16da3339f7468b",
+     "total": 2253,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/este-es-el-pico-y-placa-en-cartagena-del-miercoles-4-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/este-es-el-pico-y-placa-en-cartagena-del-miercoles-4-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a6604625cfd091860f3ed6e90930ea90",
+     "total": 2232,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/asi-estara-el-clima-en-cartagena-este-viernes-6-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/asi-estara-el-clima-en-cartagena-este-viernes-6-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e241f589d0a4bc59e3ee773e6ec885ff",
+     "total": 1929,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/11/03/fuerte-temblor-sacudio-a-colombia-en-la-madrugada-esto-se-sabe/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/11/03/fuerte-temblor-sacudio-a-colombia-en-la-madrugada-esto-se-sabe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b149877ca3c5b63f1fbd0f90800b302b",
+     "total": 1721,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/asi-funcionara-el-pico-y-placa-en-cartagena-el-martes-3-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/asi-funcionara-el-pico-y-placa-en-cartagena-el-martes-3-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "951ce49b8f42948f6c7d78f2e73c47d8",
+     "total": 1689,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/festival-nautico-de-cartagena-seguira-en-pie-tras-fallo-judicial/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/festival-nautico-de-cartagena-seguira-en-pie-tras-fallo-judicial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "30f0b8d8f80012db1ef39a222bb6258e",
+     "total": 1651,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/08/cortes-de-luz-en-bolivar-este-lunes-9-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/08/cortes-de-luz-en-bolivar-este-lunes-9-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c2b1da6e113b2832a11df7f2e3bcf58c",
+     "total": 1648,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/agenda-de-las-fiestas-de-independencia-de-cartagena-del-8-al-15-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/agenda-de-las-fiestas-de-independencia-de-cartagena-del-8-al-15-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6d5a6229ebb29834f4ca52250cd46e5e",
+     "total": 1547,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/01/el-municipio-de-bolivar-que-estara-sin-luz-el-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/01/el-municipio-de-bolivar-que-estara-sin-luz-el-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f70d3cf7a7c17acfc30f960bae23bd5",
+     "total": 1507,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/pico-y-placa-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/pico-y-placa-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "32d3b87263d5888404acd84065fae5c8",
+     "total": 1315,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/video-colegio-en-el-socorro-pide-intervencion-urgente-por-inundaciones/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/video-colegio-en-el-socorro-pide-intervencion-urgente-por-inundaciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c6ec18bf20ff83277acbaacd8ec21fcf",
+     "total": 1262,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/fallecio-manuel-vicente-barrera-medina-exgerente-de-aguas-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/fallecio-manuel-vicente-barrera-medina-exgerente-de-aguas-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8127cdd74a33605c4a14980ce2868dde",
+     "total": 1260,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/afinia-hallo-presunta-conexion-ilegal-en-una-pescaderia-del-mercado-de-bazurto/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/afinia-hallo-presunta-conexion-ilegal-en-una-pescaderia-del-mercado-de-bazurto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a327777e51da8d2a408d57fc31006382",
+     "total": 1224,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/aumentan-los-casos-en-uci-por-infecciones-respiratorias-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/aumentan-los-casos-en-uci-por-infecciones-respiratorias-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "114a41994de17937872b1e0490a7f31e",
+     "total": 1157,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/corte-suprema-de-justicia-la-corrupcion-a-veces-es-muy-dificil-de-investigar/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/corte-suprema-de-justicia-la-corrupcion-a-veces-es-muy-dificil-de-investigar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5401137eb3c59e5dfc048c5136cfde17",
+     "total": 970,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/rector-de-la-umayor-responde-a-dumek-turbay-esto-dijo-sobre-los-recursos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/rector-de-la-umayor-responde-a-dumek-turbay-esto-dijo-sobre-los-recursos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f26d5dac2a00c101c6efc654d9026b42",
+     "total": 922,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/el-problema-de-umayor-es-el-rector-dumek-turbay-cuestiona-recursos-sin-ejecutar/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/el-problema-de-umayor-es-el-rector-dumek-turbay-cuestiona-recursos-sin-ejecutar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3ce0e4309b27419d5c08eb18ad14f968",
+     "total": 897,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/05/pico-y-placa-en-cartagena-horarios-y-digitos-del-viernes-6-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/05/pico-y-placa-en-cartagena-horarios-y-digitos-del-viernes-6-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "12ef9701b3241bffc90dcfcb621a5d37",
+     "total": 878,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/07/carrozas-del-gran-desfile-de-independencia-recorrieron-las-vias-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/07/carrozas-del-gran-desfile-de-independencia-recorrieron-las-vias-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5e2cd9708b68cbfce6957e3c8983be70",
+     "total": 842,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4019aa68b7c0b9aed3643bf607975adc",
+     "total": 806,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/clima-en-cartagena-hoy-4-de-noviembre-pronostican-lluvias-durante-el-dia/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/clima-en-cartagena-hoy-4-de-noviembre-pronostican-lluvias-durante-el-dia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "575c397a2c99476a7325e7049f843e34",
+     "total": 799,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/02/bolivar-duplica-el-numero-de-colegios-en-categoria-a-de-las-pruebas-saber-11/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/02/bolivar-duplica-el-numero-de-colegios-en-categoria-a-de-las-pruebas-saber-11/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d88ea9d7f961242eb1c0abb3a8421c02",
+     "total": 791,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/05/clima-en-cartagena-pronostico-del-tiempo-para-este-jueves-5-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/05/clima-en-cartagena-pronostico-del-tiempo-para-este-jueves-5-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8899a1173d089462c1f70d73c4f83734",
+     "total": 731,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/11/04/gustavo-petro-se-retracto-por-acusaciones-contra-coosalud-esta-fue-la-razon/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/11/04/gustavo-petro-se-retracto-por-acusaciones-contra-coosalud-esta-fue-la-razon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4b0ead12e1570247760a18a36ed63e9b",
+     "total": 726,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/05/dumek-turbay-la-inversion-en-colegios-permitiria-construir-tres-malecones-mas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/05/dumek-turbay-la-inversion-en-colegios-permitiria-construir-tres-malecones-mas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cf2145117083284fcc0015ec3bd19740",
+     "total": 693,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/politica/2026/11/06/javier-julio-bejarano-buscara-firmas-para-avalar-su-candidatura-a-la-alcaldia-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/politica/2026/11/06/javier-julio-bejarano-buscara-firmas-para-avalar-su-candidatura-a-la-alcaldia-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "22e7b58fd03ec1fedb98401c97f41612",
+     "total": 692,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/guajira/2026/11/03/la-crono-de-rigo-2027-se-correra-en-la-guajira-tambien-hay-fecha-para-la-competencia/",
+       "value": "https://www.eluniversal.com.co/regional/guajira/2026/11/03/la-crono-de-rigo-2027-se-correra-en-la-guajira-tambien-hay-fecha-para-la-competencia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e1b5cdd30475e34c20ab8f9c794010bc",
+     "total": 672,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/la-solicitud-de-dumek-turbay-para-culminar-las-obras-en-el-puente-de-las-palmeras/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/la-solicitud-de-dumek-turbay-para-culminar-las-obras-en-el-puente-de-las-palmeras/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "31bc1af1b4d9c5fd39f60ff07baef12f",
+     "total": 639,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/llovera-en-cartagena-hoy-3-de-noviembre-esto-dice-el-pronostico/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/llovera-en-cartagena-hoy-3-de-noviembre-esto-dice-el-pronostico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d7aeb4e2027b2e938909a6d8d7852723",
+     "total": 535,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/angeles-somos-llena-de-tradicion-las-calles-de-cartagena-este-domingo/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/angeles-somos-llena-de-tradicion-las-calles-de-cartagena-este-domingo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "be0c7951296158af1d216cae4ccbc877",
+     "total": 534,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/cartagena-redujo-la-pobreza-y-la-desigualdad-que-dicen-las-cifras/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/cartagena-redujo-la-pobreza-y-la-desigualdad-que-dicen-las-cifras/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c04c128f8cc79b12c60133932c7721cd",
+     "total": 523,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/activan-contraflujo-en-la-avenida-santander-estas-son-las-rutas-alternas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/activan-contraflujo-en-la-avenida-santander-estas-son-las-rutas-alternas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b5c8bd29ad521482c4b5dd8858ac01a7",
+     "total": 509,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/crisis-en-la-umayor-dumek-turbay-se-reunira-con-estudiantes-para-buscar-soluciones/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/crisis-en-la-umayor-dumek-turbay-se-reunira-con-estudiantes-para-buscar-soluciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9b5dc78ed1ffc6e7a68ebdd187580fd9",
+     "total": 483,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/piden-agilizar-obras-para-garantizar-el-agua-potable-en-la-zona-norte-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/piden-agilizar-obras-para-garantizar-el-agua-potable-en-la-zona-norte-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "44bfc7998f0344d2faabc17665504c94",
+     "total": 473,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/07/video-reubican-arboles-por-proyecto-4-en-1-en-bocagrande-y-castillogrande/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/07/video-reubican-arboles-por-proyecto-4-en-1-en-bocagrande-y-castillogrande/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9c3602da2cce607ee31208bbc030c80d",
+     "total": 430,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/admiten-demanda-contra-el-proceso-de-revision-y-ajuste-del-pot-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/admiten-demanda-contra-el-proceso-de-revision-y-ajuste-del-pot-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "4c5442c915153157819c56231669a266": 0,
+     "96e76f7947f405d2ed3d6ede467c6def": 9133,
+     "80d1dc976948563a580d11305779e18b": 0,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 0,
+     "22c8756a091a2ead21d351a9d7343648": 0,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 0,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 4076,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 0,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 0,
+     "240ac30f588c77789f16da3339f7468b": 0,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 0,
+     "b149877ca3c5b63f1fbd0f90800b302b": 187,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 1428,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 1410,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 1234,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 979,
+     "8127cdd74a33605c4a14980ce2868dde": 0,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 1080,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 61,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 365,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 0,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 460,
+     "be0c7951296158af1d216cae4ccbc877": 0,
+     "c04c128f8cc79b12c60133932c7721cd": 0,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 0,
+     "96e76f7947f405d2ed3d6ede467c6def": 9780,
+     "80d1dc976948563a580d11305779e18b": 0,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 3048,
+     "22c8756a091a2ead21d351a9d7343648": 3382,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 0,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 73,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 0,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 0,
+     "240ac30f588c77789f16da3339f7468b": 719,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 1667,
+     "b149877ca3c5b63f1fbd0f90800b302b": 1379,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 207,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 47,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 232,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 240,
+     "8127cdd74a33605c4a14980ce2868dde": 1016,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 66,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 205,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 249,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 171,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 599,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 621,
+     "d7aeb4e2027b2e938909a6d8d7852723": 34,
+     "be0c7951296158af1d216cae4ccbc877": 462,
+     "c04c128f8cc79b12c60133932c7721cd": 455,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 17743,
+     "96e76f7947f405d2ed3d6ede467c6def": 349,
+     "80d1dc976948563a580d11305779e18b": 1588,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 3314,
+     "22c8756a091a2ead21d351a9d7343648": 1636,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 3217,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 18,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 1865,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 231,
+     "240ac30f588c77789f16da3339f7468b": 1394,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 109,
+     "b149877ca3c5b63f1fbd0f90800b302b": 120,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 24,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 17,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 26,
+     "32d3b87263d5888404acd84065fae5c8": 1087,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 18,
+     "8127cdd74a33605c4a14980ce2868dde": 200,
+     "a327777e51da8d2a408d57fc31006382": 1039,
+     "114a41994de17937872b1e0490a7f31e": 8,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 196,
+     "4019aa68b7c0b9aed3643bf607975adc": 769,
+     "575c397a2c99476a7325e7049f843e34": 80,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 617,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 399,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 60,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 10,
+     "d7aeb4e2027b2e938909a6d8d7852723": 17,
+     "be0c7951296158af1d216cae4ccbc877": 42,
+     "c04c128f8cc79b12c60133932c7721cd": 37,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 10388,
+     "96e76f7947f405d2ed3d6ede467c6def": 58,
+     "80d1dc976948563a580d11305779e18b": 4643,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 231,
+     "22c8756a091a2ead21d351a9d7343648": 86,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 1602,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 3216,
+     "448f84657a334645b3e3c88b01bcbe15": 5,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 1197,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 2001,
+     "240ac30f588c77789f16da3339f7468b": 99,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 96,
+     "b149877ca3c5b63f1fbd0f90800b302b": 14,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 10,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 26,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 9,
+     "32d3b87263d5888404acd84065fae5c8": 164,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 12,
+     "8127cdd74a33605c4a14980ce2868dde": 30,
+     "a327777e51da8d2a408d57fc31006382": 112,
+     "114a41994de17937872b1e0490a7f31e": 3,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 240,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 296,
+     "4019aa68b7c0b9aed3643bf607975adc": 21,
+     "575c397a2c99476a7325e7049f843e34": 50,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 735,
+     "8899a1173d089462c1f70d73c4f83734": 74,
+     "4b0ead12e1570247760a18a36ed63e9b": 615,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 59,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 6,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 4,
+     "d7aeb4e2027b2e938909a6d8d7852723": 8,
+     "be0c7951296158af1d216cae4ccbc877": 16,
+     "c04c128f8cc79b12c60133932c7721cd": 13,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 864,
+     "96e76f7947f405d2ed3d6ede467c6def": 42,
+     "80d1dc976948563a580d11305779e18b": 1287,
+     "d5fea0e7fa0d74cec70228d37ce42854": 4225,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 40,
+     "22c8756a091a2ead21d351a9d7343648": 31,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 98,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 1060,
+     "448f84657a334645b3e3c88b01bcbe15": 7,
+     "135cd5b2111bcfd0df79478d637192d2": 2233,
+     "92ac612beec319cb9803ce9578cd1d8f": 1937,
+     "adb436a73abdc39e6ece1a33518ce640": 48,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 133,
+     "240ac30f588c77789f16da3339f7468b": 27,
+     "a6604625cfd091860f3ed6e90930ea90": 2002,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 24,
+     "b149877ca3c5b63f1fbd0f90800b302b": 3,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 5,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 16,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 3,
+     "32d3b87263d5888404acd84065fae5c8": 47,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 4,
+     "8127cdd74a33605c4a14980ce2868dde": 10,
+     "a327777e51da8d2a408d57fc31006382": 51,
+     "114a41994de17937872b1e0490a7f31e": 1,
+     "5401137eb3c59e5dfc048c5136cfde17": 774,
+     "f26d5dac2a00c101c6efc654d9026b42": 874,
+     "3ce0e4309b27419d5c08eb18ad14f968": 595,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 63,
+     "4019aa68b7c0b9aed3643bf607975adc": 10,
+     "575c397a2c99476a7325e7049f843e34": 24,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 26,
+     "8899a1173d089462c1f70d73c4f83734": 21,
+     "4b0ead12e1570247760a18a36ed63e9b": 74,
+     "cf2145117083284fcc0015ec3bd19740": 515,
+     "22e7b58fd03ec1fedb98401c97f41612": 26,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 5,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 2,
+     "d7aeb4e2027b2e938909a6d8d7852723": 5,
+     "be0c7951296158af1d216cae4ccbc877": 6,
+     "c04c128f8cc79b12c60133932c7721cd": 10,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 417,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 326,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 229,
+     "96e76f7947f405d2ed3d6ede467c6def": 24,
+     "80d1dc976948563a580d11305779e18b": 321,
+     "d5fea0e7fa0d74cec70228d37ce42854": 2853,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 18,
+     "22c8756a091a2ead21d351a9d7343648": 23,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 29,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 38,
+     "448f84657a334645b3e3c88b01bcbe15": 4,
+     "135cd5b2111bcfd0df79478d637192d2": 820,
+     "92ac612beec319cb9803ce9578cd1d8f": 1195,
+     "adb436a73abdc39e6ece1a33518ce640": 24,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 20,
+     "240ac30f588c77789f16da3339f7468b": 1,
+     "a6604625cfd091860f3ed6e90930ea90": 146,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 26,
+     "b149877ca3c5b63f1fbd0f90800b302b": 4,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 7,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 16,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 2,
+     "32d3b87263d5888404acd84065fae5c8": 13,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 4,
+     "8127cdd74a33605c4a14980ce2868dde": 3,
+     "a327777e51da8d2a408d57fc31006382": 17,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 159,
+     "f26d5dac2a00c101c6efc654d9026b42": 30,
+     "3ce0e4309b27419d5c08eb18ad14f968": 38,
+     "12ef9701b3241bffc90dcfcb621a5d37": 566,
+     "5e2cd9708b68cbfce6957e3c8983be70": 5,
+     "4019aa68b7c0b9aed3643bf607975adc": 2,
+     "575c397a2c99476a7325e7049f843e34": 16,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 17,
+     "8899a1173d089462c1f70d73c4f83734": 13,
+     "4b0ead12e1570247760a18a36ed63e9b": 31,
+     "cf2145117083284fcc0015ec3bd19740": 69,
+     "22e7b58fd03ec1fedb98401c97f41612": 22,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 2,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 2,
+     "d7aeb4e2027b2e938909a6d8d7852723": 6,
+     "be0c7951296158af1d216cae4ccbc877": 4,
+     "c04c128f8cc79b12c60133932c7721cd": 4,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 57,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 202,
+     "9c3602da2cce607ee31208bbc030c80d": 74,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 133,
+     "96e76f7947f405d2ed3d6ede467c6def": 28,
+     "80d1dc976948563a580d11305779e18b": 263,
+     "d5fea0e7fa0d74cec70228d37ce42854": 255,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 12,
+     "22c8756a091a2ead21d351a9d7343648": 23,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 18,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 23,
+     "448f84657a334645b3e3c88b01bcbe15": 4,
+     "135cd5b2111bcfd0df79478d637192d2": 309,
+     "92ac612beec319cb9803ce9578cd1d8f": 47,
+     "adb436a73abdc39e6ece1a33518ce640": 15,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 3122,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 2769,
+     "cc741a1c328768f487ef405207abd8cd": 8,
+     "240ac30f588c77789f16da3339f7468b": 13,
+     "a6604625cfd091860f3ed6e90930ea90": 84,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 7,
+     "b149877ca3c5b63f1fbd0f90800b302b": 14,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 8,
+     "30f0b8d8f80012db1ef39a222bb6258e": 1651,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 1648,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 15,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 1,
+     "32d3b87263d5888404acd84065fae5c8": 4,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 5,
+     "8127cdd74a33605c4a14980ce2868dde": 2,
+     "a327777e51da8d2a408d57fc31006382": 6,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 37,
+     "f26d5dac2a00c101c6efc654d9026b42": 19,
+     "3ce0e4309b27419d5c08eb18ad14f968": 24,
+     "12ef9701b3241bffc90dcfcb621a5d37": 312,
+     "5e2cd9708b68cbfce6957e3c8983be70": 16,
+     "4019aa68b7c0b9aed3643bf607975adc": 4,
+     "575c397a2c99476a7325e7049f843e34": 15,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 13,
+     "8899a1173d089462c1f70d73c4f83734": 6,
+     "4b0ead12e1570247760a18a36ed63e9b": 6,
+     "cf2145117083284fcc0015ec3bd19740": 109,
+     "22e7b58fd03ec1fedb98401c97f41612": 15,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 5,
+     "be0c7951296158af1d216cae4ccbc877": 4,
+     "c04c128f8cc79b12c60133932c7721cd": 5,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 36,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 483,
+     "44bfc7998f0344d2faabc17665504c94": 271,
+     "9c3602da2cce607ee31208bbc030c80d": 30,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "averageDurationPerPage",
+  "total": 67.57,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 67.57,
+   "values": [
+    {
+     "key": "4c5442c915153157819c56231669a266",
+     "total": 45.12,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/3-barrios-de-cartagena-no-tendran-agua-este-jueves-5-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/3-barrios-de-cartagena-no-tendran-agua-este-jueves-5-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "96e76f7947f405d2ed3d6ede467c6def",
+     "total": 45.6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/barrios-de-cartagena-que-no-tendran-agua-el-3-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/barrios-de-cartagena-que-no-tendran-agua-el-3-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "80d1dc976948563a580d11305779e18b",
+     "total": 71.42,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/se-mantiene-prohibicion-de-parrillero-hombre-en-10-barrios-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/se-mantiene-prohibicion-de-parrillero-hombre-en-10-barrios-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d5fea0e7fa0d74cec70228d37ce42854",
+     "total": 58.07,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/nelson-mandela-y-otros-barrios-de-cartagena-estaran-sin-luz-este-sabado/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/nelson-mandela-y-otros-barrios-de-cartagena-estaran-sin-luz-este-sabado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9c93e7d0e8bca0cf47595c22da0ed146",
+     "total": 57.63,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-4-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-4-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "22c8756a091a2ead21d351a9d7343648",
+     "total": 61.17,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/03/municipios-de-bolivar-que-estaran-sin-luz-el-4-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/03/municipios-de-bolivar-que-estaran-sin-luz-el-4-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2d3c7f8e02aba306a27cdc0580e3a8af",
+     "total": 58.23,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/2026/11/04/se-va-la-luz-en-varios-municipios-de-bolivar-este-jueves-5-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/regional/2026/11/04/se-va-la-luz-en-varios-municipios-de-bolivar-este-jueves-5-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a7949226f2b05b3b27cab4c8ae8abeea",
+     "total": 51.8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/05/el-municipio-de-bolivar-que-estara-sin-luz-este-viernes-6-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/05/el-municipio-de-bolivar-que-estara-sin-luz-este-viernes-6-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "448f84657a334645b3e3c88b01bcbe15",
+     "total": 50.15,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "135cd5b2111bcfd0df79478d637192d2",
+     "total": 78.42,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/que-hacer-con-los-ninos-este-domingo-en-cartagena-habra-evento-gratuito-en-chambacu/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/que-hacer-con-los-ninos-este-domingo-en-cartagena-habra-evento-gratuito-en-chambacu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "92ac612beec319cb9803ce9578cd1d8f",
+     "total": 47.25,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/2026/11/06/cortes-de-luz-en-municipios-de-bolivar-el-sabado-7-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/2026/11/06/cortes-de-luz-en-municipios-de-bolivar-el-sabado-7-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "adb436a73abdc39e6ece1a33518ce640",
+     "total": 62.33,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/cortes-de-luz-en-cartagena-del-jueves-5-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/cortes-de-luz-en-cartagena-del-jueves-5-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4001e7d83da4d94ff7be95c7fbd2c015",
+     "total": 51.41,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/barrios-de-cartagena-que-estaran-sin-luz-el-9-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/barrios-de-cartagena-que-estaran-sin-luz-el-9-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2e19a91461fb41b8cf4c4ad5a930513a",
+     "total": 128.13,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/festival-nautico-y-bololo-del-arsenal-horarios-y-restricciones/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/festival-nautico-y-bololo-del-arsenal-horarios-y-restricciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cc741a1c328768f487ef405207abd8cd",
+     "total": 64.96,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/pico-y-placa-en-cartagena-horarios-y-digitos-del-jueves-5-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/pico-y-placa-en-cartagena-horarios-y-digitos-del-jueves-5-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "240ac30f588c77789f16da3339f7468b",
+     "total": 53.17,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/este-es-el-pico-y-placa-en-cartagena-del-miercoles-4-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/este-es-el-pico-y-placa-en-cartagena-del-miercoles-4-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a6604625cfd091860f3ed6e90930ea90",
+     "total": 91.17,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/asi-estara-el-clima-en-cartagena-este-viernes-6-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/asi-estara-el-clima-en-cartagena-este-viernes-6-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e241f589d0a4bc59e3ee773e6ec885ff",
+     "total": 111.09,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/11/03/fuerte-temblor-sacudio-a-colombia-en-la-madrugada-esto-se-sabe/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/11/03/fuerte-temblor-sacudio-a-colombia-en-la-madrugada-esto-se-sabe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b149877ca3c5b63f1fbd0f90800b302b",
+     "total": 70.8,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/asi-funcionara-el-pico-y-placa-en-cartagena-el-martes-3-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/asi-funcionara-el-pico-y-placa-en-cartagena-el-martes-3-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "951ce49b8f42948f6c7d78f2e73c47d8",
+     "total": 127.33,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/festival-nautico-de-cartagena-seguira-en-pie-tras-fallo-judicial/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/festival-nautico-de-cartagena-seguira-en-pie-tras-fallo-judicial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "30f0b8d8f80012db1ef39a222bb6258e",
+     "total": 45.78,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/08/cortes-de-luz-en-bolivar-este-lunes-9-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/08/cortes-de-luz-en-bolivar-este-lunes-9-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c2b1da6e113b2832a11df7f2e3bcf58c",
+     "total": 108.83,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/agenda-de-las-fiestas-de-independencia-de-cartagena-del-8-al-15-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/agenda-de-las-fiestas-de-independencia-de-cartagena-del-8-al-15-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6d5a6229ebb29834f4ca52250cd46e5e",
+     "total": 48.82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/01/el-municipio-de-bolivar-que-estara-sin-luz-el-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/01/el-municipio-de-bolivar-que-estara-sin-luz-el-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f70d3cf7a7c17acfc30f960bae23bd5",
+     "total": 45.54,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/pico-y-placa-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/pico-y-placa-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "32d3b87263d5888404acd84065fae5c8",
+     "total": 90.82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/video-colegio-en-el-socorro-pide-intervencion-urgente-por-inundaciones/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/video-colegio-en-el-socorro-pide-intervencion-urgente-por-inundaciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c6ec18bf20ff83277acbaacd8ec21fcf",
+     "total": 101.5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/fallecio-manuel-vicente-barrera-medina-exgerente-de-aguas-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/fallecio-manuel-vicente-barrera-medina-exgerente-de-aguas-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8127cdd74a33605c4a14980ce2868dde",
+     "total": 86.49,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/afinia-hallo-presunta-conexion-ilegal-en-una-pescaderia-del-mercado-de-bazurto/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/afinia-hallo-presunta-conexion-ilegal-en-una-pescaderia-del-mercado-de-bazurto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a327777e51da8d2a408d57fc31006382",
+     "total": 113.19,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/aumentan-los-casos-en-uci-por-infecciones-respiratorias-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/aumentan-los-casos-en-uci-por-infecciones-respiratorias-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "114a41994de17937872b1e0490a7f31e",
+     "total": 46.93,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/corte-suprema-de-justicia-la-corrupcion-a-veces-es-muy-dificil-de-investigar/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/corte-suprema-de-justicia-la-corrupcion-a-veces-es-muy-dificil-de-investigar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5401137eb3c59e5dfc048c5136cfde17",
+     "total": 166.77,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/rector-de-la-umayor-responde-a-dumek-turbay-esto-dijo-sobre-los-recursos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/rector-de-la-umayor-responde-a-dumek-turbay-esto-dijo-sobre-los-recursos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f26d5dac2a00c101c6efc654d9026b42",
+     "total": 153.71,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/el-problema-de-umayor-es-el-rector-dumek-turbay-cuestiona-recursos-sin-ejecutar/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/el-problema-de-umayor-es-el-rector-dumek-turbay-cuestiona-recursos-sin-ejecutar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3ce0e4309b27419d5c08eb18ad14f968",
+     "total": 60.18,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/05/pico-y-placa-en-cartagena-horarios-y-digitos-del-viernes-6-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/05/pico-y-placa-en-cartagena-horarios-y-digitos-del-viernes-6-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "12ef9701b3241bffc90dcfcb621a5d37",
+     "total": 95.97,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/07/carrozas-del-gran-desfile-de-independencia-recorrieron-las-vias-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/07/carrozas-del-gran-desfile-de-independencia-recorrieron-las-vias-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5e2cd9708b68cbfce6957e3c8983be70",
+     "total": 63.25,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4019aa68b7c0b9aed3643bf607975adc",
+     "total": 70.73,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/clima-en-cartagena-hoy-4-de-noviembre-pronostican-lluvias-durante-el-dia/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/clima-en-cartagena-hoy-4-de-noviembre-pronostican-lluvias-durante-el-dia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "575c397a2c99476a7325e7049f843e34",
+     "total": 77.2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/02/bolivar-duplica-el-numero-de-colegios-en-categoria-a-de-las-pruebas-saber-11/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/02/bolivar-duplica-el-numero-de-colegios-en-categoria-a-de-las-pruebas-saber-11/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d88ea9d7f961242eb1c0abb3a8421c02",
+     "total": 86.82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/05/clima-en-cartagena-pronostico-del-tiempo-para-este-jueves-5-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/05/clima-en-cartagena-pronostico-del-tiempo-para-este-jueves-5-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8899a1173d089462c1f70d73c4f83734",
+     "total": 127.38,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/11/04/gustavo-petro-se-retracto-por-acusaciones-contra-coosalud-esta-fue-la-razon/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/11/04/gustavo-petro-se-retracto-por-acusaciones-contra-coosalud-esta-fue-la-razon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4b0ead12e1570247760a18a36ed63e9b",
+     "total": 111.92,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/05/dumek-turbay-la-inversion-en-colegios-permitiria-construir-tres-malecones-mas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/05/dumek-turbay-la-inversion-en-colegios-permitiria-construir-tres-malecones-mas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cf2145117083284fcc0015ec3bd19740",
+     "total": 91.74,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/politica/2026/11/06/javier-julio-bejarano-buscara-firmas-para-avalar-su-candidatura-a-la-alcaldia-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/politica/2026/11/06/javier-julio-bejarano-buscara-firmas-para-avalar-su-candidatura-a-la-alcaldia-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "22e7b58fd03ec1fedb98401c97f41612",
+     "total": 67.79,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/guajira/2026/11/03/la-crono-de-rigo-2027-se-correra-en-la-guajira-tambien-hay-fecha-para-la-competencia/",
+       "value": "https://www.eluniversal.com.co/regional/guajira/2026/11/03/la-crono-de-rigo-2027-se-correra-en-la-guajira-tambien-hay-fecha-para-la-competencia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e1b5cdd30475e34c20ab8f9c794010bc",
+     "total": 139.46,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/la-solicitud-de-dumek-turbay-para-culminar-las-obras-en-el-puente-de-las-palmeras/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/la-solicitud-de-dumek-turbay-para-culminar-las-obras-en-el-puente-de-las-palmeras/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "31bc1af1b4d9c5fd39f60ff07baef12f",
+     "total": 73.92,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/llovera-en-cartagena-hoy-3-de-noviembre-esto-dice-el-pronostico/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/llovera-en-cartagena-hoy-3-de-noviembre-esto-dice-el-pronostico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d7aeb4e2027b2e938909a6d8d7852723",
+     "total": 83.29,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/angeles-somos-llena-de-tradicion-las-calles-de-cartagena-este-domingo/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/angeles-somos-llena-de-tradicion-las-calles-de-cartagena-este-domingo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "be0c7951296158af1d216cae4ccbc877",
+     "total": 137.73,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/cartagena-redujo-la-pobreza-y-la-desigualdad-que-dicen-las-cifras/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/cartagena-redujo-la-pobreza-y-la-desigualdad-que-dicen-las-cifras/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c04c128f8cc79b12c60133932c7721cd",
+     "total": 127.37,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/activan-contraflujo-en-la-avenida-santander-estas-son-las-rutas-alternas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/activan-contraflujo-en-la-avenida-santander-estas-son-las-rutas-alternas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b5c8bd29ad521482c4b5dd8858ac01a7",
+     "total": 140.46,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/crisis-en-la-umayor-dumek-turbay-se-reunira-con-estudiantes-para-buscar-soluciones/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/crisis-en-la-umayor-dumek-turbay-se-reunira-con-estudiantes-para-buscar-soluciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9b5dc78ed1ffc6e7a68ebdd187580fd9",
+     "total": 138.41,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/piden-agilizar-obras-para-garantizar-el-agua-potable-en-la-zona-norte-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/piden-agilizar-obras-para-garantizar-el-agua-potable-en-la-zona-norte-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "44bfc7998f0344d2faabc17665504c94",
+     "total": 83.82,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/07/video-reubican-arboles-por-proyecto-4-en-1-en-bocagrande-y-castillogrande/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/07/video-reubican-arboles-por-proyecto-4-en-1-en-bocagrande-y-castillogrande/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9c3602da2cce607ee31208bbc030c80d",
+     "total": 122.56,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/admiten-demanda-contra-el-proceso-de-revision-y-ajuste-del-pot-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/admiten-demanda-contra-el-proceso-de-revision-y-ajuste-del-pot-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "4c5442c915153157819c56231669a266": 0,
+     "96e76f7947f405d2ed3d6ede467c6def": 47.08,
+     "80d1dc976948563a580d11305779e18b": 0,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 0,
+     "22c8756a091a2ead21d351a9d7343648": 0,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 0,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 50.05,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 0,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 0,
+     "240ac30f588c77789f16da3339f7468b": 0,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 0,
+     "b149877ca3c5b63f1fbd0f90800b302b": 124.63,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 131.19,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 51.39,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 39.72,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 94.42,
+     "8127cdd74a33605c4a14980ce2868dde": 0,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 45.68,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 83.36,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 99.11,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 0,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 85.7,
+     "be0c7951296158af1d216cae4ccbc877": 0,
+     "c04c128f8cc79b12c60133932c7721cd": 0,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 0,
+     "96e76f7947f405d2ed3d6ede467c6def": 43.87,
+     "80d1dc976948563a580d11305779e18b": 0,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 59.99,
+     "22c8756a091a2ead21d351a9d7343648": 60.99,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 0,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 49.52,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 0,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 0,
+     "240ac30f588c77789f16da3339f7468b": 40.14,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 109.45,
+     "b149877ca3c5b63f1fbd0f90800b302b": 65.01,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 115.68,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 25.72,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 33.24,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 130.57,
+     "8127cdd74a33605c4a14980ce2868dde": 85.41,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 66.11,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 75.76,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 70.22,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 89.69,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 140.07,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 74.71,
+     "d7aeb4e2027b2e938909a6d8d7852723": 32.27,
+     "be0c7951296158af1d216cae4ccbc877": 141.35,
+     "c04c128f8cc79b12c60133932c7721cd": 117.36,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 48.72,
+     "96e76f7947f405d2ed3d6ede467c6def": 48.61,
+     "80d1dc976948563a580d11305779e18b": 89.8,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 57.01,
+     "22c8756a091a2ead21d351a9d7343648": 61.48,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 59.86,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 94.83,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 62.48,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 92.6,
+     "240ac30f588c77789f16da3339f7468b": 60.98,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 157.36,
+     "b149877ca3c5b63f1fbd0f90800b302b": 60.43,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 60.44,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 17.12,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 11.12,
+     "32d3b87263d5888404acd84065fae5c8": 91.94,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 98.75,
+     "8127cdd74a33605c4a14980ce2868dde": 104.37,
+     "a327777e51da8d2a408d57fc31006382": 115.07,
+     "114a41994de17937872b1e0490a7f31e": 28.92,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 53.43,
+     "4019aa68b7c0b9aed3643bf607975adc": 70.64,
+     "575c397a2c99476a7325e7049f843e34": 43.26,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 129.51,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 68.36,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 149.14,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 38.29,
+     "d7aeb4e2027b2e938909a6d8d7852723": 129.71,
+     "be0c7951296158af1d216cae4ccbc877": 80.27,
+     "c04c128f8cc79b12c60133932c7721cd": 284.14,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 39.65,
+     "96e76f7947f405d2ed3d6ede467c6def": 74.04,
+     "80d1dc976948563a580d11305779e18b": 68.63,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 38.15,
+     "22c8756a091a2ead21d351a9d7343648": 45.77,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 56.2,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 52.05,
+     "448f84657a334645b3e3c88b01bcbe15": 1,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 62.71,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 62.64,
+     "240ac30f588c77789f16da3339f7468b": 46.98,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 114.88,
+     "b149877ca3c5b63f1fbd0f90800b302b": 33.14,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 25.5,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 10.3,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 13.93,
+     "32d3b87263d5888404acd84065fae5c8": 85.76,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 102.75,
+     "8127cdd74a33605c4a14980ce2868dde": 34.28,
+     "a327777e51da8d2a408d57fc31006382": 110.21,
+     "114a41994de17937872b1e0490a7f31e": 119,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 56.76,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 61,
+     "4019aa68b7c0b9aed3643bf607975adc": 71.78,
+     "575c397a2c99476a7325e7049f843e34": 40.55,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 90.08,
+     "8899a1173d089462c1f70d73c4f83734": 126.27,
+     "4b0ead12e1570247760a18a36ed63e9b": 118.64,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 56.64,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 70.78,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 6,
+     "d7aeb4e2027b2e938909a6d8d7852723": 47,
+     "be0c7951296158af1d216cae4ccbc877": 159.03,
+     "c04c128f8cc79b12c60133932c7721cd": 15.71,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 35.44,
+     "96e76f7947f405d2ed3d6ede467c6def": 92.72,
+     "80d1dc976948563a580d11305779e18b": 63.15,
+     "d5fea0e7fa0d74cec70228d37ce42854": 61.08,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 38.82,
+     "22c8756a091a2ead21d351a9d7343648": 17.64,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 40.82,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 52.4,
+     "448f84657a334645b3e3c88b01bcbe15": 32.6,
+     "135cd5b2111bcfd0df79478d637192d2": 78.27,
+     "92ac612beec319cb9803ce9578cd1d8f": 47.03,
+     "adb436a73abdc39e6ece1a33518ce640": 69.08,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 54.37,
+     "240ac30f588c77789f16da3339f7468b": 16.47,
+     "a6604625cfd091860f3ed6e90930ea90": 94.71,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 38.72,
+     "b149877ca3c5b63f1fbd0f90800b302b": 39,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 80.67,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 17.93,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 1118.67,
+     "32d3b87263d5888404acd84065fae5c8": 84.19,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 40.5,
+     "8127cdd74a33605c4a14980ce2868dde": 17.92,
+     "a327777e51da8d2a408d57fc31006382": 76.7,
+     "114a41994de17937872b1e0490a7f31e": 4,
+     "5401137eb3c59e5dfc048c5136cfde17": 166.4,
+     "f26d5dac2a00c101c6efc654d9026b42": 152.47,
+     "3ce0e4309b27419d5c08eb18ad14f968": 64.04,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 47.52,
+     "4019aa68b7c0b9aed3643bf607975adc": 101.07,
+     "575c397a2c99476a7325e7049f843e34": 15.57,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 29.54,
+     "8899a1173d089462c1f70d73c4f83734": 119.11,
+     "4b0ead12e1570247760a18a36ed63e9b": 68.2,
+     "cf2145117083284fcc0015ec3bd19740": 93.77,
+     "22e7b58fd03ec1fedb98401c97f41612": 17.29,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 19.17,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 56.5,
+     "d7aeb4e2027b2e938909a6d8d7852723": 0.2,
+     "be0c7951296158af1d216cae4ccbc877": 213.5,
+     "c04c128f8cc79b12c60133932c7721cd": 151.65,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 139.79,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 131.92,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 35.28,
+     "96e76f7947f405d2ed3d6ede467c6def": 28.27,
+     "80d1dc976948563a580d11305779e18b": 60.92,
+     "d5fea0e7fa0d74cec70228d37ce42854": 54.92,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 14.62,
+     "22c8756a091a2ead21d351a9d7343648": 11.74,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 27.76,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 27.44,
+     "448f84657a334645b3e3c88b01bcbe15": 4.5,
+     "135cd5b2111bcfd0df79478d637192d2": 78.15,
+     "92ac612beec319cb9803ce9578cd1d8f": 47.22,
+     "adb436a73abdc39e6ece1a33518ce640": 13.55,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 61.83,
+     "240ac30f588c77789f16da3339f7468b": 1,
+     "a6604625cfd091860f3ed6e90930ea90": 57.31,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 100.79,
+     "b149877ca3c5b63f1fbd0f90800b302b": 11.6,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 2.86,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 11.88,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 5.8,
+     "32d3b87263d5888404acd84065fae5c8": 94.83,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 25.33,
+     "8127cdd74a33605c4a14980ce2868dde": 19.75,
+     "a327777e51da8d2a408d57fc31006382": 134.19,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 171.8,
+     "f26d5dac2a00c101c6efc654d9026b42": 175.02,
+     "3ce0e4309b27419d5c08eb18ad14f968": 21.61,
+     "12ef9701b3241bffc90dcfcb621a5d37": 96.69,
+     "5e2cd9708b68cbfce6957e3c8983be70": 11.2,
+     "4019aa68b7c0b9aed3643bf607975adc": 16,
+     "575c397a2c99476a7325e7049f843e34": 29,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 6.47,
+     "8899a1173d089462c1f70d73c4f83734": 26.31,
+     "4b0ead12e1570247760a18a36ed63e9b": 79.75,
+     "cf2145117083284fcc0015ec3bd19740": 92.71,
+     "22e7b58fd03ec1fedb98401c97f41612": 17.46,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 9.33,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 23,
+     "d7aeb4e2027b2e938909a6d8d7852723": 3.57,
+     "be0c7951296158af1d216cae4ccbc877": 7,
+     "c04c128f8cc79b12c60133932c7721cd": 4.14,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 175.58,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 78.23,
+     "9c3602da2cce607ee31208bbc030c80d": 71.35,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 31.96,
+     "96e76f7947f405d2ed3d6ede467c6def": 24.7,
+     "80d1dc976948563a580d11305779e18b": 62.45,
+     "d5fea0e7fa0d74cec70228d37ce42854": 38.38,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 53.88,
+     "22c8756a091a2ead21d351a9d7343648": 200.47,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 30.59,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 17.43,
+     "448f84657a334645b3e3c88b01bcbe15": 71.5,
+     "135cd5b2111bcfd0df79478d637192d2": 80.31,
+     "92ac612beec319cb9803ce9578cd1d8f": 57.98,
+     "adb436a73abdc39e6ece1a33518ce640": 45.26,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 51.41,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 128.13,
+     "cc741a1c328768f487ef405207abd8cd": 14.88,
+     "240ac30f588c77789f16da3339f7468b": 61.81,
+     "a6604625cfd091860f3ed6e90930ea90": 61.18,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 19.83,
+     "b149877ca3c5b63f1fbd0f90800b302b": 42.04,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 49.31,
+     "30f0b8d8f80012db1ef39a222bb6258e": 45.78,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 108.83,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 11.75,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 0,
+     "32d3b87263d5888404acd84065fae5c8": 20.2,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 90.7,
+     "8127cdd74a33605c4a14980ce2868dde": 16.67,
+     "a327777e51da8d2a408d57fc31006382": 53.93,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 149.37,
+     "f26d5dac2a00c101c6efc654d9026b42": 186.88,
+     "3ce0e4309b27419d5c08eb18ad14f968": 42.11,
+     "12ef9701b3241bffc90dcfcb621a5d37": 94.64,
+     "5e2cd9708b68cbfce6957e3c8983be70": 47.86,
+     "4019aa68b7c0b9aed3643bf607975adc": 19.4,
+     "575c397a2c99476a7325e7049f843e34": 14.14,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 12.92,
+     "8899a1173d089462c1f70d73c4f83734": 24.17,
+     "4b0ead12e1570247760a18a36ed63e9b": 10,
+     "cf2145117083284fcc0015ec3bd19740": 81.97,
+     "22e7b58fd03ec1fedb98401c97f41612": 21.39,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 237.5,
+     "be0c7951296158af1d216cae4ccbc877": 137.25,
+     "c04c128f8cc79b12c60133932c7721cd": 165.33,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 86.52,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 138.41,
+     "44bfc7998f0344d2faabc17665504c94": 88.18,
+     "9c3602da2cce607ee31208bbc030c80d": 145.26,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ },
+ {
+  "metric": "socialPosts",
+  "total": 142,
+  "granularity": "daily",
+  "availableGranularities": [
+   "hourly",
+   "daily",
+   "weekly"
+  ],
+  "defaultGranularity": "daily",
+  "actualData": {
+   "total": 142,
+   "values": [
+    {
+     "key": "4c5442c915153157819c56231669a266",
+     "total": 10,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/3-barrios-de-cartagena-no-tendran-agua-este-jueves-5-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/3-barrios-de-cartagena-no-tendran-agua-este-jueves-5-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "96e76f7947f405d2ed3d6ede467c6def",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/barrios-de-cartagena-que-no-tendran-agua-el-3-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/barrios-de-cartagena-que-no-tendran-agua-el-3-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "80d1dc976948563a580d11305779e18b",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/se-mantiene-prohibicion-de-parrillero-hombre-en-10-barrios-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/se-mantiene-prohibicion-de-parrillero-hombre-en-10-barrios-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d5fea0e7fa0d74cec70228d37ce42854",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/nelson-mandela-y-otros-barrios-de-cartagena-estaran-sin-luz-este-sabado/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/nelson-mandela-y-otros-barrios-de-cartagena-estaran-sin-luz-este-sabado/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9c93e7d0e8bca0cf47595c22da0ed146",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-4-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/cortes-de-luz-en-cartagena-barrios-sin-servicio-el-4-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "22c8756a091a2ead21d351a9d7343648",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/03/municipios-de-bolivar-que-estaran-sin-luz-el-4-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/03/municipios-de-bolivar-que-estaran-sin-luz-el-4-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2d3c7f8e02aba306a27cdc0580e3a8af",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/2026/11/04/se-va-la-luz-en-varios-municipios-de-bolivar-este-jueves-5-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/regional/2026/11/04/se-va-la-luz-en-varios-municipios-de-bolivar-este-jueves-5-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a7949226f2b05b3b27cab4c8ae8abeea",
+     "total": 5,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/05/el-municipio-de-bolivar-que-estara-sin-luz-este-viernes-6-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/05/el-municipio-de-bolivar-que-estara-sin-luz-este-viernes-6-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "448f84657a334645b3e3c88b01bcbe15",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/cortes-de-luz-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "135cd5b2111bcfd0df79478d637192d2",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/que-hacer-con-los-ninos-este-domingo-en-cartagena-habra-evento-gratuito-en-chambacu/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/que-hacer-con-los-ninos-este-domingo-en-cartagena-habra-evento-gratuito-en-chambacu/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "92ac612beec319cb9803ce9578cd1d8f",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/2026/11/06/cortes-de-luz-en-municipios-de-bolivar-el-sabado-7-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/2026/11/06/cortes-de-luz-en-municipios-de-bolivar-el-sabado-7-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "adb436a73abdc39e6ece1a33518ce640",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/cortes-de-luz-en-cartagena-del-jueves-5-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/cortes-de-luz-en-cartagena-del-jueves-5-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4001e7d83da4d94ff7be95c7fbd2c015",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/barrios-de-cartagena-que-estaran-sin-luz-el-9-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/barrios-de-cartagena-que-estaran-sin-luz-el-9-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "2e19a91461fb41b8cf4c4ad5a930513a",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/festival-nautico-y-bololo-del-arsenal-horarios-y-restricciones/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/festival-nautico-y-bololo-del-arsenal-horarios-y-restricciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cc741a1c328768f487ef405207abd8cd",
+     "total": 3,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/pico-y-placa-en-cartagena-horarios-y-digitos-del-jueves-5-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/pico-y-placa-en-cartagena-horarios-y-digitos-del-jueves-5-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "240ac30f588c77789f16da3339f7468b",
+     "total": 6,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/este-es-el-pico-y-placa-en-cartagena-del-miercoles-4-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/este-es-el-pico-y-placa-en-cartagena-del-miercoles-4-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a6604625cfd091860f3ed6e90930ea90",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/asi-estara-el-clima-en-cartagena-este-viernes-6-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/asi-estara-el-clima-en-cartagena-este-viernes-6-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e241f589d0a4bc59e3ee773e6ec885ff",
+     "total": 7,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/11/03/fuerte-temblor-sacudio-a-colombia-en-la-madrugada-esto-se-sabe/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/11/03/fuerte-temblor-sacudio-a-colombia-en-la-madrugada-esto-se-sabe/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b149877ca3c5b63f1fbd0f90800b302b",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/asi-funcionara-el-pico-y-placa-en-cartagena-el-martes-3-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/asi-funcionara-el-pico-y-placa-en-cartagena-el-martes-3-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "951ce49b8f42948f6c7d78f2e73c47d8",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/festival-nautico-de-cartagena-seguira-en-pie-tras-fallo-judicial/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/festival-nautico-de-cartagena-seguira-en-pie-tras-fallo-judicial/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "30f0b8d8f80012db1ef39a222bb6258e",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/08/cortes-de-luz-en-bolivar-este-lunes-9-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/08/cortes-de-luz-en-bolivar-este-lunes-9-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c2b1da6e113b2832a11df7f2e3bcf58c",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/agenda-de-las-fiestas-de-independencia-de-cartagena-del-8-al-15-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/agenda-de-las-fiestas-de-independencia-de-cartagena-del-8-al-15-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "6d5a6229ebb29834f4ca52250cd46e5e",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/01/el-municipio-de-bolivar-que-estara-sin-luz-el-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/01/el-municipio-de-bolivar-que-estara-sin-luz-el-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3f70d3cf7a7c17acfc30f960bae23bd5",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/pico-y-placa-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/pico-y-placa-en-cartagena-del-lunes-2-de-noviembre-de-2026/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "32d3b87263d5888404acd84065fae5c8",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/video-colegio-en-el-socorro-pide-intervencion-urgente-por-inundaciones/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/video-colegio-en-el-socorro-pide-intervencion-urgente-por-inundaciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c6ec18bf20ff83277acbaacd8ec21fcf",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/fallecio-manuel-vicente-barrera-medina-exgerente-de-aguas-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/fallecio-manuel-vicente-barrera-medina-exgerente-de-aguas-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8127cdd74a33605c4a14980ce2868dde",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/afinia-hallo-presunta-conexion-ilegal-en-una-pescaderia-del-mercado-de-bazurto/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/afinia-hallo-presunta-conexion-ilegal-en-una-pescaderia-del-mercado-de-bazurto/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "a327777e51da8d2a408d57fc31006382",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/aumentan-los-casos-en-uci-por-infecciones-respiratorias-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/aumentan-los-casos-en-uci-por-infecciones-respiratorias-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "114a41994de17937872b1e0490a7f31e",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/02/corte-suprema-de-justicia-la-corrupcion-a-veces-es-muy-dificil-de-investigar/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/02/corte-suprema-de-justicia-la-corrupcion-a-veces-es-muy-dificil-de-investigar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5401137eb3c59e5dfc048c5136cfde17",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/rector-de-la-umayor-responde-a-dumek-turbay-esto-dijo-sobre-los-recursos/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/rector-de-la-umayor-responde-a-dumek-turbay-esto-dijo-sobre-los-recursos/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "f26d5dac2a00c101c6efc654d9026b42",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/el-problema-de-umayor-es-el-rector-dumek-turbay-cuestiona-recursos-sin-ejecutar/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/el-problema-de-umayor-es-el-rector-dumek-turbay-cuestiona-recursos-sin-ejecutar/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "3ce0e4309b27419d5c08eb18ad14f968",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/05/pico-y-placa-en-cartagena-horarios-y-digitos-del-viernes-6-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/05/pico-y-placa-en-cartagena-horarios-y-digitos-del-viernes-6-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "12ef9701b3241bffc90dcfcb621a5d37",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/07/carrozas-del-gran-desfile-de-independencia-recorrieron-las-vias-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/07/carrozas-del-gran-desfile-de-independencia-recorrieron-las-vias-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "5e2cd9708b68cbfce6957e3c8983be70",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/10/02/nueva-rotacion-de-pico-y-placa-en-cartagena-para-particulares-y-motos-digitos-y-fechas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4019aa68b7c0b9aed3643bf607975adc",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/04/clima-en-cartagena-hoy-4-de-noviembre-pronostican-lluvias-durante-el-dia/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/04/clima-en-cartagena-hoy-4-de-noviembre-pronostican-lluvias-durante-el-dia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "575c397a2c99476a7325e7049f843e34",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/bolivar/2026/11/02/bolivar-duplica-el-numero-de-colegios-en-categoria-a-de-las-pruebas-saber-11/",
+       "value": "https://www.eluniversal.com.co/regional/bolivar/2026/11/02/bolivar-duplica-el-numero-de-colegios-en-categoria-a-de-las-pruebas-saber-11/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d88ea9d7f961242eb1c0abb3a8421c02",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/05/clima-en-cartagena-pronostico-del-tiempo-para-este-jueves-5-de-noviembre/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/05/clima-en-cartagena-pronostico-del-tiempo-para-este-jueves-5-de-noviembre/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "8899a1173d089462c1f70d73c4f83734",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/colombia/2026/11/04/gustavo-petro-se-retracto-por-acusaciones-contra-coosalud-esta-fue-la-razon/",
+       "value": "https://www.eluniversal.com.co/colombia/2026/11/04/gustavo-petro-se-retracto-por-acusaciones-contra-coosalud-esta-fue-la-razon/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "4b0ead12e1570247760a18a36ed63e9b",
+     "total": 4,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/05/dumek-turbay-la-inversion-en-colegios-permitiria-construir-tres-malecones-mas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/05/dumek-turbay-la-inversion-en-colegios-permitiria-construir-tres-malecones-mas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "cf2145117083284fcc0015ec3bd19740",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/politica/2026/11/06/javier-julio-bejarano-buscara-firmas-para-avalar-su-candidatura-a-la-alcaldia-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/politica/2026/11/06/javier-julio-bejarano-buscara-firmas-para-avalar-su-candidatura-a-la-alcaldia-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "22e7b58fd03ec1fedb98401c97f41612",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/regional/guajira/2026/11/03/la-crono-de-rigo-2027-se-correra-en-la-guajira-tambien-hay-fecha-para-la-competencia/",
+       "value": "https://www.eluniversal.com.co/regional/guajira/2026/11/03/la-crono-de-rigo-2027-se-correra-en-la-guajira-tambien-hay-fecha-para-la-competencia/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "e1b5cdd30475e34c20ab8f9c794010bc",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/la-solicitud-de-dumek-turbay-para-culminar-las-obras-en-el-puente-de-las-palmeras/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/la-solicitud-de-dumek-turbay-para-culminar-las-obras-en-el-puente-de-las-palmeras/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "31bc1af1b4d9c5fd39f60ff07baef12f",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/llovera-en-cartagena-hoy-3-de-noviembre-esto-dice-el-pronostico/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/llovera-en-cartagena-hoy-3-de-noviembre-esto-dice-el-pronostico/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "d7aeb4e2027b2e938909a6d8d7852723",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/01/angeles-somos-llena-de-tradicion-las-calles-de-cartagena-este-domingo/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/01/angeles-somos-llena-de-tradicion-las-calles-de-cartagena-este-domingo/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "be0c7951296158af1d216cae4ccbc877",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/cartagena-redujo-la-pobreza-y-la-desigualdad-que-dicen-las-cifras/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/cartagena-redujo-la-pobreza-y-la-desigualdad-que-dicen-las-cifras/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "c04c128f8cc79b12c60133932c7721cd",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/03/activan-contraflujo-en-la-avenida-santander-estas-son-las-rutas-alternas/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/03/activan-contraflujo-en-la-avenida-santander-estas-son-las-rutas-alternas/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "b5c8bd29ad521482c4b5dd8858ac01a7",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/crisis-en-la-umayor-dumek-turbay-se-reunira-con-estudiantes-para-buscar-soluciones/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/crisis-en-la-umayor-dumek-turbay-se-reunira-con-estudiantes-para-buscar-soluciones/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9b5dc78ed1ffc6e7a68ebdd187580fd9",
+     "total": 1,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/08/piden-agilizar-obras-para-garantizar-el-agua-potable-en-la-zona-norte-de-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/08/piden-agilizar-obras-para-garantizar-el-agua-potable-en-la-zona-norte-de-cartagena/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "44bfc7998f0344d2faabc17665504c94",
+     "total": 2,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/07/video-reubican-arboles-por-proyecto-4-en-1-en-bocagrande-y-castillogrande/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/07/video-reubican-arboles-por-proyecto-4-en-1-en-bocagrande-y-castillogrande/",
+       "type": "url"
+      }
+     ]
+    },
+    {
+     "key": "9c3602da2cce607ee31208bbc030c80d",
+     "total": 0,
+     "items": [
+      {
+       "id": "https://www.eluniversal.com.co/cartagena/2026/11/06/admiten-demanda-contra-el-proceso-de-revision-y-ajuste-del-pot-en-cartagena/",
+       "value": "https://www.eluniversal.com.co/cartagena/2026/11/06/admiten-demanda-contra-el-proceso-de-revision-y-ajuste-del-pot-en-cartagena/",
+       "type": "url"
+      }
+     ]
+    }
+   ],
+   "data": [
+    {
+     "4c5442c915153157819c56231669a266": 0,
+     "96e76f7947f405d2ed3d6ede467c6def": 2,
+     "80d1dc976948563a580d11305779e18b": 0,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 0,
+     "22c8756a091a2ead21d351a9d7343648": 0,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 0,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 2,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 0,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 0,
+     "240ac30f588c77789f16da3339f7468b": 0,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 0,
+     "b149877ca3c5b63f1fbd0f90800b302b": 0,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 0,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 1,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 1,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 1,
+     "8127cdd74a33605c4a14980ce2868dde": 0,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 1,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 0,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 0,
+     "be0c7951296158af1d216cae4ccbc877": 0,
+     "c04c128f8cc79b12c60133932c7721cd": 0,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-02 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 0,
+     "96e76f7947f405d2ed3d6ede467c6def": 3,
+     "80d1dc976948563a580d11305779e18b": 0,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 3,
+     "22c8756a091a2ead21d351a9d7343648": 2,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 0,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 0,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 0,
+     "240ac30f588c77789f16da3339f7468b": 4,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 7,
+     "b149877ca3c5b63f1fbd0f90800b302b": 2,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 0,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 0,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 0,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 0,
+     "8127cdd74a33605c4a14980ce2868dde": 1,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 0,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 0,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 1,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 1,
+     "d7aeb4e2027b2e938909a6d8d7852723": 0,
+     "be0c7951296158af1d216cae4ccbc877": 1,
+     "c04c128f8cc79b12c60133932c7721cd": 1,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-03 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 8,
+     "96e76f7947f405d2ed3d6ede467c6def": 0,
+     "80d1dc976948563a580d11305779e18b": 2,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 2,
+     "22c8756a091a2ead21d351a9d7343648": 1,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 2,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 5,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 2,
+     "240ac30f588c77789f16da3339f7468b": 2,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 0,
+     "b149877ca3c5b63f1fbd0f90800b302b": 0,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 0,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 0,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 0,
+     "32d3b87263d5888404acd84065fae5c8": 1,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 0,
+     "8127cdd74a33605c4a14980ce2868dde": 0,
+     "a327777e51da8d2a408d57fc31006382": 2,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "4019aa68b7c0b9aed3643bf607975adc": 1,
+     "575c397a2c99476a7325e7049f843e34": 0,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 1,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 0,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 0,
+     "be0c7951296158af1d216cae4ccbc877": 0,
+     "c04c128f8cc79b12c60133932c7721cd": 0,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-04 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 2,
+     "96e76f7947f405d2ed3d6ede467c6def": 0,
+     "80d1dc976948563a580d11305779e18b": 3,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 0,
+     "22c8756a091a2ead21d351a9d7343648": 0,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 2,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 3,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 1,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 1,
+     "240ac30f588c77789f16da3339f7468b": 0,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 0,
+     "b149877ca3c5b63f1fbd0f90800b302b": 0,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 0,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 0,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 0,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 0,
+     "8127cdd74a33605c4a14980ce2868dde": 0,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 2,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 0,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 1,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 4,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 0,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 0,
+     "be0c7951296158af1d216cae4ccbc877": 0,
+     "c04c128f8cc79b12c60133932c7721cd": 0,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-05 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 0,
+     "96e76f7947f405d2ed3d6ede467c6def": 0,
+     "80d1dc976948563a580d11305779e18b": 0,
+     "d5fea0e7fa0d74cec70228d37ce42854": 3,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 0,
+     "22c8756a091a2ead21d351a9d7343648": 0,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 0,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 2,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "135cd5b2111bcfd0df79478d637192d2": 5,
+     "92ac612beec319cb9803ce9578cd1d8f": 3,
+     "adb436a73abdc39e6ece1a33518ce640": 0,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 0,
+     "240ac30f588c77789f16da3339f7468b": 0,
+     "a6604625cfd091860f3ed6e90930ea90": 1,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 0,
+     "b149877ca3c5b63f1fbd0f90800b302b": 0,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 0,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 0,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 0,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 0,
+     "8127cdd74a33605c4a14980ce2868dde": 0,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 1,
+     "f26d5dac2a00c101c6efc654d9026b42": 2,
+     "3ce0e4309b27419d5c08eb18ad14f968": 2,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 0,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 1,
+     "22e7b58fd03ec1fedb98401c97f41612": 0,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 0,
+     "be0c7951296158af1d216cae4ccbc877": 0,
+     "c04c128f8cc79b12c60133932c7721cd": 0,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 1,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-06 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 0,
+     "96e76f7947f405d2ed3d6ede467c6def": 0,
+     "80d1dc976948563a580d11305779e18b": 0,
+     "d5fea0e7fa0d74cec70228d37ce42854": 2,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 0,
+     "22c8756a091a2ead21d351a9d7343648": 0,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 0,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "135cd5b2111bcfd0df79478d637192d2": 1,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 0,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 0,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 0,
+     "cc741a1c328768f487ef405207abd8cd": 0,
+     "240ac30f588c77789f16da3339f7468b": 0,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 0,
+     "b149877ca3c5b63f1fbd0f90800b302b": 0,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 0,
+     "30f0b8d8f80012db1ef39a222bb6258e": 0,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 0,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 0,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 0,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 0,
+     "8127cdd74a33605c4a14980ce2868dde": 0,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 2,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 0,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 0,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 0,
+     "be0c7951296158af1d216cae4ccbc877": 0,
+     "c04c128f8cc79b12c60133932c7721cd": 0,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 0,
+     "44bfc7998f0344d2faabc17665504c94": 2,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-07 00:00"
+    },
+    {
+     "4c5442c915153157819c56231669a266": 0,
+     "96e76f7947f405d2ed3d6ede467c6def": 0,
+     "80d1dc976948563a580d11305779e18b": 0,
+     "d5fea0e7fa0d74cec70228d37ce42854": 0,
+     "9c93e7d0e8bca0cf47595c22da0ed146": 0,
+     "22c8756a091a2ead21d351a9d7343648": 0,
+     "2d3c7f8e02aba306a27cdc0580e3a8af": 0,
+     "a7949226f2b05b3b27cab4c8ae8abeea": 0,
+     "448f84657a334645b3e3c88b01bcbe15": 0,
+     "135cd5b2111bcfd0df79478d637192d2": 0,
+     "92ac612beec319cb9803ce9578cd1d8f": 0,
+     "adb436a73abdc39e6ece1a33518ce640": 0,
+     "4001e7d83da4d94ff7be95c7fbd2c015": 2,
+     "2e19a91461fb41b8cf4c4ad5a930513a": 1,
+     "cc741a1c328768f487ef405207abd8cd": 0,
+     "240ac30f588c77789f16da3339f7468b": 0,
+     "a6604625cfd091860f3ed6e90930ea90": 0,
+     "e241f589d0a4bc59e3ee773e6ec885ff": 0,
+     "b149877ca3c5b63f1fbd0f90800b302b": 0,
+     "951ce49b8f42948f6c7d78f2e73c47d8": 0,
+     "30f0b8d8f80012db1ef39a222bb6258e": 1,
+     "c2b1da6e113b2832a11df7f2e3bcf58c": 2,
+     "6d5a6229ebb29834f4ca52250cd46e5e": 0,
+     "3f70d3cf7a7c17acfc30f960bae23bd5": 0,
+     "32d3b87263d5888404acd84065fae5c8": 0,
+     "c6ec18bf20ff83277acbaacd8ec21fcf": 0,
+     "8127cdd74a33605c4a14980ce2868dde": 0,
+     "a327777e51da8d2a408d57fc31006382": 0,
+     "114a41994de17937872b1e0490a7f31e": 0,
+     "5401137eb3c59e5dfc048c5136cfde17": 0,
+     "f26d5dac2a00c101c6efc654d9026b42": 0,
+     "3ce0e4309b27419d5c08eb18ad14f968": 0,
+     "12ef9701b3241bffc90dcfcb621a5d37": 0,
+     "5e2cd9708b68cbfce6957e3c8983be70": 0,
+     "4019aa68b7c0b9aed3643bf607975adc": 0,
+     "575c397a2c99476a7325e7049f843e34": 0,
+     "d88ea9d7f961242eb1c0abb3a8421c02": 0,
+     "8899a1173d089462c1f70d73c4f83734": 0,
+     "4b0ead12e1570247760a18a36ed63e9b": 0,
+     "cf2145117083284fcc0015ec3bd19740": 0,
+     "22e7b58fd03ec1fedb98401c97f41612": 0,
+     "e1b5cdd30475e34c20ab8f9c794010bc": 0,
+     "31bc1af1b4d9c5fd39f60ff07baef12f": 0,
+     "d7aeb4e2027b2e938909a6d8d7852723": 0,
+     "be0c7951296158af1d216cae4ccbc877": 0,
+     "c04c128f8cc79b12c60133932c7721cd": 0,
+     "b5c8bd29ad521482c4b5dd8858ac01a7": 0,
+     "9b5dc78ed1ffc6e7a68ebdd187580fd9": 1,
+     "44bfc7998f0344d2faabc17665504c94": 0,
+     "9c3602da2cce607ee31208bbc030c80d": 0,
+     "label": "2026-11-08 00:00"
+    }
+   ]
+  },
+  "compareData": null
+ }
+]

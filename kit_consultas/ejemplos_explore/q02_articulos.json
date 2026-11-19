@@ -1,0 +1,1 @@
+{"dates":{"groupedBy":"daily","range":{"end":"2026-11-08","start":"2026-11-02"}},"filters":[{"filter":"domain","op":"eq","value":["www.eluniversal.com.co"]}],"groupBy":["url"],"metrics":["pageViewsTotal","averageDurationPerPage","socialPosts"],"order":{"metric":"pageViewsTotal","sort":"DESC"},"granularity":"none","discardOld":false,"from":0,"limit":50}

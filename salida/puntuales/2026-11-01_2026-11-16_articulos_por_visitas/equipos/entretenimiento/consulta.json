@@ -1,0 +1,51 @@
+{
+ "dates": {
+  "groupedBy": "daily",
+  "range": {
+   "end": "2026-11-16",
+   "start": "2026-11-01"
+  }
+ },
+ "filters": [
+  {
+   "filter": "domain",
+   "op": "eq",
+   "value": [
+    "www.eluniversal.com.co"
+   ]
+  },
+  {
+   "filter": "publishDate",
+   "op": "eq",
+   "value": [
+    "2026-11-01T00:00:00_2026-11-16T23:59:00"
+   ]
+  },
+  {
+   "filter": "tagFamily::filters",
+   "op": "eq",
+   "value": [
+    6961602867,
+    6961661940,
+    6999832350,
+    7201619325
+   ]
+  }
+ ],
+ "groupBy": [
+  "title"
+ ],
+ "metrics": [
+  "pageViewsTotal",
+  "uniqueUsers"
+ ],
+ "order": {
+  "metric": "pageViewsTotal",
+  "sort": "DESC",
+  "type": "metric"
+ },
+ "granularity": "none",
+ "discardOld": false,
+ "from": 0,
+ "limit": 50
+}
