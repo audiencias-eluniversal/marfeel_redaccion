@@ -1,0 +1,39 @@
+{
+ "dates": {
+  "groupedBy": "daily",
+  "range": {
+   "start": "2026-11-19",
+   "end": "2026-11-25"
+  }
+ },
+ "filters": [
+  {
+   "filter": "domain",
+   "op": "eq",
+   "value": [
+    "www.eluniversal.com.co"
+   ]
+  },
+  {
+   "filter": "url",
+   "op": "eq",
+   "value": [
+    "https://www.eluniversal.com.co/informe-empresarial/2026/11/19/oxxo-llego-a-la-heroica/"
+   ]
+  }
+ ],
+ "groupBy": [],
+ "metrics": [
+  "pageViewsTotal",
+  "uniqueUsers",
+  "averageDurationPerPage"
+ ],
+ "granularity": "none",
+ "discardOld": false,
+ "from": 0,
+ "limit": 500,
+ "order": {
+  "metric": "pageViewsTotal",
+  "sort": "DESC"
+ }
+}

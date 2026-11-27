@@ -1,0 +1,49 @@
+{
+ "dates": {
+  "groupedBy": "daily",
+  "range": {
+   "start": "2026-01-01",
+   "end": "2026-11-23"
+  }
+ },
+ "filters": [
+  {
+   "filter": "domain",
+   "op": "eq",
+   "value": [
+    "www.eluniversal.com.co"
+   ]
+  },
+  {
+   "filter": "url",
+   "op": "like",
+   "value": [
+    "oxxo"
+   ]
+  },
+  {
+   "filter": "url",
+   "op": "like",
+   "value": [
+    "informe-empresarial"
+   ]
+  }
+ ],
+ "groupBy": [
+  "url"
+ ],
+ "metrics": [
+  "pageViewsTotal",
+  "uniqueUsers",
+  "averageDurationPerPage"
+ ],
+ "granularity": "none",
+ "discardOld": false,
+ "from": 0,
+ "limit": 500,
+ "order": {
+  "metric": "pageViewsTotal",
+  "sort": "DESC",
+  "type": "metric"
+ }
+}
